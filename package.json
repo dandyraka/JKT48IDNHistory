@@ -1,0 +1,31 @@
+{
+    "name": "jkt48idnhistory",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "build": "node index.js",
+        "prettier": "prettier",
+        "format": "prettier --write \"**/*.js\"",
+        "lint": "prettier --check \"**/*.js\"",
+        "test": "prettier --check \"**/*.js\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dandyraka/JKT48IDNHistory.git"
+    },
+    "author": "dandyraka",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dandyraka/JKT48IDNHistory/issues"
+    },
+    "homepage": "https://github.com/dandyraka/JKT48IDNHistory#readme",
+    "dependencies": {
+        "moment-timezone": "^0.5.44",
+        "node-fetch": "^3.3.2"
+    },
+    "devDependencies": {
+        "prettier": "^3.1.1"
+    }
+}
