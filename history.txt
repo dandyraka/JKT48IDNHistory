@@ -335,3 +335,5 @@ Anindya | hllo | Minggu, 14 Jan 2024 00:04:51
 Elin | Yuhuu | Minggu, 14 Jan 2024 00:30:07
 Danella | sarapan | Minggu, 14 Jan 2024 06:25:08
 Cathy | Hai | Minggu, 14 Jan 2024 06:25:13
+Danella | mam siang | Minggu, 14 Jan 2024 14:28:29
+Daisy | 안녕  | Minggu, 14 Jan 2024 14:30:12
