@@ -860,3 +860,5 @@ Daisy | hello | Selasa, 25 Jun 2024 17:40:44
 Daisy | hello | Selasa, 25 Jun 2024 17:40:49
 Danella | hi | Selasa, 25 Jun 2024 18:09:51
 Anindya | hi | Selasa, 25 Jun 2024 18:10:30
+Danella | hi | Selasa, 25 Jun 2024 18:09:56
+Anindya | hi | Selasa, 25 Jun 2024 18:10:35
