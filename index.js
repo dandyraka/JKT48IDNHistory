@@ -79,8 +79,9 @@ async function getLive() {
             const started = moment.unix(startTimestamp).format("dddd, D MMM YYYY HH:mm:ss");
             const status = isLive.status;
             const memberName = isLive.creator.name.replace(" JKT48", "");
+            const cover = isLive.image_url;
             if(status == "live"){
-                const newData  = `${memberName} | ${judul} | ${started}`
+                const newData  = `${memberName} | ${judul} | ${started} | `
                 if (existingData.includes(newData)) {
                     console.log('Data already exists. Not appended to file.');
                 } else {
