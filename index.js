@@ -81,7 +81,7 @@ async function getLive() {
             const memberName = isLive.creator.name.replace(" JKT48", "");
             const cover = isLive.image_url;
             if(status == "live"){
-                const newData  = `${memberName} | ${judul} | ${started} | `
+                const newData  = `${memberName} | ${judul} | ${started} | ${cover}`
                 if (existingData.includes(newData)) {
                     console.log('Data already exists. Not appended to file.');
                 } else {
