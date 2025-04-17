@@ -244,3 +244,4 @@ Daisy | Ayo ngobrol bareng! | Kamis, 17 Apr 2025 13:19:54 | https://cdn.idntimes
 Lily | Hello | Kamis, 17 Apr 2025 19:23:39 | https://cdn.idntimes.com/content-images/post/20250417/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250417192331.jpg
 Oniel | Ayo ngobrol bareng! | Kamis, 17 Apr 2025 19:49:25 | https://cdn.idntimes.com/content-images/post/20250417/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-250417194915.jpg
 Ekin | halo hai | Kamis, 17 Apr 2025 21:02:25 | https://cdn.idntimes.com/content-images/post/20250417/85f369d7-6525-41c0-94b8-9a56686713eb-250417210216.jpg
+Gracie | hi | Kamis, 17 Apr 2025 21:30:57 | https://cdn.idntimes.com/content-images/post/20250417/cae4d972-5f14-4512-9706-37c1802a0541-250417213041.jpg
