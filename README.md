@@ -1,6 +1,6 @@
 # History Live JKT48
 
-Terakhir update: 29/6/2025, 01.17.24
+Terakhir update: 29/6/2025, 01.17.47
 
 | Member | Judul | Tanggal | Cover |
 |--------|-------|---------|-------|
