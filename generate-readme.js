@@ -8,9 +8,7 @@ const tableRows = history.map(line => {
     return `| ${member} | ${judul} | ${tanggal} | ${imageMarkdown} |`;
 });
 
-const markdownTable = `# History Live JKT48
-
-Terakhir update: ${new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })}
+const markdownTable = `# History IDN Live JKT48
 
 | Member | Judul | Tanggal | Cover |
 |--------|-------|---------|-------|
