@@ -1,6 +1,4 @@
-# History Live JKT48
-
-Terakhir update: 29/6/2025, 01.20.46
+# History IDN Live JKT48
 
 | Member | Judul | Tanggal | Cover |
 |--------|-------|---------|-------|
