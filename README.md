@@ -1170,3 +1170,4 @@
 | 1166 | Aralie | haii | Minggu, 29 Jun 2025 13:53:46 | <img src="https://cdn.idntimes.com/content-images/post/20250629/f001ba66-3c51-4849-9afa-13cf74eb1571-250629135329.jpg" alt="haii" width="200"/> |
 | 1167 | Rilly | Ayo ngobrol bareng! | Minggu, 29 Jun 2025 14:16:15 | <img src="https://cdn.idntimes.com/content-images/post/20250629/e9170998-f026-4186-bbc5-a17a3b5b2af1-250629141603.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1168 | Ekin | Ayo ngobrol bareng! | Minggu, 29 Jun 2025 14:21:03 | <img src="https://cdn.idntimes.com/content-images/post/20250629/85f369d7-6525-41c0-94b8-9a56686713eb-250629142052.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1169 | Maira | Ayo ngobrol bareng! | Minggu, 29 Jun 2025 19:01:36 | <img src="https://cdn.idntimes.com/content-images/post/20250629/7599c984-c466-4962-8c5b-73c1d33d59d9-250629190119.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
