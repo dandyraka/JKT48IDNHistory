@@ -1183,3 +1183,4 @@
 | 1179 | Lana | Ayo ngobrol bareng! | Senin, 30 Jun 2025 14:35:07 | <img src="https://cdn.idntimes.com/content-images/post/20250630/e2af7271-2598-4ee8-8760-68043e671e6d-250630143458.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1180 | Rilly | Ayo ngobrol bareng! | Senin, 30 Jun 2025 16:14:13 | <img src="https://cdn.idntimes.com/content-images/post/20250630/e9170998-f026-4186-bbc5-a17a3b5b2af1-250630161402.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1181 | Fritzy | Ayo ngobrol bareng! | Senin, 30 Jun 2025 16:27:26 | <img src="https://cdn.idntimes.com/content-images/post/20250630/717109e0-a064-4f15-8187-5c4d46e56a58-250630162716.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1182 | Maira | Ayo ngobrol bareng! | Senin, 30 Jun 2025 20:12:20 | <img src="https://cdn.idntimes.com/content-images/post/20250630/7599c984-c466-4962-8c5b-73c1d33d59d9-250630201204.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
