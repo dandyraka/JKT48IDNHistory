@@ -1187,3 +1187,4 @@
 | 1183 | Mikaela | Ayo ngobrol bareng! | Senin, 30 Jun 2025 21:17:19 | <img src="https://cdn.idntimes.com/content-images/post/20250630/a557ba58-12d8-4260-bd50-9e5252ac71ef-250630211702.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1184 | Intan | bub | Senin, 30 Jun 2025 21:28:15 | <img src="https://cdn.idntimes.com/content-images/post/20250630/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250630212806.jpg" alt="bub" width="200"/> |
 | 1185 | Ekin | Ayo ngobrol bareng! | Senin, 30 Jun 2025 21:36:03 | <img src="https://cdn.idntimes.com/content-images/post/20250630/85f369d7-6525-41c0-94b8-9a56686713eb-250630213552.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1186 | Jemima | Ayo ngobrol bareng! | Senin, 30 Jun 2025 22:21:17 | <img src="https://cdn.idntimes.com/content-images/post/20250630/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250630222101.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
