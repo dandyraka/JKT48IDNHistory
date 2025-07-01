@@ -1191,3 +1191,4 @@
 | 1187 | Nala | Ayo ngobrol bareng! | Senin, 30 Jun 2025 22:43:36 | <img src="https://cdn.idntimes.com/content-images/post/20250630/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-250630224324.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1188 | Nala | Ayo ngobrol bareng! | Senin, 30 Jun 2025 23:20:14 | <img src="https://cdn.idntimes.com/content-images/post/20250630/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-250630232002.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1189 | Auwia | Grwm lagi kwkwkk | Selasa, 1 Jul 2025 14:05:16 | <img src="https://cdn.idntimes.com/content-images/post/20250701/f9500eb4-9d6d-491d-a857-40ca6f862d61-250701140507.jpg" alt="Grwm lagi kwkwkk" width="200"/> |
+| 1190 | Jemima | Ayo ngobrol bareng! | Selasa, 1 Jul 2025 22:12:50 | <img src="https://cdn.idntimes.com/content-images/post/20250701/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250701221233.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
