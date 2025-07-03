@@ -1195,3 +1195,4 @@
 | 1191 | Rilly | Ayo ngobrol bareng! | Selasa, 1 Jul 2025 22:16:32 | <img src="https://cdn.idntimes.com/content-images/post/20250701/e9170998-f026-4186-bbc5-a17a3b5b2af1-250701221621.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1192 | Cynthia | Ayo ngobrol bareng! | Rabu, 2 Jul 2025 23:35:28 | <img src="https://cdn.idntimes.com/content-images/post/20250702/4f795073-38c9-4df7-9388-74b83de69801-250702233514.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1193 | Lily | Mwahaha | Kamis, 3 Jul 2025 12:24:59 | <img src="https://cdn.idntimes.com/content-images/post/20250703/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250703122451.jpg" alt="Mwahaha" width="200"/> |
+| 1194 | Maira | Ayo ngobrol bareng! | Kamis, 3 Jul 2025 12:43:12 | <img src="https://cdn.idntimes.com/content-images/post/20250703/7599c984-c466-4962-8c5b-73c1d33d59d9-250703124256.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
