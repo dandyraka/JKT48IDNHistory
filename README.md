@@ -1201,3 +1201,4 @@
 | 1197 | Aralie | Ayo ngobrol bareng! | Kamis, 3 Jul 2025 16:10:10 | <img src="https://cdn.idntimes.com/content-images/post/20250703/f001ba66-3c51-4849-9afa-13cf74eb1571-250703160954.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1198 | Nala | Ayo ngobrol bareng! | Kamis, 3 Jul 2025 16:10:13 | <img src="https://cdn.idntimes.com/content-images/post/20250703/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-250703160958.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1199 | Nayla | Ayo ngobrol bareng! | Kamis, 3 Jul 2025 16:10:50 | <img src="https://cdn.idntimes.com/content-images/post/20250703/e243be19-74b7-435b-8e19-13fc669e0224-250703161036.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1200 | Mikaela | Ayo ngobrol bareng! | Kamis, 3 Jul 2025 16:23:30 | <img src="https://cdn.idntimes.com/content-images/post/20250703/a557ba58-12d8-4260-bd50-9e5252ac71ef-250703162314.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
