@@ -1208,3 +1208,4 @@
 | 1204 | Virgi | Ayo ngobrol bareng! | Jumat, 4 Jul 2025 19:08:33 | <img src="https://cdn.idntimes.com/content-images/post/20250704/147e83c8-f3ac-4680-9141-2f518b4b7810-250704190823.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1205 | Ekin | Ayo ngobrol bareng! | Jumat, 4 Jul 2025 20:03:47 | <img src="https://cdn.idntimes.com/content-images/post/20250704/85f369d7-6525-41c0-94b8-9a56686713eb-250704200337.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1206 | Giaa | review gift | Jumat, 4 Jul 2025 20:57:47 | <img src="https://cdn.idntimes.com/content-images/post/20250704/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250704205738.jpg" alt="review gift" width="200"/> |
+| 1207 | Intan | bub | Jumat, 4 Jul 2025 21:31:20 | <img src="https://cdn.idntimes.com/content-images/post/20250704/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250704213110.jpg" alt="bub" width="200"/> |
