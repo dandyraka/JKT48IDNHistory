@@ -1206,3 +1206,4 @@
 | 1202 | Kimmy | ppp | Kamis, 3 Jul 2025 18:57:05 | <img src="https://cdn.idntimes.com/content-images/post/20250703/52c5c190-3611-4def-866f-76c32c0b837e-250703185656.jpg" alt="ppp" width="200"/> |
 | 1203 | Levi | Ayo ngobrol bareng! | Kamis, 3 Jul 2025 19:06:59 | <img src="https://cdn.idntimes.com/content-images/post/20250703/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-250703190649.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1204 | Virgi | Ayo ngobrol bareng! | Jumat, 4 Jul 2025 19:08:33 | <img src="https://cdn.idntimes.com/content-images/post/20250704/147e83c8-f3ac-4680-9141-2f518b4b7810-250704190823.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1205 | Ekin | Ayo ngobrol bareng! | Jumat, 4 Jul 2025 20:03:47 | <img src="https://cdn.idntimes.com/content-images/post/20250704/85f369d7-6525-41c0-94b8-9a56686713eb-250704200337.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
