@@ -1216,3 +1216,4 @@
 | 1212 | Jemima | Ayo ngobrol bareng! | Minggu, 6 Jul 2025 15:45:08 | <img src="https://cdn.idntimes.com/content-images/post/20250706/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250706154452.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1213 | Ekin | Ayo ngobrol bareng! | Minggu, 6 Jul 2025 15:45:09 | <img src="https://cdn.idntimes.com/content-images/post/20250706/85f369d7-6525-41c0-94b8-9a56686713eb-250706154458.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1214 | Ribka | Ayo ngobrol bareng! | Minggu, 6 Jul 2025 19:57:32 | <img src="https://cdn.idntimes.com/content-images/post/20250706/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250706195722.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1215 | Greesel | :D | Minggu, 6 Jul 2025 20:38:12 | <img src="https://cdn.idntimes.com/content-images/post/20250706/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250706203800.jpg" alt=":D" width="200"/> |
