@@ -1220,3 +1220,4 @@
 | 1216 | Greesel | :3 | Minggu, 6 Jul 2025 20:56:42 | <img src="https://cdn.idntimes.com/content-images/post/20250706/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250706205629.jpg" alt=":3" width="200"/> |
 | 1217 | Regie | y | Minggu, 6 Jul 2025 21:39:05 | <img src="https://cdn.idntimes.com/content-images/post/20250706/29c6f427-a95f-4ba1-92bf-cb5f4a2b3b2d-250706213848.jpg" alt="y" width="200"/> |
 | 1218 | Auwia | Grwm sambil nyanyi” :> | Senin, 7 Jul 2025 16:33:44 | <img src="https://cdn.idntimes.com/content-images/post/20250707/f9500eb4-9d6d-491d-a857-40ca6f862d61-250707163335.jpg" alt="Grwm sambil nyanyi” :>" width="200"/> |
+| 1219 | Delynn | Ayo masak | Senin, 7 Jul 2025 19:24:16 | <img src="https://cdn.idntimes.com/content-images/post/20250707/266ef38a-da00-4d13-ba77-f94da68599ee-250707192407.jpg" alt="Ayo masak" width="200"/> |
