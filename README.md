@@ -1226,3 +1226,5 @@
 | 1222 | Chelsea | LIVE WITH LANAAA | Senin, 7 Jul 2025 22:24:03 | <img src="https://cdn.idntimes.com/content-images/post/20250707/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-250707222354.jpg" alt="LIVE WITH LANAAA" width="200"/> |
 | 1223 | Cynthia | Ayo ngobrol bareng! | Senin, 7 Jul 2025 22:40:02 | <img src="https://cdn.idntimes.com/content-images/post/20250707/4f795073-38c9-4df7-9388-74b83de69801-250707223953.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1224 | Gracie | haloooooww | Senin, 7 Jul 2025 22:44:47 | <img src="https://cdn.idntimes.com/content-images/post/20250707/cae4d972-5f14-4512-9706-37c1802a0541-250707224438.jpg" alt="haloooooww" width="200"/> |
+| 1225 | Alya | Ayo ngobrol bareng! | Senin, 7 Jul 2025 23:04:09 | <img src="https://cdn.idntimes.com/content-images/post/20250707/74e76417-0353-487f-b9b7-7520c0398e87-250707230359.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1226 | Lily | Wow | Senin, 7 Jul 2025 23:21:19 | <img src="https://cdn.idntimes.com/content-images/post/20250707/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250707232111.jpg" alt="Wow" width="200"/> |
