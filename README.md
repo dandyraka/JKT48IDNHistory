@@ -1222,3 +1222,5 @@
 | 1218 | Auwia | Grwm sambil nyanyi” :> | Senin, 7 Jul 2025 16:33:44 | <img src="https://cdn.idntimes.com/content-images/post/20250707/f9500eb4-9d6d-491d-a857-40ca6f862d61-250707163335.jpg" alt="Grwm sambil nyanyi” :>" width="200"/> |
 | 1219 | Delynn | Ayo masak | Senin, 7 Jul 2025 19:24:16 | <img src="https://cdn.idntimes.com/content-images/post/20250707/266ef38a-da00-4d13-ba77-f94da68599ee-250707192407.jpg" alt="Ayo masak" width="200"/> |
 | 1220 | Nayla | Ayo ngobrol bareng! | Senin, 7 Jul 2025 20:02:43 | <img src="https://cdn.idntimes.com/content-images/post/20250707/e243be19-74b7-435b-8e19-13fc669e0224-250707200227.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1221 | Lana | Ayo ngobrol bareng! | Senin, 7 Jul 2025 22:20:46 | <img src="https://cdn.idntimes.com/content-images/post/20250707/e2af7271-2598-4ee8-8760-68043e671e6d-250707222034.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1222 | Chelsea | LIVE WITH LANAAA | Senin, 7 Jul 2025 22:24:03 | <img src="https://cdn.idntimes.com/content-images/post/20250707/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-250707222354.jpg" alt="LIVE WITH LANAAA" width="200"/> |
