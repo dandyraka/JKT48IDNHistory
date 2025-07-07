@@ -1224,3 +1224,5 @@
 | 1220 | Nayla | Ayo ngobrol bareng! | Senin, 7 Jul 2025 20:02:43 | <img src="https://cdn.idntimes.com/content-images/post/20250707/e243be19-74b7-435b-8e19-13fc669e0224-250707200227.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1221 | Lana | Ayo ngobrol bareng! | Senin, 7 Jul 2025 22:20:46 | <img src="https://cdn.idntimes.com/content-images/post/20250707/e2af7271-2598-4ee8-8760-68043e671e6d-250707222034.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1222 | Chelsea | LIVE WITH LANAAA | Senin, 7 Jul 2025 22:24:03 | <img src="https://cdn.idntimes.com/content-images/post/20250707/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-250707222354.jpg" alt="LIVE WITH LANAAA" width="200"/> |
+| 1223 | Cynthia | Ayo ngobrol bareng! | Senin, 7 Jul 2025 22:40:02 | <img src="https://cdn.idntimes.com/content-images/post/20250707/4f795073-38c9-4df7-9388-74b83de69801-250707223953.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1224 | Gracie | haloooooww | Senin, 7 Jul 2025 22:44:47 | <img src="https://cdn.idntimes.com/content-images/post/20250707/cae4d972-5f14-4512-9706-37c1802a0541-250707224438.jpg" alt="haloooooww" width="200"/> |
