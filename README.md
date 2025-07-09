@@ -1232,3 +1232,4 @@
 | 1228 | Rilly | Ayo ngobrol bareng! | Rabu, 9 Jul 2025 11:04:04 | <img src="https://cdn.idntimes.com/content-images/post/20250709/e9170998-f026-4186-bbc5-a17a3b5b2af1-250709110352.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1229 | Ekin | Ayo ngobrol bareng! | Rabu, 9 Jul 2025 12:19:00 | <img src="https://cdn.idntimes.com/content-images/post/20250709/85f369d7-6525-41c0-94b8-9a56686713eb-250709121849.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1230 | Anindya | HELO | Rabu, 9 Jul 2025 14:25:07 | <img src="https://cdn.idntimes.com/content-images/post/20250709/a5c72141-65a3-47be-86ef-1dc1feaab10d-250709142457.jpg" alt="HELO" width="200"/> |
+| 1231 | Aralie | haii | Rabu, 9 Jul 2025 16:23:56 | <img src="https://cdn.idntimes.com/content-images/post/20250709/f001ba66-3c51-4849-9afa-13cf74eb1571-250709162340.jpg" alt="haii" width="200"/> |
