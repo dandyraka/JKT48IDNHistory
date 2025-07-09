@@ -1230,3 +1230,4 @@
 | 1226 | Lily | Wow | Senin, 7 Jul 2025 23:21:19 | <img src="https://cdn.idntimes.com/content-images/post/20250707/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250707232111.jpg" alt="Wow" width="200"/> |
 | 1227 | Levi | Ayo ngobrol bareng! | Selasa, 8 Jul 2025 21:00:57 | <img src="https://cdn.idntimes.com/content-images/post/20250708/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-250708210047.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1228 | Rilly | Ayo ngobrol bareng! | Rabu, 9 Jul 2025 11:04:04 | <img src="https://cdn.idntimes.com/content-images/post/20250709/e9170998-f026-4186-bbc5-a17a3b5b2af1-250709110352.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1229 | Ekin | Ayo ngobrol bareng! | Rabu, 9 Jul 2025 12:19:00 | <img src="https://cdn.idntimes.com/content-images/post/20250709/85f369d7-6525-41c0-94b8-9a56686713eb-250709121849.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
