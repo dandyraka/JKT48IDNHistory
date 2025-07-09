@@ -1233,3 +1233,4 @@
 | 1229 | Ekin | Ayo ngobrol bareng! | Rabu, 9 Jul 2025 12:19:00 | <img src="https://cdn.idntimes.com/content-images/post/20250709/85f369d7-6525-41c0-94b8-9a56686713eb-250709121849.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1230 | Anindya | HELO | Rabu, 9 Jul 2025 14:25:07 | <img src="https://cdn.idntimes.com/content-images/post/20250709/a5c72141-65a3-47be-86ef-1dc1feaab10d-250709142457.jpg" alt="HELO" width="200"/> |
 | 1231 | Aralie | haii | Rabu, 9 Jul 2025 16:23:56 | <img src="https://cdn.idntimes.com/content-images/post/20250709/f001ba66-3c51-4849-9afa-13cf74eb1571-250709162340.jpg" alt="haii" width="200"/> |
+| 1232 | Lia | masak makan | Rabu, 9 Jul 2025 22:17:15 | <img src="https://cdn.idntimes.com/content-images/post/20250709/15dfee86-a928-4a15-8c90-6aa21097d0ff-250709221708.jpg" alt="masak makan" width="200"/> |
