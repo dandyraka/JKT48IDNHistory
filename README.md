@@ -1234,3 +1234,5 @@
 | 1230 | Anindya | HELO | Rabu, 9 Jul 2025 14:25:07 | <img src="https://cdn.idntimes.com/content-images/post/20250709/a5c72141-65a3-47be-86ef-1dc1feaab10d-250709142457.jpg" alt="HELO" width="200"/> |
 | 1231 | Aralie | haii | Rabu, 9 Jul 2025 16:23:56 | <img src="https://cdn.idntimes.com/content-images/post/20250709/f001ba66-3c51-4849-9afa-13cf74eb1571-250709162340.jpg" alt="haii" width="200"/> |
 | 1232 | Lia | masak makan | Rabu, 9 Jul 2025 22:17:15 | <img src="https://cdn.idntimes.com/content-images/post/20250709/15dfee86-a928-4a15-8c90-6aa21097d0ff-250709221708.jpg" alt="masak makan" width="200"/> |
+| 1233 | Daisy | Let Us Cook!!🔥🔥 | Kamis, 10 Jul 2025 13:05:49 | <img src="https://cdn.idntimes.com/content-images/post/20250710/b11b0692-d0b8-464c-849a-9e81439a048c-250710130540.jpg" alt="Let Us Cook!!🔥🔥" width="200"/> |
+| 1234 | Fritzy | Let Us Cook🔥🔥 | Kamis, 10 Jul 2025 13:05:56 | <img src="https://cdn.idntimes.com/content-images/post/20250710/717109e0-a064-4f15-8187-5c4d46e56a58-250710130545.jpg" alt="Let Us Cook🔥🔥" width="200"/> |
