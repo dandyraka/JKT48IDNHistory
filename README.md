@@ -1240,3 +1240,4 @@
 | 1236 | Jemima | Ayo ngobrol bareng! | Kamis, 10 Jul 2025 15:03:52 | <img src="https://cdn.idntimes.com/content-images/post/20250710/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250710150337.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1237 | Mikaela | Ayo ngobrol bareng! | Kamis, 10 Jul 2025 15:20:09 | <img src="https://cdn.idntimes.com/content-images/post/20250710/a557ba58-12d8-4260-bd50-9e5252ac71ef-250710151953.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1238 | Auwia | Ngapain yaa | Kamis, 10 Jul 2025 16:43:30 | <img src="https://cdn.idntimes.com/content-images/post/20250710/f9500eb4-9d6d-491d-a857-40ca6f862d61-250710164323.jpg" alt="Ngapain yaa" width="200"/> |
+| 1239 | Anindya | MA BRO MA SIST CMON LETSGO | Kamis, 10 Jul 2025 19:16:33 | <img src="https://cdn.idntimes.com/content-images/post/20250710/a5c72141-65a3-47be-86ef-1dc1feaab10d-250710191617.jpg" alt="MA BRO MA SIST CMON LETSGO" width="200"/> |
