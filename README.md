@@ -1246,3 +1246,4 @@
 | 1242 | Cynthia | Ayo ngobrol bareng! | Kamis, 10 Jul 2025 22:12:33 | <img src="https://cdn.idntimes.com/content-images/post/20250710/4f795073-38c9-4df7-9388-74b83de69801-250710221225.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1243 | Cathy | Ok | undefined | <img src="undefined" alt="Ok" width="200"/> |
 | 1244 |  | Kamis, 10 Jul 2025 23:17:52 | https://cdn.idntimes.com/content-images/post/20250710/f740e9da-772f-4ae2-8ddd-49f717aacf63-250710231736.jpg | <img src="undefined" alt="Kamis, 10 Jul 2025 23:17:52" width="200"/> |
+| 1245 | Michie | ola | Kamis, 10 Jul 2025 23:23:52 | <img src="https://cdn.idntimes.com/content-images/post/20250710/6970e68a-b488-497a-b793-3a735db5e997-250710232336.jpg" alt="ola" width="200"/> |
