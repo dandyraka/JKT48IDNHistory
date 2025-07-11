@@ -1252,3 +1252,5 @@
 | 1248 | Lana | Ayo ngobrol bareng! | Jumat, 11 Jul 2025 14:44:07 | <img src="https://cdn.idntimes.com/content-images/post/20250711/e2af7271-2598-4ee8-8760-68043e671e6d-250711144356.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1249 | Rilly | Ayo ngobrol bareng! | Jumat, 11 Jul 2025 15:27:42 | <img src="https://cdn.idntimes.com/content-images/post/20250711/e9170998-f026-4186-bbc5-a17a3b5b2af1-250711152730.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1250 | Jemima | Ayo ngobrol bareng! | Jumat, 11 Jul 2025 15:39:42 | <img src="https://cdn.idntimes.com/content-images/post/20250711/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250711153924.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1251 | Nala | Ayo ngobrol bareng! | Jumat, 11 Jul 2025 21:09:51 | <img src="https://cdn.idntimes.com/content-images/post/20250711/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-250711210935.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1252 | Nachia | Ayo ngobrol bareng! | Jumat, 11 Jul 2025 21:12:50 | <img src="https://cdn.idntimes.com/content-images/post/20250711/21a420b0-dd01-4daa-b185-b9020f8bf69d-250711211235.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
