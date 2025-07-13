@@ -1262,3 +1262,4 @@
 | 1258 | Danella | Hi | Minggu, 13 Jul 2025 00:10:21 | <img src="https://cdn.idntimes.com/content-images/post/20250713/33139b05-1c43-4b48-bba3-ec960b18b36e-250713001012.jpg" alt="Hi" width="200"/> |
 | 1259 | Cathy | Ayo ngobrol bareng! | Minggu, 13 Jul 2025 00:25:11 | <img src="https://cdn.idntimes.com/content-images/post/20250713/f740e9da-772f-4ae2-8ddd-49f717aacf63-250713002455.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1260 | Maira | Ayo ngobrol bareng! | Minggu, 13 Jul 2025 21:10:21 | <img src="https://cdn.idntimes.com/content-images/post/20250713/7599c984-c466-4962-8c5b-73c1d33d59d9-250713211005.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1261 | Maira | Ayo ngobrol bareng! | Minggu, 13 Jul 2025 21:42:04 | <img src="https://cdn.idntimes.com/content-images/post/20250713/7599c984-c466-4962-8c5b-73c1d33d59d9-250713214148.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
