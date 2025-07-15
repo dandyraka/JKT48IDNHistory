@@ -1277,3 +1277,4 @@
 | 1273 | Ekin | Ayo ngobrol bareng! | Selasa, 15 Jul 2025 19:36:57 | <img src="https://cdn.idntimes.com/content-images/post/20250715/85f369d7-6525-41c0-94b8-9a56686713eb-250715193647.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1274 | Maira | Ayo ngobrol bareng! | Selasa, 15 Jul 2025 20:19:43 | <img src="https://cdn.idntimes.com/content-images/post/20250715/7599c984-c466-4962-8c5b-73c1d33d59d9-250715201927.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1275 | Intan | bub | Selasa, 15 Jul 2025 21:51:03 | <img src="https://cdn.idntimes.com/content-images/post/20250715/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250715215053.jpg" alt="bub" width="200"/> |
+| 1276 | Lily | Buah | Selasa, 15 Jul 2025 22:22:41 | <img src="https://cdn.idntimes.com/content-images/post/20250715/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250715222225.jpg" alt="Buah" width="200"/> |
