@@ -1273,3 +1273,4 @@
 | 1269 | Virgi | Ayo ngobrol bareng! | Senin, 14 Jul 2025 21:22:14 | <img src="https://cdn.idntimes.com/content-images/post/20250714/147e83c8-f3ac-4680-9141-2f518b4b7810-250714212203.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1270 | Oline | Ayo ngobrol bareng! | Senin, 14 Jul 2025 21:54:47 | <img src="https://cdn.idntimes.com/content-images/post/20250714/a2b5d818-475d-44ce-af52-e99526482aaf-250714215430.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1271 | Mikaela | Ayo ngobrol bareng! | Senin, 14 Jul 2025 22:22:40 | <img src="https://cdn.idntimes.com/content-images/post/20250714/a557ba58-12d8-4260-bd50-9e5252ac71ef-250714222225.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1272 | Aralie | Ayo ngobrol bareng! | Selasa, 15 Jul 2025 14:56:23 | <img src="https://cdn.idntimes.com/content-images/post/20250715/f001ba66-3c51-4849-9afa-13cf74eb1571-250715145607.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
