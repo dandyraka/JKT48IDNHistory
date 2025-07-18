@@ -1289,3 +1289,5 @@
 | 1285 | Lily | Helo | Jumat, 18 Jul 2025 13:24:49 | <img src="https://cdn.idntimes.com/content-images/post/20250718/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250718132433.jpg" alt="Helo" width="200"/> |
 | 1286 | Mikaela | Ayo ngobrol bareng! | Jumat, 18 Jul 2025 17:31:00 | <img src="https://cdn.idntimes.com/content-images/post/20250718/a557ba58-12d8-4260-bd50-9e5252ac71ef-250718173043.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1287 | Rilly | Ayo ngobrol bareng! | Jumat, 18 Jul 2025 17:35:43 | <img src="https://cdn.idntimes.com/content-images/post/20250718/e9170998-f026-4186-bbc5-a17a3b5b2af1-250718173531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1288 | Nachia | Ayo ngobrol bareng! | Jumat, 18 Jul 2025 20:05:08 | <img src="https://cdn.idntimes.com/content-images/post/20250718/21a420b0-dd01-4daa-b185-b9020f8bf69d-250718200459.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1289 | Nayla | Ayo ngobrol bareng! | Jumat, 18 Jul 2025 20:06:14 | <img src="https://cdn.idntimes.com/content-images/post/20250718/e243be19-74b7-435b-8e19-13fc669e0224-250718200603.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
