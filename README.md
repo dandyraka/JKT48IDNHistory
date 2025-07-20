@@ -1293,3 +1293,4 @@
 | 1289 | Nayla | Ayo ngobrol bareng! | Jumat, 18 Jul 2025 20:06:14 | <img src="https://cdn.idntimes.com/content-images/post/20250718/e243be19-74b7-435b-8e19-13fc669e0224-250718200603.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1290 | Ribka | Ayo ngobrol bareng! | Jumat, 18 Jul 2025 22:34:26 | <img src="https://cdn.idntimes.com/content-images/post/20250718/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250718223416.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1291 | Auwia | Talk w meeee | Sabtu, 19 Jul 2025 16:36:48 | <img src="https://cdn.idntimes.com/content-images/post/20250719/f9500eb4-9d6d-491d-a857-40ca6f862d61-250719163640.jpg" alt="Talk w meeee" width="200"/> |
+| 1292 | Kimmy | hoi | Minggu, 20 Jul 2025 23:07:44 | <img src="https://cdn.idntimes.com/content-images/post/20250720/52c5c190-3611-4def-866f-76c32c0b837e-250720230735.jpg" alt="hoi" width="200"/> |
