@@ -1297,3 +1297,4 @@
 | 1293 | Lily | Haii | Senin, 21 Jul 2025 12:39:07 | <img src="https://cdn.idntimes.com/content-images/post/20250721/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250721123900.jpg" alt="Haii" width="200"/> |
 | 1294 | Rilly | Ayo ngobrol bareng! | Senin, 21 Jul 2025 14:16:48 | <img src="https://cdn.idntimes.com/content-images/post/20250721/e9170998-f026-4186-bbc5-a17a3b5b2af1-250721141637.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1295 | Jemima | Ayo ngobrol bareng! | Senin, 21 Jul 2025 15:11:08 | <img src="https://cdn.idntimes.com/content-images/post/20250721/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250721151051.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1296 | Nachia | Ayo ngobrol bareng! | Kamis, 24 Jul 2025 14:04:12 | <img src="https://cdn.idntimes.com/content-images/post/20250724/21a420b0-dd01-4daa-b185-b9020f8bf69d-250724140400.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
