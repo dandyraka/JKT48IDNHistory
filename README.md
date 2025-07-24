@@ -1310,3 +1310,4 @@
 | 1306 | Auwia | Barbang | Kamis, 24 Jul 2025 21:40:07 | <img src="https://cdn.idntimes.com/content-images/post/20250724/f9500eb4-9d6d-491d-a857-40ca6f862d61-250724213959.jpg" alt="Barbang" width="200"/> |
 | 1307 | Nayla | Ayo ngobrol bareng! | Kamis, 24 Jul 2025 22:19:14 | <img src="https://cdn.idntimes.com/content-images/post/20250724/e243be19-74b7-435b-8e19-13fc669e0224-250724221903.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1308 | Levi | Ayo ngobrol bareng! | Kamis, 24 Jul 2025 23:02:04 | <img src="https://cdn.idntimes.com/content-images/post/20250724/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-250724230155.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1309 | Cynthia | Ayo ngobrol bareng! | Jumat, 25 Jul 2025 00:46:28 | <img src="https://cdn.idntimes.com/content-images/post/20250725/4f795073-38c9-4df7-9388-74b83de69801-250725004616.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
