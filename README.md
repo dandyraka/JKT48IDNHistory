@@ -1309,3 +1309,4 @@
 | 1305 | Virgi | Ayo ngobrol bareng! | Kamis, 24 Jul 2025 21:27:32 | <img src="https://cdn.idntimes.com/content-images/post/20250724/147e83c8-f3ac-4680-9141-2f518b4b7810-250724212718.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1306 | Auwia | Barbang | Kamis, 24 Jul 2025 21:40:07 | <img src="https://cdn.idntimes.com/content-images/post/20250724/f9500eb4-9d6d-491d-a857-40ca6f862d61-250724213959.jpg" alt="Barbang" width="200"/> |
 | 1307 | Nayla | Ayo ngobrol bareng! | Kamis, 24 Jul 2025 22:19:14 | <img src="https://cdn.idntimes.com/content-images/post/20250724/e243be19-74b7-435b-8e19-13fc669e0224-250724221903.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1308 | Levi | Ayo ngobrol bareng! | Kamis, 24 Jul 2025 23:02:04 | <img src="https://cdn.idntimes.com/content-images/post/20250724/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-250724230155.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
