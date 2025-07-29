@@ -1314,3 +1314,4 @@
 | 1310 | Maira | Ayo ngobrol bareng! | Minggu, 27 Jul 2025 19:08:33 | <img src="https://cdn.idntimes.com/content-images/post/20250727/7599c984-c466-4962-8c5b-73c1d33d59d9-250727190817.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1311 | Giaa | NGOBROL MALAMM | Minggu, 27 Jul 2025 21:00:01 | <img src="https://cdn.idntimes.com/content-images/post/20250727/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250727205950.jpg" alt="NGOBROL MALAMM" width="200"/> |
 | 1312 | Nayla | Ayo ngobrol bareng! | Selasa, 29 Jul 2025 22:13:41 | <img src="https://cdn.idntimes.com/content-images/post/20250729/e243be19-74b7-435b-8e19-13fc669e0224-250729221331.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1313 | Jemima | Ayo ngobrol bareng! | Selasa, 29 Jul 2025 22:22:34 | <img src="https://cdn.idntimes.com/content-images/post/20250729/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250729222217.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
