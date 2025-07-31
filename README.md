@@ -1322,3 +1322,4 @@
 | 1318 | Virgi | hai | Rabu, 30 Jul 2025 21:21:31 | <img src="https://cdn.idntimes.com/content-images/post/20250730/147e83c8-f3ac-4680-9141-2f518b4b7810-250730212114.jpg" alt="hai" width="200"/> |
 | 1319 | Ribka | Ayo ngobrol bareng! | Rabu, 30 Jul 2025 21:30:30 | <img src="https://cdn.idntimes.com/content-images/post/20250730/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250730213016.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1320 | Danella | Temenin mamam | Rabu, 30 Jul 2025 22:44:45 | <img src="https://cdn.idntimes.com/content-images/post/20250730/33139b05-1c43-4b48-bba3-ec960b18b36e-250730224436.jpg" alt="Temenin mamam" width="200"/> |
+| 1321 | Intan | bub | Kamis, 31 Jul 2025 11:23:50 | <img src="https://cdn.idntimes.com/content-images/post/20250731/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250731112331.jpg" alt="bub" width="200"/> |
