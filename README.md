@@ -1324,3 +1324,4 @@
 | 1320 | Danella | Temenin mamam | Rabu, 30 Jul 2025 22:44:45 | <img src="https://cdn.idntimes.com/content-images/post/20250730/33139b05-1c43-4b48-bba3-ec960b18b36e-250730224436.jpg" alt="Temenin mamam" width="200"/> |
 | 1321 | Intan | bub | Kamis, 31 Jul 2025 11:23:50 | <img src="https://cdn.idntimes.com/content-images/post/20250731/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250731112331.jpg" alt="bub" width="200"/> |
 | 1322 | Delynn | Haiii | Kamis, 31 Jul 2025 20:18:03 | <img src="https://cdn.idntimes.com/content-images/post/20250731/266ef38a-da00-4d13-ba77-f94da68599ee-250731201755.jpg" alt="Haiii" width="200"/> |
+| 1323 | Virgi | Ayo ngobrol bareng! | Jumat, 1 Agt 2025 14:34:35 | <img src="https://cdn.idntimes.com/content-images/post/20250801/147e83c8-f3ac-4680-9141-2f518b4b7810-250801143419.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
