@@ -1329,3 +1329,4 @@
 | 1325 | Intan | bub | Jumat, 1 Agt 2025 15:35:02 | <img src="https://cdn.idntimes.com/content-images/post/20250801/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250801153443.jpg" alt="bub" width="200"/> |
 | 1326 | Maira | Ayo ngobrol bareng! | Jumat, 1 Agt 2025 16:19:44 | <img src="https://cdn.idntimes.com/content-images/post/20250801/7599c984-c466-4962-8c5b-73c1d33d59d9-250801161928.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1327 | Auwia | P info | Jumat, 1 Agt 2025 20:33:32 | <img src="https://cdn.idntimes.com/content-images/post/20250801/f9500eb4-9d6d-491d-a857-40ca6f862d61-250801203323.jpg" alt="P info" width="200"/> |
+| 1328 | Aralie | Ayo ngobrol bareng! | Jumat, 1 Agt 2025 21:11:35 | <img src="https://cdn.idntimes.com/content-images/post/20250801/f001ba66-3c51-4849-9afa-13cf74eb1571-250801211119.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
