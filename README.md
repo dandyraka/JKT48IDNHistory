@@ -1331,3 +1331,4 @@
 | 1327 | Auwia | P info | Jumat, 1 Agt 2025 20:33:32 | <img src="https://cdn.idntimes.com/content-images/post/20250801/f9500eb4-9d6d-491d-a857-40ca6f862d61-250801203323.jpg" alt="P info" width="200"/> |
 | 1328 | Aralie | Ayo ngobrol bareng! | Jumat, 1 Agt 2025 21:11:35 | <img src="https://cdn.idntimes.com/content-images/post/20250801/f001ba66-3c51-4849-9afa-13cf74eb1571-250801211119.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1329 | Ekin | Ayo ngobrol bareng! | Sabtu, 2 Agt 2025 12:33:49 | <img src="https://cdn.idntimes.com/content-images/post/20250802/85f369d7-6525-41c0-94b8-9a56686713eb-250802123337.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1330 | Daisy | Ayo ngobrol bareng! | Sabtu, 2 Agt 2025 21:07:20 | <img src="https://cdn.idntimes.com/content-images/post/20250802/b11b0692-d0b8-464c-849a-9e81439a048c-250802210710.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
