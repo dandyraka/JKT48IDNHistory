@@ -1334,3 +1334,4 @@
 | 1330 | Daisy | Ayo ngobrol bareng! | Sabtu, 2 Agt 2025 21:07:20 | <img src="https://cdn.idntimes.com/content-images/post/20250802/b11b0692-d0b8-464c-849a-9e81439a048c-250802210710.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1331 | Danella | Hi | Sabtu, 2 Agt 2025 21:27:23 | <img src="https://cdn.idntimes.com/content-images/post/20250802/33139b05-1c43-4b48-bba3-ec960b18b36e-250802212714.jpg" alt="Hi" width="200"/> |
 | 1332 | Daisy | Ayo ngobrol bareng! | Sabtu, 2 Agt 2025 21:35:43 | <img src="https://cdn.idntimes.com/content-images/post/20250802/b11b0692-d0b8-464c-849a-9e81439a048c-250802213534.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1333 | Regie | y | Sabtu, 2 Agt 2025 21:44:33 | <img src="https://cdn.idntimes.com/content-images/post/20250802/29c6f427-a95f-4ba1-92bf-cb5f4a2b3b2d-250802214416.jpg" alt="y" width="200"/> |
