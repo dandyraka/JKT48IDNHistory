@@ -1340,3 +1340,4 @@
 | 1336 | Ekin | Ayo ngobrol bareng! | Minggu, 3 Agt 2025 19:09:44 | <img src="https://cdn.idntimes.com/content-images/post/20250803/85f369d7-6525-41c0-94b8-9a56686713eb-250803190933.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1337 | Giaa | malamss | Minggu, 3 Agt 2025 19:36:16 | <img src="https://cdn.idntimes.com/content-images/post/20250803/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250803193600.jpg" alt="malamss" width="200"/> |
 | 1338 | Jemima | Ayo ngobrol bareng! | Minggu, 3 Agt 2025 19:44:44 | <img src="https://cdn.idntimes.com/content-images/post/20250803/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250803194428.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1339 | Intan | bub | Minggu, 3 Agt 2025 21:14:03 | <img src="https://cdn.idntimes.com/content-images/post/20250803/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250803211346.jpg" alt="bub" width="200"/> |
