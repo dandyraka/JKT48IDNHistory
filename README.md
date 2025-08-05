@@ -1348,3 +1348,4 @@
 | 1344 | Intan | bub | Selasa, 5 Agt 2025 11:53:41 | <img src="https://cdn.idntimes.com/content-images/post/20250805/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250805115324.jpg" alt="bub" width="200"/> |
 | 1345 | Virgi | Ayo ngobrol bareng! | Selasa, 5 Agt 2025 14:08:16 | <img src="https://cdn.idntimes.com/content-images/post/20250805/147e83c8-f3ac-4680-9141-2f518b4b7810-250805140758.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1346 | Giaa | bareng virgi | Selasa, 5 Agt 2025 14:16:30 | <img src="https://cdn.idntimes.com/content-images/post/20250805/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250805141614.jpg" alt="bareng virgi" width="200"/> |
+| 1347 | Levi | Ayo ngobrol bareng! | Selasa, 5 Agt 2025 14:35:37 | <img src="https://cdn.idntimes.com/content-images/post/20250805/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-250805143529.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
