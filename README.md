@@ -1345,3 +1345,4 @@
 | 1341 | Erine | Ayo ngobrol bareng! | Minggu, 3 Agt 2025 22:58:46 | <img src="https://cdn.idntimes.com/content-images/post/20250803/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-250803225839.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1342 | Mikaela | Ayo ngobrol bareng! | Senin, 4 Agt 2025 13:25:55 | <img src="https://cdn.idntimes.com/content-images/post/20250804/a557ba58-12d8-4260-bd50-9e5252ac71ef-250804132539.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1343 | Virgi | Ayo ngobrol bareng! | Senin, 4 Agt 2025 15:08:23 | <img src="https://cdn.idntimes.com/content-images/post/20250804/147e83c8-f3ac-4680-9141-2f518b4b7810-250804150806.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1344 | Intan | bub | Selasa, 5 Agt 2025 11:53:41 | <img src="https://cdn.idntimes.com/content-images/post/20250805/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250805115324.jpg" alt="bub" width="200"/> |
