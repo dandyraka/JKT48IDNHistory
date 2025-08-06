@@ -1356,3 +1356,5 @@
 | 1352 | Maira | Ayo ngobrol bareng! | Rabu, 6 Agt 2025 19:29:35 | <img src="https://cdn.idntimes.com/content-images/post/20250806/7599c984-c466-4962-8c5b-73c1d33d59d9-250806192919.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1353 | Virgi | Ayo ngobrol bareng! | Rabu, 6 Agt 2025 20:00:21 | <img src="https://cdn.idntimes.com/content-images/post/20250806/147e83c8-f3ac-4680-9141-2f518b4b7810-250806200010.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1354 | Intan | bub | Rabu, 6 Agt 2025 20:03:19 | <img src="https://cdn.idntimes.com/content-images/post/20250806/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250806200302.jpg" alt="bub" width="200"/> |
+| 1355 | Jemima | Ayo ngobrol bareng! | Rabu, 6 Agt 2025 20:23:00 | <img src="https://cdn.idntimes.com/content-images/post/20250806/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250806202243.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1356 | Intan | bub | Rabu, 6 Agt 2025 20:25:18 | <img src="https://cdn.idntimes.com/content-images/post/20250806/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250806202502.jpg" alt="bub" width="200"/> |
