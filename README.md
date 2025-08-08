@@ -1362,3 +1362,5 @@
 | 1358 | Daisy | Hai | Rabu, 6 Agt 2025 23:16:15 | <img src="https://cdn.idntimes.com/content-images/post/20250806/b11b0692-d0b8-464c-849a-9e81439a048c-250806231543.jpg" alt="Hai" width="200"/> |
 | 1359 | Intan | bubb | Kamis, 7 Agt 2025 14:38:18 | <img src="https://cdn.idntimes.com/content-images/post/20250807/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250807143802.jpg" alt="bubb" width="200"/> |
 | 1360 | Cynthia | Ayo ngobrol bareng! | Kamis, 7 Agt 2025 19:52:19 | <img src="https://cdn.idntimes.com/content-images/post/20250807/4f795073-38c9-4df7-9388-74b83de69801-250807195159.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1361 | Lana | Ayo ngobrol bareng! | Jumat, 8 Agt 2025 19:44:46 | <img src="https://cdn.idntimes.com/content-images/post/20250808/e2af7271-2598-4ee8-8760-68043e671e6d-250808194436.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1362 | Greesel | XD | Jumat, 8 Agt 2025 19:59:51 | <img src="https://cdn.idntimes.com/content-images/post/20250808/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250808195939.jpg" alt="XD" width="200"/> |
