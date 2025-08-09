@@ -1368,3 +1368,4 @@
 | 1364 | Lia | Ayo ngobrol bareng! | Jumat, 8 Agt 2025 23:17:40 | <img src="https://cdn.idntimes.com/content-images/post/20250808/15dfee86-a928-4a15-8c90-6aa21097d0ff-250808231724.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1365 | Auwia | Grwm hahay | Sabtu, 9 Agt 2025 12:13:46 | <img src="https://cdn.idntimes.com/content-images/post/20250809/f9500eb4-9d6d-491d-a857-40ca6f862d61-250809121336.jpg" alt="Grwm hahay" width="200"/> |
 | 1366 | Lily | Yellow | Sabtu, 9 Agt 2025 13:56:42 | <img src="https://cdn.idntimes.com/content-images/post/20250809/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250809135631.jpg" alt="Yellow" width="200"/> |
+| 1367 | Daisy | Ayo ngobrol bareng! | Sabtu, 9 Agt 2025 20:00:23 | <img src="https://cdn.idntimes.com/content-images/post/20250809/b11b0692-d0b8-464c-849a-9e81439a048c-250809200013.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
