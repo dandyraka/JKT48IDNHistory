@@ -1378,3 +1378,4 @@
 | 1374 | Maira | Ayo ngobrol bareng! | Minggu, 10 Agt 2025 21:19:10 | <img src="https://cdn.idntimes.com/content-images/post/20250810/7599c984-c466-4962-8c5b-73c1d33d59d9-250810211854.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1375 | Giaa | bareng dek mai | Minggu, 10 Agt 2025 21:19:52 | <img src="https://cdn.idntimes.com/content-images/post/20250810/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250810211936.jpg" alt="bareng dek mai" width="200"/> |
 | 1376 | Chelsea | TEMENIN aku belajar  | Minggu, 10 Agt 2025 21:20:14 | <img src="https://cdn.idntimes.com/content-images/post/20250810/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-250810212002.jpg" alt="TEMENIN aku belajar " width="200"/> |
+| 1377 | Regie | y | Minggu, 10 Agt 2025 21:43:28 | <img src="https://cdn.idntimes.com/content-images/post/20250810/29c6f427-a95f-4ba1-92bf-cb5f4a2b3b2d-250810214311.jpg" alt="y" width="200"/> |
