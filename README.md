@@ -1375,3 +1375,6 @@
 | 1371 | Aralie | haii | Sabtu, 9 Agt 2025 21:13:06 | <img src="https://cdn.idntimes.com/content-images/post/20250809/f001ba66-3c51-4849-9afa-13cf74eb1571-250809211250.jpg" alt="haii" width="200"/> |
 | 1372 | Ribka | p | Sabtu, 9 Agt 2025 22:07:32 | <img src="https://cdn.idntimes.com/content-images/post/20250809/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250809220715.jpg" alt="p" width="200"/> |
 | 1373 | Auwia | Grwm | Minggu, 10 Agt 2025 12:52:15 | <img src="https://cdn.idntimes.com/content-images/post/20250810/f9500eb4-9d6d-491d-a857-40ca6f862d61-250810125206.jpg" alt="Grwm" width="200"/> |
+| 1374 | Maira | Ayo ngobrol bareng! | Minggu, 10 Agt 2025 21:19:10 | <img src="https://cdn.idntimes.com/content-images/post/20250810/7599c984-c466-4962-8c5b-73c1d33d59d9-250810211854.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1375 | Giaa | bareng dek mai | Minggu, 10 Agt 2025 21:19:52 | <img src="https://cdn.idntimes.com/content-images/post/20250810/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250810211936.jpg" alt="bareng dek mai" width="200"/> |
+| 1376 | Chelsea | TEMENIN aku belajar  | Minggu, 10 Agt 2025 21:20:14 | <img src="https://cdn.idntimes.com/content-images/post/20250810/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-250810212002.jpg" alt="TEMENIN aku belajar " width="200"/> |
