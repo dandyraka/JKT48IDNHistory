@@ -1384,3 +1384,4 @@
 | 1380 | Elin | Hai | Minggu, 10 Agt 2025 23:06:31 | <img src="https://cdn.idntimes.com/content-images/post/20250810/e0ececb4-71d8-4f32-a221-ef21634a746a-250810230615.jpg" alt="Hai" width="200"/> |
 | 1381 | Gracie | Ayo ngobrol bareng! | Minggu, 10 Agt 2025 23:07:12 | <img src="https://cdn.idntimes.com/content-images/post/20250810/cae4d972-5f14-4512-9706-37c1802a0541-250810230700.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1382 | Mikaela | Ayo ngobrol bareng! | Senin, 11 Agt 2025 16:04:25 | <img src="https://cdn.idntimes.com/content-images/post/20250811/a557ba58-12d8-4260-bd50-9e5252ac71ef-250811160409.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1383 | Oline | Y | Senin, 11 Agt 2025 19:27:52 | <img src="https://cdn.idntimes.com/content-images/post/20250811/a2b5d818-475d-44ce-af52-e99526482aaf-250811192736.jpg" alt="Y" width="200"/> |
