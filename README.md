@@ -1388,3 +1388,4 @@
 | 1384 | Levi | Ayo ngobrol bareng! | Senin, 11 Agt 2025 20:03:41 | <img src="https://cdn.idntimes.com/content-images/post/20250811/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-250811200334.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1385 | Intan | bub | Senin, 11 Agt 2025 20:27:53 | <img src="https://cdn.idntimes.com/content-images/post/20250811/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250811202736.jpg" alt="bub" width="200"/> |
 | 1386 | Virgi | Ayo ngobrol bareng! | Senin, 11 Agt 2025 20:28:26 | <img src="https://cdn.idntimes.com/content-images/post/20250811/147e83c8-f3ac-4680-9141-2f518b4b7810-250811202759.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1387 | Cathy | Ayo ngobrol bareng! | Senin, 11 Agt 2025 23:12:12 | <img src="https://cdn.idntimes.com/content-images/post/20250811/f740e9da-772f-4ae2-8ddd-49f717aacf63-250811231156.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
