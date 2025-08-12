@@ -1395,3 +1395,4 @@
 | 1391 | Aralie | haii | Selasa, 12 Agt 2025 16:29:52 | <img src="https://cdn.idntimes.com/content-images/post/20250812/f001ba66-3c51-4849-9afa-13cf74eb1571-250812162937.jpg" alt="haii" width="200"/> |
 | 1392 | Nayla | Ayo ngobrol bareng! | Selasa, 12 Agt 2025 16:33:07 | <img src="https://cdn.idntimes.com/content-images/post/20250812/e243be19-74b7-435b-8e19-13fc669e0224-250812163256.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1393 | Kimmy | p | Selasa, 12 Agt 2025 16:36:50 | <img src="https://cdn.idntimes.com/content-images/post/20250812/52c5c190-3611-4def-866f-76c32c0b837e-250812163639.jpg" alt="p" width="200"/> |
+| 1394 | Ribka | Ayo ngobrol bareng! | Selasa, 12 Agt 2025 16:55:28 | <img src="https://cdn.idntimes.com/content-images/post/20250812/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250812165512.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
