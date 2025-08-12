@@ -1397,3 +1397,4 @@
 | 1393 | Kimmy | p | Selasa, 12 Agt 2025 16:36:50 | <img src="https://cdn.idntimes.com/content-images/post/20250812/52c5c190-3611-4def-866f-76c32c0b837e-250812163639.jpg" alt="p" width="200"/> |
 | 1394 | Ribka | Ayo ngobrol bareng! | Selasa, 12 Agt 2025 16:55:28 | <img src="https://cdn.idntimes.com/content-images/post/20250812/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250812165512.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1395 | Jemima | Ayo ngobrol bareng! | Selasa, 12 Agt 2025 18:43:45 | <img src="https://cdn.idntimes.com/content-images/post/20250812/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250812184329.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1396 | Ekin | Ayo ngobrol bareng! | Selasa, 12 Agt 2025 21:19:11 | <img src="https://cdn.idntimes.com/content-images/post/20250812/85f369d7-6525-41c0-94b8-9a56686713eb-250812211902.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
