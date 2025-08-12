@@ -1389,3 +1389,7 @@
 | 1385 | Intan | bub | Senin, 11 Agt 2025 20:27:53 | <img src="https://cdn.idntimes.com/content-images/post/20250811/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250811202736.jpg" alt="bub" width="200"/> |
 | 1386 | Virgi | Ayo ngobrol bareng! | Senin, 11 Agt 2025 20:28:26 | <img src="https://cdn.idntimes.com/content-images/post/20250811/147e83c8-f3ac-4680-9141-2f518b4b7810-250811202759.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1387 | Cathy | Ayo ngobrol bareng! | Senin, 11 Agt 2025 23:12:12 | <img src="https://cdn.idntimes.com/content-images/post/20250811/f740e9da-772f-4ae2-8ddd-49f717aacf63-250811231156.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1388 | Virgi | Ayo ngobrol bareng! | Selasa, 12 Agt 2025 16:15:48 | <img src="https://cdn.idntimes.com/content-images/post/20250812/147e83c8-f3ac-4680-9141-2f518b4b7810-250812161532.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1389 | Intan | bub | Selasa, 12 Agt 2025 16:17:52 | <img src="https://cdn.idntimes.com/content-images/post/20250812/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250812161736.jpg" alt="bub" width="200"/> |
+| 1390 | Nala | Ayo ngobrol bareng! | Selasa, 12 Agt 2025 16:29:09 | <img src="https://cdn.idntimes.com/content-images/post/20250812/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-250812162852.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1391 | Aralie | haii | Selasa, 12 Agt 2025 16:29:52 | <img src="https://cdn.idntimes.com/content-images/post/20250812/f001ba66-3c51-4849-9afa-13cf74eb1571-250812162937.jpg" alt="haii" width="200"/> |
