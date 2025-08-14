@@ -1400,3 +1400,4 @@
 | 1396 | Ekin | Ayo ngobrol bareng! | Selasa, 12 Agt 2025 21:19:11 | <img src="https://cdn.idntimes.com/content-images/post/20250812/85f369d7-6525-41c0-94b8-9a56686713eb-250812211902.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1397 | Danella | Hi | Rabu, 13 Agt 2025 21:39:41 | <img src="https://cdn.idntimes.com/content-images/post/20250813/33139b05-1c43-4b48-bba3-ec960b18b36e-250813213931.jpg" alt="Hi" width="200"/> |
 | 1398 | Daisy | Hiiii | Rabu, 13 Agt 2025 23:12:32 | <img src="https://cdn.idntimes.com/content-images/post/20250813/b11b0692-d0b8-464c-849a-9e81439a048c-250813231223.jpg" alt="Hiiii" width="200"/> |
+| 1399 | Fritzy | unboxing👀 | Kamis, 14 Agt 2025 21:00:34 | <img src="https://cdn.idntimes.com/content-images/post/20250814/717109e0-a064-4f15-8187-5c4d46e56a58-250814210017.jpg" alt="unboxing👀" width="200"/> |
