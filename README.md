@@ -1406,3 +1406,4 @@
 | 1402 | Maira | Ayo ngobrol bareng! | Jumat, 15 Agt 2025 19:53:31 | <img src="https://cdn.idntimes.com/content-images/post/20250815/7599c984-c466-4962-8c5b-73c1d33d59d9-250815195315.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1403 | Virgi | Ayo ngobrol bareng! | Jumat, 15 Agt 2025 20:34:27 | <img src="https://cdn.idntimes.com/content-images/post/20250815/147e83c8-f3ac-4680-9141-2f518b4b7810-250815203358.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1404 | Jemima | Ayo ngobrol bareng! | Jumat, 15 Agt 2025 21:19:30 | <img src="https://cdn.idntimes.com/content-images/post/20250815/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250815211914.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1405 | Lily | Kangen | Sabtu, 16 Agt 2025 09:37:29 | <img src="https://cdn.idntimes.com/content-images/post/20250816/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250816093719.jpg" alt="Kangen" width="200"/> |
