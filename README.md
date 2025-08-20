@@ -1429,3 +1429,4 @@
 | 1425 | Lily | Wazup | Rabu, 20 Agt 2025 22:10:36 | <img src="https://cdn.idntimes.com/content-images/post/20250820/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250820221027.jpg" alt="Wazup" width="200"/> |
 | 1426 | Mikaela | Ayo ngobrol bareng! | Rabu, 20 Agt 2025 22:19:35 | <img src="https://cdn.idntimes.com/content-images/post/20250820/a557ba58-12d8-4260-bd50-9e5252ac71ef-250820221918.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1427 | Ekin | Ayo ngobrol bareng! | Rabu, 20 Agt 2025 22:19:37 | <img src="https://cdn.idntimes.com/content-images/post/20250820/85f369d7-6525-41c0-94b8-9a56686713eb-250820221928.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1428 | Erine | Ayo ngobrol bareng! | Rabu, 20 Agt 2025 22:51:15 | <img src="https://cdn.idntimes.com/content-images/post/20250820/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-250820225108.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
