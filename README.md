@@ -1431,3 +1431,4 @@
 | 1427 | Ekin | Ayo ngobrol bareng! | Rabu, 20 Agt 2025 22:19:37 | <img src="https://cdn.idntimes.com/content-images/post/20250820/85f369d7-6525-41c0-94b8-9a56686713eb-250820221928.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1428 | Erine | Ayo ngobrol bareng! | Rabu, 20 Agt 2025 22:51:15 | <img src="https://cdn.idntimes.com/content-images/post/20250820/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-250820225108.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1429 | Virgi | Ayo ngobrol bareng! | Kamis, 21 Agt 2025 14:36:42 | <img src="https://cdn.idntimes.com/content-images/post/20250821/147e83c8-f3ac-4680-9141-2f518b4b7810-250821143628.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1430 | Mikaela | Ayo ngobrol bareng! | Kamis, 21 Agt 2025 18:18:01 | <img src="https://cdn.idntimes.com/content-images/post/20250821/a557ba58-12d8-4260-bd50-9e5252ac71ef-250821181746.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
