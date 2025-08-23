@@ -1445,3 +1445,4 @@
 | 1441 | Nachia | Ayo ngobrol bareng! | Sabtu, 23 Agt 2025 19:16:06 | <img src="https://cdn.idntimes.com/content-images/post/20250823/21a420b0-dd01-4daa-b185-b9020f8bf69d-250823191557.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1442 | Jemima | Ayo ngobrol bareng! | Sabtu, 23 Agt 2025 21:19:29 | <img src="https://cdn.idntimes.com/content-images/post/20250823/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250823211914.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1443 | Virgi | Ayo ngobrol bareng! | Sabtu, 23 Agt 2025 21:28:29 | <img src="https://cdn.idntimes.com/content-images/post/20250823/147e83c8-f3ac-4680-9141-2f518b4b7810-250823212814.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1444 | Aralie | hii | Sabtu, 23 Agt 2025 21:55:10 | <img src="https://cdn.idntimes.com/content-images/post/20250823/f001ba66-3c51-4849-9afa-13cf74eb1571-250823215453.jpg" alt="hii" width="200"/> |
