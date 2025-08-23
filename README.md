@@ -1441,3 +1441,5 @@
 | 1437 | Danella | Semoga aman amin | Jumat, 22 Agt 2025 00:28:28 | <img src="https://cdn.idntimes.com/content-images/post/20250822/33139b05-1c43-4b48-bba3-ec960b18b36e-250822002819.jpg" alt="Semoga aman amin" width="200"/> |
 | 1438 | Mikaela | Ayo ngobrol bareng! | Jumat, 22 Agt 2025 22:13:50 | <img src="https://cdn.idntimes.com/content-images/post/20250822/a557ba58-12d8-4260-bd50-9e5252ac71ef-250822221333.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1439 | Jemima | Ayo ngobrol bareng! | Jumat, 22 Agt 2025 22:15:11 | <img src="https://cdn.idntimes.com/content-images/post/20250822/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250822221455.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1440 | Intan | p | Sabtu, 23 Agt 2025 19:13:18 | <img src="https://cdn.idntimes.com/content-images/post/20250823/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250823191300.jpg" alt="p" width="200"/> |
+| 1441 | Nachia | Ayo ngobrol bareng! | Sabtu, 23 Agt 2025 19:16:06 | <img src="https://cdn.idntimes.com/content-images/post/20250823/21a420b0-dd01-4daa-b185-b9020f8bf69d-250823191557.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
