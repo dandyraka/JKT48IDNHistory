@@ -1448,3 +1448,5 @@
 | 1444 | Aralie | hii | Sabtu, 23 Agt 2025 21:55:10 | <img src="https://cdn.idntimes.com/content-images/post/20250823/f001ba66-3c51-4849-9afa-13cf74eb1571-250823215453.jpg" alt="hii" width="200"/> |
 | 1445 | Levi | Ayo ngobrol bareng! | Minggu, 24 Agt 2025 19:06:02 | <img src="https://cdn.idntimes.com/content-images/post/20250824/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-250824190547.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1446 | Rilly | Ayo ngobrol bareng! | Minggu, 24 Agt 2025 19:48:01 | <img src="https://cdn.idntimes.com/content-images/post/20250824/e9170998-f026-4186-bbc5-a17a3b5b2af1-250824194750.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1447 | Maira | Ayo ngobrol bareng! | Minggu, 24 Agt 2025 20:18:37 | <img src="https://cdn.idntimes.com/content-images/post/20250824/7599c984-c466-4962-8c5b-73c1d33d59d9-250824201820.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1448 | Virgi | Ayo ngobrol bareng! | Minggu, 24 Agt 2025 20:29:46 | <img src="https://cdn.idntimes.com/content-images/post/20250824/147e83c8-f3ac-4680-9141-2f518b4b7810-250824202932.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
