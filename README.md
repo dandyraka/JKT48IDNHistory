@@ -1465,3 +1465,4 @@
 | 1461 | Greesel | Ayo ngobrol bareng! | Senin, 25 Agt 2025 18:28:24 | <img src="https://cdn.idntimes.com/content-images/post/20250825/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250825182816.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1462 | Mikaela | Ayo ngobrol bareng! | Senin, 25 Agt 2025 22:19:34 | <img src="https://cdn.idntimes.com/content-images/post/20250825/a557ba58-12d8-4260-bd50-9e5252ac71ef-250825221921.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1463 | Jemima | Ayo ngobrol bareng! | Senin, 25 Agt 2025 22:20:15 | <img src="https://cdn.idntimes.com/content-images/post/20250825/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250825222000.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1464 | Gita | Gits | Selasa, 26 Agt 2025 13:43:27 | <img src="https://cdn.idntimes.com/content-images/post/20250826/82ffac10-ee56-43d0-ad38-ce432384cfe5-250826134313.jpg" alt="Gits" width="200"/> |
