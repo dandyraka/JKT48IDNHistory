@@ -1473,3 +1473,4 @@
 | 1469 | Virgi | Ayo ngobrol bareng! | Kamis, 28 Agt 2025 12:29:14 | <img src="https://cdn.idntimes.com/content-images/post/20250828/147e83c8-f3ac-4680-9141-2f518b4b7810-250828122906.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1470 | Virgi | Ayo ngobrol bareng! | Kamis, 28 Agt 2025 12:49:53 | <img src="https://cdn.idntimes.com/content-images/post/20250828/147e83c8-f3ac-4680-9141-2f518b4b7810-250828124945.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1471 | Giaa | soreee | Kamis, 28 Agt 2025 13:58:06 | <img src="https://cdn.idntimes.com/content-images/post/20250828/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250828135756.jpg" alt="soreee" width="200"/> |
+| 1472 | Mikaela | Ayo ngobrol bareng! | Kamis, 28 Agt 2025 19:18:46 | <img src="https://cdn.idntimes.com/content-images/post/20250828/a557ba58-12d8-4260-bd50-9e5252ac71ef-250828191834.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
