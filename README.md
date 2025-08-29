@@ -1479,3 +1479,4 @@
 | 1475 | Intan | bub | Kamis, 28 Agt 2025 21:19:08 | <img src="https://cdn.idntimes.com/content-images/post/20250828/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250828211852.jpg" alt="bub" width="200"/> |
 | 1476 | Intan | bub | Kamis, 28 Agt 2025 21:30:50 | <img src="https://cdn.idntimes.com/content-images/post/20250828/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250828213035.jpg" alt="bub" width="200"/> |
 | 1477 | Ekin | Ayo ngobrol bareng! | Kamis, 28 Agt 2025 21:32:32 | <img src="https://cdn.idntimes.com/content-images/post/20250828/85f369d7-6525-41c0-94b8-9a56686713eb-250828213219.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1478 | Mikaela | Ayo ngobrol bareng! | Jumat, 29 Agt 2025 18:25:58 | <img src="https://cdn.idntimes.com/content-images/post/20250829/a557ba58-12d8-4260-bd50-9e5252ac71ef-250829182545.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
