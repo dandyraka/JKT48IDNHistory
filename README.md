@@ -1483,3 +1483,4 @@
 | 1479 | Gracia | it’s my bday! | Minggu, 31 Agt 2025 23:45:37 | <img src="https://cdn.idntimes.com/content-images/post/20250831/ffbdaf60-9c8c-4897-82ef-fc3e7f6deb9c-250831234524.jpg" alt="it’s my bday!" width="200"/> |
 | 1480 | Cynthia | Ayo ngobrol bareng! | Sabtu, 6 Sep 2025 15:18:22 | <img src="https://cdn.idntimes.com/content-images/post/20250906/4f795073-38c9-4df7-9388-74b83de69801-250906151811.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1481 | Fritzy | unboxing mini piji | Senin, 8 Sep 2025 19:01:41 | <img src="https://cdn.idntimes.com/content-images/post/20250908/717109e0-a064-4f15-8187-5c4d46e56a58-250908190128.jpg" alt="unboxing mini piji" width="200"/> |
+| 1482 | Greesel | Ayo ngobrol bareng! | Senin, 8 Sep 2025 22:02:40 | <img src="https://cdn.idntimes.com/content-images/post/20250908/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250908220232.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
