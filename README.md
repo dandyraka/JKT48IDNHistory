@@ -1486,3 +1486,4 @@
 | 1482 | Greesel | Ayo ngobrol bareng! | Senin, 8 Sep 2025 22:02:40 | <img src="https://cdn.idntimes.com/content-images/post/20250908/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250908220232.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1483 | Gracie | yay | Senin, 8 Sep 2025 22:15:31 | <img src="https://cdn.idntimes.com/content-images/post/20250908/cae4d972-5f14-4512-9706-37c1802a0541-250908221521.jpg" alt="yay" width="200"/> |
 | 1484 | Daisy | Haiii🫶🏻 | Senin, 8 Sep 2025 22:59:59 | <img src="https://cdn.idntimes.com/content-images/post/20250908/b11b0692-d0b8-464c-849a-9e81439a048c-250908225943.jpg" alt="Haiii🫶🏻" width="200"/> |
+| 1485 | Daisy | 🥹 | Senin, 8 Sep 2025 23:16:52 | <img src="https://cdn.idntimes.com/content-images/post/20250908/b11b0692-d0b8-464c-849a-9e81439a048c-250908231637.jpg" alt="🥹" width="200"/> |
