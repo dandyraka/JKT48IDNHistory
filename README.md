@@ -1487,3 +1487,4 @@
 | 1483 | Gracie | yay | Senin, 8 Sep 2025 22:15:31 | <img src="https://cdn.idntimes.com/content-images/post/20250908/cae4d972-5f14-4512-9706-37c1802a0541-250908221521.jpg" alt="yay" width="200"/> |
 | 1484 | Daisy | Haiii🫶🏻 | Senin, 8 Sep 2025 22:59:59 | <img src="https://cdn.idntimes.com/content-images/post/20250908/b11b0692-d0b8-464c-849a-9e81439a048c-250908225943.jpg" alt="Haiii🫶🏻" width="200"/> |
 | 1485 | Daisy | 🥹 | Senin, 8 Sep 2025 23:16:52 | <img src="https://cdn.idntimes.com/content-images/post/20250908/b11b0692-d0b8-464c-849a-9e81439a048c-250908231637.jpg" alt="🥹" width="200"/> |
+| 1486 | Trisha | haloooooo | Selasa, 9 Sep 2025 17:23:08 | <img src="https://cdn.idntimes.com/content-images/post/20250909/92d66abb-0171-4a2b-a30d-37ad58359248-250909172301.jpg" alt="haloooooo" width="200"/> |
