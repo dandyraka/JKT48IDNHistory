@@ -1489,3 +1489,5 @@
 | 1485 | Daisy | 🥹 | Senin, 8 Sep 2025 23:16:52 | <img src="https://cdn.idntimes.com/content-images/post/20250908/b11b0692-d0b8-464c-849a-9e81439a048c-250908231637.jpg" alt="🥹" width="200"/> |
 | 1486 | Trisha | haloooooo | Selasa, 9 Sep 2025 17:23:08 | <img src="https://cdn.idntimes.com/content-images/post/20250909/92d66abb-0171-4a2b-a30d-37ad58359248-250909172301.jpg" alt="haloooooo" width="200"/> |
 | 1487 | Maira | Ayo ngobrol bareng! | Selasa, 9 Sep 2025 18:39:39 | <img src="https://cdn.idntimes.com/content-images/post/20250909/7599c984-c466-4962-8c5b-73c1d33d59d9-250909183924.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1488 | Mikaela | Ayo ngobrol bareng! | Selasa, 9 Sep 2025 19:31:15 | <img src="https://cdn.idntimes.com/content-images/post/20250909/a557ba58-12d8-4260-bd50-9e5252ac71ef-250909193103.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1489 | Nayla | Welcome  | Selasa, 9 Sep 2025 19:34:08 | <img src="https://cdn.idntimes.com/content-images/post/20250909/e243be19-74b7-435b-8e19-13fc669e0224-250909193400.jpg" alt="Welcome " width="200"/> |
