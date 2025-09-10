@@ -1503,3 +1503,5 @@
 | 1499 | Maira | Ayo ngobrol bareng! | Rabu, 10 Sep 2025 16:39:25 | <img src="https://cdn.idntimes.com/content-images/post/20250910/7599c984-c466-4962-8c5b-73c1d33d59d9-250910163910.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1500 | Kimmy | haiahuahaui | Rabu, 10 Sep 2025 17:10:56 | <img src="https://cdn.idntimes.com/content-images/post/20250910/52c5c190-3611-4def-866f-76c32c0b837e-250910171046.jpg" alt="haiahuahaui" width="200"/> |
 | 1501 | Levi | hellooooo | Rabu, 10 Sep 2025 18:13:15 | <img src="https://cdn.idntimes.com/content-images/post/20250910/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-250910181307.jpg" alt="hellooooo" width="200"/> |
+| 1502 | Greesel | Ayo ngobrol bareng! | Rabu, 10 Sep 2025 18:55:19 | <img src="https://cdn.idntimes.com/content-images/post/20250910/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250910185509.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1503 | Gracie | :) | Rabu, 10 Sep 2025 19:09:32 | <img src="https://cdn.idntimes.com/content-images/post/20250910/cae4d972-5f14-4512-9706-37c1802a0541-250910190923.jpg" alt=":)" width="200"/> |
