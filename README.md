@@ -1510,3 +1510,5 @@
 | 1506 | Jemima | Ayo ngobrol bareng! | Rabu, 10 Sep 2025 20:20:11 | <img src="https://cdn.idntimes.com/content-images/post/20250910/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250910201956.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1507 | Danella | Hi | Rabu, 10 Sep 2025 20:44:08 | <img src="https://cdn.idntimes.com/content-images/post/20250910/33139b05-1c43-4b48-bba3-ec960b18b36e-250910204358.jpg" alt="Hi" width="200"/> |
 | 1508 | Delynn | Hi | Rabu, 10 Sep 2025 21:06:31 | <img src="https://cdn.idntimes.com/content-images/post/20250910/266ef38a-da00-4d13-ba77-f94da68599ee-250910210624.jpg" alt="Hi" width="200"/> |
+| 1509 | Intan | hoi | Rabu, 10 Sep 2025 21:55:39 | <img src="https://cdn.idntimes.com/content-images/post/20250910/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250910215523.jpg" alt="hoi" width="200"/> |
+| 1510 | Fiony | Kangen ngobrolll | Rabu, 10 Sep 2025 22:08:52 | <img src="https://cdn.idntimes.com/content-images/post/20250910/85482779-8b59-4995-a600-f8a4230c29d8-250910220844.jpg" alt="Kangen ngobrolll" width="200"/> |
