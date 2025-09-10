@@ -1501,3 +1501,4 @@
 | 1497 | Greesel | antri | Rabu, 10 Sep 2025 16:16:52 | <img src="https://cdn.idntimes.com/content-images/post/20250910/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250910161640.jpg" alt="antri" width="200"/> |
 | 1498 | Lily | Hi | Rabu, 10 Sep 2025 16:37:36 | <img src="https://cdn.idntimes.com/content-images/post/20250910/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250910163728.jpg" alt="Hi" width="200"/> |
 | 1499 | Maira | Ayo ngobrol bareng! | Rabu, 10 Sep 2025 16:39:25 | <img src="https://cdn.idntimes.com/content-images/post/20250910/7599c984-c466-4962-8c5b-73c1d33d59d9-250910163910.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1500 | Kimmy | haiahuahaui | Rabu, 10 Sep 2025 17:10:56 | <img src="https://cdn.idntimes.com/content-images/post/20250910/52c5c190-3611-4def-866f-76c32c0b837e-250910171046.jpg" alt="haiahuahaui" width="200"/> |
