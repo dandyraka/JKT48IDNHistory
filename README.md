@@ -1498,3 +1498,4 @@
 | 1494 | Intan | Ayo ngobrol bareng! | Selasa, 9 Sep 2025 21:23:20 | <img src="https://cdn.idntimes.com/content-images/post/20250909/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250909212247.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1495 | Ekin | Ayo ngobrol bareng! | Selasa, 9 Sep 2025 21:59:00 | <img src="https://cdn.idntimes.com/content-images/post/20250909/85f369d7-6525-41c0-94b8-9a56686713eb-250909215847.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1496 | Giaa | oiii join | Selasa, 9 Sep 2025 22:04:07 | <img src="https://cdn.idntimes.com/content-images/post/20250909/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250909220357.jpg" alt="oiii join" width="200"/> |
+| 1497 | Greesel | antri | Rabu, 10 Sep 2025 16:16:52 | <img src="https://cdn.idntimes.com/content-images/post/20250910/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250910161640.jpg" alt="antri" width="200"/> |
