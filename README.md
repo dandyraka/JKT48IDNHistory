@@ -1507,3 +1507,4 @@
 | 1503 | Gracie | :) | Rabu, 10 Sep 2025 19:09:32 | <img src="https://cdn.idntimes.com/content-images/post/20250910/cae4d972-5f14-4512-9706-37c1802a0541-250910190923.jpg" alt=":)" width="200"/> |
 | 1504 | Aralie | hai | Rabu, 10 Sep 2025 19:29:31 | <img src="https://cdn.idntimes.com/content-images/post/20250910/f001ba66-3c51-4849-9afa-13cf74eb1571-250910192922.jpg" alt="hai" width="200"/> |
 | 1505 | Virgi | Ayo ngobrol bareng! | Rabu, 10 Sep 2025 19:59:39 | <img src="https://cdn.idntimes.com/content-images/post/20250910/147e83c8-f3ac-4680-9141-2f518b4b7810-250910195931.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1506 | Jemima | Ayo ngobrol bareng! | Rabu, 10 Sep 2025 20:20:11 | <img src="https://cdn.idntimes.com/content-images/post/20250910/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250910201956.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
