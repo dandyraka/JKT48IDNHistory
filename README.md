@@ -1525,3 +1525,5 @@
 | 1521 | Virgi | Ayo ngobrol bareng! | Jumat, 12 Sep 2025 21:19:30 | <img src="https://cdn.idntimes.com/content-images/post/20250912/147e83c8-f3ac-4680-9141-2f518b4b7810-250912211922.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1522 | Intan | hii | Jumat, 12 Sep 2025 21:28:00 | <img src="https://cdn.idntimes.com/content-images/post/20250912/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250912212744.jpg" alt="hii" width="200"/> |
 | 1523 | Mikaela | Ayo ngobrol bareng! | Jumat, 12 Sep 2025 21:33:00 | <img src="https://cdn.idntimes.com/content-images/post/20250912/a557ba58-12d8-4260-bd50-9e5252ac71ef-250912213248.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1524 | Nayla | Ayo ngobrol bareng! | Jumat, 12 Sep 2025 22:15:14 | <img src="https://cdn.idntimes.com/content-images/post/20250912/e243be19-74b7-435b-8e19-13fc669e0224-250912221506.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1525 | Giaa | malamm oll | Jumat, 12 Sep 2025 22:15:23 | <img src="https://cdn.idntimes.com/content-images/post/20250912/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250912221514.jpg" alt="malamm oll" width="200"/> |
