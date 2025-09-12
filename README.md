@@ -1518,3 +1518,4 @@
 | 1514 | Indira | halooo | Rabu, 10 Sep 2025 22:56:13 | <img src="https://cdn.idntimes.com/content-images/post/20250910/101e8521-4f90-4b0e-9bff-fc4d1923e82d-250910225558.jpg" alt="halooo" width="200"/> |
 | 1515 | Lily | Sarapan | Kamis, 11 Sep 2025 10:44:52 | <img src="https://cdn.idntimes.com/content-images/post/20250911/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250911104444.jpg" alt="Sarapan" width="200"/> |
 | 1516 | Lily | Mam | Kamis, 11 Sep 2025 10:55:19 | <img src="https://cdn.idntimes.com/content-images/post/20250911/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250911105512.jpg" alt="Mam" width="200"/> |
+| 1517 | Greesel | Ayo ngobrol bareng! | Jumat, 12 Sep 2025 14:49:33 | <img src="https://cdn.idntimes.com/content-images/post/20250912/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250912144921.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
