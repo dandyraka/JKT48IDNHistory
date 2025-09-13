@@ -1529,3 +1529,4 @@
 | 1525 | Giaa | malamm oll | Jumat, 12 Sep 2025 22:15:23 | <img src="https://cdn.idntimes.com/content-images/post/20250912/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250912221514.jpg" alt="malamm oll" width="200"/> |
 | 1526 | Jemima | haiii!!!! | Sabtu, 13 Sep 2025 21:09:55 | <img src="https://cdn.idntimes.com/content-images/post/20250913/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250913210940.jpg" alt="haiii!!!!" width="200"/> |
 | 1527 | Nala | Ayo ngobrol bareng! | Sabtu, 13 Sep 2025 21:10:56 | <img src="https://cdn.idntimes.com/content-images/post/20250913/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-250913211048.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1528 | Trisha | haloooo | Sabtu, 13 Sep 2025 22:54:13 | <img src="https://cdn.idntimes.com/content-images/post/20250913/92d66abb-0171-4a2b-a30d-37ad58359248-250913225405.jpg" alt="haloooo" width="200"/> |
