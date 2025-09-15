@@ -1539,3 +1539,4 @@
 | 1535 | Erine | Diantara kaudana  | Minggu, 14 Sep 2025 21:44:39 | <img src="https://cdn.idntimes.com/content-images/post/20250914/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-250914214432.jpg" alt="Diantara kaudana " width="200"/> |
 | 1536 | Nachia | yaya | Minggu, 14 Sep 2025 21:53:41 | <img src="https://cdn.idntimes.com/content-images/post/20250914/21a420b0-dd01-4daa-b185-b9020f8bf69d-250914215329.jpg" alt="yaya" width="200"/> |
 | 1537 | Trisha | halooo | Minggu, 14 Sep 2025 23:20:20 | <img src="https://cdn.idntimes.com/content-images/post/20250914/92d66abb-0171-4a2b-a30d-37ad58359248-250914232012.jpg" alt="halooo" width="200"/> |
+| 1538 | Lia | Ayo ngobrol bareng! | Senin, 15 Sep 2025 13:07:31 | <img src="https://cdn.idntimes.com/content-images/post/20250915/15dfee86-a928-4a15-8c90-6aa21097d0ff-250915130722.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
