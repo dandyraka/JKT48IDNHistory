@@ -1573,3 +1573,4 @@
 | 1569 | Mikaela | Ayo ngobrol bareng! | Rabu, 17 Sep 2025 21:12:41 | <img src="https://cdn.idntimes.com/content-images/post/20250917/a557ba58-12d8-4260-bd50-9e5252ac71ef-250917211228.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1570 | Delynn | Haii | Rabu, 17 Sep 2025 21:16:41 | <img src="https://cdn.idntimes.com/content-images/post/20250917/266ef38a-da00-4d13-ba77-f94da68599ee-250917211635.jpg" alt="Haii" width="200"/> |
 | 1571 | Virgi | Ayo ngobrol bareng! | Rabu, 17 Sep 2025 21:30:22 | <img src="https://cdn.idntimes.com/content-images/post/20250917/147e83c8-f3ac-4680-9141-2f518b4b7810-250917213015.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1572 | Lily | Sama ubi ungu | Rabu, 17 Sep 2025 21:35:20 | <img src="https://cdn.idntimes.com/content-images/post/20250917/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250917213508.jpg" alt="Sama ubi ungu" width="200"/> |
