@@ -1578,3 +1578,4 @@
 | 1574 | Gita | Gitss | Kamis, 18 Sep 2025 15:36:28 | <img src="https://cdn.idntimes.com/content-images/post/20250918/82ffac10-ee56-43d0-ad38-ce432384cfe5-250918153614.jpg" alt="Gitss" width="200"/> |
 | 1575 | Greesel | Ayo ngobrol bareng! | Kamis, 18 Sep 2025 16:26:30 | <img src="https://cdn.idntimes.com/content-images/post/20250918/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250918162621.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1576 | Lana | Ayo ngobrol bareng! | Kamis, 18 Sep 2025 19:04:26 | <img src="https://cdn.idntimes.com/content-images/post/20250918/e2af7271-2598-4ee8-8760-68043e671e6d-250918190417.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1577 | Fritzy | unboxing👀 | Kamis, 18 Sep 2025 19:31:34 | <img src="https://cdn.idntimes.com/content-images/post/20250918/717109e0-a064-4f15-8187-5c4d46e56a58-250918193120.jpg" alt="unboxing👀" width="200"/> |
