@@ -1580,3 +1580,5 @@
 | 1576 | Lana | Ayo ngobrol bareng! | Kamis, 18 Sep 2025 19:04:26 | <img src="https://cdn.idntimes.com/content-images/post/20250918/e2af7271-2598-4ee8-8760-68043e671e6d-250918190417.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1577 | Fritzy | unboxing👀 | Kamis, 18 Sep 2025 19:31:34 | <img src="https://cdn.idntimes.com/content-images/post/20250918/717109e0-a064-4f15-8187-5c4d46e56a58-250918193120.jpg" alt="unboxing👀" width="200"/> |
 | 1578 | Amanda | Yapping ria  | Kamis, 18 Sep 2025 22:37:05 | <img src="https://cdn.idntimes.com/content-images/post/20250918/e8aa0877-684a-4430-8a3b-d96302e53aab-250918223654.jpg" alt="Yapping ria " width="200"/> |
+| 1579 | Amanda | Ulang | Kamis, 18 Sep 2025 22:55:40 | <img src="https://cdn.idntimes.com/content-images/post/20250918/e8aa0877-684a-4430-8a3b-d96302e53aab-250918225528.jpg" alt="Ulang" width="200"/> |
+| 1580 | Cynthia | Ayo ngobrol bareng! | Kamis, 18 Sep 2025 22:57:56 | <img src="https://cdn.idntimes.com/content-images/post/20250918/4f795073-38c9-4df7-9388-74b83de69801-250918225744.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
