@@ -1582,3 +1582,4 @@
 | 1578 | Amanda | Yapping ria  | Kamis, 18 Sep 2025 22:37:05 | <img src="https://cdn.idntimes.com/content-images/post/20250918/e8aa0877-684a-4430-8a3b-d96302e53aab-250918223654.jpg" alt="Yapping ria " width="200"/> |
 | 1579 | Amanda | Ulang | Kamis, 18 Sep 2025 22:55:40 | <img src="https://cdn.idntimes.com/content-images/post/20250918/e8aa0877-684a-4430-8a3b-d96302e53aab-250918225528.jpg" alt="Ulang" width="200"/> |
 | 1580 | Cynthia | Ayo ngobrol bareng! | Kamis, 18 Sep 2025 22:57:56 | <img src="https://cdn.idntimes.com/content-images/post/20250918/4f795073-38c9-4df7-9388-74b83de69801-250918225744.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1581 | Lily | Sarapan | Jumat, 19 Sep 2025 10:37:12 | <img src="https://cdn.idntimes.com/content-images/post/20250919/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250919103706.jpg" alt="Sarapan" width="200"/> |
