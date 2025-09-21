@@ -1593,3 +1593,4 @@
 | 1589 | Virgi | Ayo ngobrol bareng! | Minggu, 21 Sep 2025 13:35:46 | <img src="https://cdn.idntimes.com/content-images/post/20250921/147e83c8-f3ac-4680-9141-2f518b4b7810-250921133538.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1590 | Jemima | Ayo ngobrol bareng! | Minggu, 21 Sep 2025 13:35:53 | <img src="https://cdn.idntimes.com/content-images/post/20250921/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250921133536.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1591 | Giaa | bareng jem and virgi | Minggu, 21 Sep 2025 14:21:42 | <img src="https://cdn.idntimes.com/content-images/post/20250921/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-250921142134.jpg" alt="bareng jem and virgi" width="200"/> |
+| 1592 | Levi | Ayo ngobrol bareng! | Minggu, 21 Sep 2025 20:30:10 | <img src="https://cdn.idntimes.com/content-images/post/20250921/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-250921203002.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
