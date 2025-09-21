@@ -1590,3 +1590,5 @@
 | 1586 | Danella | Ayo ngobrol bareng! | Sabtu, 20 Sep 2025 23:13:00 | <img src="https://cdn.idntimes.com/content-images/post/20250920/33139b05-1c43-4b48-bba3-ec960b18b36e-250920231252.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1587 | Cynthia | Udah tidur belom?? | Minggu, 21 Sep 2025 00:54:07 | <img src="https://cdn.idntimes.com/content-images/post/20250921/4f795073-38c9-4df7-9388-74b83de69801-250921005356.jpg" alt="Udah tidur belom??" width="200"/> |
 | 1588 | Lily | Hii | Minggu, 21 Sep 2025 12:12:14 | <img src="https://cdn.idntimes.com/content-images/post/20250921/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250921121207.jpg" alt="Hii" width="200"/> |
+| 1589 | Virgi | Ayo ngobrol bareng! | Minggu, 21 Sep 2025 13:35:46 | <img src="https://cdn.idntimes.com/content-images/post/20250921/147e83c8-f3ac-4680-9141-2f518b4b7810-250921133538.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1590 | Jemima | Ayo ngobrol bareng! | Minggu, 21 Sep 2025 13:35:53 | <img src="https://cdn.idntimes.com/content-images/post/20250921/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250921133536.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
