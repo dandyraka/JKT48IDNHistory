@@ -1597,3 +1597,4 @@
 | 1593 | Mikaela | Ayo ngobrol bareng! | Minggu, 21 Sep 2025 21:24:59 | <img src="https://cdn.idntimes.com/content-images/post/20250921/a557ba58-12d8-4260-bd50-9e5252ac71ef-250921212446.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1594 | Delynn | Malan | Minggu, 21 Sep 2025 21:31:27 | <img src="https://cdn.idntimes.com/content-images/post/20250921/266ef38a-da00-4d13-ba77-f94da68599ee-250921213120.jpg" alt="Malan" width="200"/> |
 | 1595 | Ribka | Ayo ngobrol bareng! | Minggu, 21 Sep 2025 21:42:04 | <img src="https://cdn.idntimes.com/content-images/post/20250921/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250921214148.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1596 | Gita | Gits | Senin, 22 Sep 2025 16:46:24 | <img src="https://cdn.idntimes.com/content-images/post/20250922/82ffac10-ee56-43d0-ad38-ce432384cfe5-250922164610.jpg" alt="Gits" width="200"/> |
