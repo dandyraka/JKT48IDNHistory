@@ -1599,3 +1599,4 @@
 | 1595 | Ribka | Ayo ngobrol bareng! | Minggu, 21 Sep 2025 21:42:04 | <img src="https://cdn.idntimes.com/content-images/post/20250921/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250921214148.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1596 | Gita | Gits | Senin, 22 Sep 2025 16:46:24 | <img src="https://cdn.idntimes.com/content-images/post/20250922/82ffac10-ee56-43d0-ad38-ce432384cfe5-250922164610.jpg" alt="Gits" width="200"/> |
 | 1597 | Lia | Ayo ngobrol bareng! | Senin, 22 Sep 2025 16:47:00 | <img src="https://cdn.idntimes.com/content-images/post/20250922/15dfee86-a928-4a15-8c90-6aa21097d0ff-250922164651.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1598 | Indah | Ayo ngobrol bareng! | Senin, 22 Sep 2025 19:32:44 | <img src="https://cdn.idntimes.com/content-images/post/20250922/539f5185-1414-416c-b84d-2ad366b6d60a-250922193236.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
