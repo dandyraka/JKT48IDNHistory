@@ -1613,3 +1613,4 @@
 | 1609 | Kathrina | Ayo ngobrol bareng! | Selasa, 23 Sep 2025 18:22:14 | <img src="https://cdn.idntimes.com/content-images/post/20250923/c3d28bcd-d000-4ccc-a9bf-956853cfa433-250923182200.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1610 | Lulu | hiiii>< | Selasa, 23 Sep 2025 19:15:13 | <img src="https://cdn.idntimes.com/content-images/post/20250923/531d1bc0-ee91-475f-9e9d-098127b8d383-250923191501.jpg" alt="hiiii><" width="200"/> |
 | 1611 | Lulu | bdts | Selasa, 23 Sep 2025 19:54:10 | <img src="https://cdn.idntimes.com/content-images/post/20250923/531d1bc0-ee91-475f-9e9d-098127b8d383-250923195355.jpg" alt="bdts" width="200"/> |
+| 1612 | Eli | Ayo ngobrol bareng! | Selasa, 23 Sep 2025 20:18:02 | <img src="https://cdn.idntimes.com/content-images/post/20250923/1f119aa1-3482-44b6-9f68-2ad41c8d6743-250923201751.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
