@@ -1616,3 +1616,4 @@
 | 1612 | Eli | Ayo ngobrol bareng! | Selasa, 23 Sep 2025 20:18:02 | <img src="https://cdn.idntimes.com/content-images/post/20250923/1f119aa1-3482-44b6-9f68-2ad41c8d6743-250923201751.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1613 | Lana | Ayo ngobrol bareng! | Selasa, 23 Sep 2025 22:00:51 | <img src="https://cdn.idntimes.com/content-images/post/20250923/e2af7271-2598-4ee8-8760-68043e671e6d-250923220043.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1614 | Delynn | Hy | Rabu, 24 Sep 2025 19:27:53 | <img src="https://cdn.idntimes.com/content-images/post/20250924/266ef38a-da00-4d13-ba77-f94da68599ee-250924192747.jpg" alt="Hy" width="200"/> |
+| 1615 | Jessi | 20 | Rabu, 24 Sep 2025 22:07:38 | <img src="https://cdn.idntimes.com/content-images/post/20250924/a9579a29-9203-40c0-9326-9837b8eae6e8-250924220729.jpg" alt="20" width="200"/> |
