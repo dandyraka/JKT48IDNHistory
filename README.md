@@ -1618,3 +1618,4 @@
 | 1614 | Delynn | Hy | Rabu, 24 Sep 2025 19:27:53 | <img src="https://cdn.idntimes.com/content-images/post/20250924/266ef38a-da00-4d13-ba77-f94da68599ee-250924192747.jpg" alt="Hy" width="200"/> |
 | 1615 | Jessi | 20 | Rabu, 24 Sep 2025 22:07:38 | <img src="https://cdn.idntimes.com/content-images/post/20250924/a9579a29-9203-40c0-9326-9837b8eae6e8-250924220729.jpg" alt="20" width="200"/> |
 | 1616 | Rilly | Ayo ngobrol bareng! | Kamis, 25 Sep 2025 12:49:59 | <img src="https://cdn.idntimes.com/content-images/post/20250925/e9170998-f026-4186-bbc5-a17a3b5b2af1-250925124951.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1617 | Nachia | ninaninu | Kamis, 25 Sep 2025 14:41:35 | <img src="https://cdn.idntimes.com/content-images/post/20250925/21a420b0-dd01-4daa-b185-b9020f8bf69d-250925144127.jpg" alt="ninaninu" width="200"/> |
