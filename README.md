@@ -1621,3 +1621,4 @@
 | 1617 | Nachia | ninaninu | Kamis, 25 Sep 2025 14:41:35 | <img src="https://cdn.idntimes.com/content-images/post/20250925/21a420b0-dd01-4daa-b185-b9020f8bf69d-250925144127.jpg" alt="ninaninu" width="200"/> |
 | 1618 | Ribka | Ayo ngobrol bareng! | Kamis, 25 Sep 2025 20:16:40 | <img src="https://cdn.idntimes.com/content-images/post/20250925/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250925201632.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1619 | Delynn | Haiho | Kamis, 25 Sep 2025 20:25:07 | <img src="https://cdn.idntimes.com/content-images/post/20250925/266ef38a-da00-4d13-ba77-f94da68599ee-250925202459.jpg" alt="Haiho" width="200"/> |
+| 1620 | Erine | Ayo ngobrol bareng! | Kamis, 25 Sep 2025 22:51:45 | <img src="https://cdn.idntimes.com/content-images/post/20250925/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-250925225138.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
