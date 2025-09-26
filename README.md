@@ -1624,3 +1624,4 @@
 | 1620 | Erine | Ayo ngobrol bareng! | Kamis, 25 Sep 2025 22:51:45 | <img src="https://cdn.idntimes.com/content-images/post/20250925/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-250925225138.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1621 | Lulu | masakkkk:3 | Jumat, 26 Sep 2025 16:52:51 | <img src="https://cdn.idntimes.com/content-images/post/20250926/531d1bc0-ee91-475f-9e9d-098127b8d383-250926165240.jpg" alt="masakkkk:3" width="200"/> |
 | 1622 | Greesel | Ayo ngobrol bareng! | Jumat, 26 Sep 2025 18:54:59 | <img src="https://cdn.idntimes.com/content-images/post/20250926/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250926185452.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1623 | Nala | Ayo ngobrol bareng! | Jumat, 26 Sep 2025 20:38:24 | <img src="https://cdn.idntimes.com/content-images/post/20250926/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-250926203813.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
