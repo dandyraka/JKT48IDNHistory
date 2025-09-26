@@ -1631,3 +1631,4 @@
 | 1627 | Jemima | Ayo ngobrol bareng! | Jumat, 26 Sep 2025 21:48:31 | <img src="https://cdn.idntimes.com/content-images/post/20250926/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-250926214815.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1628 | Chelsea | quick liveeee | Jumat, 26 Sep 2025 21:55:55 | <img src="https://cdn.idntimes.com/content-images/post/20250926/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-250926215547.jpg" alt="quick liveeee" width="200"/> |
 | 1629 | Intan | Ayo ngobrol bareng! | Jumat, 26 Sep 2025 21:56:56 | <img src="https://cdn.idntimes.com/content-images/post/20250926/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-250926215629.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1630 | Mikaela | Ayo ngobrol bareng! | Jumat, 26 Sep 2025 23:30:19 | <img src="https://cdn.idntimes.com/content-images/post/20250926/a557ba58-12d8-4260-bd50-9e5252ac71ef-250926233006.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
