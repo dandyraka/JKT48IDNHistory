@@ -1642,3 +1642,4 @@
 | 1638 | Cynthia | Ayo ngobrol bareng! | Minggu, 28 Sep 2025 12:05:15 | <img src="https://cdn.idntimes.com/content-images/post/20250928/4f795073-38c9-4df7-9388-74b83de69801-250928120502.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1639 | Cynthia | Ayo ngobrol bareng! | Minggu, 28 Sep 2025 12:43:41 | <img src="https://cdn.idntimes.com/content-images/post/20250928/4f795073-38c9-4df7-9388-74b83de69801-250928124329.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1640 | Maira | Ayo ngobrol bareng! | Minggu, 28 Sep 2025 19:03:06 | <img src="https://cdn.idntimes.com/content-images/post/20250928/7599c984-c466-4962-8c5b-73c1d33d59d9-250928190251.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1641 | Nayla | Ayo ngobrol bareng! | Minggu, 28 Sep 2025 21:15:55 | <img src="https://cdn.idntimes.com/content-images/post/20250928/e243be19-74b7-435b-8e19-13fc669e0224-250928211547.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
