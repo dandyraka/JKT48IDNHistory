@@ -1645,3 +1645,4 @@
 | 1641 | Nayla | Ayo ngobrol bareng! | Minggu, 28 Sep 2025 21:15:55 | <img src="https://cdn.idntimes.com/content-images/post/20250928/e243be19-74b7-435b-8e19-13fc669e0224-250928211547.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1642 | Lily | Haii | Minggu, 28 Sep 2025 22:04:39 | <img src="https://cdn.idntimes.com/content-images/post/20250928/e25cfed0-757c-424a-9b6e-85d4ef5b5192-250928220432.jpg" alt="Haii" width="200"/> |
 | 1643 | Trisha | hai | Senin, 29 Sep 2025 17:19:07 | <img src="https://cdn.idntimes.com/content-images/post/20250929/92d66abb-0171-4a2b-a30d-37ad58359248-250929171858.jpg" alt="hai" width="200"/> |
+| 1644 | Ribka | Ayo ngobrol bareng! | Senin, 29 Sep 2025 18:06:54 | <img src="https://cdn.idntimes.com/content-images/post/20250929/3cbe26d9-ff3f-4985-bbe1-c4403908124a-250929180646.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
