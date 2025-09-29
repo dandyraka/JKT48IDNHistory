@@ -1649,3 +1649,4 @@
 | 1645 | Greesel | Ayo ngobrol bareng! | Senin, 29 Sep 2025 19:09:23 | <img src="https://cdn.idntimes.com/content-images/post/20250929/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-250929190916.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1646 | Virgi | Ayo ngobrol bareng! | Senin, 29 Sep 2025 19:42:35 | <img src="https://cdn.idntimes.com/content-images/post/20250929/147e83c8-f3ac-4680-9141-2f518b4b7810-250929194227.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1647 | Delynn | Hi | Senin, 29 Sep 2025 20:16:36 | <img src="https://cdn.idntimes.com/content-images/post/20250929/266ef38a-da00-4d13-ba77-f94da68599ee-250929201628.jpg" alt="Hi" width="200"/> |
+| 1648 | Trisha | hai | Senin, 29 Sep 2025 22:05:21 | <img src="https://cdn.idntimes.com/content-images/post/20250929/92d66abb-0171-4a2b-a30d-37ad58359248-250929220508.jpg" alt="hai" width="200"/> |
