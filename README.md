@@ -1662,3 +1662,4 @@
 | 1658 | Aralie | hai | Rabu, 1 Okt 2025 19:40:09 | <img src="https://cdn.idntimes.com/content-images/post/20251001/f001ba66-3c51-4849-9afa-13cf74eb1571-251001194001.jpg" alt="hai" width="200"/> |
 | 1659 | Nala | Ayo ngobrol bareng! | Rabu, 1 Okt 2025 19:40:34 | <img src="https://cdn.idntimes.com/content-images/post/20251001/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251001194027.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1660 | Oline | Ayo ngobrol bareng! | Rabu, 1 Okt 2025 20:01:35 | <img src="https://cdn.idntimes.com/content-images/post/20251001/a2b5d818-475d-44ce-af52-e99526482aaf-251001200119.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1661 | Auwia | Karaoke gurwm | Rabu, 1 Okt 2025 20:27:05 | <img src="https://cdn.idntimes.com/content-images/post/20251001/f9500eb4-9d6d-491d-a857-40ca6f862d61-251001202652.jpg" alt="Karaoke gurwm" width="200"/> |
