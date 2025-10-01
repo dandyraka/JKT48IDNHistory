@@ -1666,3 +1666,4 @@
 | 1662 | Nayla | Ayo ngobrol bareng! | Rabu, 1 Okt 2025 21:55:22 | <img src="https://cdn.idntimes.com/content-images/post/20251001/e243be19-74b7-435b-8e19-13fc669e0224-251001215513.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1663 | Rilly | Ayo ngobrol bareng! | Rabu, 1 Okt 2025 22:10:43 | <img src="https://cdn.idntimes.com/content-images/post/20251001/e9170998-f026-4186-bbc5-a17a3b5b2af1-251001221034.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1664 | Jemima | hai lop | Rabu, 1 Okt 2025 22:15:47 | <img src="https://cdn.idntimes.com/content-images/post/20251001/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251001221531.jpg" alt="hai lop" width="200"/> |
+| 1665 | Intan | hi bub | Rabu, 1 Okt 2025 22:26:07 | <img src="https://cdn.idntimes.com/content-images/post/20251001/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251001222550.jpg" alt="hi bub" width="200"/> |
