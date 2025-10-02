@@ -1674,3 +1674,4 @@
 | 1670 | Fritzy | annyeongg! | Kamis, 2 Okt 2025 19:19:58 | <img src="https://cdn.idntimes.com/content-images/post/20251002/717109e0-a064-4f15-8187-5c4d46e56a58-251002191944.jpg" alt="annyeongg!" width="200"/> |
 | 1671 | Auwia | Grwm foto” | Kamis, 2 Okt 2025 19:28:14 | <img src="https://cdn.idntimes.com/content-images/post/20251002/f9500eb4-9d6d-491d-a857-40ca6f862d61-251002192801.jpg" alt="Grwm foto”" width="200"/> |
 | 1672 | Mikaela | Ayo ngobrol bareng! | Kamis, 2 Okt 2025 20:10:19 | <img src="https://cdn.idntimes.com/content-images/post/20251002/a557ba58-12d8-4260-bd50-9e5252ac71ef-251002201007.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1673 | Giaa | mlm | Kamis, 2 Okt 2025 20:56:13 | <img src="https://cdn.idntimes.com/content-images/post/20251002/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251002205604.jpg" alt="mlm" width="200"/> |
