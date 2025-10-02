@@ -1681,3 +1681,4 @@
 | 1677 | Virgi | Ayo ngobrol bareng! | Kamis, 2 Okt 2025 21:35:25 | <img src="https://cdn.idntimes.com/content-images/post/20251002/147e83c8-f3ac-4680-9141-2f518b4b7810-251002213512.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1678 | Aralie | hai | Kamis, 2 Okt 2025 21:37:53 | <img src="https://cdn.idntimes.com/content-images/post/20251002/f001ba66-3c51-4849-9afa-13cf74eb1571-251002213744.jpg" alt="hai" width="200"/> |
 | 1679 | Virgi | Ayo ngobrol bareng! | Kamis, 2 Okt 2025 21:49:07 | <img src="https://cdn.idntimes.com/content-images/post/20251002/147e83c8-f3ac-4680-9141-2f518b4b7810-251002214854.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1680 | Virgi | Ayo ngobrol bareng! | Kamis, 2 Okt 2025 21:55:41 | <img src="https://cdn.idntimes.com/content-images/post/20251002/147e83c8-f3ac-4680-9141-2f518b4b7810-251002215529.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
