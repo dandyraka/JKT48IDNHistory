@@ -1670,3 +1670,4 @@
 | 1666 | Ribka | Ayo ngobrol bareng! | Kamis, 2 Okt 2025 16:00:29 | <img src="https://cdn.idntimes.com/content-images/post/20251002/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251002160016.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1667 | Maira | Ayo ngobrol bareng! | Kamis, 2 Okt 2025 16:00:37 | <img src="https://cdn.idntimes.com/content-images/post/20251002/7599c984-c466-4962-8c5b-73c1d33d59d9-251002160023.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1668 | Lulu | abis belanjaa | Kamis, 2 Okt 2025 16:04:05 | <img src="https://cdn.idntimes.com/content-images/post/20251002/531d1bc0-ee91-475f-9e9d-098127b8d383-251002160353.jpg" alt="abis belanjaa" width="200"/> |
+| 1669 | Daisy | Selamat hari batik nasional! | Kamis, 2 Okt 2025 18:41:04 | <img src="https://cdn.idntimes.com/content-images/post/20251002/b11b0692-d0b8-464c-849a-9e81439a048c-251002184052.jpg" alt="Selamat hari batik nasional!" width="200"/> |
