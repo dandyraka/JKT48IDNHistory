@@ -1677,3 +1677,6 @@
 | 1673 | Giaa | mlm | Kamis, 2 Okt 2025 20:56:13 | <img src="https://cdn.idntimes.com/content-images/post/20251002/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251002205604.jpg" alt="mlm" width="200"/> |
 | 1674 | Levi | hellooo | Kamis, 2 Okt 2025 21:24:01 | <img src="https://cdn.idntimes.com/content-images/post/20251002/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251002212352.jpg" alt="hellooo" width="200"/> |
 | 1675 | Virgi | Ayo ngobrol bareng! | Kamis, 2 Okt 2025 21:24:46 | <img src="https://cdn.idntimes.com/content-images/post/20251002/147e83c8-f3ac-4680-9141-2f518b4b7810-251002212434.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1676 | Intan | bub | Kamis, 2 Okt 2025 21:33:37 | <img src="https://cdn.idntimes.com/content-images/post/20251002/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251002213320.jpg" alt="bub" width="200"/> |
+| 1677 | Virgi | Ayo ngobrol bareng! | Kamis, 2 Okt 2025 21:35:25 | <img src="https://cdn.idntimes.com/content-images/post/20251002/147e83c8-f3ac-4680-9141-2f518b4b7810-251002213512.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1678 | Aralie | hai | Kamis, 2 Okt 2025 21:37:53 | <img src="https://cdn.idntimes.com/content-images/post/20251002/f001ba66-3c51-4849-9afa-13cf74eb1571-251002213744.jpg" alt="hai" width="200"/> |
