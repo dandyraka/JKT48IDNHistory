@@ -1714,3 +1714,4 @@
 | 1710 | Mikaela | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 22:19:55 | <img src="https://cdn.idntimes.com/content-images/post/20251004/a557ba58-12d8-4260-bd50-9e5252ac71ef-251004221942.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1711 | Lana | Malming | Sabtu, 4 Okt 2025 22:43:37 | <img src="https://cdn.idntimes.com/content-images/post/20251004/e2af7271-2598-4ee8-8760-68043e671e6d-251004224328.jpg" alt="Malming" width="200"/> |
 | 1712 | Ribka | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 22:49:43 | <img src="https://cdn.idntimes.com/content-images/post/20251004/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251004224930.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1713 | Alya | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 23:03:13 | <img src="https://cdn.idntimes.com/content-images/post/20251004/74e76417-0353-487f-b9b7-7520c0398e87-251004230305.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
