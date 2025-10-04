@@ -1709,3 +1709,4 @@
 | 1705 | Delynn | Malms | Sabtu, 4 Okt 2025 20:18:38 | <img src="https://cdn.idntimes.com/content-images/post/20251004/266ef38a-da00-4d13-ba77-f94da68599ee-251004201830.jpg" alt="Malms" width="200"/> |
 | 1706 | Rilly | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 20:19:39 | <img src="https://cdn.idntimes.com/content-images/post/20251004/e9170998-f026-4186-bbc5-a17a3b5b2af1-251004201929.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1707 | Giaa | bru pulangss | Sabtu, 4 Okt 2025 21:03:54 | <img src="https://cdn.idntimes.com/content-images/post/20251004/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251004210345.jpg" alt="bru pulangss" width="200"/> |
+| 1708 | Aralie | hai | Sabtu, 4 Okt 2025 21:31:53 | <img src="https://cdn.idntimes.com/content-images/post/20251004/f001ba66-3c51-4849-9afa-13cf74eb1571-251004213144.jpg" alt="hai" width="200"/> |
