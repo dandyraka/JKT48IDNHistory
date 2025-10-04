@@ -1703,3 +1703,4 @@
 | 1699 | Daisy | Haiii GRWM makeuppp | Sabtu, 4 Okt 2025 15:12:01 | <img src="https://cdn.idntimes.com/content-images/post/20251004/b11b0692-d0b8-464c-849a-9e81439a048c-251004151152.jpg" alt="Haiii GRWM makeuppp" width="200"/> |
 | 1700 | Elin | Temenin makeup | Sabtu, 4 Okt 2025 17:42:44 | <img src="https://cdn.idntimes.com/content-images/post/20251004/e0ececb4-71d8-4f32-a221-ef21634a746a-251004174228.jpg" alt="Temenin makeup" width="200"/> |
 | 1701 | Auwia | Nyambullo | Sabtu, 4 Okt 2025 17:44:26 | <img src="https://cdn.idntimes.com/content-images/post/20251004/f9500eb4-9d6d-491d-a857-40ca6f862d61-251004174414.jpg" alt="Nyambullo" width="200"/> |
+| 1702 | Ekin | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 19:08:36 | <img src="https://cdn.idntimes.com/content-images/post/20251004/85f369d7-6525-41c0-94b8-9a56686713eb-251004190827.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
