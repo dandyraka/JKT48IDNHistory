@@ -1705,3 +1705,4 @@
 | 1701 | Auwia | Nyambullo | Sabtu, 4 Okt 2025 17:44:26 | <img src="https://cdn.idntimes.com/content-images/post/20251004/f9500eb4-9d6d-491d-a857-40ca6f862d61-251004174414.jpg" alt="Nyambullo" width="200"/> |
 | 1702 | Ekin | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 19:08:36 | <img src="https://cdn.idntimes.com/content-images/post/20251004/85f369d7-6525-41c0-94b8-9a56686713eb-251004190827.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1703 | Oline | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 19:37:23 | <img src="https://cdn.idntimes.com/content-images/post/20251004/a2b5d818-475d-44ce-af52-e99526482aaf-251004193708.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1704 | Levi | malamm | Sabtu, 4 Okt 2025 19:55:43 | <img src="https://cdn.idntimes.com/content-images/post/20251004/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251004195536.jpg" alt="malamm" width="200"/> |
