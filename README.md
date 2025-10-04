@@ -1706,3 +1706,5 @@
 | 1702 | Ekin | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 19:08:36 | <img src="https://cdn.idntimes.com/content-images/post/20251004/85f369d7-6525-41c0-94b8-9a56686713eb-251004190827.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1703 | Oline | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 19:37:23 | <img src="https://cdn.idntimes.com/content-images/post/20251004/a2b5d818-475d-44ce-af52-e99526482aaf-251004193708.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1704 | Levi | malamm | Sabtu, 4 Okt 2025 19:55:43 | <img src="https://cdn.idntimes.com/content-images/post/20251004/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251004195536.jpg" alt="malamm" width="200"/> |
+| 1705 | Delynn | Malms | Sabtu, 4 Okt 2025 20:18:38 | <img src="https://cdn.idntimes.com/content-images/post/20251004/266ef38a-da00-4d13-ba77-f94da68599ee-251004201830.jpg" alt="Malms" width="200"/> |
+| 1706 | Rilly | Ayo ngobrol bareng! | Sabtu, 4 Okt 2025 20:19:39 | <img src="https://cdn.idntimes.com/content-images/post/20251004/e9170998-f026-4186-bbc5-a17a3b5b2af1-251004201929.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
