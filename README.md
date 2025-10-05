@@ -1719,3 +1719,4 @@
 | 1715 | Maira | Ayo ngobrol bareng! | Minggu, 5 Okt 2025 08:07:02 | <img src="https://cdn.idntimes.com/content-images/post/20251005/7599c984-c466-4962-8c5b-73c1d33d59d9-251005080647.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1716 | Ribka | Ayo ngobrol bareng! | Minggu, 5 Okt 2025 23:09:43 | <img src="https://cdn.idntimes.com/content-images/post/20251005/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251005230930.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1717 | Danella | Hi | Minggu, 5 Okt 2025 23:35:18 | <img src="https://cdn.idntimes.com/content-images/post/20251005/33139b05-1c43-4b48-bba3-ec960b18b36e-251005233511.jpg" alt="Hi" width="200"/> |
+| 1718 | Cathy | Hi | Senin, 6 Okt 2025 00:25:56 | <img src="https://cdn.idntimes.com/content-images/post/20251006/f740e9da-772f-4ae2-8ddd-49f717aacf63-251006002549.jpg" alt="Hi" width="200"/> |
