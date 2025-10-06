@@ -1725,3 +1725,4 @@
 | 1721 | Lia | Ayo ngobrol bareng! | Senin, 6 Okt 2025 16:12:23 | <img src="https://cdn.idntimes.com/content-images/post/20251006/15dfee86-a928-4a15-8c90-6aa21097d0ff-251006161213.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1722 | Delynn | Malmski | Senin, 6 Okt 2025 19:43:34 | <img src="https://cdn.idntimes.com/content-images/post/20251006/266ef38a-da00-4d13-ba77-f94da68599ee-251006194326.jpg" alt="Malmski" width="200"/> |
 | 1723 | Cynthia | Ayo ngobrol bareng! | Senin, 6 Okt 2025 19:55:58 | <img src="https://cdn.idntimes.com/content-images/post/20251006/4f795073-38c9-4df7-9388-74b83de69801-251006195545.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1724 | Jemima | hiiiiii | Senin, 6 Okt 2025 20:22:27 | <img src="https://cdn.idntimes.com/content-images/post/20251006/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251006202211.jpg" alt="hiiiiii" width="200"/> |
