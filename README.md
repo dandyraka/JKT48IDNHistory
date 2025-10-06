@@ -1733,3 +1733,5 @@
 | 1729 | Gendis | Nugaz | Senin, 6 Okt 2025 21:11:58 | <img src="https://cdn.idntimes.com/content-images/post/20251006/ab901d82-db49-488c-8d03-da0082ab70e2-251006211150.jpg" alt="Nugaz" width="200"/> |
 | 1730 | Michie | hoi | Senin, 6 Okt 2025 21:12:38 | <img src="https://cdn.idntimes.com/content-images/post/20251006/6970e68a-b488-497a-b793-3a735db5e997-251006211226.jpg" alt="hoi" width="200"/> |
 | 1731 | Nayla | こんにちは！！ | Senin, 6 Okt 2025 21:20:25 | <img src="https://cdn.idntimes.com/content-images/post/20251006/e243be19-74b7-435b-8e19-13fc669e0224-251006212009.jpg" alt="こんにちは！！" width="200"/> |
+| 1732 | Eli | Ayo ngobrol bareng! | Senin, 6 Okt 2025 21:25:40 | <img src="https://cdn.idntimes.com/content-images/post/20251006/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251006212524.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1733 | Intan | bub | Senin, 6 Okt 2025 21:28:13 | <img src="https://cdn.idntimes.com/content-images/post/20251006/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251006212756.jpg" alt="bub" width="200"/> |
