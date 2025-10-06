@@ -1723,3 +1723,5 @@
 | 1719 | Trisha | haii | Senin, 6 Okt 2025 14:30:59 | <img src="https://cdn.idntimes.com/content-images/post/20251006/92d66abb-0171-4a2b-a30d-37ad58359248-251006143050.jpg" alt="haii" width="200"/> |
 | 1720 | Auwia | Sahabat atau cinta? | Senin, 6 Okt 2025 16:01:43 | <img src="https://cdn.idntimes.com/content-images/post/20251006/f9500eb4-9d6d-491d-a857-40ca6f862d61-251006160130.jpg" alt="Sahabat atau cinta?" width="200"/> |
 | 1721 | Lia | Ayo ngobrol bareng! | Senin, 6 Okt 2025 16:12:23 | <img src="https://cdn.idntimes.com/content-images/post/20251006/15dfee86-a928-4a15-8c90-6aa21097d0ff-251006161213.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1722 | Delynn | Malmski | Senin, 6 Okt 2025 19:43:34 | <img src="https://cdn.idntimes.com/content-images/post/20251006/266ef38a-da00-4d13-ba77-f94da68599ee-251006194326.jpg" alt="Malmski" width="200"/> |
+| 1723 | Cynthia | Ayo ngobrol bareng! | Senin, 6 Okt 2025 19:55:58 | <img src="https://cdn.idntimes.com/content-images/post/20251006/4f795073-38c9-4df7-9388-74b83de69801-251006195545.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
