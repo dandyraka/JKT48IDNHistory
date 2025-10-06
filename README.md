@@ -1736,3 +1736,5 @@
 | 1732 | Eli | Ayo ngobrol bareng! | Senin, 6 Okt 2025 21:25:40 | <img src="https://cdn.idntimes.com/content-images/post/20251006/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251006212524.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1733 | Intan | bub | Senin, 6 Okt 2025 21:28:13 | <img src="https://cdn.idntimes.com/content-images/post/20251006/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251006212756.jpg" alt="bub" width="200"/> |
 | 1734 | Giaa | malaaammmm cintaa | Senin, 6 Okt 2025 21:48:53 | <img src="https://cdn.idntimes.com/content-images/post/20251006/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251006214843.jpg" alt="malaaammmm cintaa" width="200"/> |
+| 1735 | Lana | Bahas apa yaa | Senin, 6 Okt 2025 22:03:27 | <img src="https://cdn.idntimes.com/content-images/post/20251006/e2af7271-2598-4ee8-8760-68043e671e6d-251006220319.jpg" alt="Bahas apa yaa" width="200"/> |
+| 1736 | Mikaela | Ayo ngobrol bareng! | Senin, 6 Okt 2025 22:12:08 | <img src="https://cdn.idntimes.com/content-images/post/20251006/a557ba58-12d8-4260-bd50-9e5252ac71ef-251006221155.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
