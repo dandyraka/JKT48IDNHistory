@@ -1749,3 +1749,4 @@
 | 1745 | Nachia | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 17:04:48 | <img src="https://cdn.idntimes.com/content-images/post/20251007/21a420b0-dd01-4daa-b185-b9020f8bf69d-251007170440.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1746 | Aralie | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 17:05:27 | <img src="https://cdn.idntimes.com/content-images/post/20251007/f001ba66-3c51-4849-9afa-13cf74eb1571-251007170517.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1747 | Gita | Gits | Selasa, 7 Okt 2025 18:33:07 | <img src="https://cdn.idntimes.com/content-images/post/20251007/82ffac10-ee56-43d0-ad38-ce432384cfe5-251007183254.jpg" alt="Gits" width="200"/> |
+| 1748 | Muthe | Hi | Selasa, 7 Okt 2025 19:04:11 | <img src="https://cdn.idntimes.com/content-images/post/20251007/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-251007190402.jpg" alt="Hi" width="200"/> |
