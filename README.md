@@ -1756,3 +1756,5 @@
 | 1752 | Eli | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 20:32:04 | <img src="https://cdn.idntimes.com/content-images/post/20251007/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251007203145.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1753 | Danella | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 20:32:59 | <img src="https://cdn.idntimes.com/content-images/post/20251007/33139b05-1c43-4b48-bba3-ec960b18b36e-251007203251.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1754 | Daisy | Haiii 🫶🏻🫶🏻 | Selasa, 7 Okt 2025 20:49:30 | <img src="https://cdn.idntimes.com/content-images/post/20251007/b11b0692-d0b8-464c-849a-9e81439a048c-251007204921.jpg" alt="Haiii 🫶🏻🫶🏻" width="200"/> |
+| 1755 | Chelsea | QUICK TALK | Selasa, 7 Okt 2025 21:08:25 | <img src="https://cdn.idntimes.com/content-images/post/20251007/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251007210816.jpg" alt="QUICK TALK" width="200"/> |
+| 1756 | Nayla | Haaaiii | Selasa, 7 Okt 2025 21:13:43 | <img src="https://cdn.idntimes.com/content-images/post/20251007/e243be19-74b7-435b-8e19-13fc669e0224-251007211334.jpg" alt="Haaaiii" width="200"/> |
