@@ -1741,3 +1741,4 @@
 | 1737 | Intan | bub | Selasa, 7 Okt 2025 12:32:32 | <img src="https://cdn.idntimes.com/content-images/post/20251007/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251007123215.jpg" alt="bub" width="200"/> |
 | 1738 | Virgi | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 14:23:22 | <img src="https://cdn.idntimes.com/content-images/post/20251007/147e83c8-f3ac-4680-9141-2f518b4b7810-251007142310.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1739 | Delynn | HAIII | Selasa, 7 Okt 2025 14:25:14 | <img src="https://cdn.idntimes.com/content-images/post/20251007/266ef38a-da00-4d13-ba77-f94da68599ee-251007142507.jpg" alt="HAIII" width="200"/> |
+| 1740 | Virgi | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 14:34:54 | <img src="https://cdn.idntimes.com/content-images/post/20251007/147e83c8-f3ac-4680-9141-2f518b4b7810-251007143443.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
