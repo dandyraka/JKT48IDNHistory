@@ -1763,3 +1763,6 @@
 | 1759 | Erine | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 21:38:00 | <img src="https://cdn.idntimes.com/content-images/post/20251007/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251007213752.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1760 | Ribka | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 22:50:33 | <img src="https://cdn.idntimes.com/content-images/post/20251007/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251007225026.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1761 | Amanda | Temenin nugas | Rabu, 8 Okt 2025 12:06:40 | <img src="https://cdn.idntimes.com/content-images/post/20251008/e8aa0877-684a-4430-8a3b-d96302e53aab-251008120628.jpg" alt="Temenin nugas" width="200"/> |
+| 1762 | Elin | Hai | Rabu, 8 Okt 2025 13:19:34 | <img src="https://cdn.idntimes.com/content-images/post/20251008/e0ececb4-71d8-4f32-a221-ef21634a746a-251008131921.jpg" alt="Hai" width="200"/> |
+| 1763 | Alya | apa ya | Rabu, 8 Okt 2025 13:22:19 | <img src="https://cdn.idntimes.com/content-images/post/20251008/74e76417-0353-487f-b9b7-7520c0398e87-251008132212.jpg" alt="apa ya" width="200"/> |
+| 1764 | Ribka | Ayo ngobrol bareng! | Rabu, 8 Okt 2025 13:37:07 | <img src="https://cdn.idntimes.com/content-images/post/20251008/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251008133659.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
