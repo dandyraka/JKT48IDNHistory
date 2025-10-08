@@ -1782,3 +1782,4 @@
 | 1778 | Delynn | Haii | Rabu, 8 Okt 2025 19:39:47 | <img src="https://cdn.idntimes.com/content-images/post/20251008/266ef38a-da00-4d13-ba77-f94da68599ee-251008193938.jpg" alt="Haii" width="200"/> |
 | 1779 | Kimmy | yow | Rabu, 8 Okt 2025 19:58:29 | <img src="https://cdn.idntimes.com/content-images/post/20251008/52c5c190-3611-4def-866f-76c32c0b837e-251008195812.jpg" alt="yow" width="200"/> |
 | 1780 | Gendis | Masker & Nugas | Rabu, 8 Okt 2025 20:47:47 | <img src="https://cdn.idntimes.com/content-images/post/20251008/ab901d82-db49-488c-8d03-da0082ab70e2-251008204738.jpg" alt="Masker & Nugas" width="200"/> |
+| 1781 | Lana | Balik lagi | Rabu, 8 Okt 2025 21:30:46 | <img src="https://cdn.idntimes.com/content-images/post/20251008/e2af7271-2598-4ee8-8760-68043e671e6d-251008213038.jpg" alt="Balik lagi" width="200"/> |
