@@ -1779,3 +1779,5 @@
 | 1775 | Oline | Ayo ngobrol bareng! | Rabu, 8 Okt 2025 19:10:02 | <img src="https://cdn.idntimes.com/content-images/post/20251008/a2b5d818-475d-44ce-af52-e99526482aaf-251008190944.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1776 | Nachia | halo bang | Rabu, 8 Okt 2025 19:14:28 | <img src="https://cdn.idntimes.com/content-images/post/20251008/21a420b0-dd01-4daa-b185-b9020f8bf69d-251008191420.jpg" alt="halo bang" width="200"/> |
 | 1777 | Aralie | Ayo ngobrol bareng! | Rabu, 8 Okt 2025 19:25:36 | <img src="https://cdn.idntimes.com/content-images/post/20251008/f001ba66-3c51-4849-9afa-13cf74eb1571-251008192523.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1778 | Delynn | Haii | Rabu, 8 Okt 2025 19:39:47 | <img src="https://cdn.idntimes.com/content-images/post/20251008/266ef38a-da00-4d13-ba77-f94da68599ee-251008193938.jpg" alt="Haii" width="200"/> |
+| 1779 | Kimmy | yow | Rabu, 8 Okt 2025 19:58:29 | <img src="https://cdn.idntimes.com/content-images/post/20251008/52c5c190-3611-4def-866f-76c32c0b837e-251008195812.jpg" alt="yow" width="200"/> |
