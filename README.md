@@ -1762,3 +1762,4 @@
 | 1758 | Lana | HAII  | Selasa, 7 Okt 2025 21:24:30 | <img src="https://cdn.idntimes.com/content-images/post/20251007/e2af7271-2598-4ee8-8760-68043e671e6d-251007212422.jpg" alt="HAII " width="200"/> |
 | 1759 | Erine | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 21:38:00 | <img src="https://cdn.idntimes.com/content-images/post/20251007/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251007213752.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1760 | Ribka | Ayo ngobrol bareng! | Selasa, 7 Okt 2025 22:50:33 | <img src="https://cdn.idntimes.com/content-images/post/20251007/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251007225026.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1761 | Amanda | Temenin nugas | Rabu, 8 Okt 2025 12:06:40 | <img src="https://cdn.idntimes.com/content-images/post/20251008/e8aa0877-684a-4430-8a3b-d96302e53aab-251008120628.jpg" alt="Temenin nugas" width="200"/> |
