@@ -1774,3 +1774,4 @@
 | 1770 | Lia | Ayo ngobrol bareng! | Rabu, 8 Okt 2025 18:42:59 | <img src="https://cdn.idntimes.com/content-images/post/20251008/15dfee86-a928-4a15-8c90-6aa21097d0ff-251008184250.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1771 | Aralie | Ayo ngobrol bareng! | Rabu, 8 Okt 2025 18:43:30 | <img src="https://cdn.idntimes.com/content-images/post/20251008/f001ba66-3c51-4849-9afa-13cf74eb1571-251008184317.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1772 | Levi | Ayo ngobrol bareng! | Rabu, 8 Okt 2025 18:43:30 | <img src="https://cdn.idntimes.com/content-images/post/20251008/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251008184322.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1773 | Danella | Ayo ngobrol bareng! | Rabu, 8 Okt 2025 18:53:15 | <img src="https://cdn.idntimes.com/content-images/post/20251008/33139b05-1c43-4b48-bba3-ec960b18b36e-251008185307.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
