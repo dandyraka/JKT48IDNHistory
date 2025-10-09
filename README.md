@@ -1788,3 +1788,4 @@
 | 1784 | Gendis | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 14:10:25 | <img src="https://cdn.idntimes.com/content-images/post/20251009/ab901d82-db49-488c-8d03-da0082ab70e2-251009141017.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1785 | Maira | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 16:00:23 | <img src="https://cdn.idntimes.com/content-images/post/20251009/7599c984-c466-4962-8c5b-73c1d33d59d9-251009160006.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1786 | Kimmy | yow | Kamis, 9 Okt 2025 16:22:23 | <img src="https://cdn.idntimes.com/content-images/post/20251009/52c5c190-3611-4def-866f-76c32c0b837e-251009162215.jpg" alt="yow" width="200"/> |
+| 1787 | Nachia | yoi | Kamis, 9 Okt 2025 16:42:52 | <img src="https://cdn.idntimes.com/content-images/post/20251009/21a420b0-dd01-4daa-b185-b9020f8bf69d-251009164244.jpg" alt="yoi" width="200"/> |
