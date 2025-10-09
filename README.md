@@ -1794,3 +1794,8 @@
 | 1790 | Virgi | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 18:53:51 | <img src="https://cdn.idntimes.com/content-images/post/20251009/147e83c8-f3ac-4680-9141-2f518b4b7810-251009185339.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1791 | Cynthia | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 19:30:52 | <img src="https://cdn.idntimes.com/content-images/post/20251009/4f795073-38c9-4df7-9388-74b83de69801-251009193042.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1792 | Ribka | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 19:37:24 | <img src="https://cdn.idntimes.com/content-images/post/20251009/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251009193716.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1793 | Intan | bub | Kamis, 9 Okt 2025 19:46:06 | <img src="https://cdn.idntimes.com/content-images/post/20251009/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251009194541.jpg" alt="bub" width="200"/> |
+| 1794 | Giaa | temenin makan | Kamis, 9 Okt 2025 20:01:35 | <img src="https://cdn.idntimes.com/content-images/post/20251009/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251009200126.jpg" alt="temenin makan" width="200"/> |
+| 1795 | Nala | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 20:02:30 | <img src="https://cdn.idntimes.com/content-images/post/20251009/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251009200220.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1796 | Jemima | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 20:13:37 | <img src="https://cdn.idntimes.com/content-images/post/20251009/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251009201321.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1797 | Lily | Yay | Kamis, 9 Okt 2025 20:16:52 | <img src="https://cdn.idntimes.com/content-images/post/20251009/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251009201645.jpg" alt="Yay" width="200"/> |
