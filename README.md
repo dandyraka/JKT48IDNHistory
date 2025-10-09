@@ -1791,3 +1791,4 @@
 | 1787 | Nachia | yoi | Kamis, 9 Okt 2025 16:42:52 | <img src="https://cdn.idntimes.com/content-images/post/20251009/21a420b0-dd01-4daa-b185-b9020f8bf69d-251009164244.jpg" alt="yoi" width="200"/> |
 | 1788 | Elin | Hey | Kamis, 9 Okt 2025 16:46:25 | <img src="https://cdn.idntimes.com/content-images/post/20251009/e0ececb4-71d8-4f32-a221-ef21634a746a-251009164617.jpg" alt="Hey" width="200"/> |
 | 1789 | Elin | Jangan lag | Kamis, 9 Okt 2025 16:57:57 | <img src="https://cdn.idntimes.com/content-images/post/20251009/e0ececb4-71d8-4f32-a221-ef21634a746a-251009165750.jpg" alt="Jangan lag" width="200"/> |
+| 1790 | Virgi | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 18:53:51 | <img src="https://cdn.idntimes.com/content-images/post/20251009/147e83c8-f3ac-4680-9141-2f518b4b7810-251009185339.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
