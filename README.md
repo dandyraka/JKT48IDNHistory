@@ -1784,3 +1784,5 @@
 | 1780 | Gendis | Masker & Nugas | Rabu, 8 Okt 2025 20:47:47 | <img src="https://cdn.idntimes.com/content-images/post/20251008/ab901d82-db49-488c-8d03-da0082ab70e2-251008204738.jpg" alt="Masker & Nugas" width="200"/> |
 | 1781 | Lana | Balik lagi | Rabu, 8 Okt 2025 21:30:46 | <img src="https://cdn.idntimes.com/content-images/post/20251008/e2af7271-2598-4ee8-8760-68043e671e6d-251008213038.jpg" alt="Balik lagi" width="200"/> |
 | 1782 | Fiony | Heyyyy | Rabu, 8 Okt 2025 23:57:56 | <img src="https://cdn.idntimes.com/content-images/post/20251008/85482779-8b59-4995-a600-f8a4230c29d8-251008235748.jpg" alt="Heyyyy" width="200"/> |
+| 1783 | Danella | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 14:08:27 | <img src="https://cdn.idntimes.com/content-images/post/20251009/33139b05-1c43-4b48-bba3-ec960b18b36e-251009140819.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1784 | Gendis | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 14:10:25 | <img src="https://cdn.idntimes.com/content-images/post/20251009/ab901d82-db49-488c-8d03-da0082ab70e2-251009141017.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
