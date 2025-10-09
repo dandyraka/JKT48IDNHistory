@@ -1804,3 +1804,4 @@
 | 1800 | Delynn | Hi | Kamis, 9 Okt 2025 20:33:30 | <img src="https://cdn.idntimes.com/content-images/post/20251009/266ef38a-da00-4d13-ba77-f94da68599ee-251009203323.jpg" alt="Hi" width="200"/> |
 | 1801 | Ekin | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 21:44:30 | <img src="https://cdn.idntimes.com/content-images/post/20251009/85f369d7-6525-41c0-94b8-9a56686713eb-251009214422.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1802 | Rilly | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 21:48:25 | <img src="https://cdn.idntimes.com/content-images/post/20251009/e9170998-f026-4186-bbc5-a17a3b5b2af1-251009214815.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1803 | Mikaela | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 22:18:10 | <img src="https://cdn.idntimes.com/content-images/post/20251009/a557ba58-12d8-4260-bd50-9e5252ac71ef-251009221757.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
