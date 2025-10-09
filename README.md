@@ -1799,3 +1799,6 @@
 | 1795 | Nala | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 20:02:30 | <img src="https://cdn.idntimes.com/content-images/post/20251009/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251009200220.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1796 | Jemima | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 20:13:37 | <img src="https://cdn.idntimes.com/content-images/post/20251009/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251009201321.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1797 | Lily | Yay | Kamis, 9 Okt 2025 20:16:52 | <img src="https://cdn.idntimes.com/content-images/post/20251009/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251009201645.jpg" alt="Yay" width="200"/> |
+| 1798 | Greesel | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 20:20:25 | <img src="https://cdn.idntimes.com/content-images/post/20251009/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251009202013.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1799 | Lana | HAIIII PPPP sama siapa pp | Kamis, 9 Okt 2025 20:21:09 | <img src="https://cdn.idntimes.com/content-images/post/20251009/e2af7271-2598-4ee8-8760-68043e671e6d-251009202100.jpg" alt="HAIIII PPPP sama siapa pp" width="200"/> |
+| 1800 | Delynn | Hi | Kamis, 9 Okt 2025 20:33:30 | <img src="https://cdn.idntimes.com/content-images/post/20251009/266ef38a-da00-4d13-ba77-f94da68599ee-251009203323.jpg" alt="Hi" width="200"/> |
