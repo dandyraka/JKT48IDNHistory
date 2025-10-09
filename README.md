@@ -1802,3 +1802,5 @@
 | 1798 | Greesel | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 20:20:25 | <img src="https://cdn.idntimes.com/content-images/post/20251009/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251009202013.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1799 | Lana | HAIIII PPPP sama siapa pp | Kamis, 9 Okt 2025 20:21:09 | <img src="https://cdn.idntimes.com/content-images/post/20251009/e2af7271-2598-4ee8-8760-68043e671e6d-251009202100.jpg" alt="HAIIII PPPP sama siapa pp" width="200"/> |
 | 1800 | Delynn | Hi | Kamis, 9 Okt 2025 20:33:30 | <img src="https://cdn.idntimes.com/content-images/post/20251009/266ef38a-da00-4d13-ba77-f94da68599ee-251009203323.jpg" alt="Hi" width="200"/> |
+| 1801 | Ekin | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 21:44:30 | <img src="https://cdn.idntimes.com/content-images/post/20251009/85f369d7-6525-41c0-94b8-9a56686713eb-251009214422.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1802 | Rilly | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 21:48:25 | <img src="https://cdn.idntimes.com/content-images/post/20251009/e9170998-f026-4186-bbc5-a17a3b5b2af1-251009214815.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
