@@ -1811,3 +1811,4 @@
 | 1807 | Nayla | Ayo ngobrol bareng! | Jumat, 10 Okt 2025 18:24:32 | <img src="https://cdn.idntimes.com/content-images/post/20251010/e243be19-74b7-435b-8e19-13fc669e0224-251010182423.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1808 | Lily | Hii | Jumat, 10 Okt 2025 19:52:50 | <img src="https://cdn.idntimes.com/content-images/post/20251010/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251010195243.jpg" alt="Hii" width="200"/> |
 | 1809 | Jemima | hai | Jumat, 10 Okt 2025 20:14:42 | <img src="https://cdn.idntimes.com/content-images/post/20251010/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251010201426.jpg" alt="hai" width="200"/> |
+| 1810 | Delynn | Hi | Jumat, 10 Okt 2025 20:48:00 | <img src="https://cdn.idntimes.com/content-images/post/20251010/266ef38a-da00-4d13-ba77-f94da68599ee-251010204752.jpg" alt="Hi" width="200"/> |
