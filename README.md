@@ -1806,3 +1806,4 @@
 | 1802 | Rilly | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 21:48:25 | <img src="https://cdn.idntimes.com/content-images/post/20251009/e9170998-f026-4186-bbc5-a17a3b5b2af1-251009214815.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1803 | Mikaela | Ayo ngobrol bareng! | Kamis, 9 Okt 2025 22:18:10 | <img src="https://cdn.idntimes.com/content-images/post/20251009/a557ba58-12d8-4260-bd50-9e5252ac71ef-251009221757.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1804 | Daisy | Ayo ngobrol bareng! | Jumat, 10 Okt 2025 11:51:14 | <img src="https://cdn.idntimes.com/content-images/post/20251010/b11b0692-d0b8-464c-849a-9e81439a048c-251010115105.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1805 | Lia | GRWM | Jumat, 10 Okt 2025 15:08:14 | <img src="https://cdn.idntimes.com/content-images/post/20251010/15dfee86-a928-4a15-8c90-6aa21097d0ff-251010150807.jpg" alt="GRWM" width="200"/> |
