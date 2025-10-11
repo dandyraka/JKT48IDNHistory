@@ -1816,3 +1816,4 @@
 | 1812 | Mikaela | Ayo ngobrol bareng! | Jumat, 10 Okt 2025 22:45:07 | <img src="https://cdn.idntimes.com/content-images/post/20251010/a557ba58-12d8-4260-bd50-9e5252ac71ef-251010224453.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1813 | Rilly | Ayo ngobrol bareng! | Sabtu, 11 Okt 2025 14:10:49 | <img src="https://cdn.idntimes.com/content-images/post/20251011/e9170998-f026-4186-bbc5-a17a3b5b2af1-251011141040.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1814 | Gita | Gits | Sabtu, 11 Okt 2025 14:55:58 | <img src="https://cdn.idntimes.com/content-images/post/20251011/82ffac10-ee56-43d0-ad38-ce432384cfe5-251011145542.jpg" alt="Gits" width="200"/> |
+| 1815 | Giaa | mau siap siap | Sabtu, 11 Okt 2025 15:20:57 | <img src="https://cdn.idntimes.com/content-images/post/20251011/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251011152048.jpg" alt="mau siap siap" width="200"/> |
