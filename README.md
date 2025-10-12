@@ -1832,3 +1832,4 @@
 | 1828 | Chelsea | Ngobrol BIT | Minggu, 12 Okt 2025 21:33:24 | <img src="https://cdn.idntimes.com/content-images/post/20251012/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251012213316.jpg" alt="Ngobrol BIT" width="200"/> |
 | 1829 | Delynn | Hai oi | Minggu, 12 Okt 2025 21:33:49 | <img src="https://cdn.idntimes.com/content-images/post/20251012/266ef38a-da00-4d13-ba77-f94da68599ee-251012213342.jpg" alt="Hai oi" width="200"/> |
 | 1830 | Gracie | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 21:52:08 | <img src="https://cdn.idntimes.com/content-images/post/20251012/cae4d972-5f14-4512-9706-37c1802a0541-251012215159.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1831 | Ekin | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 22:05:00 | <img src="https://cdn.idntimes.com/content-images/post/20251012/85f369d7-6525-41c0-94b8-9a56686713eb-251012220452.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
