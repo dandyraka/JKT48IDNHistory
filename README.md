@@ -1833,3 +1833,5 @@
 | 1829 | Delynn | Hai oi | Minggu, 12 Okt 2025 21:33:49 | <img src="https://cdn.idntimes.com/content-images/post/20251012/266ef38a-da00-4d13-ba77-f94da68599ee-251012213342.jpg" alt="Hai oi" width="200"/> |
 | 1830 | Gracie | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 21:52:08 | <img src="https://cdn.idntimes.com/content-images/post/20251012/cae4d972-5f14-4512-9706-37c1802a0541-251012215159.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1831 | Ekin | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 22:05:00 | <img src="https://cdn.idntimes.com/content-images/post/20251012/85f369d7-6525-41c0-94b8-9a56686713eb-251012220452.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1832 | Alya | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 22:24:02 | <img src="https://cdn.idntimes.com/content-images/post/20251012/74e76417-0353-487f-b9b7-7520c0398e87-251012222354.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1833 | Mikaela | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 22:26:30 | <img src="https://cdn.idntimes.com/content-images/post/20251012/a557ba58-12d8-4260-bd50-9e5252ac71ef-251012222615.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
