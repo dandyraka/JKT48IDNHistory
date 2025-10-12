@@ -1825,3 +1825,4 @@
 | 1821 | Maira | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 15:39:06 | <img src="https://cdn.idntimes.com/content-images/post/20251012/7599c984-c466-4962-8c5b-73c1d33d59d9-251012153849.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1822 | Elin | Hai | Minggu, 12 Okt 2025 17:00:58 | <img src="https://cdn.idntimes.com/content-images/post/20251012/e0ececb4-71d8-4f32-a221-ef21634a746a-251012170046.jpg" alt="Hai" width="200"/> |
 | 1823 | Alya | temenin akuuu gais | Minggu, 12 Okt 2025 18:49:38 | <img src="https://cdn.idntimes.com/content-images/post/20251012/74e76417-0353-487f-b9b7-7520c0398e87-251012184931.jpg" alt="temenin akuuu gais" width="200"/> |
+| 1824 | Auwia | Hiii | Minggu, 12 Okt 2025 19:04:29 | <img src="https://cdn.idntimes.com/content-images/post/20251012/f9500eb4-9d6d-491d-a857-40ca6f862d61-251012190416.jpg" alt="Hiii" width="200"/> |
