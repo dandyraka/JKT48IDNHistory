@@ -1824,3 +1824,4 @@
 | 1820 | Lily | Helo | Minggu, 12 Okt 2025 12:27:17 | <img src="https://cdn.idntimes.com/content-images/post/20251012/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251012122710.jpg" alt="Helo" width="200"/> |
 | 1821 | Maira | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 15:39:06 | <img src="https://cdn.idntimes.com/content-images/post/20251012/7599c984-c466-4962-8c5b-73c1d33d59d9-251012153849.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1822 | Elin | Hai | Minggu, 12 Okt 2025 17:00:58 | <img src="https://cdn.idntimes.com/content-images/post/20251012/e0ececb4-71d8-4f32-a221-ef21634a746a-251012170046.jpg" alt="Hai" width="200"/> |
+| 1823 | Alya | temenin akuuu gais | Minggu, 12 Okt 2025 18:49:38 | <img src="https://cdn.idntimes.com/content-images/post/20251012/74e76417-0353-487f-b9b7-7520c0398e87-251012184931.jpg" alt="temenin akuuu gais" width="200"/> |
