@@ -1835,3 +1835,4 @@
 | 1831 | Ekin | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 22:05:00 | <img src="https://cdn.idntimes.com/content-images/post/20251012/85f369d7-6525-41c0-94b8-9a56686713eb-251012220452.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1832 | Alya | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 22:24:02 | <img src="https://cdn.idntimes.com/content-images/post/20251012/74e76417-0353-487f-b9b7-7520c0398e87-251012222354.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1833 | Mikaela | Ayo ngobrol bareng! | Minggu, 12 Okt 2025 22:26:30 | <img src="https://cdn.idntimes.com/content-images/post/20251012/a557ba58-12d8-4260-bd50-9e5252ac71ef-251012222615.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1834 | Intan | Ayo ngobrol bareng! | Senin, 13 Okt 2025 12:40:52 | <img src="https://cdn.idntimes.com/content-images/post/20251013/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251013124035.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
