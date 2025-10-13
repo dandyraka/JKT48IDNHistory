@@ -1838,3 +1838,4 @@
 | 1834 | Intan | Ayo ngobrol bareng! | Senin, 13 Okt 2025 12:40:52 | <img src="https://cdn.idntimes.com/content-images/post/20251013/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251013124035.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1835 | Rilly | Ayo ngobrol bareng! | Senin, 13 Okt 2025 14:39:38 | <img src="https://cdn.idntimes.com/content-images/post/20251013/e9170998-f026-4186-bbc5-a17a3b5b2af1-251013143929.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1836 | Jemima | Ayo ngobrol bareng! | Senin, 13 Okt 2025 15:19:02 | <img src="https://cdn.idntimes.com/content-images/post/20251013/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251013151846.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1837 | Ribka | Ayo ngobrol bareng! | Senin, 13 Okt 2025 18:41:21 | <img src="https://cdn.idntimes.com/content-images/post/20251013/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251013184113.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
