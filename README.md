@@ -1847,3 +1847,4 @@
 | 1843 | Ribka | Ayo ngobrol bareng! | Selasa, 14 Okt 2025 21:54:02 | <img src="https://cdn.idntimes.com/content-images/post/20251014/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251014215353.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1844 | Virgi | Ayo ngobrol bareng! | Rabu, 15 Okt 2025 15:00:16 | <img src="https://cdn.idntimes.com/content-images/post/20251015/147e83c8-f3ac-4680-9141-2f518b4b7810-251015150004.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1845 | Giaa | p | Rabu, 15 Okt 2025 15:00:34 | <img src="https://cdn.idntimes.com/content-images/post/20251015/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251015150026.jpg" alt="p" width="200"/> |
+| 1846 | Rilly | Ayo ngobrol bareng! | Rabu, 15 Okt 2025 15:29:48 | <img src="https://cdn.idntimes.com/content-images/post/20251015/e9170998-f026-4186-bbc5-a17a3b5b2af1-251015152939.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
