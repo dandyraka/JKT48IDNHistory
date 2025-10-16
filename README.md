@@ -1856,3 +1856,5 @@
 | 1852 | Nayla | Ayo ngobrol bareng! | Kamis, 16 Okt 2025 20:57:41 | <img src="https://cdn.idntimes.com/content-images/post/20251016/e243be19-74b7-435b-8e19-13fc669e0224-251016205732.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1853 | Ribka | Ayo ngobrol bareng! | Kamis, 16 Okt 2025 21:08:35 | <img src="https://cdn.idntimes.com/content-images/post/20251016/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251016210823.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1854 | Jemima | Ayo ngobrol bareng! | Kamis, 16 Okt 2025 21:13:26 | <img src="https://cdn.idntimes.com/content-images/post/20251016/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251016211310.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1855 | Levi | hallooo | Kamis, 16 Okt 2025 21:34:12 | <img src="https://cdn.idntimes.com/content-images/post/20251016/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251016213359.jpg" alt="hallooo" width="200"/> |
+| 1856 | Kimmy | zazazajsheuwhha | Kamis, 16 Okt 2025 21:35:29 | <img src="https://cdn.idntimes.com/content-images/post/20251016/52c5c190-3611-4def-866f-76c32c0b837e-251016213520.jpg" alt="zazazajsheuwhha" width="200"/> |
