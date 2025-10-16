@@ -1852,3 +1852,4 @@
 | 1848 | Ekin | Ayo ngobrol bareng! | Rabu, 15 Okt 2025 17:04:01 | <img src="https://cdn.idntimes.com/content-images/post/20251015/85f369d7-6525-41c0-94b8-9a56686713eb-251015170352.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1849 | Ribka | Ayo ngobrol bareng! | Rabu, 15 Okt 2025 17:45:47 | <img src="https://cdn.idntimes.com/content-images/post/20251015/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251015174539.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1850 | Lily | Hai | Kamis, 16 Okt 2025 12:17:06 | <img src="https://cdn.idntimes.com/content-images/post/20251016/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251016121659.jpg" alt="Hai" width="200"/> |
+| 1851 | Ribka | Ayo ngobrol bareng! | Kamis, 16 Okt 2025 20:48:34 | <img src="https://cdn.idntimes.com/content-images/post/20251016/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251016204824.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
