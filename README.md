@@ -1853,3 +1853,6 @@
 | 1849 | Ribka | Ayo ngobrol bareng! | Rabu, 15 Okt 2025 17:45:47 | <img src="https://cdn.idntimes.com/content-images/post/20251015/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251015174539.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1850 | Lily | Hai | Kamis, 16 Okt 2025 12:17:06 | <img src="https://cdn.idntimes.com/content-images/post/20251016/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251016121659.jpg" alt="Hai" width="200"/> |
 | 1851 | Ribka | Ayo ngobrol bareng! | Kamis, 16 Okt 2025 20:48:34 | <img src="https://cdn.idntimes.com/content-images/post/20251016/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251016204824.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1852 | Nayla | Ayo ngobrol bareng! | Kamis, 16 Okt 2025 20:57:41 | <img src="https://cdn.idntimes.com/content-images/post/20251016/e243be19-74b7-435b-8e19-13fc669e0224-251016205732.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1853 | Ribka | Ayo ngobrol bareng! | Kamis, 16 Okt 2025 21:08:35 | <img src="https://cdn.idntimes.com/content-images/post/20251016/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251016210823.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1854 | Jemima | Ayo ngobrol bareng! | Kamis, 16 Okt 2025 21:13:26 | <img src="https://cdn.idntimes.com/content-images/post/20251016/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251016211310.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
