@@ -1865,3 +1865,4 @@
 | 1861 | Nayla | Ayo ngobrol bareng! | Jumat, 17 Okt 2025 18:19:54 | <img src="https://cdn.idntimes.com/content-images/post/20251017/e243be19-74b7-435b-8e19-13fc669e0224-251017181945.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1862 | Levi | hallooo | Jumat, 17 Okt 2025 18:20:02 | <img src="https://cdn.idntimes.com/content-images/post/20251017/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251017181947.jpg" alt="hallooo" width="200"/> |
 | 1863 | Aralie | Ayo ngobrol bareng! | Jumat, 17 Okt 2025 18:20:03 | <img src="https://cdn.idntimes.com/content-images/post/20251017/f001ba66-3c51-4849-9afa-13cf74eb1571-251017181950.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1864 | Lia | Ayo ngobrol bareng! | Jumat, 17 Okt 2025 20:51:30 | <img src="https://cdn.idntimes.com/content-images/post/20251017/15dfee86-a928-4a15-8c90-6aa21097d0ff-251017205122.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
