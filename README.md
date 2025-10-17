@@ -1868,3 +1868,4 @@
 | 1864 | Lia | Ayo ngobrol bareng! | Jumat, 17 Okt 2025 20:51:30 | <img src="https://cdn.idntimes.com/content-images/post/20251017/15dfee86-a928-4a15-8c90-6aa21097d0ff-251017205122.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1865 | Auwia | Mam euy | Jumat, 17 Okt 2025 21:23:48 | <img src="https://cdn.idntimes.com/content-images/post/20251017/f9500eb4-9d6d-491d-a857-40ca6f862d61-251017212335.jpg" alt="Mam euy" width="200"/> |
 | 1866 | Virgi | Ayo ngobrol bareng! | Jumat, 17 Okt 2025 22:03:21 | <img src="https://cdn.idntimes.com/content-images/post/20251017/147e83c8-f3ac-4680-9141-2f518b4b7810-251017220309.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1867 | Mikaela | Ayo ngobrol bareng! | Jumat, 17 Okt 2025 22:29:56 | <img src="https://cdn.idntimes.com/content-images/post/20251017/a557ba58-12d8-4260-bd50-9e5252ac71ef-251017222941.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
