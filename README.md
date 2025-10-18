@@ -1877,3 +1877,4 @@
 | 1873 | Nala | Ayo ngobrol bareng! | Sabtu, 18 Okt 2025 14:01:49 | <img src="https://cdn.idntimes.com/content-images/post/20251018/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251018140137.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1874 | Amanda | Ayo laipp yapping | Sabtu, 18 Okt 2025 17:16:07 | <img src="https://cdn.idntimes.com/content-images/post/20251018/e8aa0877-684a-4430-8a3b-d96302e53aab-251018171555.jpg" alt="Ayo laipp yapping" width="200"/> |
 | 1875 | Nayla | Makannn  | Sabtu, 18 Okt 2025 20:04:09 | <img src="https://cdn.idntimes.com/content-images/post/20251018/e243be19-74b7-435b-8e19-13fc669e0224-251018200359.jpg" alt="Makannn " width="200"/> |
+| 1876 | Jemima | Ayo ngobrol bareng! | Sabtu, 18 Okt 2025 20:45:58 | <img src="https://cdn.idntimes.com/content-images/post/20251018/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251018204541.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
