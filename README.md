@@ -1873,3 +1873,4 @@
 | 1869 | Rilly | Ayo ngobrol bareng! | Jumat, 17 Okt 2025 22:42:02 | <img src="https://cdn.idntimes.com/content-images/post/20251017/e9170998-f026-4186-bbc5-a17a3b5b2af1-251017224152.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1870 | Cynthia | Ayo ngobrol bareng! | Jumat, 17 Okt 2025 22:59:39 | <img src="https://cdn.idntimes.com/content-images/post/20251017/4f795073-38c9-4df7-9388-74b83de69801-251017225925.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1871 | Daisy | Ayo ngobrol bareng! | Sabtu, 18 Okt 2025 00:00:31 | <img src="https://cdn.idntimes.com/content-images/post/20251018/b11b0692-d0b8-464c-849a-9e81439a048c-251018000022.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1872 | Maira | Ayo ngobrol bareng! | Sabtu, 18 Okt 2025 09:41:48 | <img src="https://cdn.idntimes.com/content-images/post/20251018/7599c984-c466-4962-8c5b-73c1d33d59d9-251018094131.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
