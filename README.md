@@ -1897,3 +1897,6 @@
 | 1893 | Alya | bareface | Senin, 20 Okt 2025 12:49:05 | <img src="https://cdn.idntimes.com/content-images/post/20251020/74e76417-0353-487f-b9b7-7520c0398e87-251020124857.jpg" alt="bareface" width="200"/> |
 | 1894 | Nala | Ayo ngobrol bareng! | Senin, 20 Okt 2025 16:34:50 | <img src="https://cdn.idntimes.com/content-images/post/20251020/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251020163440.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1895 | Nachia | Ayo ngobrol bareng! | Senin, 20 Okt 2025 16:34:57 | <img src="https://cdn.idntimes.com/content-images/post/20251020/21a420b0-dd01-4daa-b185-b9020f8bf69d-251020163439.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1896 | Gendis | makann | Senin, 20 Okt 2025 20:00:52 | <img src="https://cdn.idntimes.com/content-images/post/20251020/ab901d82-db49-488c-8d03-da0082ab70e2-251020200040.jpg" alt="makann" width="200"/> |
+| 1897 | Lia | 🌻 | Senin, 20 Okt 2025 20:00:56 | <img src="https://cdn.idntimes.com/content-images/post/20251020/15dfee86-a928-4a15-8c90-6aa21097d0ff-251020200047.jpg" alt="🌻" width="200"/> |
+| 1898 | Intan | bub | Senin, 20 Okt 2025 20:04:25 | <img src="https://cdn.idntimes.com/content-images/post/20251020/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251020200407.jpg" alt="bub" width="200"/> |
