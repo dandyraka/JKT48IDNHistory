@@ -1900,3 +1900,5 @@
 | 1896 | Gendis | makann | Senin, 20 Okt 2025 20:00:52 | <img src="https://cdn.idntimes.com/content-images/post/20251020/ab901d82-db49-488c-8d03-da0082ab70e2-251020200040.jpg" alt="makann" width="200"/> |
 | 1897 | Lia | 🌻 | Senin, 20 Okt 2025 20:00:56 | <img src="https://cdn.idntimes.com/content-images/post/20251020/15dfee86-a928-4a15-8c90-6aa21097d0ff-251020200047.jpg" alt="🌻" width="200"/> |
 | 1898 | Intan | bub | Senin, 20 Okt 2025 20:04:25 | <img src="https://cdn.idntimes.com/content-images/post/20251020/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251020200407.jpg" alt="bub" width="200"/> |
+| 1899 | Ekin | Ayo ngobrol bareng! | Senin, 20 Okt 2025 20:34:07 | <img src="https://cdn.idntimes.com/content-images/post/20251020/85f369d7-6525-41c0-94b8-9a56686713eb-251020203358.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1900 | Rilly | Ayo ngobrol bareng! | Senin, 20 Okt 2025 20:37:43 | <img src="https://cdn.idntimes.com/content-images/post/20251020/e9170998-f026-4186-bbc5-a17a3b5b2af1-251020203734.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
