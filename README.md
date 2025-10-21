@@ -1921,3 +1921,6 @@
 | 1917 | Ribka | Ayo ngobrol bareng! | Selasa, 21 Okt 2025 19:44:01 | <img src="https://cdn.idntimes.com/content-images/post/20251021/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251021194353.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1918 | Trisha | haii | Selasa, 21 Okt 2025 19:58:12 | <img src="https://cdn.idntimes.com/content-images/post/20251021/92d66abb-0171-4a2b-a30d-37ad58359248-251021195805.jpg" alt="haii" width="200"/> |
 | 1919 | Maira | Ayo ngobrol bareng! | Selasa, 21 Okt 2025 20:40:56 | <img src="https://cdn.idntimes.com/content-images/post/20251021/7599c984-c466-4962-8c5b-73c1d33d59d9-251021204040.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1920 | Levi | hellooo | Selasa, 21 Okt 2025 21:02:55 | <img src="https://cdn.idntimes.com/content-images/post/20251021/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251021210242.jpg" alt="hellooo" width="200"/> |
+| 1921 | Virgi | Ayo ngobrol bareng! | Selasa, 21 Okt 2025 21:03:44 | <img src="https://cdn.idntimes.com/content-images/post/20251021/147e83c8-f3ac-4680-9141-2f518b4b7810-251021210325.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1922 | Delynn | Malem | Selasa, 21 Okt 2025 21:13:41 | <img src="https://cdn.idntimes.com/content-images/post/20251021/266ef38a-da00-4d13-ba77-f94da68599ee-251021211331.jpg" alt="Malem" width="200"/> |
