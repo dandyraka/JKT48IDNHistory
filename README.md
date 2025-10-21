@@ -1918,3 +1918,5 @@
 | 1914 | Daisy | Ayo ngobrol bareng! | Senin, 20 Okt 2025 23:18:50 | <img src="https://cdn.idntimes.com/content-images/post/20251020/b11b0692-d0b8-464c-849a-9e81439a048c-251020231841.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1915 | Nala | Ayo ngobrol bareng! | Selasa, 21 Okt 2025 19:14:52 | <img src="https://cdn.idntimes.com/content-images/post/20251021/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251021191443.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1916 | Fritzy | grwm & unboxing | Selasa, 21 Okt 2025 19:39:13 | <img src="https://cdn.idntimes.com/content-images/post/20251021/717109e0-a064-4f15-8187-5c4d46e56a58-251021193857.jpg" alt="grwm & unboxing" width="200"/> |
+| 1917 | Ribka | Ayo ngobrol bareng! | Selasa, 21 Okt 2025 19:44:01 | <img src="https://cdn.idntimes.com/content-images/post/20251021/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251021194353.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1918 | Trisha | haii | Selasa, 21 Okt 2025 19:58:12 | <img src="https://cdn.idntimes.com/content-images/post/20251021/92d66abb-0171-4a2b-a30d-37ad58359248-251021195805.jpg" alt="haii" width="200"/> |
