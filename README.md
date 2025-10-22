@@ -1939,3 +1939,6 @@
 | 1935 | Cynthia | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 22:44:28 | <img src="https://cdn.idntimes.com/content-images/post/20251022/4f795073-38c9-4df7-9388-74b83de69801-251022224414.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1936 | Ribka | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 22:54:15 | <img src="https://cdn.idntimes.com/content-images/post/20251022/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251022225407.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1937 | Lyn | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 23:15:52 | <img src="https://cdn.idntimes.com/content-images/post/20251022/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251022231543.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1938 | Jessi | hy | Rabu, 22 Okt 2025 23:18:07 | <img src="https://cdn.idntimes.com/content-images/post/20251022/a9579a29-9203-40c0-9326-9837b8eae6e8-251022231750.jpg" alt="hy" width="200"/> |
+| 1939 | Delynn | Hi | Rabu, 22 Okt 2025 23:21:53 | <img src="https://cdn.idntimes.com/content-images/post/20251022/266ef38a-da00-4d13-ba77-f94da68599ee-251022232139.jpg" alt="Hi" width="200"/> |
+| 1940 | Danella | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 23:42:24 | <img src="https://cdn.idntimes.com/content-images/post/20251022/33139b05-1c43-4b48-bba3-ec960b18b36e-251022234218.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
