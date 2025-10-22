@@ -1936,3 +1936,4 @@
 | 1932 | Erine | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 22:03:41 | <img src="https://cdn.idntimes.com/content-images/post/20251022/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251022220333.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1933 | Lyn | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 22:27:53 | <img src="https://cdn.idntimes.com/content-images/post/20251022/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251022222745.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1934 | Jemima | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 22:32:31 | <img src="https://cdn.idntimes.com/content-images/post/20251022/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251022223214.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1935 | Cynthia | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 22:44:28 | <img src="https://cdn.idntimes.com/content-images/post/20251022/4f795073-38c9-4df7-9388-74b83de69801-251022224414.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
