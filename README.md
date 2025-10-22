@@ -1928,3 +1928,4 @@
 | 1924 | Lily | Hii | Rabu, 22 Okt 2025 15:06:16 | <img src="https://cdn.idntimes.com/content-images/post/20251022/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251022150609.jpg" alt="Hii" width="200"/> |
 | 1925 | Lia | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 15:08:45 | <img src="https://cdn.idntimes.com/content-images/post/20251022/15dfee86-a928-4a15-8c90-6aa21097d0ff-251022150832.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1926 | Ekin | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 15:31:16 | <img src="https://cdn.idntimes.com/content-images/post/20251022/85f369d7-6525-41c0-94b8-9a56686713eb-251022153109.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1927 | Rilly | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 15:38:18 | <img src="https://cdn.idntimes.com/content-images/post/20251022/e9170998-f026-4186-bbc5-a17a3b5b2af1-251022153809.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
