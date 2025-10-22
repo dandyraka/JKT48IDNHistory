@@ -1924,3 +1924,4 @@
 | 1920 | Levi | hellooo | Selasa, 21 Okt 2025 21:02:55 | <img src="https://cdn.idntimes.com/content-images/post/20251021/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251021210242.jpg" alt="hellooo" width="200"/> |
 | 1921 | Virgi | Ayo ngobrol bareng! | Selasa, 21 Okt 2025 21:03:44 | <img src="https://cdn.idntimes.com/content-images/post/20251021/147e83c8-f3ac-4680-9141-2f518b4b7810-251021210325.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1922 | Delynn | Malem | Selasa, 21 Okt 2025 21:13:41 | <img src="https://cdn.idntimes.com/content-images/post/20251021/266ef38a-da00-4d13-ba77-f94da68599ee-251021211331.jpg" alt="Malem" width="200"/> |
+| 1923 | Giaa | hiii sianggg | Rabu, 22 Okt 2025 13:45:19 | <img src="https://cdn.idntimes.com/content-images/post/20251022/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251022134511.jpg" alt="hiii sianggg" width="200"/> |
