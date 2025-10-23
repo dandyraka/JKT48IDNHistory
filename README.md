@@ -1953,3 +1953,5 @@
 | 1949 | Ekin | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 15:12:59 | <img src="https://cdn.idntimes.com/content-images/post/20251023/85f369d7-6525-41c0-94b8-9a56686713eb-251023151252.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1950 | Rilly | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 15:31:05 | <img src="https://cdn.idntimes.com/content-images/post/20251023/e9170998-f026-4186-bbc5-a17a3b5b2af1-251023153055.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1951 | Mikaela | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 15:39:15 | <img src="https://cdn.idntimes.com/content-images/post/20251023/a557ba58-12d8-4260-bd50-9e5252ac71ef-251023153900.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1952 | Aralie | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 18:11:45 | <img src="https://cdn.idntimes.com/content-images/post/20251023/f001ba66-3c51-4849-9afa-13cf74eb1571-251023181134.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1953 | Erine | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 18:14:14 | <img src="https://cdn.idntimes.com/content-images/post/20251023/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251023181407.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
