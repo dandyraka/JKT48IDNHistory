@@ -1951,3 +1951,5 @@
 | 1947 | Kathrina | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 13:38:16 | <img src="https://cdn.idntimes.com/content-images/post/20251023/c3d28bcd-d000-4ccc-a9bf-956853cfa433-251023133809.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1948 | Elin | Haiii  | Kamis, 23 Okt 2025 14:21:49 | <img src="https://cdn.idntimes.com/content-images/post/20251023/e0ececb4-71d8-4f32-a221-ef21634a746a-251023142141.jpg" alt="Haiii " width="200"/> |
 | 1949 | Ekin | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 15:12:59 | <img src="https://cdn.idntimes.com/content-images/post/20251023/85f369d7-6525-41c0-94b8-9a56686713eb-251023151252.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1950 | Rilly | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 15:31:05 | <img src="https://cdn.idntimes.com/content-images/post/20251023/e9170998-f026-4186-bbc5-a17a3b5b2af1-251023153055.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1951 | Mikaela | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 15:39:15 | <img src="https://cdn.idntimes.com/content-images/post/20251023/a557ba58-12d8-4260-bd50-9e5252ac71ef-251023153900.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
