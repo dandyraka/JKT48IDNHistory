@@ -1944,3 +1944,4 @@
 | 1940 | Danella | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 23:42:24 | <img src="https://cdn.idntimes.com/content-images/post/20251022/33139b05-1c43-4b48-bba3-ec960b18b36e-251022234218.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1941 | Daisy | Ayo ngobrol bareng! | Rabu, 22 Okt 2025 23:50:13 | <img src="https://cdn.idntimes.com/content-images/post/20251022/b11b0692-d0b8-464c-849a-9e81439a048c-251022235004.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1942 | Intan | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 12:51:57 | <img src="https://cdn.idntimes.com/content-images/post/20251023/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251023125140.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1943 | Lily | Grwm | Kamis, 23 Okt 2025 13:06:17 | <img src="https://cdn.idntimes.com/content-images/post/20251023/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251023130611.jpg" alt="Grwm" width="200"/> |
