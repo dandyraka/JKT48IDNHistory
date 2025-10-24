@@ -1956,3 +1956,4 @@
 | 1952 | Aralie | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 18:11:45 | <img src="https://cdn.idntimes.com/content-images/post/20251023/f001ba66-3c51-4849-9afa-13cf74eb1571-251023181134.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1953 | Erine | Ayo ngobrol bareng! | Kamis, 23 Okt 2025 18:14:14 | <img src="https://cdn.idntimes.com/content-images/post/20251023/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251023181407.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1954 | Delynn | Pagi | Kamis, 23 Okt 2025 19:45:24 | <img src="https://cdn.idntimes.com/content-images/post/20251023/266ef38a-da00-4d13-ba77-f94da68599ee-251023194516.jpg" alt="Pagi" width="200"/> |
+| 1955 | Giaa | bntrr | Jumat, 24 Okt 2025 10:26:51 | <img src="https://cdn.idntimes.com/content-images/post/20251024/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251024102642.jpg" alt="bntrr" width="200"/> |
