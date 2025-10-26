@@ -1962,3 +1962,5 @@
 | 1958 | Maira | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 19:06:59 | <img src="https://cdn.idntimes.com/content-images/post/20251026/7599c984-c466-4962-8c5b-73c1d33d59d9-251026190641.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1959 | Lily | Haii | Minggu, 26 Okt 2025 20:18:59 | <img src="https://cdn.idntimes.com/content-images/post/20251026/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251026201852.jpg" alt="Haii" width="200"/> |
 | 1960 | Nala | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 20:20:41 | <img src="https://cdn.idntimes.com/content-images/post/20251026/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251026202025.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1961 | Cathy | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 20:35:50 | <img src="https://cdn.idntimes.com/content-images/post/20251026/f740e9da-772f-4ae2-8ddd-49f717aacf63-251026203543.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1962 | Nala | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 20:40:01 | <img src="https://cdn.idntimes.com/content-images/post/20251026/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251026203942.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
