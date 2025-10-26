@@ -1968,3 +1968,4 @@
 | 1964 | Rilly | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 21:08:15 | <img src="https://cdn.idntimes.com/content-images/post/20251026/e9170998-f026-4186-bbc5-a17a3b5b2af1-251026210805.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1965 | Nayla | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 21:11:51 | <img src="https://cdn.idntimes.com/content-images/post/20251026/e243be19-74b7-435b-8e19-13fc669e0224-251026211144.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1966 | Jemima | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 21:15:20 | <img src="https://cdn.idntimes.com/content-images/post/20251026/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251026211504.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1967 | Ribka | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 21:39:07 | <img src="https://cdn.idntimes.com/content-images/post/20251026/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251026213900.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
