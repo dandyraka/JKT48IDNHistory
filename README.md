@@ -1969,3 +1969,5 @@
 | 1965 | Nayla | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 21:11:51 | <img src="https://cdn.idntimes.com/content-images/post/20251026/e243be19-74b7-435b-8e19-13fc669e0224-251026211144.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1966 | Jemima | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 21:15:20 | <img src="https://cdn.idntimes.com/content-images/post/20251026/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251026211504.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1967 | Ribka | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 21:39:07 | <img src="https://cdn.idntimes.com/content-images/post/20251026/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251026213900.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1968 | Virgi | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 22:01:08 | <img src="https://cdn.idntimes.com/content-images/post/20251026/147e83c8-f3ac-4680-9141-2f518b4b7810-251026220056.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1969 | Giaa | malammm | Minggu, 26 Okt 2025 22:21:36 | <img src="https://cdn.idntimes.com/content-images/post/20251026/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251026222128.jpg" alt="malammm" width="200"/> |
