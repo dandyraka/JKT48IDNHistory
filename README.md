@@ -1984,3 +1984,5 @@
 | 1980 | Ekin | Ayo ngobrol bareng! | Senin, 27 Okt 2025 21:42:30 | <img src="https://cdn.idntimes.com/content-images/post/20251027/85f369d7-6525-41c0-94b8-9a56686713eb-251027214221.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1981 | Jemima | Ayo ngobrol bareng! | Senin, 27 Okt 2025 21:51:17 | <img src="https://cdn.idntimes.com/content-images/post/20251027/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251027215102.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1982 | Giaa | malammmmm | Senin, 27 Okt 2025 21:55:44 | <img src="https://cdn.idntimes.com/content-images/post/20251027/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251027215535.jpg" alt="malammmmm" width="200"/> |
+| 1983 | Rilly | Ayo ngobrol bareng! | Senin, 27 Okt 2025 22:07:42 | <img src="https://cdn.idntimes.com/content-images/post/20251027/e9170998-f026-4186-bbc5-a17a3b5b2af1-251027220732.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1984 | Lana | Haii | Senin, 27 Okt 2025 22:07:50 | <img src="https://cdn.idntimes.com/content-images/post/20251027/e2af7271-2598-4ee8-8760-68043e671e6d-251027220742.jpg" alt="Haii" width="200"/> |
