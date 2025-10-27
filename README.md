@@ -1980,3 +1980,4 @@
 | 1976 | Cynthia | Ayo ngobrol bareng! | Senin, 27 Okt 2025 20:19:33 | <img src="https://cdn.idntimes.com/content-images/post/20251027/4f795073-38c9-4df7-9388-74b83de69801-251027201914.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1977 | Mikaela | Ayo ngobrol bareng! | Senin, 27 Okt 2025 21:07:10 | <img src="https://cdn.idntimes.com/content-images/post/20251027/a557ba58-12d8-4260-bd50-9e5252ac71ef-251027210657.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1978 | Nayla | Ayo ngobrol bareng! | Senin, 27 Okt 2025 21:18:17 | <img src="https://cdn.idntimes.com/content-images/post/20251027/e243be19-74b7-435b-8e19-13fc669e0224-251027211808.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1979 | Intan | bub | Senin, 27 Okt 2025 21:29:55 | <img src="https://cdn.idntimes.com/content-images/post/20251027/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251027212939.jpg" alt="bub" width="200"/> |
