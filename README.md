@@ -1978,3 +1978,4 @@
 | 1974 | Lulu | hiii | Senin, 27 Okt 2025 17:42:48 | <img src="https://cdn.idntimes.com/content-images/post/20251027/531d1bc0-ee91-475f-9e9d-098127b8d383-251027174228.jpg" alt="hiii" width="200"/> |
 | 1975 | Ribka | Ayo ngobrol bareng! | Senin, 27 Okt 2025 19:56:45 | <img src="https://cdn.idntimes.com/content-images/post/20251027/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251027195638.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1976 | Cynthia | Ayo ngobrol bareng! | Senin, 27 Okt 2025 20:19:33 | <img src="https://cdn.idntimes.com/content-images/post/20251027/4f795073-38c9-4df7-9388-74b83de69801-251027201914.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1977 | Mikaela | Ayo ngobrol bareng! | Senin, 27 Okt 2025 21:07:10 | <img src="https://cdn.idntimes.com/content-images/post/20251027/a557ba58-12d8-4260-bd50-9e5252ac71ef-251027210657.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
