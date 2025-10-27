@@ -1982,3 +1982,4 @@
 | 1978 | Nayla | Ayo ngobrol bareng! | Senin, 27 Okt 2025 21:18:17 | <img src="https://cdn.idntimes.com/content-images/post/20251027/e243be19-74b7-435b-8e19-13fc669e0224-251027211808.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1979 | Intan | bub | Senin, 27 Okt 2025 21:29:55 | <img src="https://cdn.idntimes.com/content-images/post/20251027/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251027212939.jpg" alt="bub" width="200"/> |
 | 1980 | Ekin | Ayo ngobrol bareng! | Senin, 27 Okt 2025 21:42:30 | <img src="https://cdn.idntimes.com/content-images/post/20251027/85f369d7-6525-41c0-94b8-9a56686713eb-251027214221.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1981 | Jemima | Ayo ngobrol bareng! | Senin, 27 Okt 2025 21:51:17 | <img src="https://cdn.idntimes.com/content-images/post/20251027/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251027215102.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
