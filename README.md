@@ -1976,3 +1976,4 @@
 | 1972 | Levi | Ayo ngobrol bareng! | Senin, 27 Okt 2025 14:21:02 | <img src="https://cdn.idntimes.com/content-images/post/20251027/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251027142051.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1973 | Delynn | Hai | Senin, 27 Okt 2025 15:15:35 | <img src="https://cdn.idntimes.com/content-images/post/20251027/266ef38a-da00-4d13-ba77-f94da68599ee-251027151528.jpg" alt="Hai" width="200"/> |
 | 1974 | Lulu | hiii | Senin, 27 Okt 2025 17:42:48 | <img src="https://cdn.idntimes.com/content-images/post/20251027/531d1bc0-ee91-475f-9e9d-098127b8d383-251027174228.jpg" alt="hiii" width="200"/> |
+| 1975 | Ribka | Ayo ngobrol bareng! | Senin, 27 Okt 2025 19:56:45 | <img src="https://cdn.idntimes.com/content-images/post/20251027/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251027195638.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
