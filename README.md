@@ -1973,3 +1973,4 @@
 | 1969 | Giaa | malammm | Minggu, 26 Okt 2025 22:21:36 | <img src="https://cdn.idntimes.com/content-images/post/20251026/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251026222128.jpg" alt="malammm" width="200"/> |
 | 1970 | Lyn | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 22:51:07 | <img src="https://cdn.idntimes.com/content-images/post/20251026/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251026225055.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1971 | Cynthia | Ayo ngobrol bareng! | Minggu, 26 Okt 2025 22:57:25 | <img src="https://cdn.idntimes.com/content-images/post/20251026/4f795073-38c9-4df7-9388-74b83de69801-251026225714.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1972 | Levi | Ayo ngobrol bareng! | Senin, 27 Okt 2025 14:21:02 | <img src="https://cdn.idntimes.com/content-images/post/20251027/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251027142051.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
