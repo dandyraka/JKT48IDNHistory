@@ -1987,3 +1987,4 @@
 | 1983 | Rilly | Ayo ngobrol bareng! | Senin, 27 Okt 2025 22:07:42 | <img src="https://cdn.idntimes.com/content-images/post/20251027/e9170998-f026-4186-bbc5-a17a3b5b2af1-251027220732.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1984 | Lana | Haii | Senin, 27 Okt 2025 22:07:50 | <img src="https://cdn.idntimes.com/content-images/post/20251027/e2af7271-2598-4ee8-8760-68043e671e6d-251027220742.jpg" alt="Haii" width="200"/> |
 | 1985 | Cathy | Ayo ngobrol bareng! | Senin, 27 Okt 2025 23:22:39 | <img src="https://cdn.idntimes.com/content-images/post/20251027/f740e9da-772f-4ae2-8ddd-49f717aacf63-251027232232.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1986 | Lia | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 12:42:22 | <img src="https://cdn.idntimes.com/content-images/post/20251028/15dfee86-a928-4a15-8c90-6aa21097d0ff-251028124213.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
