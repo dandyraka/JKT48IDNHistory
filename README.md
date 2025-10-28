@@ -1990,3 +1990,4 @@
 | 1986 | Lia | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 12:42:22 | <img src="https://cdn.idntimes.com/content-images/post/20251028/15dfee86-a928-4a15-8c90-6aa21097d0ff-251028124213.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1987 | Raisha | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 16:35:19 | <img src="https://cdn.idntimes.com/content-images/post/20251028/728d224e-6ccb-43d2-a029-a0147dc7fdee-251028163504.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1988 | Fritzy | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 20:05:50 | <img src="https://cdn.idntimes.com/content-images/post/20251028/717109e0-a064-4f15-8187-5c4d46e56a58-251028200522.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1989 | Kimmy | akhirnya😵‍💫 | Selasa, 28 Okt 2025 20:48:41 | <img src="https://cdn.idntimes.com/content-images/post/20251028/52c5c190-3611-4def-866f-76c32c0b837e-251028204834.jpg" alt="akhirnya😵‍💫" width="200"/> |
