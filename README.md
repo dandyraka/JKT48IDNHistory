@@ -1996,3 +1996,6 @@
 | 1992 | Delynn | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 21:31:26 | <img src="https://cdn.idntimes.com/content-images/post/20251028/266ef38a-da00-4d13-ba77-f94da68599ee-251028213118.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1993 | Gracie | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 21:32:56 | <img src="https://cdn.idntimes.com/content-images/post/20251028/cae4d972-5f14-4512-9706-37c1802a0541-251028213241.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1994 | Michie | hoi | Selasa, 28 Okt 2025 21:35:52 | <img src="https://cdn.idntimes.com/content-images/post/20251028/6970e68a-b488-497a-b793-3a735db5e997-251028213503.jpg" alt="hoi" width="200"/> |
+| 1995 | Cathy | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 22:03:21 | <img src="https://cdn.idntimes.com/content-images/post/20251028/f740e9da-772f-4ae2-8ddd-49f717aacf63-251028220314.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1996 | Erine | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 22:08:54 | <img src="https://cdn.idntimes.com/content-images/post/20251028/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251028220845.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1997 | Lia | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 22:11:54 | <img src="https://cdn.idntimes.com/content-images/post/20251028/15dfee86-a928-4a15-8c90-6aa21097d0ff-251028221144.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
