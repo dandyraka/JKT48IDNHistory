@@ -1993,3 +1993,6 @@
 | 1989 | Kimmy | akhirnya😵‍💫 | Selasa, 28 Okt 2025 20:48:41 | <img src="https://cdn.idntimes.com/content-images/post/20251028/52c5c190-3611-4def-866f-76c32c0b837e-251028204834.jpg" alt="akhirnya😵‍💫" width="200"/> |
 | 1990 | Giaa | hii | Selasa, 28 Okt 2025 20:56:54 | <img src="https://cdn.idntimes.com/content-images/post/20251028/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251028205646.jpg" alt="hii" width="200"/> |
 | 1991 | Ekin | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 20:58:28 | <img src="https://cdn.idntimes.com/content-images/post/20251028/85f369d7-6525-41c0-94b8-9a56686713eb-251028205819.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1992 | Delynn | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 21:31:26 | <img src="https://cdn.idntimes.com/content-images/post/20251028/266ef38a-da00-4d13-ba77-f94da68599ee-251028213118.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1993 | Gracie | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 21:32:56 | <img src="https://cdn.idntimes.com/content-images/post/20251028/cae4d972-5f14-4512-9706-37c1802a0541-251028213241.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1994 | Michie | hoi | Selasa, 28 Okt 2025 21:35:52 | <img src="https://cdn.idntimes.com/content-images/post/20251028/6970e68a-b488-497a-b793-3a735db5e997-251028213503.jpg" alt="hoi" width="200"/> |
