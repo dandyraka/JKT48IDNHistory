@@ -1989,3 +1989,4 @@
 | 1985 | Cathy | Ayo ngobrol bareng! | Senin, 27 Okt 2025 23:22:39 | <img src="https://cdn.idntimes.com/content-images/post/20251027/f740e9da-772f-4ae2-8ddd-49f717aacf63-251027232232.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1986 | Lia | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 12:42:22 | <img src="https://cdn.idntimes.com/content-images/post/20251028/15dfee86-a928-4a15-8c90-6aa21097d0ff-251028124213.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1987 | Raisha | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 16:35:19 | <img src="https://cdn.idntimes.com/content-images/post/20251028/728d224e-6ccb-43d2-a029-a0147dc7fdee-251028163504.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 1988 | Fritzy | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 20:05:50 | <img src="https://cdn.idntimes.com/content-images/post/20251028/717109e0-a064-4f15-8187-5c4d46e56a58-251028200522.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
