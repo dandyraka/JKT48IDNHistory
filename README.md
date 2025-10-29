@@ -2001,3 +2001,4 @@
 | 1997 | Lia | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 22:11:54 | <img src="https://cdn.idntimes.com/content-images/post/20251028/15dfee86-a928-4a15-8c90-6aa21097d0ff-251028221144.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1998 | Marsha | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 23:15:12 | <img src="https://cdn.idntimes.com/content-images/post/20251028/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251028231503.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 1999 | Alya | Ayo ngobrol bareng! | Selasa, 28 Okt 2025 23:31:23 | <img src="https://cdn.idntimes.com/content-images/post/20251028/74e76417-0353-487f-b9b7-7520c0398e87-251028233116.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2000 | Lily | Hai srpan | Rabu, 29 Okt 2025 10:20:06 | <img src="https://cdn.idntimes.com/content-images/post/20251029/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251029101959.jpg" alt="Hai srpan" width="200"/> |
