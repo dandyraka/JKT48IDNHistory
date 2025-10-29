@@ -2009,3 +2009,4 @@
 | 2005 | Cynthia | Ayo ngobrol bareng! | Rabu, 29 Okt 2025 19:02:02 | <img src="https://cdn.idntimes.com/content-images/post/20251029/4f795073-38c9-4df7-9388-74b83de69801-251029190153.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2006 | Anindya | HILOWWWWW EVERYBODYYYYY | Rabu, 29 Okt 2025 19:56:09 | <img src="https://cdn.idntimes.com/content-images/post/20251029/a5c72141-65a3-47be-86ef-1dc1feaab10d-251029195603.jpg" alt="HILOWWWWW EVERYBODYYYYY" width="200"/> |
 | 2007 | Chelsea | quick talkkk | Rabu, 29 Okt 2025 20:20:38 | <img src="https://cdn.idntimes.com/content-images/post/20251029/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251029202028.jpg" alt="quick talkkk" width="200"/> |
+| 2008 | Alya | Ayo ngobrol bareng! | Rabu, 29 Okt 2025 20:49:23 | <img src="https://cdn.idntimes.com/content-images/post/20251029/74e76417-0353-487f-b9b7-7520c0398e87-251029204916.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
