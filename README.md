@@ -2021,3 +2021,4 @@
 | 2017 | Gita | Gits | Kamis, 30 Okt 2025 16:59:24 | <img src="https://cdn.idntimes.com/content-images/post/20251030/82ffac10-ee56-43d0-ad38-ce432384cfe5-251030165912.jpg" alt="Gits" width="200"/> |
 | 2018 | Lia | Ayo ngobrol bareng! | Kamis, 30 Okt 2025 17:02:06 | <img src="https://cdn.idntimes.com/content-images/post/20251030/15dfee86-a928-4a15-8c90-6aa21097d0ff-251030170157.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2019 | Fritzy | ide bisnis ngasal | Kamis, 30 Okt 2025 17:03:43 | <img src="https://cdn.idntimes.com/content-images/post/20251030/717109e0-a064-4f15-8187-5c4d46e56a58-251030170330.jpg" alt="ide bisnis ngasal" width="200"/> |
+| 2020 | Daisy | temenin aku makan+ beres”! | Kamis, 30 Okt 2025 18:30:32 | <img src="https://cdn.idntimes.com/content-images/post/20251030/b11b0692-d0b8-464c-849a-9e81439a048c-251030183024.jpg" alt="temenin aku makan+ beres”!" width="200"/> |
