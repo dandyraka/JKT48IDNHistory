@@ -2029,3 +2029,4 @@
 | 2025 | Raisha | Ayo ngobrol bareng! | Kamis, 30 Okt 2025 19:21:42 | <img src="https://cdn.idntimes.com/content-images/post/20251030/728d224e-6ccb-43d2-a029-a0147dc7fdee-251030192126.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2026 | Anindya | i love ebi furay | Kamis, 30 Okt 2025 22:00:30 | <img src="https://cdn.idntimes.com/content-images/post/20251030/a5c72141-65a3-47be-86ef-1dc1feaab10d-251030220017.jpg" alt="i love ebi furay" width="200"/> |
 | 2027 | Gracie | Ayo ngobrol bareng! | Kamis, 30 Okt 2025 22:27:36 | <img src="https://cdn.idntimes.com/content-images/post/20251030/cae4d972-5f14-4512-9706-37c1802a0541-251030222720.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2028 | Anindya | ebi furay pt 2 | Kamis, 30 Okt 2025 22:47:18 | <img src="https://cdn.idntimes.com/content-images/post/20251030/a5c72141-65a3-47be-86ef-1dc1feaab10d-251030224710.jpg" alt="ebi furay pt 2" width="200"/> |
