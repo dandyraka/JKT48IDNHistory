@@ -2019,3 +2019,5 @@
 | 2015 | Cathy | Ayo ngobrol bareng! | Rabu, 29 Okt 2025 22:26:23 | <img src="https://cdn.idntimes.com/content-images/post/20251029/f740e9da-772f-4ae2-8ddd-49f717aacf63-251029222615.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2016 | Ribka | Ayo ngobrol bareng! | Kamis, 30 Okt 2025 13:30:15 | <img src="https://cdn.idntimes.com/content-images/post/20251030/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251030133008.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2017 | Gita | Gits | Kamis, 30 Okt 2025 16:59:24 | <img src="https://cdn.idntimes.com/content-images/post/20251030/82ffac10-ee56-43d0-ad38-ce432384cfe5-251030165912.jpg" alt="Gits" width="200"/> |
+| 2018 | Lia | Ayo ngobrol bareng! | Kamis, 30 Okt 2025 17:02:06 | <img src="https://cdn.idntimes.com/content-images/post/20251030/15dfee86-a928-4a15-8c90-6aa21097d0ff-251030170157.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2019 | Fritzy | ide bisnis ngasal | Kamis, 30 Okt 2025 17:03:43 | <img src="https://cdn.idntimes.com/content-images/post/20251030/717109e0-a064-4f15-8187-5c4d46e56a58-251030170330.jpg" alt="ide bisnis ngasal" width="200"/> |
