@@ -2018,3 +2018,4 @@
 | 2014 | Michie | hai | Rabu, 29 Okt 2025 22:25:58 | <img src="https://cdn.idntimes.com/content-images/post/20251029/6970e68a-b488-497a-b793-3a735db5e997-251029222545.jpg" alt="hai" width="200"/> |
 | 2015 | Cathy | Ayo ngobrol bareng! | Rabu, 29 Okt 2025 22:26:23 | <img src="https://cdn.idntimes.com/content-images/post/20251029/f740e9da-772f-4ae2-8ddd-49f717aacf63-251029222615.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2016 | Ribka | Ayo ngobrol bareng! | Kamis, 30 Okt 2025 13:30:15 | <img src="https://cdn.idntimes.com/content-images/post/20251030/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251030133008.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2017 | Gita | Gits | Kamis, 30 Okt 2025 16:59:24 | <img src="https://cdn.idntimes.com/content-images/post/20251030/82ffac10-ee56-43d0-ad38-ce432384cfe5-251030165912.jpg" alt="Gits" width="200"/> |
