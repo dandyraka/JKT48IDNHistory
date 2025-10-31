@@ -2033,3 +2033,4 @@
 | 2029 | Lana | Ayo ngobrol bareng! | Kamis, 30 Okt 2025 22:59:51 | <img src="https://cdn.idntimes.com/content-images/post/20251030/e2af7271-2598-4ee8-8760-68043e671e6d-251030225941.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2030 | Intan | bub | Jumat, 31 Okt 2025 15:49:57 | <img src="https://cdn.idntimes.com/content-images/post/20251031/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251031154941.jpg" alt="bub" width="200"/> |
 | 2031 | Virgi | Ayo ngobrol bareng! | Jumat, 31 Okt 2025 15:50:10 | <img src="https://cdn.idntimes.com/content-images/post/20251031/147e83c8-f3ac-4680-9141-2f518b4b7810-251031154959.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2032 | Rilly | Ayo ngobrol bareng! | Jumat, 31 Okt 2025 16:02:21 | <img src="https://cdn.idntimes.com/content-images/post/20251031/e9170998-f026-4186-bbc5-a17a3b5b2af1-251031160212.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
