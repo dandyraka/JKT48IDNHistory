@@ -2041,3 +2041,4 @@
 | 2037 | Delynn | Ayo ngobrol bareng! | Jumat, 31 Okt 2025 16:37:55 | <img src="https://cdn.idntimes.com/content-images/post/20251031/266ef38a-da00-4d13-ba77-f94da68599ee-251031163748.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2038 | Aralie | Ayo ngobrol bareng! | Jumat, 31 Okt 2025 16:38:04 | <img src="https://cdn.idntimes.com/content-images/post/20251031/f001ba66-3c51-4849-9afa-13cf74eb1571-251031163754.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2039 | Trisha | hai | Jumat, 31 Okt 2025 16:38:12 | <img src="https://cdn.idntimes.com/content-images/post/20251031/92d66abb-0171-4a2b-a30d-37ad58359248-251031163803.jpg" alt="hai" width="200"/> |
+| 2040 | Alya | apa yoo | Jumat, 31 Okt 2025 20:26:58 | <img src="https://cdn.idntimes.com/content-images/post/20251031/74e76417-0353-487f-b9b7-7520c0398e87-251031202651.jpg" alt="apa yoo" width="200"/> |
