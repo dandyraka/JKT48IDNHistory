@@ -2043,3 +2043,4 @@
 | 2039 | Trisha | hai | Jumat, 31 Okt 2025 16:38:12 | <img src="https://cdn.idntimes.com/content-images/post/20251031/92d66abb-0171-4a2b-a30d-37ad58359248-251031163803.jpg" alt="hai" width="200"/> |
 | 2040 | Alya | apa yoo | Jumat, 31 Okt 2025 20:26:58 | <img src="https://cdn.idntimes.com/content-images/post/20251031/74e76417-0353-487f-b9b7-7520c0398e87-251031202651.jpg" alt="apa yoo" width="200"/> |
 | 2041 | Anindya | pls jgn nge lag | Jumat, 31 Okt 2025 21:20:30 | <img src="https://cdn.idntimes.com/content-images/post/20251031/a5c72141-65a3-47be-86ef-1dc1feaab10d-251031212013.jpg" alt="pls jgn nge lag" width="200"/> |
+| 2042 | Lyn | Ayo ngobrol bareng! | Jumat, 31 Okt 2025 23:55:01 | <img src="https://cdn.idntimes.com/content-images/post/20251031/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251031235453.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
