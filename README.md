@@ -2045,3 +2045,4 @@
 | 2041 | Anindya | pls jgn nge lag | Jumat, 31 Okt 2025 21:20:30 | <img src="https://cdn.idntimes.com/content-images/post/20251031/a5c72141-65a3-47be-86ef-1dc1feaab10d-251031212013.jpg" alt="pls jgn nge lag" width="200"/> |
 | 2042 | Lyn | Ayo ngobrol bareng! | Jumat, 31 Okt 2025 23:55:01 | <img src="https://cdn.idntimes.com/content-images/post/20251031/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251031235453.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2043 | Cynthia | Ayo ngobrol bareng! | Sabtu, 1 Nov 2025 00:56:13 | <img src="https://cdn.idntimes.com/content-images/post/20251101/4f795073-38c9-4df7-9388-74b83de69801-251101005602.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2044 | Maira | Ayo ngobrol bareng! | Sabtu, 1 Nov 2025 10:46:59 | <img src="https://cdn.idntimes.com/content-images/post/20251101/7599c984-c466-4962-8c5b-73c1d33d59d9-251101104644.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
