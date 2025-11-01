@@ -2051,3 +2051,5 @@
 | 2047 | Lia | Ayo ngobrol bareng! | Sabtu, 1 Nov 2025 16:18:20 | <img src="https://cdn.idntimes.com/content-images/post/20251101/15dfee86-a928-4a15-8c90-6aa21097d0ff-251101161804.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2048 | Intan | bub | Sabtu, 1 Nov 2025 17:40:29 | <img src="https://cdn.idntimes.com/content-images/post/20251101/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251101174013.jpg" alt="bub" width="200"/> |
 | 2049 | Mikaela | Ayo ngobrol bareng! | Sabtu, 1 Nov 2025 17:44:00 | <img src="https://cdn.idntimes.com/content-images/post/20251101/a557ba58-12d8-4260-bd50-9e5252ac71ef-251101174346.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2050 | Greesel | Ayo ngobrol bareng! | Sabtu, 1 Nov 2025 18:29:36 | <img src="https://cdn.idntimes.com/content-images/post/20251101/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251101182929.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2051 | Gita | Gits | Sabtu, 1 Nov 2025 18:29:48 | <img src="https://cdn.idntimes.com/content-images/post/20251101/82ffac10-ee56-43d0-ad38-ce432384cfe5-251101182935.jpg" alt="Gits" width="200"/> |
