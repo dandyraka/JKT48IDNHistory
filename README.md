@@ -2060,3 +2060,4 @@
 | 2056 | Elin | Haii | Sabtu, 1 Nov 2025 22:46:52 | <img src="https://cdn.idntimes.com/content-images/post/20251101/e0ececb4-71d8-4f32-a221-ef21634a746a-251101224638.jpg" alt="Haii" width="200"/> |
 | 2057 | Danella | Ayo ngobrol bareng! | Sabtu, 1 Nov 2025 22:53:23 | <img src="https://cdn.idntimes.com/content-images/post/20251101/33139b05-1c43-4b48-bba3-ec960b18b36e-251101225310.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2058 | Cynthia | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 01:02:18 | <img src="https://cdn.idntimes.com/content-images/post/20251102/4f795073-38c9-4df7-9388-74b83de69801-251102010207.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2059 | Eli | Temenin makeup yoksss | Minggu, 2 Nov 2025 16:28:57 | <img src="https://cdn.idntimes.com/content-images/post/20251102/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251102162845.jpg" alt="Temenin makeup yoksss" width="200"/> |
