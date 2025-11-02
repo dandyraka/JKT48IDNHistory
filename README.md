@@ -2077,3 +2077,4 @@
 | 2073 | Jemima | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 22:07:50 | <img src="https://cdn.idntimes.com/content-images/post/20251102/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251102220735.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2074 | Giaa | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 22:10:38 | <img src="https://cdn.idntimes.com/content-images/post/20251102/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251102221030.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2075 | Mikaela | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 22:21:51 | <img src="https://cdn.idntimes.com/content-images/post/20251102/a557ba58-12d8-4260-bd50-9e5252ac71ef-251102222138.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2076 | Lia | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 23:07:38 | <img src="https://cdn.idntimes.com/content-images/post/20251102/15dfee86-a928-4a15-8c90-6aa21097d0ff-251102230724.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
