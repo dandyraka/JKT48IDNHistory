@@ -2071,3 +2071,4 @@
 | 2067 | Nachia | hi | Minggu, 2 Nov 2025 20:49:35 | <img src="https://cdn.idntimes.com/content-images/post/20251102/21a420b0-dd01-4daa-b185-b9020f8bf69d-251102204917.jpg" alt="hi" width="200"/> |
 | 2068 | Ribka | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 21:15:23 | <img src="https://cdn.idntimes.com/content-images/post/20251102/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251102211513.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2069 | Lana | Haik | Minggu, 2 Nov 2025 21:25:32 | <img src="https://cdn.idntimes.com/content-images/post/20251102/e2af7271-2598-4ee8-8760-68043e671e6d-251102212525.jpg" alt="Haik" width="200"/> |
+| 2070 | Lily | Hai | Minggu, 2 Nov 2025 21:39:06 | <img src="https://cdn.idntimes.com/content-images/post/20251102/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251102213859.jpg" alt="Hai" width="200"/> |
