@@ -2073,3 +2073,6 @@
 | 2069 | Lana | Haik | Minggu, 2 Nov 2025 21:25:32 | <img src="https://cdn.idntimes.com/content-images/post/20251102/e2af7271-2598-4ee8-8760-68043e671e6d-251102212525.jpg" alt="Haik" width="200"/> |
 | 2070 | Lily | Hai | Minggu, 2 Nov 2025 21:39:06 | <img src="https://cdn.idntimes.com/content-images/post/20251102/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251102213859.jpg" alt="Hai" width="200"/> |
 | 2071 | Jessi | hehehehe | Minggu, 2 Nov 2025 21:42:12 | <img src="https://cdn.idntimes.com/content-images/post/20251102/a9579a29-9203-40c0-9326-9837b8eae6e8-251102214204.jpg" alt="hehehehe" width="200"/> |
+| 2072 | Lyn | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 22:06:08 | <img src="https://cdn.idntimes.com/content-images/post/20251102/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251102220558.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2073 | Jemima | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 22:07:50 | <img src="https://cdn.idntimes.com/content-images/post/20251102/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251102220735.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2074 | Giaa | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 22:10:38 | <img src="https://cdn.idntimes.com/content-images/post/20251102/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251102221030.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
