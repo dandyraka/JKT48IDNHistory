@@ -2066,3 +2066,6 @@
 | 2062 | Muthe | Hi | Minggu, 2 Nov 2025 20:42:02 | <img src="https://cdn.idntimes.com/content-images/post/20251102/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-251102204153.jpg" alt="Hi" width="200"/> |
 | 2063 | Gita | Gits | Minggu, 2 Nov 2025 20:42:34 | <img src="https://cdn.idntimes.com/content-images/post/20251102/82ffac10-ee56-43d0-ad38-ce432384cfe5-251102204220.jpg" alt="Gits" width="200"/> |
 | 2064 | Marsha | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 20:42:38 | <img src="https://cdn.idntimes.com/content-images/post/20251102/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251102204229.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2065 | Nala | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 20:47:58 | <img src="https://cdn.idntimes.com/content-images/post/20251102/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251102204746.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2066 | Oline | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 20:48:51 | <img src="https://cdn.idntimes.com/content-images/post/20251102/a2b5d818-475d-44ce-af52-e99526482aaf-251102204835.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2067 | Nachia | hi | Minggu, 2 Nov 2025 20:49:35 | <img src="https://cdn.idntimes.com/content-images/post/20251102/21a420b0-dd01-4daa-b185-b9020f8bf69d-251102204917.jpg" alt="hi" width="200"/> |
