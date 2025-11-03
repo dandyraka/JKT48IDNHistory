@@ -2092,3 +2092,4 @@
 | 2088 | Elin | Haii | Senin, 3 Nov 2025 17:54:52 | <img src="https://cdn.idntimes.com/content-images/post/20251103/e0ececb4-71d8-4f32-a221-ef21634a746a-251103175436.jpg" alt="Haii" width="200"/> |
 | 2089 | Anindya | yo bro | Senin, 3 Nov 2025 19:26:32 | <img src="https://cdn.idntimes.com/content-images/post/20251103/a5c72141-65a3-47be-86ef-1dc1feaab10d-251103192624.jpg" alt="yo bro" width="200"/> |
 | 2090 | Gendis | Maskeran | Senin, 3 Nov 2025 21:28:52 | <img src="https://cdn.idntimes.com/content-images/post/20251103/ab901d82-db49-488c-8d03-da0082ab70e2-251103212839.jpg" alt="Maskeran" width="200"/> |
+| 2091 | Alya | mam | Senin, 3 Nov 2025 22:30:24 | <img src="https://cdn.idntimes.com/content-images/post/20251103/74e76417-0353-487f-b9b7-7520c0398e87-251103223016.jpg" alt="mam" width="200"/> |
