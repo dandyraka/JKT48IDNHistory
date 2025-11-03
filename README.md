@@ -2081,3 +2081,6 @@
 | 2077 | Intan | hoi | Senin, 3 Nov 2025 12:37:41 | <img src="https://cdn.idntimes.com/content-images/post/20251103/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251103123723.jpg" alt="hoi" width="200"/> |
 | 2078 | Virgi | Ayo ngobrol bareng! | Senin, 3 Nov 2025 14:22:10 | <img src="https://cdn.idntimes.com/content-images/post/20251103/147e83c8-f3ac-4680-9141-2f518b4b7810-251103142159.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2079 | Giaa | siangg | Senin, 3 Nov 2025 14:58:21 | <img src="https://cdn.idntimes.com/content-images/post/20251103/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251103145813.jpg" alt="siangg" width="200"/> |
+| 2080 | Levi | Ayo ngobrol bareng! | Senin, 3 Nov 2025 15:25:30 | <img src="https://cdn.idntimes.com/content-images/post/20251103/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251103152519.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2081 | Nachia | heyho | Senin, 3 Nov 2025 15:38:17 | <img src="https://cdn.idntimes.com/content-images/post/20251103/21a420b0-dd01-4daa-b185-b9020f8bf69d-251103153808.jpg" alt="heyho" width="200"/> |
+| 2082 | Nayla | Ayo ngobrol bareng! | Senin, 3 Nov 2025 15:38:35 | <img src="https://cdn.idntimes.com/content-images/post/20251103/e243be19-74b7-435b-8e19-13fc669e0224-251103153827.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
