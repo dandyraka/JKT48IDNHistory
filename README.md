@@ -2084,3 +2084,5 @@
 | 2080 | Levi | Ayo ngobrol bareng! | Senin, 3 Nov 2025 15:25:30 | <img src="https://cdn.idntimes.com/content-images/post/20251103/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251103152519.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2081 | Nachia | heyho | Senin, 3 Nov 2025 15:38:17 | <img src="https://cdn.idntimes.com/content-images/post/20251103/21a420b0-dd01-4daa-b185-b9020f8bf69d-251103153808.jpg" alt="heyho" width="200"/> |
 | 2082 | Nayla | Ayo ngobrol bareng! | Senin, 3 Nov 2025 15:38:35 | <img src="https://cdn.idntimes.com/content-images/post/20251103/e243be19-74b7-435b-8e19-13fc669e0224-251103153827.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2083 | Trisha | haiii | Senin, 3 Nov 2025 16:05:29 | <img src="https://cdn.idntimes.com/content-images/post/20251103/92d66abb-0171-4a2b-a30d-37ad58359248-251103160513.jpg" alt="haiii" width="200"/> |
+| 2084 | Nala | Ayo ngobrol bareng! | Senin, 3 Nov 2025 16:11:33 | <img src="https://cdn.idntimes.com/content-images/post/20251103/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251103161118.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
