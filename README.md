@@ -2079,3 +2079,4 @@
 | 2075 | Mikaela | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 22:21:51 | <img src="https://cdn.idntimes.com/content-images/post/20251102/a557ba58-12d8-4260-bd50-9e5252ac71ef-251102222138.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2076 | Lia | Ayo ngobrol bareng! | Minggu, 2 Nov 2025 23:07:38 | <img src="https://cdn.idntimes.com/content-images/post/20251102/15dfee86-a928-4a15-8c90-6aa21097d0ff-251102230724.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2077 | Intan | hoi | Senin, 3 Nov 2025 12:37:41 | <img src="https://cdn.idntimes.com/content-images/post/20251103/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251103123723.jpg" alt="hoi" width="200"/> |
+| 2078 | Virgi | Ayo ngobrol bareng! | Senin, 3 Nov 2025 14:22:10 | <img src="https://cdn.idntimes.com/content-images/post/20251103/147e83c8-f3ac-4680-9141-2f518b4b7810-251103142159.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
