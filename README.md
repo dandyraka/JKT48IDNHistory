@@ -2089,3 +2089,4 @@
 | 2085 | Rilly | Ayo ngobrol bareng! | Senin, 3 Nov 2025 16:35:51 | <img src="https://cdn.idntimes.com/content-images/post/20251103/e9170998-f026-4186-bbc5-a17a3b5b2af1-251103163543.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2086 | Maira | Ayo ngobrol bareng! | Senin, 3 Nov 2025 17:51:06 | <img src="https://cdn.idntimes.com/content-images/post/20251103/7599c984-c466-4962-8c5b-73c1d33d59d9-251103175043.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2087 | Jemima | Ayo ngobrol bareng! | Senin, 3 Nov 2025 17:51:09 | <img src="https://cdn.idntimes.com/content-images/post/20251103/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251103175045.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2088 | Elin | Haii | Senin, 3 Nov 2025 17:54:52 | <img src="https://cdn.idntimes.com/content-images/post/20251103/e0ececb4-71d8-4f32-a221-ef21634a746a-251103175436.jpg" alt="Haii" width="200"/> |
