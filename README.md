@@ -2105,3 +2105,4 @@
 | 2101 | Lyn | Ayo ngobrol bareng! | Selasa, 4 Nov 2025 21:13:30 | <img src="https://cdn.idntimes.com/content-images/post/20251104/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251104211320.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2102 | Lana | Ayo ngobrol bareng! | Selasa, 4 Nov 2025 21:55:54 | <img src="https://cdn.idntimes.com/content-images/post/20251104/e2af7271-2598-4ee8-8760-68043e671e6d-251104215547.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2103 | Anindya | besbi | Selasa, 4 Nov 2025 22:16:07 | <img src="https://cdn.idntimes.com/content-images/post/20251104/a5c72141-65a3-47be-86ef-1dc1feaab10d-251104221600.jpg" alt="besbi" width="200"/> |
+| 2104 | Ribka | Ayo ngobrol bareng! | Selasa, 4 Nov 2025 23:15:49 | <img src="https://cdn.idntimes.com/content-images/post/20251104/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251104231541.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
