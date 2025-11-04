@@ -2100,3 +2100,4 @@
 | 2096 | Ekin | Ayo ngobrol bareng! | Selasa, 4 Nov 2025 15:40:57 | <img src="https://cdn.idntimes.com/content-images/post/20251104/85f369d7-6525-41c0-94b8-9a56686713eb-251104154049.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2097 | Giaa | sumpil | Selasa, 4 Nov 2025 15:48:18 | <img src="https://cdn.idntimes.com/content-images/post/20251104/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251104154810.jpg" alt="sumpil" width="200"/> |
 | 2098 | Lia | Ayo ngobrol bareng! | Selasa, 4 Nov 2025 18:15:59 | <img src="https://cdn.idntimes.com/content-images/post/20251104/15dfee86-a928-4a15-8c90-6aa21097d0ff-251104181552.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2099 | Gendis | IDN RADIOOO | Selasa, 4 Nov 2025 20:45:29 | <img src="https://cdn.idntimes.com/content-images/post/20251104/ab901d82-db49-488c-8d03-da0082ab70e2-251104204517.jpg" alt="IDN RADIOOO" width="200"/> |
