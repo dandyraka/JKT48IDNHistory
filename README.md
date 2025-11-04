@@ -2096,3 +2096,4 @@
 | 2092 | Cynthia | Ayo ngobrol bareng! | Senin, 3 Nov 2025 22:56:48 | <img src="https://cdn.idntimes.com/content-images/post/20251103/4f795073-38c9-4df7-9388-74b83de69801-251103225636.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2093 | Intan | Ayo ngobrol bareng! | Selasa, 4 Nov 2025 12:31:15 | <img src="https://cdn.idntimes.com/content-images/post/20251104/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251104123058.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2094 | Mikaela | Ayo ngobrol bareng! | Selasa, 4 Nov 2025 12:42:45 | <img src="https://cdn.idntimes.com/content-images/post/20251104/a557ba58-12d8-4260-bd50-9e5252ac71ef-251104124232.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2095 | Oniel | Ayo ngobrol bareng! | Selasa, 4 Nov 2025 13:18:30 | <img src="https://cdn.idntimes.com/content-images/post/20251104/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251104131821.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
