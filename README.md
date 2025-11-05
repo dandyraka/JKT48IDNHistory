@@ -2118,3 +2118,5 @@
 | 2114 | Ekin | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 21:02:07 | <img src="https://cdn.idntimes.com/content-images/post/20251105/85f369d7-6525-41c0-94b8-9a56686713eb-251105210159.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2115 | Anindya | makam ce hun tiaw | Rabu, 5 Nov 2025 21:06:27 | <img src="https://cdn.idntimes.com/content-images/post/20251105/a5c72141-65a3-47be-86ef-1dc1feaab10d-251105210612.jpg" alt="makam ce hun tiaw" width="200"/> |
 | 2116 | Ribka | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 21:12:17 | <img src="https://cdn.idntimes.com/content-images/post/20251105/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251105211200.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2117 | Delynn | Malam | Rabu, 5 Nov 2025 21:29:07 | <img src="https://cdn.idntimes.com/content-images/post/20251105/266ef38a-da00-4d13-ba77-f94da68599ee-251105212859.jpg" alt="Malam" width="200"/> |
+| 2118 | Oniel | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 21:37:34 | <img src="https://cdn.idntimes.com/content-images/post/20251105/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251105213727.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
