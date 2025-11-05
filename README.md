@@ -2122,3 +2122,4 @@
 | 2118 | Oniel | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 21:37:34 | <img src="https://cdn.idntimes.com/content-images/post/20251105/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251105213727.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2119 | Cathy | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 22:02:29 | <img src="https://cdn.idntimes.com/content-images/post/20251105/f740e9da-772f-4ae2-8ddd-49f717aacf63-251105220222.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2120 | Virgi | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 22:06:56 | <img src="https://cdn.idntimes.com/content-images/post/20251105/147e83c8-f3ac-4680-9141-2f518b4b7810-251105220644.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2121 | Mikaela | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 22:21:32 | <img src="https://cdn.idntimes.com/content-images/post/20251105/a557ba58-12d8-4260-bd50-9e5252ac71ef-251105222119.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
