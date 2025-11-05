@@ -2125,3 +2125,4 @@
 | 2121 | Mikaela | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 22:21:32 | <img src="https://cdn.idntimes.com/content-images/post/20251105/a557ba58-12d8-4260-bd50-9e5252ac71ef-251105222119.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2122 | Daisy | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 22:49:53 | <img src="https://cdn.idntimes.com/content-images/post/20251105/b11b0692-d0b8-464c-849a-9e81439a048c-251105224945.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2123 | Danella | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 22:57:25 | <img src="https://cdn.idntimes.com/content-images/post/20251105/33139b05-1c43-4b48-bba3-ec960b18b36e-251105225715.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2124 | Lia | Ayo ngobrol bareng! | Rabu, 5 Nov 2025 23:22:45 | <img src="https://cdn.idntimes.com/content-images/post/20251105/15dfee86-a928-4a15-8c90-6aa21097d0ff-251105232238.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
