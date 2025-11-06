@@ -2141,3 +2141,4 @@
 | 2137 | Daisy | Makan!! | Kamis, 6 Nov 2025 22:39:59 | <img src="https://cdn.idntimes.com/content-images/post/20251106/b11b0692-d0b8-464c-849a-9e81439a048c-251106223951.jpg" alt="Makan!!" width="200"/> |
 | 2138 | Danella | Ayo ngobrol bareng! | Kamis, 6 Nov 2025 22:42:38 | <img src="https://cdn.idntimes.com/content-images/post/20251106/33139b05-1c43-4b48-bba3-ec960b18b36e-251106224231.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2139 | Elin | Hi | Kamis, 6 Nov 2025 22:43:16 | <img src="https://cdn.idntimes.com/content-images/post/20251106/e0ececb4-71d8-4f32-a221-ef21634a746a-251106224309.jpg" alt="Hi" width="200"/> |
+| 2140 | Fritzy | hi gusi | Kamis, 6 Nov 2025 22:56:48 | <img src="https://cdn.idntimes.com/content-images/post/20251106/717109e0-a064-4f15-8187-5c4d46e56a58-251106225634.jpg" alt="hi gusi" width="200"/> |
