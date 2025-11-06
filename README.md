@@ -2130,3 +2130,5 @@
 | 2126 | Lily | Hi | Kamis, 6 Nov 2025 16:46:06 | <img src="https://cdn.idntimes.com/content-images/post/20251106/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251106164600.jpg" alt="Hi" width="200"/> |
 | 2127 | Jemima | Ayo ngobrol bareng! | Kamis, 6 Nov 2025 19:05:39 | <img src="https://cdn.idntimes.com/content-images/post/20251106/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251106190524.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2128 | Ekin | Ayo ngobrol bareng! | Kamis, 6 Nov 2025 19:23:11 | <img src="https://cdn.idntimes.com/content-images/post/20251106/85f369d7-6525-41c0-94b8-9a56686713eb-251106192302.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2129 | Raisha | Ayo ngobrol bareng! | Kamis, 6 Nov 2025 21:10:05 | <img src="https://cdn.idntimes.com/content-images/post/20251106/728d224e-6ccb-43d2-a029-a0147dc7fdee-251106210952.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2130 | Lana | Haii | Kamis, 6 Nov 2025 21:18:39 | <img src="https://cdn.idntimes.com/content-images/post/20251106/e2af7271-2598-4ee8-8760-68043e671e6d-251106211829.jpg" alt="Haii" width="200"/> |
