@@ -2138,3 +2138,6 @@
 | 2134 | Gendis | Ayo ngobrol bareng! | Kamis, 6 Nov 2025 22:17:51 | <img src="https://cdn.idntimes.com/content-images/post/20251106/ab901d82-db49-488c-8d03-da0082ab70e2-251106221742.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2135 | Anindya | yey | Kamis, 6 Nov 2025 22:22:06 | <img src="https://cdn.idntimes.com/content-images/post/20251106/a5c72141-65a3-47be-86ef-1dc1feaab10d-251106222157.jpg" alt="yey" width="200"/> |
 | 2136 | Kathrina | Ayo ngobrol bareng! | Kamis, 6 Nov 2025 22:25:02 | <img src="https://cdn.idntimes.com/content-images/post/20251106/c3d28bcd-d000-4ccc-a9bf-956853cfa433-251106222450.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2137 | Daisy | Makan!! | Kamis, 6 Nov 2025 22:39:59 | <img src="https://cdn.idntimes.com/content-images/post/20251106/b11b0692-d0b8-464c-849a-9e81439a048c-251106223951.jpg" alt="Makan!!" width="200"/> |
+| 2138 | Danella | Ayo ngobrol bareng! | Kamis, 6 Nov 2025 22:42:38 | <img src="https://cdn.idntimes.com/content-images/post/20251106/33139b05-1c43-4b48-bba3-ec960b18b36e-251106224231.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2139 | Elin | Hi | Kamis, 6 Nov 2025 22:43:16 | <img src="https://cdn.idntimes.com/content-images/post/20251106/e0ececb4-71d8-4f32-a221-ef21634a746a-251106224309.jpg" alt="Hi" width="200"/> |
