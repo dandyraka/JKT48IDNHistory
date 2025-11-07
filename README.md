@@ -2151,3 +2151,4 @@
 | 2147 | Amanda | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 18:04:31 | <img src="https://cdn.idntimes.com/content-images/post/20251107/e8aa0877-684a-4430-8a3b-d96302e53aab-251107180420.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2148 | Erine | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 19:26:27 | <img src="https://cdn.idntimes.com/content-images/post/20251107/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251107192619.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2149 | Delynn | Hi | Jumat, 7 Nov 2025 19:48:24 | <img src="https://cdn.idntimes.com/content-images/post/20251107/266ef38a-da00-4d13-ba77-f94da68599ee-251107194816.jpg" alt="Hi" width="200"/> |
+| 2150 | Anindya | tor monitor ketua | Jumat, 7 Nov 2025 20:53:59 | <img src="https://cdn.idntimes.com/content-images/post/20251107/a5c72141-65a3-47be-86ef-1dc1feaab10d-251107205351.jpg" alt="tor monitor ketua" width="200"/> |
