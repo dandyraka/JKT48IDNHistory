@@ -2156,3 +2156,6 @@
 | 2152 | Muthe | Hi | Jumat, 7 Nov 2025 21:57:27 | <img src="https://cdn.idntimes.com/content-images/post/20251107/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-251107215719.jpg" alt="Hi" width="200"/> |
 | 2153 | Gita | Gits | Jumat, 7 Nov 2025 21:57:36 | <img src="https://cdn.idntimes.com/content-images/post/20251107/82ffac10-ee56-43d0-ad38-ce432384cfe5-251107215724.jpg" alt="Gits" width="200"/> |
 | 2154 | Oniel | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 21:57:49 | <img src="https://cdn.idntimes.com/content-images/post/20251107/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251107215740.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2155 | Cynthia | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 22:07:48 | <img src="https://cdn.idntimes.com/content-images/post/20251107/4f795073-38c9-4df7-9388-74b83de69801-251107220735.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2156 | Danella | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 22:20:03 | <img src="https://cdn.idntimes.com/content-images/post/20251107/33139b05-1c43-4b48-bba3-ec960b18b36e-251107221954.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2157 | Gracia | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 22:21:19 | <img src="https://cdn.idntimes.com/content-images/post/20251107/ffbdaf60-9c8c-4897-82ef-fc3e7f6deb9c-251107222110.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
