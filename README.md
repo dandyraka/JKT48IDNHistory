@@ -2153,3 +2153,6 @@
 | 2149 | Delynn | Hi | Jumat, 7 Nov 2025 19:48:24 | <img src="https://cdn.idntimes.com/content-images/post/20251107/266ef38a-da00-4d13-ba77-f94da68599ee-251107194816.jpg" alt="Hi" width="200"/> |
 | 2150 | Anindya | tor monitor ketua | Jumat, 7 Nov 2025 20:53:59 | <img src="https://cdn.idntimes.com/content-images/post/20251107/a5c72141-65a3-47be-86ef-1dc1feaab10d-251107205351.jpg" alt="tor monitor ketua" width="200"/> |
 | 2151 | Alya | mam | Jumat, 7 Nov 2025 21:24:41 | <img src="https://cdn.idntimes.com/content-images/post/20251107/74e76417-0353-487f-b9b7-7520c0398e87-251107212434.jpg" alt="mam" width="200"/> |
+| 2152 | Muthe | Hi | Jumat, 7 Nov 2025 21:57:27 | <img src="https://cdn.idntimes.com/content-images/post/20251107/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-251107215719.jpg" alt="Hi" width="200"/> |
+| 2153 | Gita | Gits | Jumat, 7 Nov 2025 21:57:36 | <img src="https://cdn.idntimes.com/content-images/post/20251107/82ffac10-ee56-43d0-ad38-ce432384cfe5-251107215724.jpg" alt="Gits" width="200"/> |
+| 2154 | Oniel | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 21:57:49 | <img src="https://cdn.idntimes.com/content-images/post/20251107/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251107215740.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
