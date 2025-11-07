@@ -2147,3 +2147,5 @@
 | 2143 | Rilly | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 14:52:24 | <img src="https://cdn.idntimes.com/content-images/post/20251107/e9170998-f026-4186-bbc5-a17a3b5b2af1-251107145215.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2144 | Virgi | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 17:01:37 | <img src="https://cdn.idntimes.com/content-images/post/20251107/147e83c8-f3ac-4680-9141-2f518b4b7810-251107170126.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2145 | Ribka | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 17:13:10 | <img src="https://cdn.idntimes.com/content-images/post/20251107/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251107171302.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2146 | Giaa | bentarr aja | Jumat, 7 Nov 2025 18:00:53 | <img src="https://cdn.idntimes.com/content-images/post/20251107/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251107180045.jpg" alt="bentarr aja" width="200"/> |
+| 2147 | Amanda | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 18:04:31 | <img src="https://cdn.idntimes.com/content-images/post/20251107/e8aa0877-684a-4430-8a3b-d96302e53aab-251107180420.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
