@@ -2144,3 +2144,4 @@
 | 2140 | Fritzy | hi gusi | Kamis, 6 Nov 2025 22:56:48 | <img src="https://cdn.idntimes.com/content-images/post/20251106/717109e0-a064-4f15-8187-5c4d46e56a58-251106225634.jpg" alt="hi gusi" width="200"/> |
 | 2141 | Lyn | Ayo ngobrol bareng! | Kamis, 6 Nov 2025 23:35:48 | <img src="https://cdn.idntimes.com/content-images/post/20251106/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251106233537.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2142 | Lily | Haii | Jumat, 7 Nov 2025 11:54:04 | <img src="https://cdn.idntimes.com/content-images/post/20251107/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251107115358.jpg" alt="Haii" width="200"/> |
+| 2143 | Rilly | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 14:52:24 | <img src="https://cdn.idntimes.com/content-images/post/20251107/e9170998-f026-4186-bbc5-a17a3b5b2af1-251107145215.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
