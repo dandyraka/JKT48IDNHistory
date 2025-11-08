@@ -2162,3 +2162,5 @@
 | 2158 | Lyn | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 22:41:58 | <img src="https://cdn.idntimes.com/content-images/post/20251107/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251107224147.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2159 | Aralie | Ayo ngobrol bareng! | Sabtu, 8 Nov 2025 16:30:48 | <img src="https://cdn.idntimes.com/content-images/post/20251108/f001ba66-3c51-4849-9afa-13cf74eb1571-251108163037.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2160 | Levi | Ayo ngobrol bareng! | Sabtu, 8 Nov 2025 16:31:03 | <img src="https://cdn.idntimes.com/content-images/post/20251108/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251108163050.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2161 | Chelsea | quick talkie | Sabtu, 8 Nov 2025 22:00:11 | <img src="https://cdn.idntimes.com/content-images/post/20251108/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251108220001.jpg" alt="quick talkie" width="200"/> |
+| 2162 | Lana | Haii | Sabtu, 8 Nov 2025 22:00:13 | <img src="https://cdn.idntimes.com/content-images/post/20251108/e2af7271-2598-4ee8-8760-68043e671e6d-251108220005.jpg" alt="Haii" width="200"/> |
