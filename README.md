@@ -2160,3 +2160,5 @@
 | 2156 | Danella | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 22:20:03 | <img src="https://cdn.idntimes.com/content-images/post/20251107/33139b05-1c43-4b48-bba3-ec960b18b36e-251107221954.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2157 | Gracia | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 22:21:19 | <img src="https://cdn.idntimes.com/content-images/post/20251107/ffbdaf60-9c8c-4897-82ef-fc3e7f6deb9c-251107222110.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2158 | Lyn | Ayo ngobrol bareng! | Jumat, 7 Nov 2025 22:41:58 | <img src="https://cdn.idntimes.com/content-images/post/20251107/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251107224147.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2159 | Aralie | Ayo ngobrol bareng! | Sabtu, 8 Nov 2025 16:30:48 | <img src="https://cdn.idntimes.com/content-images/post/20251108/f001ba66-3c51-4849-9afa-13cf74eb1571-251108163037.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2160 | Levi | Ayo ngobrol bareng! | Sabtu, 8 Nov 2025 16:31:03 | <img src="https://cdn.idntimes.com/content-images/post/20251108/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251108163050.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
