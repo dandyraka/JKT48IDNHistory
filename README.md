@@ -2177,3 +2177,4 @@
 | 2173 | Lia | Ayo ngobrol bareng! | Minggu, 9 Nov 2025 19:18:35 | <img src="https://cdn.idntimes.com/content-images/post/20251109/15dfee86-a928-4a15-8c90-6aa21097d0ff-251109191828.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2174 | Amanda | Live aftershow | Minggu, 9 Nov 2025 19:21:15 | <img src="https://cdn.idntimes.com/content-images/post/20251109/e8aa0877-684a-4430-8a3b-d96302e53aab-251109192041.jpg" alt="Live aftershow" width="200"/> |
 | 2175 | Raisha | Ayo ngobrol bareng! | Minggu, 9 Nov 2025 19:27:38 | <img src="https://cdn.idntimes.com/content-images/post/20251109/728d224e-6ccb-43d2-a029-a0147dc7fdee-251109192725.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2176 | Fritzy | Ayo ngobrol bareng! | Minggu, 9 Nov 2025 20:17:23 | <img src="https://cdn.idntimes.com/content-images/post/20251109/717109e0-a064-4f15-8187-5c4d46e56a58-251109201709.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
