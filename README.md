@@ -2169,3 +2169,4 @@
 | 2165 | Fritzy | Ayo ngobrol bareng! | Sabtu, 8 Nov 2025 22:45:44 | <img src="https://cdn.idntimes.com/content-images/post/20251108/717109e0-a064-4f15-8187-5c4d46e56a58-251108224531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2166 | Cynthia | Ayo ngobrol bareng! | Sabtu, 8 Nov 2025 22:55:28 | <img src="https://cdn.idntimes.com/content-images/post/20251108/4f795073-38c9-4df7-9388-74b83de69801-251108225516.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2167 | Lily | Haii | Minggu, 9 Nov 2025 11:02:00 | <img src="https://cdn.idntimes.com/content-images/post/20251109/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251109110154.jpg" alt="Haii" width="200"/> |
+| 2168 | Rilly | Ayo ngobrol bareng! | Minggu, 9 Nov 2025 13:55:06 | <img src="https://cdn.idntimes.com/content-images/post/20251109/e9170998-f026-4186-bbc5-a17a3b5b2af1-251109135457.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
