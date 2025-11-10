@@ -2181,3 +2181,4 @@
 | 2177 | Gracie | hiii | Minggu, 9 Nov 2025 21:23:48 | <img src="https://cdn.idntimes.com/content-images/post/20251109/cae4d972-5f14-4512-9706-37c1802a0541-251109212339.jpg" alt="hiii" width="200"/> |
 | 2178 | Cathy | Ayo ngobrol bareng! | Minggu, 9 Nov 2025 22:24:04 | <img src="https://cdn.idntimes.com/content-images/post/20251109/f740e9da-772f-4ae2-8ddd-49f717aacf63-251109222355.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2179 | Lana | Malam apa ini? | Minggu, 9 Nov 2025 22:27:23 | <img src="https://cdn.idntimes.com/content-images/post/20251109/e2af7271-2598-4ee8-8760-68043e671e6d-251109222715.jpg" alt="Malam apa ini?" width="200"/> |
+| 2180 | Intan | Ayo ngobrol bareng! | Senin, 10 Nov 2025 11:19:53 | <img src="https://cdn.idntimes.com/content-images/post/20251110/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251110111938.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
