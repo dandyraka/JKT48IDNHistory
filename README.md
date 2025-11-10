@@ -2189,3 +2189,4 @@
 | 2185 | Lily | Grwm | Senin, 10 Nov 2025 15:46:05 | <img src="https://cdn.idntimes.com/content-images/post/20251110/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251110154558.jpg" alt="Grwm" width="200"/> |
 | 2186 | Nala | Ayo ngobrol bareng! | Senin, 10 Nov 2025 16:20:56 | <img src="https://cdn.idntimes.com/content-images/post/20251110/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251110162042.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2187 | Ribka | Ayo ngobrol bareng! | Senin, 10 Nov 2025 16:21:05 | <img src="https://cdn.idntimes.com/content-images/post/20251110/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251110162058.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2188 | Gendis | makan dan bobo | Senin, 10 Nov 2025 19:29:01 | <img src="https://cdn.idntimes.com/content-images/post/20251110/ab901d82-db49-488c-8d03-da0082ab70e2-251110192851.jpg" alt="makan dan bobo" width="200"/> |
