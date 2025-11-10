@@ -2193,3 +2193,4 @@
 | 2189 | Christy | Ayo ngobrol bareng! | Senin, 10 Nov 2025 20:21:14 | <img src="https://cdn.idntimes.com/content-images/post/20251110/01506e57-d837-4a1e-8dd4-3e99e3489ac8-251110202105.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2190 | Gracie | yay | Senin, 10 Nov 2025 20:50:11 | <img src="https://cdn.idntimes.com/content-images/post/20251110/cae4d972-5f14-4512-9706-37c1802a0541-251110205001.jpg" alt="yay" width="200"/> |
 | 2191 | Lana | Haii | Senin, 10 Nov 2025 21:12:22 | <img src="https://cdn.idntimes.com/content-images/post/20251110/e2af7271-2598-4ee8-8760-68043e671e6d-251110211214.jpg" alt="Haii" width="200"/> |
+| 2192 | Cynthia | Ayo ngobrol bareng! | Senin, 10 Nov 2025 21:37:13 | <img src="https://cdn.idntimes.com/content-images/post/20251110/4f795073-38c9-4df7-9388-74b83de69801-251110213700.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
