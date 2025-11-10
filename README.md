@@ -2192,3 +2192,4 @@
 | 2188 | Gendis | makan dan bobo | Senin, 10 Nov 2025 19:29:01 | <img src="https://cdn.idntimes.com/content-images/post/20251110/ab901d82-db49-488c-8d03-da0082ab70e2-251110192851.jpg" alt="makan dan bobo" width="200"/> |
 | 2189 | Christy | Ayo ngobrol bareng! | Senin, 10 Nov 2025 20:21:14 | <img src="https://cdn.idntimes.com/content-images/post/20251110/01506e57-d837-4a1e-8dd4-3e99e3489ac8-251110202105.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2190 | Gracie | yay | Senin, 10 Nov 2025 20:50:11 | <img src="https://cdn.idntimes.com/content-images/post/20251110/cae4d972-5f14-4512-9706-37c1802a0541-251110205001.jpg" alt="yay" width="200"/> |
+| 2191 | Lana | Haii | Senin, 10 Nov 2025 21:12:22 | <img src="https://cdn.idntimes.com/content-images/post/20251110/e2af7271-2598-4ee8-8760-68043e671e6d-251110211214.jpg" alt="Haii" width="200"/> |
