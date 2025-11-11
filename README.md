@@ -2207,3 +2207,4 @@
 | 2203 | Gendis | aku baru pulang dari dentist😁 | Selasa, 11 Nov 2025 20:01:16 | <img src="https://cdn.idntimes.com/content-images/post/20251111/ab901d82-db49-488c-8d03-da0082ab70e2-251111200106.jpg" alt="aku baru pulang dari dentist😁" width="200"/> |
 | 2204 | Oniel | Ayo ngobrol bareng! | Selasa, 11 Nov 2025 20:29:02 | <img src="https://cdn.idntimes.com/content-images/post/20251111/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251111202852.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2205 | Marsha | Ayo ngobrol bareng! | Selasa, 11 Nov 2025 21:10:46 | <img src="https://cdn.idntimes.com/content-images/post/20251111/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251111211034.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2206 | Greesel | Ayo ngobrol bareng! | Selasa, 11 Nov 2025 21:37:04 | <img src="https://cdn.idntimes.com/content-images/post/20251111/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251111213657.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
