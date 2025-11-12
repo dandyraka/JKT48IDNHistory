@@ -2209,3 +2209,4 @@
 | 2205 | Marsha | Ayo ngobrol bareng! | Selasa, 11 Nov 2025 21:10:46 | <img src="https://cdn.idntimes.com/content-images/post/20251111/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251111211034.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2206 | Greesel | Ayo ngobrol bareng! | Selasa, 11 Nov 2025 21:37:04 | <img src="https://cdn.idntimes.com/content-images/post/20251111/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251111213657.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2207 | Cathy | Ayo ngobrol bareng! | Selasa, 11 Nov 2025 21:50:31 | <img src="https://cdn.idntimes.com/content-images/post/20251111/f740e9da-772f-4ae2-8ddd-49f717aacf63-251111215024.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2208 | Mikaela | Ayo ngobrol bareng! | Rabu, 12 Nov 2025 11:38:28 | <img src="https://cdn.idntimes.com/content-images/post/20251112/a557ba58-12d8-4260-bd50-9e5252ac71ef-251112113815.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
