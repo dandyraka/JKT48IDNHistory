@@ -2225,3 +2225,4 @@
 | 2221 | Lyn | Ayo ngobrol bareng! | Rabu, 12 Nov 2025 20:36:15 | <img src="https://cdn.idntimes.com/content-images/post/20251112/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251112203605.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2222 | Greesel | Ayo ngobrol bareng! | Rabu, 12 Nov 2025 21:02:40 | <img src="https://cdn.idntimes.com/content-images/post/20251112/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251112210232.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2223 | Fritzy | hemloo | Rabu, 12 Nov 2025 21:06:36 | <img src="https://cdn.idntimes.com/content-images/post/20251112/717109e0-a064-4f15-8187-5c4d46e56a58-251112210624.jpg" alt="hemloo" width="200"/> |
+| 2224 | Lana | Malam kamis | Rabu, 12 Nov 2025 22:05:37 | <img src="https://cdn.idntimes.com/content-images/post/20251112/e2af7271-2598-4ee8-8760-68043e671e6d-251112220529.jpg" alt="Malam kamis" width="200"/> |
