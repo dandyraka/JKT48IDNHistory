@@ -2230,3 +2230,4 @@
 | 2226 | Lia | Ayo ngobrol bareng! | Rabu, 12 Nov 2025 23:45:37 | <img src="https://cdn.idntimes.com/content-images/post/20251112/15dfee86-a928-4a15-8c90-6aa21097d0ff-251112234529.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2227 | Anindya | hi | Kamis, 13 Nov 2025 12:21:19 | <img src="https://cdn.idntimes.com/content-images/post/20251113/a5c72141-65a3-47be-86ef-1dc1feaab10d-251113122110.jpg" alt="hi" width="200"/> |
 | 2228 | Lana | MaU live sama siapa yaa | Kamis, 13 Nov 2025 12:21:44 | <img src="https://cdn.idntimes.com/content-images/post/20251113/e2af7271-2598-4ee8-8760-68043e671e6d-251113122136.jpg" alt="MaU live sama siapa yaa" width="200"/> |
+| 2229 | Intan | p | Kamis, 13 Nov 2025 14:28:22 | <img src="https://cdn.idntimes.com/content-images/post/20251113/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251113142806.jpg" alt="p" width="200"/> |
