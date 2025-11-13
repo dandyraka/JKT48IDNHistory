@@ -2242,3 +2242,4 @@
 | 2238 | Greesel | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 21:58:03 | <img src="https://cdn.idntimes.com/content-images/post/20251113/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251113215755.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2239 | Lia | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 21:58:06 | <img src="https://cdn.idntimes.com/content-images/post/20251113/15dfee86-a928-4a15-8c90-6aa21097d0ff-251113215758.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2240 | Danella | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 22:00:09 | <img src="https://cdn.idntimes.com/content-images/post/20251113/33139b05-1c43-4b48-bba3-ec960b18b36e-251113215958.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2241 | Cynthia | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 22:30:58 | <img src="https://cdn.idntimes.com/content-images/post/20251113/4f795073-38c9-4df7-9388-74b83de69801-251113223046.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
