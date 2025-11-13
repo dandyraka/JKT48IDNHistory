@@ -2235,3 +2235,4 @@
 | 2231 | Auwia | Hi | Kamis, 13 Nov 2025 15:31:27 | <img src="https://cdn.idntimes.com/content-images/post/20251113/f9500eb4-9d6d-491d-a857-40ca6f862d61-251113153115.jpg" alt="Hi" width="200"/> |
 | 2232 | Eli | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 17:12:49 | <img src="https://cdn.idntimes.com/content-images/post/20251113/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251113171237.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2233 | Rilly | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 17:34:10 | <img src="https://cdn.idntimes.com/content-images/post/20251113/e9170998-f026-4186-bbc5-a17a3b5b2af1-251113173402.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2234 | Chelsea | NGOBROLL | Kamis, 13 Nov 2025 20:41:47 | <img src="https://cdn.idntimes.com/content-images/post/20251113/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251113204139.jpg" alt="NGOBROLL" width="200"/> |
