@@ -2232,3 +2232,4 @@
 | 2228 | Lana | MaU live sama siapa yaa | Kamis, 13 Nov 2025 12:21:44 | <img src="https://cdn.idntimes.com/content-images/post/20251113/e2af7271-2598-4ee8-8760-68043e671e6d-251113122136.jpg" alt="MaU live sama siapa yaa" width="200"/> |
 | 2229 | Intan | p | Kamis, 13 Nov 2025 14:28:22 | <img src="https://cdn.idntimes.com/content-images/post/20251113/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251113142806.jpg" alt="p" width="200"/> |
 | 2230 | Intan | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 14:32:26 | <img src="https://cdn.idntimes.com/content-images/post/20251113/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251113143211.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2231 | Auwia | Hi | Kamis, 13 Nov 2025 15:31:27 | <img src="https://cdn.idntimes.com/content-images/post/20251113/f9500eb4-9d6d-491d-a857-40ca6f862d61-251113153115.jpg" alt="Hi" width="200"/> |
