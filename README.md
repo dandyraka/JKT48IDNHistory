@@ -2239,3 +2239,5 @@
 | 2235 | Anindya | abis videocall | Kamis, 13 Nov 2025 21:06:42 | <img src="https://cdn.idntimes.com/content-images/post/20251113/a5c72141-65a3-47be-86ef-1dc1feaab10d-251113210634.jpg" alt="abis videocall" width="200"/> |
 | 2236 | Daisy | live bareng astro🐶 | Kamis, 13 Nov 2025 21:18:34 | <img src="https://cdn.idntimes.com/content-images/post/20251113/b11b0692-d0b8-464c-849a-9e81439a048c-251113211825.jpg" alt="live bareng astro🐶" width="200"/> |
 | 2237 | Fritzy | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 21:20:11 | <img src="https://cdn.idntimes.com/content-images/post/20251113/717109e0-a064-4f15-8187-5c4d46e56a58-251113211955.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2238 | Greesel | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 21:58:03 | <img src="https://cdn.idntimes.com/content-images/post/20251113/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251113215755.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2239 | Lia | Ayo ngobrol bareng! | Kamis, 13 Nov 2025 21:58:06 | <img src="https://cdn.idntimes.com/content-images/post/20251113/15dfee86-a928-4a15-8c90-6aa21097d0ff-251113215758.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
