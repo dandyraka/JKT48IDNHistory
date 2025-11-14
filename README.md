@@ -2253,3 +2253,4 @@
 | 2249 | Chelsea | LIVE | Jumat, 14 Nov 2025 21:53:38 | <img src="https://cdn.idntimes.com/content-images/post/20251114/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251114215330.jpg" alt="LIVE" width="200"/> |
 | 2250 | Elin | Haiiii | Jumat, 14 Nov 2025 21:54:00 | <img src="https://cdn.idntimes.com/content-images/post/20251114/e0ececb4-71d8-4f32-a221-ef21634a746a-251114215347.jpg" alt="Haiiii" width="200"/> |
 | 2251 | Michie | suara aja yah | Jumat, 14 Nov 2025 22:18:32 | <img src="https://cdn.idntimes.com/content-images/post/20251114/6970e68a-b488-497a-b793-3a735db5e997-251114221819.jpg" alt="suara aja yah" width="200"/> |
+| 2252 | Lyn | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 22:36:35 | <img src="https://cdn.idntimes.com/content-images/post/20251114/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251114223625.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
