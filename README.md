@@ -2249,3 +2249,6 @@
 | 2245 | Cathy | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 20:38:40 | <img src="https://cdn.idntimes.com/content-images/post/20251114/f740e9da-772f-4ae2-8ddd-49f717aacf63-251114203833.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2246 | Anindya | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 20:51:23 | <img src="https://cdn.idntimes.com/content-images/post/20251114/a5c72141-65a3-47be-86ef-1dc1feaab10d-251114205108.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2247 | Cynthia | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 20:54:16 | <img src="https://cdn.idntimes.com/content-images/post/20251114/4f795073-38c9-4df7-9388-74b83de69801-251114205404.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2248 | Greesel | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 21:52:01 | <img src="https://cdn.idntimes.com/content-images/post/20251114/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251114215153.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2249 | Chelsea | LIVE | Jumat, 14 Nov 2025 21:53:38 | <img src="https://cdn.idntimes.com/content-images/post/20251114/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251114215330.jpg" alt="LIVE" width="200"/> |
+| 2250 | Elin | Haiiii | Jumat, 14 Nov 2025 21:54:00 | <img src="https://cdn.idntimes.com/content-images/post/20251114/e0ececb4-71d8-4f32-a221-ef21634a746a-251114215347.jpg" alt="Haiiii" width="200"/> |
