@@ -2247,3 +2247,5 @@
 | 2243 | Eli | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 18:51:48 | <img src="https://cdn.idntimes.com/content-images/post/20251114/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251114185133.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2244 | Alya | apa y | Jumat, 14 Nov 2025 20:38:38 | <img src="https://cdn.idntimes.com/content-images/post/20251114/74e76417-0353-487f-b9b7-7520c0398e87-251114203830.jpg" alt="apa y" width="200"/> |
 | 2245 | Cathy | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 20:38:40 | <img src="https://cdn.idntimes.com/content-images/post/20251114/f740e9da-772f-4ae2-8ddd-49f717aacf63-251114203833.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2246 | Anindya | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 20:51:23 | <img src="https://cdn.idntimes.com/content-images/post/20251114/a5c72141-65a3-47be-86ef-1dc1feaab10d-251114205108.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2247 | Cynthia | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 20:54:16 | <img src="https://cdn.idntimes.com/content-images/post/20251114/4f795073-38c9-4df7-9388-74b83de69801-251114205404.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
