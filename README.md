@@ -2255,3 +2255,4 @@
 | 2251 | Michie | suara aja yah | Jumat, 14 Nov 2025 22:18:32 | <img src="https://cdn.idntimes.com/content-images/post/20251114/6970e68a-b488-497a-b793-3a735db5e997-251114221819.jpg" alt="suara aja yah" width="200"/> |
 | 2252 | Lyn | Ayo ngobrol bareng! | Jumat, 14 Nov 2025 22:36:35 | <img src="https://cdn.idntimes.com/content-images/post/20251114/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251114223625.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2253 | Fritzy | kasih ide | Sabtu, 15 Nov 2025 18:21:54 | <img src="https://cdn.idntimes.com/content-images/post/20251115/717109e0-a064-4f15-8187-5c4d46e56a58-251115182140.jpg" alt="kasih ide" width="200"/> |
+| 2254 | Alya | Ayo ngobrol bareng! | Sabtu, 15 Nov 2025 19:39:30 | <img src="https://cdn.idntimes.com/content-images/post/20251115/74e76417-0353-487f-b9b7-7520c0398e87-251115193923.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
