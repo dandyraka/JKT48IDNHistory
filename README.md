@@ -2260,3 +2260,5 @@
 | 2256 | Gracie | :D | Sabtu, 15 Nov 2025 21:30:45 | <img src="https://cdn.idntimes.com/content-images/post/20251115/cae4d972-5f14-4512-9706-37c1802a0541-251115213035.jpg" alt=":D" width="200"/> |
 | 2257 | Gita | Gits | Minggu, 16 Nov 2025 12:58:48 | <img src="https://cdn.idntimes.com/content-images/post/20251116/82ffac10-ee56-43d0-ad38-ce432384cfe5-251116125835.jpg" alt="Gits" width="200"/> |
 | 2258 | Rilly | Ayo ngobrol bareng! | Minggu, 16 Nov 2025 14:15:17 | <img src="https://cdn.idntimes.com/content-images/post/20251116/e9170998-f026-4186-bbc5-a17a3b5b2af1-251116141508.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2259 | Anindya | Ayo ngobrol bareng! | Minggu, 16 Nov 2025 15:56:58 | <img src="https://cdn.idntimes.com/content-images/post/20251116/a5c72141-65a3-47be-86ef-1dc1feaab10d-251116155644.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2260 | Cynthia | Ayo ngobrol bareng! | Minggu, 16 Nov 2025 15:57:54 | <img src="https://cdn.idntimes.com/content-images/post/20251116/4f795073-38c9-4df7-9388-74b83de69801-251116155740.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
