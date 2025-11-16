@@ -2264,3 +2264,4 @@
 | 2260 | Cynthia | Ayo ngobrol bareng! | Minggu, 16 Nov 2025 15:57:54 | <img src="https://cdn.idntimes.com/content-images/post/20251116/4f795073-38c9-4df7-9388-74b83de69801-251116155740.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2261 | Greesel | Ayo ngobrol bareng! | Minggu, 16 Nov 2025 16:24:23 | <img src="https://cdn.idntimes.com/content-images/post/20251116/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251116162415.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2262 | Lyn | Ayo ngobrol bareng! | Minggu, 16 Nov 2025 17:51:44 | <img src="https://cdn.idntimes.com/content-images/post/20251116/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251116175134.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2263 | Fritzy | unboxing | Minggu, 16 Nov 2025 19:34:23 | <img src="https://cdn.idntimes.com/content-images/post/20251116/717109e0-a064-4f15-8187-5c4d46e56a58-251116193408.jpg" alt="unboxing" width="200"/> |
