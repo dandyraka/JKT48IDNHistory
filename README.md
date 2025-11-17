@@ -2275,3 +2275,5 @@
 | 2271 | Rilly | Ayo ngobrol bareng! | Senin, 17 Nov 2025 19:30:11 | <img src="https://cdn.idntimes.com/content-images/post/20251117/e9170998-f026-4186-bbc5-a17a3b5b2af1-251117193002.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2272 | Jemima | Ayo ngobrol bareng! | Senin, 17 Nov 2025 19:43:40 | <img src="https://cdn.idntimes.com/content-images/post/20251117/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251117194326.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2273 | Ekin | Ayo ngobrol bareng! | Senin, 17 Nov 2025 20:20:35 | <img src="https://cdn.idntimes.com/content-images/post/20251117/85f369d7-6525-41c0-94b8-9a56686713eb-251117202027.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2274 | Intan | Ayo ngobrol bareng! | Senin, 17 Nov 2025 21:05:01 | <img src="https://cdn.idntimes.com/content-images/post/20251117/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251117210443.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2275 | Nayla | Ayo ngobrol bareng! | Senin, 17 Nov 2025 21:11:51 | <img src="https://cdn.idntimes.com/content-images/post/20251117/e243be19-74b7-435b-8e19-13fc669e0224-251117211143.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
