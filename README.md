@@ -2274,3 +2274,4 @@
 | 2270 | Virgi | Ayo ngobrol bareng! | Senin, 17 Nov 2025 18:31:20 | <img src="https://cdn.idntimes.com/content-images/post/20251117/147e83c8-f3ac-4680-9141-2f518b4b7810-251117183108.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2271 | Rilly | Ayo ngobrol bareng! | Senin, 17 Nov 2025 19:30:11 | <img src="https://cdn.idntimes.com/content-images/post/20251117/e9170998-f026-4186-bbc5-a17a3b5b2af1-251117193002.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2272 | Jemima | Ayo ngobrol bareng! | Senin, 17 Nov 2025 19:43:40 | <img src="https://cdn.idntimes.com/content-images/post/20251117/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251117194326.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2273 | Ekin | Ayo ngobrol bareng! | Senin, 17 Nov 2025 20:20:35 | <img src="https://cdn.idntimes.com/content-images/post/20251117/85f369d7-6525-41c0-94b8-9a56686713eb-251117202027.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
