@@ -2271,3 +2271,4 @@
 | 2267 | Muthe | Hi | Senin, 17 Nov 2025 16:08:06 | <img src="https://cdn.idntimes.com/content-images/post/20251117/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-251117160758.jpg" alt="Hi" width="200"/> |
 | 2268 | Oniel | Ayo ngobrol bareng! | Senin, 17 Nov 2025 16:53:48 | <img src="https://cdn.idntimes.com/content-images/post/20251117/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251117165341.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2269 | Gita | Gits | Senin, 17 Nov 2025 16:54:05 | <img src="https://cdn.idntimes.com/content-images/post/20251117/82ffac10-ee56-43d0-ad38-ce432384cfe5-251117165352.jpg" alt="Gits" width="200"/> |
+| 2270 | Virgi | Ayo ngobrol bareng! | Senin, 17 Nov 2025 18:31:20 | <img src="https://cdn.idntimes.com/content-images/post/20251117/147e83c8-f3ac-4680-9141-2f518b4b7810-251117183108.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
