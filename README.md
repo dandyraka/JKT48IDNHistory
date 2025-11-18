@@ -2279,3 +2279,4 @@
 | 2275 | Nayla | Ayo ngobrol bareng! | Senin, 17 Nov 2025 21:11:51 | <img src="https://cdn.idntimes.com/content-images/post/20251117/e243be19-74b7-435b-8e19-13fc669e0224-251117211143.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2276 | Giaa | malammm | Senin, 17 Nov 2025 21:58:34 | <img src="https://cdn.idntimes.com/content-images/post/20251117/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251117215827.jpg" alt="malammm" width="200"/> |
 | 2277 | Trisha | haiii | Senin, 17 Nov 2025 22:24:46 | <img src="https://cdn.idntimes.com/content-images/post/20251117/92d66abb-0171-4a2b-a30d-37ad58359248-251117222433.jpg" alt="haiii" width="200"/> |
+| 2278 | Raisha | Ayo ngobrol bareng! | Selasa, 18 Nov 2025 11:40:29 | <img src="https://cdn.idntimes.com/content-images/post/20251118/728d224e-6ccb-43d2-a029-a0147dc7fdee-251118114011.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
