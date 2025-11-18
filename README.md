@@ -2295,3 +2295,4 @@
 | 2291 | Indah | Ayo ngobrol bareng! | Selasa, 18 Nov 2025 20:25:11 | <img src="https://cdn.idntimes.com/content-images/post/20251118/539f5185-1414-416c-b84d-2ad366b6d60a-251118202502.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2292 | Lana | Hai | Selasa, 18 Nov 2025 20:53:11 | <img src="https://cdn.idntimes.com/content-images/post/20251118/e2af7271-2598-4ee8-8760-68043e671e6d-251118205304.jpg" alt="Hai" width="200"/> |
 | 2293 | Anindya | aku tau dia tau | Selasa, 18 Nov 2025 21:26:36 | <img src="https://cdn.idntimes.com/content-images/post/20251118/a5c72141-65a3-47be-86ef-1dc1feaab10d-251118212629.jpg" alt="aku tau dia tau" width="200"/> |
+| 2294 | Alya | Ayo ngobrol bareng! | Selasa, 18 Nov 2025 23:09:04 | <img src="https://cdn.idntimes.com/content-images/post/20251118/74e76417-0353-487f-b9b7-7520c0398e87-251118230856.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
