@@ -2293,3 +2293,4 @@
 | 2289 | Raisha | Ayo ngobrol bareng! | Selasa, 18 Nov 2025 19:58:35 | <img src="https://cdn.idntimes.com/content-images/post/20251118/728d224e-6ccb-43d2-a029-a0147dc7fdee-251118195820.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2290 | Michie | mam bihunku | Selasa, 18 Nov 2025 20:15:16 | <img src="https://cdn.idntimes.com/content-images/post/20251118/6970e68a-b488-497a-b793-3a735db5e997-251118201504.jpg" alt="mam bihunku" width="200"/> |
 | 2291 | Indah | Ayo ngobrol bareng! | Selasa, 18 Nov 2025 20:25:11 | <img src="https://cdn.idntimes.com/content-images/post/20251118/539f5185-1414-416c-b84d-2ad366b6d60a-251118202502.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2292 | Lana | Hai | Selasa, 18 Nov 2025 20:53:11 | <img src="https://cdn.idntimes.com/content-images/post/20251118/e2af7271-2598-4ee8-8760-68043e671e6d-251118205304.jpg" alt="Hai" width="200"/> |
