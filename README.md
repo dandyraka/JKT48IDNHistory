@@ -2290,3 +2290,5 @@
 | 2286 | Trisha | halo | Selasa, 18 Nov 2025 15:53:17 | <img src="https://cdn.idntimes.com/content-images/post/20251118/92d66abb-0171-4a2b-a30d-37ad58359248-251118155300.jpg" alt="halo" width="200"/> |
 | 2287 | Lyn | Ayo ngobrol bareng! | Selasa, 18 Nov 2025 17:44:37 | <img src="https://cdn.idntimes.com/content-images/post/20251118/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251118174427.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2288 | Gendis | lagi mam | Selasa, 18 Nov 2025 18:23:06 | <img src="https://cdn.idntimes.com/content-images/post/20251118/ab901d82-db49-488c-8d03-da0082ab70e2-251118182252.jpg" alt="lagi mam" width="200"/> |
+| 2289 | Raisha | Ayo ngobrol bareng! | Selasa, 18 Nov 2025 19:58:35 | <img src="https://cdn.idntimes.com/content-images/post/20251118/728d224e-6ccb-43d2-a029-a0147dc7fdee-251118195820.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2290 | Michie | mam bihunku | Selasa, 18 Nov 2025 20:15:16 | <img src="https://cdn.idntimes.com/content-images/post/20251118/6970e68a-b488-497a-b793-3a735db5e997-251118201504.jpg" alt="mam bihunku" width="200"/> |
