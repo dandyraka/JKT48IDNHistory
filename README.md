@@ -2301,3 +2301,5 @@
 | 2297 | Gendis | hai | Rabu, 19 Nov 2025 18:08:24 | <img src="https://cdn.idntimes.com/content-images/post/20251119/ab901d82-db49-488c-8d03-da0082ab70e2-251119180815.jpg" alt="hai" width="200"/> |
 | 2298 | Kathrina | Ayo ngobrol bareng! | Rabu, 19 Nov 2025 19:00:10 | <img src="https://cdn.idntimes.com/content-images/post/20251119/c3d28bcd-d000-4ccc-a9bf-956853cfa433-251119190002.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2299 | Indah | Ayo ngobrol bareng! | Rabu, 19 Nov 2025 19:27:16 | <img src="https://cdn.idntimes.com/content-images/post/20251119/539f5185-1414-416c-b84d-2ad366b6d60a-251119192707.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2300 | Danella | Ayo ngobrol bareng! | Rabu, 19 Nov 2025 20:48:20 | <img src="https://cdn.idntimes.com/content-images/post/20251119/33139b05-1c43-4b48-bba3-ec960b18b36e-251119204811.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2301 | Daisy | Hii | Rabu, 19 Nov 2025 20:49:14 | <img src="https://cdn.idntimes.com/content-images/post/20251119/b11b0692-d0b8-464c-849a-9e81439a048c-251119204902.jpg" alt="Hii" width="200"/> |
