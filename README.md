@@ -2307,3 +2307,4 @@
 | 2303 | Marsha | Ayo ngobrol bareng! | Rabu, 19 Nov 2025 21:37:28 | <img src="https://cdn.idntimes.com/content-images/post/20251119/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251119213715.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2304 | Michie | hai | Rabu, 19 Nov 2025 21:37:31 | <img src="https://cdn.idntimes.com/content-images/post/20251119/6970e68a-b488-497a-b793-3a735db5e997-251119213717.jpg" alt="hai" width="200"/> |
 | 2305 | Gracie | halooooo | Rabu, 19 Nov 2025 21:37:56 | <img src="https://cdn.idntimes.com/content-images/post/20251119/cae4d972-5f14-4512-9706-37c1802a0541-251119213747.jpg" alt="halooooo" width="200"/> |
+| 2306 | Eli | Ayo ngobrol bareng! | Rabu, 19 Nov 2025 21:43:02 | <img src="https://cdn.idntimes.com/content-images/post/20251119/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251119214250.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
