@@ -2315,3 +2315,5 @@
 | 2311 | Elin | Haiii | Kamis, 20 Nov 2025 10:38:58 | <img src="https://cdn.idntimes.com/content-images/post/20251120/e0ececb4-71d8-4f32-a221-ef21634a746a-251120103852.jpg" alt="Haiii" width="200"/> |
 | 2312 | Gracie | hehe | Kamis, 20 Nov 2025 18:33:29 | <img src="https://cdn.idntimes.com/content-images/post/20251120/cae4d972-5f14-4512-9706-37c1802a0541-251120183320.jpg" alt="hehe" width="200"/> |
 | 2313 | Jemima | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 20:00:43 | <img src="https://cdn.idntimes.com/content-images/post/20251120/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251120200027.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2314 | Cynthia | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 20:20:32 | <img src="https://cdn.idntimes.com/content-images/post/20251120/4f795073-38c9-4df7-9388-74b83de69801-251120202008.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2315 | Ekin | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 20:38:29 | <img src="https://cdn.idntimes.com/content-images/post/20251120/85f369d7-6525-41c0-94b8-9a56686713eb-251120203820.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
