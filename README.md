@@ -2312,3 +2312,4 @@
 | 2308 | Olla | Ayo ngobrol bareng! | Rabu, 19 Nov 2025 21:58:20 | <img src="https://cdn.idntimes.com/content-images/post/20251119/9c32c2bc-f74e-4420-8be8-f4ac863b8064-251119215809.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2309 | Lyn | Ayo ngobrol bareng! | Rabu, 19 Nov 2025 22:50:37 | <img src="https://cdn.idntimes.com/content-images/post/20251119/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251119225026.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2310 | Cynthia | Ayo ngobrol bareng! | Rabu, 19 Nov 2025 22:56:46 | <img src="https://cdn.idntimes.com/content-images/post/20251119/4f795073-38c9-4df7-9388-74b83de69801-251119225634.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2311 | Elin | Haiii | Kamis, 20 Nov 2025 10:38:58 | <img src="https://cdn.idntimes.com/content-images/post/20251120/e0ececb4-71d8-4f32-a221-ef21634a746a-251120103852.jpg" alt="Haiii" width="200"/> |
