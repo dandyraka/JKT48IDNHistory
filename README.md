@@ -2324,3 +2324,5 @@
 | 2320 | Lyn | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 21:58:39 | <img src="https://cdn.idntimes.com/content-images/post/20251120/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251120215829.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2321 | Lulu | ngobrol kuy | Kamis, 20 Nov 2025 22:13:59 | <img src="https://cdn.idntimes.com/content-images/post/20251120/531d1bc0-ee91-475f-9e9d-098127b8d383-251120221348.jpg" alt="ngobrol kuy" width="200"/> |
 | 2322 | Lily | Hii | Kamis, 20 Nov 2025 22:27:17 | <img src="https://cdn.idntimes.com/content-images/post/20251120/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251120222710.jpg" alt="Hii" width="200"/> |
+| 2323 | Mikaela | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 22:35:45 | <img src="https://cdn.idntimes.com/content-images/post/20251120/a557ba58-12d8-4260-bd50-9e5252ac71ef-251120223531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2324 | Ribka | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 22:39:04 | <img src="https://cdn.idntimes.com/content-images/post/20251120/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251120223856.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
