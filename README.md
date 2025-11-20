@@ -2318,3 +2318,5 @@
 | 2314 | Cynthia | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 20:20:32 | <img src="https://cdn.idntimes.com/content-images/post/20251120/4f795073-38c9-4df7-9388-74b83de69801-251120202008.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2315 | Ekin | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 20:38:29 | <img src="https://cdn.idntimes.com/content-images/post/20251120/85f369d7-6525-41c0-94b8-9a56686713eb-251120203820.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2316 | Auwia | Chat | Kamis, 20 Nov 2025 20:50:05 | <img src="https://cdn.idntimes.com/content-images/post/20251120/f9500eb4-9d6d-491d-a857-40ca6f862d61-251120204953.jpg" alt="Chat" width="200"/> |
+| 2317 | Lana | Temenin ngobroll dongg  | Kamis, 20 Nov 2025 21:37:26 | <img src="https://cdn.idntimes.com/content-images/post/20251120/e2af7271-2598-4ee8-8760-68043e671e6d-251120213718.jpg" alt="Temenin ngobroll dongg " width="200"/> |
+| 2318 | Rilly | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 21:38:34 | <img src="https://cdn.idntimes.com/content-images/post/20251120/e9170998-f026-4186-bbc5-a17a3b5b2af1-251120213825.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
