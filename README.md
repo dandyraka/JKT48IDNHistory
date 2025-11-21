@@ -2327,3 +2327,4 @@
 | 2323 | Mikaela | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 22:35:45 | <img src="https://cdn.idntimes.com/content-images/post/20251120/a557ba58-12d8-4260-bd50-9e5252ac71ef-251120223531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2324 | Ribka | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 22:39:04 | <img src="https://cdn.idntimes.com/content-images/post/20251120/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251120223856.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2325 | Gendis | lagi di theater nih bos | Jumat, 21 Nov 2025 15:35:19 | <img src="https://cdn.idntimes.com/content-images/post/20251121/ab901d82-db49-488c-8d03-da0082ab70e2-251121153510.jpg" alt="lagi di theater nih bos" width="200"/> |
+| 2326 | Amanda | Laip | Jumat, 21 Nov 2025 15:51:16 | <img src="https://cdn.idntimes.com/content-images/post/20251121/e8aa0877-684a-4430-8a3b-d96302e53aab-251121154951.jpg" alt="Laip" width="200"/> |
