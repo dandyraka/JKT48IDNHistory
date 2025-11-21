@@ -2326,3 +2326,4 @@
 | 2322 | Lily | Hii | Kamis, 20 Nov 2025 22:27:17 | <img src="https://cdn.idntimes.com/content-images/post/20251120/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251120222710.jpg" alt="Hii" width="200"/> |
 | 2323 | Mikaela | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 22:35:45 | <img src="https://cdn.idntimes.com/content-images/post/20251120/a557ba58-12d8-4260-bd50-9e5252ac71ef-251120223531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2324 | Ribka | Ayo ngobrol bareng! | Kamis, 20 Nov 2025 22:39:04 | <img src="https://cdn.idntimes.com/content-images/post/20251120/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251120223856.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2325 | Gendis | lagi di theater nih bos | Jumat, 21 Nov 2025 15:35:19 | <img src="https://cdn.idntimes.com/content-images/post/20251121/ab901d82-db49-488c-8d03-da0082ab70e2-251121153510.jpg" alt="lagi di theater nih bos" width="200"/> |
