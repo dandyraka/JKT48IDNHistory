@@ -2331,3 +2331,4 @@
 | 2327 | Raisha | Ayo ngobrol bareng! | Jumat, 21 Nov 2025 16:17:42 | <img src="https://cdn.idntimes.com/content-images/post/20251121/728d224e-6ccb-43d2-a029-a0147dc7fdee-251121161726.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2328 | Elin | Haii | Jumat, 21 Nov 2025 20:20:20 | <img src="https://cdn.idntimes.com/content-images/post/20251121/e0ececb4-71d8-4f32-a221-ef21634a746a-251121202012.jpg" alt="Haii" width="200"/> |
 | 2329 | Fritzy | hii | Jumat, 21 Nov 2025 21:16:37 | <img src="https://cdn.idntimes.com/content-images/post/20251121/717109e0-a064-4f15-8187-5c4d46e56a58-251121211623.jpg" alt="hii" width="200"/> |
+| 2330 | Lana | P | Jumat, 21 Nov 2025 23:40:58 | <img src="https://cdn.idntimes.com/content-images/post/20251121/e2af7271-2598-4ee8-8760-68043e671e6d-251121234050.jpg" alt="P" width="200"/> |
