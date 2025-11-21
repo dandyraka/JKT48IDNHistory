@@ -2332,3 +2332,6 @@
 | 2328 | Elin | Haii | Jumat, 21 Nov 2025 20:20:20 | <img src="https://cdn.idntimes.com/content-images/post/20251121/e0ececb4-71d8-4f32-a221-ef21634a746a-251121202012.jpg" alt="Haii" width="200"/> |
 | 2329 | Fritzy | hii | Jumat, 21 Nov 2025 21:16:37 | <img src="https://cdn.idntimes.com/content-images/post/20251121/717109e0-a064-4f15-8187-5c4d46e56a58-251121211623.jpg" alt="hii" width="200"/> |
 | 2330 | Lana | P | Jumat, 21 Nov 2025 23:40:58 | <img src="https://cdn.idntimes.com/content-images/post/20251121/e2af7271-2598-4ee8-8760-68043e671e6d-251121234050.jpg" alt="P" width="200"/> |
+| 2331 | Eli | Ayo ngobrol bareng! | Sabtu, 22 Nov 2025 00:30:03 | <img src="https://cdn.idntimes.com/content-images/post/20251122/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251122002951.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2332 | Danella | Ayo ngobrol bareng! | Sabtu, 22 Nov 2025 00:33:29 | <img src="https://cdn.idntimes.com/content-images/post/20251122/33139b05-1c43-4b48-bba3-ec960b18b36e-251122003323.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2333 | Daisy | Hiii | Sabtu, 22 Nov 2025 00:33:33 | <img src="https://cdn.idntimes.com/content-images/post/20251122/b11b0692-d0b8-464c-849a-9e81439a048c-251122003326.jpg" alt="Hiii" width="200"/> |
