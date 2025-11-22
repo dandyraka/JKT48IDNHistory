@@ -2341,3 +2341,4 @@
 | 2337 | Giaa | bareng ekin rilly | Sabtu, 22 Nov 2025 14:31:12 | <img src="https://cdn.idntimes.com/content-images/post/20251122/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251122143105.jpg" alt="bareng ekin rilly" width="200"/> |
 | 2338 | Ekin | Ayo ngobrol bareng! | Sabtu, 22 Nov 2025 14:33:50 | <img src="https://cdn.idntimes.com/content-images/post/20251122/85f369d7-6525-41c0-94b8-9a56686713eb-251122143343.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2339 | Ribka | Ayo ngobrol bareng! | Sabtu, 22 Nov 2025 15:22:54 | <img src="https://cdn.idntimes.com/content-images/post/20251122/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251122152247.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2340 | Jemima | Ayo ngobrol bareng! | Sabtu, 22 Nov 2025 16:19:20 | <img src="https://cdn.idntimes.com/content-images/post/20251122/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251122161905.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
