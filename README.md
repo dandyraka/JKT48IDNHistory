@@ -2351,3 +2351,4 @@
 | 2347 | Lana | Temenin makeup | Sabtu, 22 Nov 2025 20:02:02 | <img src="https://cdn.idntimes.com/content-images/post/20251122/e2af7271-2598-4ee8-8760-68043e671e6d-251122200145.jpg" alt="Temenin makeup" width="200"/> |
 | 2348 | Mikaela | Ayo ngobrol bareng! | Minggu, 23 Nov 2025 12:23:11 | <img src="https://cdn.idntimes.com/content-images/post/20251123/a557ba58-12d8-4260-bd50-9e5252ac71ef-251123122258.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2349 | Gendis | HAII | Minggu, 23 Nov 2025 13:55:23 | <img src="https://cdn.idntimes.com/content-images/post/20251123/ab901d82-db49-488c-8d03-da0082ab70e2-251123135513.jpg" alt="HAII" width="200"/> |
+| 2350 | Intan | bub | Minggu, 23 Nov 2025 13:57:18 | <img src="https://cdn.idntimes.com/content-images/post/20251123/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251123135702.jpg" alt="bub" width="200"/> |
