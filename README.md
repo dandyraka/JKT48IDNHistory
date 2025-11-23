@@ -2364,3 +2364,5 @@
 | 2360 | Marsha | Ayo ngobrol bareng! | Minggu, 23 Nov 2025 18:00:28 | <img src="https://cdn.idntimes.com/content-images/post/20251123/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251123180016.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2361 | Auwia | Kira kiraaaa? | Minggu, 23 Nov 2025 18:13:53 | <img src="https://cdn.idntimes.com/content-images/post/20251123/f9500eb4-9d6d-491d-a857-40ca6f862d61-251123181341.jpg" alt="Kira kiraaaa?" width="200"/> |
 | 2362 | Ella | Ayo ngobrol bareng! | Minggu, 23 Nov 2025 18:27:45 | <img src="https://cdn.idntimes.com/content-images/post/20251123/b0d1e6c3-d356-4b00-8d00-846e5297693b-251123182732.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2363 | Elin | Helow | Minggu, 23 Nov 2025 22:11:12 | <img src="https://cdn.idntimes.com/content-images/post/20251123/e0ececb4-71d8-4f32-a221-ef21634a746a-251123221105.jpg" alt="Helow" width="200"/> |
+| 2364 | Anindya | temenin makan | Minggu, 23 Nov 2025 22:23:44 | <img src="https://cdn.idntimes.com/content-images/post/20251123/a5c72141-65a3-47be-86ef-1dc1feaab10d-251123222335.jpg" alt="temenin makan" width="200"/> |
