@@ -2352,3 +2352,5 @@
 | 2348 | Mikaela | Ayo ngobrol bareng! | Minggu, 23 Nov 2025 12:23:11 | <img src="https://cdn.idntimes.com/content-images/post/20251123/a557ba58-12d8-4260-bd50-9e5252ac71ef-251123122258.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2349 | Gendis | HAII | Minggu, 23 Nov 2025 13:55:23 | <img src="https://cdn.idntimes.com/content-images/post/20251123/ab901d82-db49-488c-8d03-da0082ab70e2-251123135513.jpg" alt="HAII" width="200"/> |
 | 2350 | Intan | bub | Minggu, 23 Nov 2025 13:57:18 | <img src="https://cdn.idntimes.com/content-images/post/20251123/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251123135702.jpg" alt="bub" width="200"/> |
+| 2351 | Alya | apa ya | Minggu, 23 Nov 2025 17:03:06 | <img src="https://cdn.idntimes.com/content-images/post/20251123/74e76417-0353-487f-b9b7-7520c0398e87-251123170258.jpg" alt="apa ya" width="200"/> |
+| 2352 | Rilly | Ayo ngobrol bareng! | Minggu, 23 Nov 2025 17:22:20 | <img src="https://cdn.idntimes.com/content-images/post/20251123/e9170998-f026-4186-bbc5-a17a3b5b2af1-251123172211.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
