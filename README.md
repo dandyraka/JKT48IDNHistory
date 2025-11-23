@@ -2367,3 +2367,4 @@
 | 2363 | Elin | Helow | Minggu, 23 Nov 2025 22:11:12 | <img src="https://cdn.idntimes.com/content-images/post/20251123/e0ececb4-71d8-4f32-a221-ef21634a746a-251123221105.jpg" alt="Helow" width="200"/> |
 | 2364 | Anindya | temenin makan | Minggu, 23 Nov 2025 22:23:44 | <img src="https://cdn.idntimes.com/content-images/post/20251123/a5c72141-65a3-47be-86ef-1dc1feaab10d-251123222335.jpg" alt="temenin makan" width="200"/> |
 | 2365 | Cathy | Ayo ngobrol bareng! | Minggu, 23 Nov 2025 22:40:39 | <img src="https://cdn.idntimes.com/content-images/post/20251123/f740e9da-772f-4ae2-8ddd-49f717aacf63-251123224032.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2366 | Anindya | Ayo ngobrol bareng! | Minggu, 23 Nov 2025 22:54:55 | <img src="https://cdn.idntimes.com/content-images/post/20251123/a5c72141-65a3-47be-86ef-1dc1feaab10d-251123225447.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
