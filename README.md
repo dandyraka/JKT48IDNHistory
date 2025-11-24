@@ -2382,3 +2382,4 @@
 | 2378 | Fritzy | MELUKIS? | Senin, 24 Nov 2025 21:07:07 | <img src="https://cdn.idntimes.com/content-images/post/20251124/717109e0-a064-4f15-8187-5c4d46e56a58-251124210654.jpg" alt="MELUKIS?" width="200"/> |
 | 2379 | Anindya | mam mango | Senin, 24 Nov 2025 21:15:13 | <img src="https://cdn.idntimes.com/content-images/post/20251124/a5c72141-65a3-47be-86ef-1dc1feaab10d-251124211503.jpg" alt="mam mango" width="200"/> |
 | 2380 | Giaa | mlm | Senin, 24 Nov 2025 21:35:11 | <img src="https://cdn.idntimes.com/content-images/post/20251124/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251124213503.jpg" alt="mlm" width="200"/> |
+| 2381 | Aralie | Ayo ngobrol bareng! | Senin, 24 Nov 2025 22:08:47 | <img src="https://cdn.idntimes.com/content-images/post/20251124/f001ba66-3c51-4849-9afa-13cf74eb1571-251124220839.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
