@@ -2368,3 +2368,4 @@
 | 2364 | Anindya | temenin makan | Minggu, 23 Nov 2025 22:23:44 | <img src="https://cdn.idntimes.com/content-images/post/20251123/a5c72141-65a3-47be-86ef-1dc1feaab10d-251123222335.jpg" alt="temenin makan" width="200"/> |
 | 2365 | Cathy | Ayo ngobrol bareng! | Minggu, 23 Nov 2025 22:40:39 | <img src="https://cdn.idntimes.com/content-images/post/20251123/f740e9da-772f-4ae2-8ddd-49f717aacf63-251123224032.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2366 | Anindya | Ayo ngobrol bareng! | Minggu, 23 Nov 2025 22:54:55 | <img src="https://cdn.idntimes.com/content-images/post/20251123/a5c72141-65a3-47be-86ef-1dc1feaab10d-251123225447.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2367 | Auwia | DIY | Senin, 24 Nov 2025 14:53:28 | <img src="https://cdn.idntimes.com/content-images/post/20251124/f9500eb4-9d6d-491d-a857-40ca6f862d61-251124145315.jpg" alt="DIY" width="200"/> |
