@@ -2371,3 +2371,5 @@
 | 2367 | Auwia | DIY | Senin, 24 Nov 2025 14:53:28 | <img src="https://cdn.idntimes.com/content-images/post/20251124/f9500eb4-9d6d-491d-a857-40ca6f862d61-251124145315.jpg" alt="DIY" width="200"/> |
 | 2368 | Nachia | Ayo ngobrol bareng! | Senin, 24 Nov 2025 15:59:44 | <img src="https://cdn.idntimes.com/content-images/post/20251124/21a420b0-dd01-4daa-b185-b9020f8bf69d-251124155932.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2369 | Gendis | BARU PULANG SEKOLAAAHH | Senin, 24 Nov 2025 16:29:56 | <img src="https://cdn.idntimes.com/content-images/post/20251124/ab901d82-db49-488c-8d03-da0082ab70e2-251124162947.jpg" alt="BARU PULANG SEKOLAAAHH" width="200"/> |
+| 2370 | Intan | hii | Senin, 24 Nov 2025 19:52:52 | <img src="https://cdn.idntimes.com/content-images/post/20251124/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251124195236.jpg" alt="hii" width="200"/> |
+| 2371 | Lily | Heyo | Senin, 24 Nov 2025 19:57:41 | <img src="https://cdn.idntimes.com/content-images/post/20251124/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251124195733.jpg" alt="Heyo" width="200"/> |
