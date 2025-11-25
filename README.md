@@ -2386,3 +2386,4 @@
 | 2382 | Trisha | halo | Senin, 24 Nov 2025 22:40:00 | <img src="https://cdn.idntimes.com/content-images/post/20251124/92d66abb-0171-4a2b-a30d-37ad58359248-251124223947.jpg" alt="halo" width="200"/> |
 | 2383 | Cynthia | Ayo ngobrol bareng! | Senin, 24 Nov 2025 22:40:39 | <img src="https://cdn.idntimes.com/content-images/post/20251124/4f795073-38c9-4df7-9388-74b83de69801-251124224028.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2384 | Alya | Ayo ngobrol bareng! | Senin, 24 Nov 2025 22:41:23 | <img src="https://cdn.idntimes.com/content-images/post/20251124/74e76417-0353-487f-b9b7-7520c0398e87-251124224115.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2385 | Anindya | pukul (pulang kuliah) | Selasa, 25 Nov 2025 12:03:21 | <img src="https://cdn.idntimes.com/content-images/post/20251125/a5c72141-65a3-47be-86ef-1dc1feaab10d-251125120305.jpg" alt="pukul (pulang kuliah)" width="200"/> |
