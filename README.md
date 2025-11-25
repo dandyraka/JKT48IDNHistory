@@ -2406,3 +2406,5 @@
 | 2402 | Ribka | rapat! | Selasa, 25 Nov 2025 21:32:11 | <img src="https://cdn.idntimes.com/content-images/post/20251125/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251125213204.jpg" alt="rapat!" width="200"/> |
 | 2403 | Jemima | hey | Selasa, 25 Nov 2025 21:36:02 | <img src="https://cdn.idntimes.com/content-images/post/20251125/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251125213546.jpg" alt="hey" width="200"/> |
 | 2404 | Delynn | Hi bro | Selasa, 25 Nov 2025 21:51:40 | <img src="https://cdn.idntimes.com/content-images/post/20251125/266ef38a-da00-4d13-ba77-f94da68599ee-251125215133.jpg" alt="Hi bro" width="200"/> |
+| 2405 | Oline | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 21:59:42 | <img src="https://cdn.idntimes.com/content-images/post/20251125/a2b5d818-475d-44ce-af52-e99526482aaf-251125215925.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2406 | Giaa | join hey | Selasa, 25 Nov 2025 22:03:27 | <img src="https://cdn.idntimes.com/content-images/post/20251125/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251125220316.jpg" alt="join hey" width="200"/> |
