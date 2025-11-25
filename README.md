@@ -2392,3 +2392,4 @@
 | 2388 | Lily | Grwm | Selasa, 25 Nov 2025 15:59:57 | <img src="https://cdn.idntimes.com/content-images/post/20251125/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251125155951.jpg" alt="Grwm" width="200"/> |
 | 2389 | Elin | Haii | Selasa, 25 Nov 2025 16:45:50 | <img src="https://cdn.idntimes.com/content-images/post/20251125/e0ececb4-71d8-4f32-a221-ef21634a746a-251125164542.jpg" alt="Haii" width="200"/> |
 | 2390 | Auwia | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 16:50:17 | <img src="https://cdn.idntimes.com/content-images/post/20251125/f9500eb4-9d6d-491d-a857-40ca6f862d61-251125165005.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2391 | Chelsea | TALK | Selasa, 25 Nov 2025 17:06:37 | <img src="https://cdn.idntimes.com/content-images/post/20251125/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251125170630.jpg" alt="TALK" width="200"/> |
