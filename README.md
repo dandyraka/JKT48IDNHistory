@@ -2403,3 +2403,5 @@
 | 2399 | Intan | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 20:32:40 | <img src="https://cdn.idntimes.com/content-images/post/20251125/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251125203224.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2400 | Alya | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 20:39:45 | <img src="https://cdn.idntimes.com/content-images/post/20251125/74e76417-0353-487f-b9b7-7520c0398e87-251125203938.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2401 | Fritzy | unboxingg | Selasa, 25 Nov 2025 21:06:48 | <img src="https://cdn.idntimes.com/content-images/post/20251125/717109e0-a064-4f15-8187-5c4d46e56a58-251125210634.jpg" alt="unboxingg" width="200"/> |
+| 2402 | Ribka | rapat! | Selasa, 25 Nov 2025 21:32:11 | <img src="https://cdn.idntimes.com/content-images/post/20251125/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251125213204.jpg" alt="rapat!" width="200"/> |
+| 2403 | Jemima | hey | Selasa, 25 Nov 2025 21:36:02 | <img src="https://cdn.idntimes.com/content-images/post/20251125/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251125213546.jpg" alt="hey" width="200"/> |
