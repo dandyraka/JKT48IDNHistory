@@ -2399,3 +2399,4 @@
 | 2395 | Daisy | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 18:58:16 | <img src="https://cdn.idntimes.com/content-images/post/20251125/b11b0692-d0b8-464c-849a-9e81439a048c-251125185808.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2396 | Michie | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 19:05:53 | <img src="https://cdn.idntimes.com/content-images/post/20251125/6970e68a-b488-497a-b793-3a735db5e997-251125190546.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2397 | Mikaela | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 19:14:15 | <img src="https://cdn.idntimes.com/content-images/post/20251125/a557ba58-12d8-4260-bd50-9e5252ac71ef-251125191402.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2398 | Nala | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 19:55:36 | <img src="https://cdn.idntimes.com/content-images/post/20251125/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251125195524.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
