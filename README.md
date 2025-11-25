@@ -2393,3 +2393,5 @@
 | 2389 | Elin | Haii | Selasa, 25 Nov 2025 16:45:50 | <img src="https://cdn.idntimes.com/content-images/post/20251125/e0ececb4-71d8-4f32-a221-ef21634a746a-251125164542.jpg" alt="Haii" width="200"/> |
 | 2390 | Auwia | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 16:50:17 | <img src="https://cdn.idntimes.com/content-images/post/20251125/f9500eb4-9d6d-491d-a857-40ca6f862d61-251125165005.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2391 | Chelsea | TALK | Selasa, 25 Nov 2025 17:06:37 | <img src="https://cdn.idntimes.com/content-images/post/20251125/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251125170630.jpg" alt="TALK" width="200"/> |
+| 2392 | Oniel | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 18:34:25 | <img src="https://cdn.idntimes.com/content-images/post/20251125/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251125183417.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2393 | Lia | Ayo ngobrol bareng! | Selasa, 25 Nov 2025 18:35:22 | <img src="https://cdn.idntimes.com/content-images/post/20251125/15dfee86-a928-4a15-8c90-6aa21097d0ff-251125183514.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
