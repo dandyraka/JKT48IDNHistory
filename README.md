@@ -2423,3 +2423,4 @@
 | 2419 | Daisy | Ayo ngobrol bareng! | Rabu, 26 Nov 2025 16:55:30 | <img src="https://cdn.idntimes.com/content-images/post/20251126/b11b0692-d0b8-464c-849a-9e81439a048c-251126165521.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2420 | Michie | makan sama gen 11 (berbincang bersama fren) | Rabu, 26 Nov 2025 16:56:28 | <img src="https://cdn.idntimes.com/content-images/post/20251126/6970e68a-b488-497a-b793-3a735db5e997-251126165618.jpg" alt="makan sama gen 11 (berbincang bersama fren)" width="200"/> |
 | 2421 | Danella | Ayo ngobrol bareng! | Rabu, 26 Nov 2025 16:56:28 | <img src="https://cdn.idntimes.com/content-images/post/20251126/33139b05-1c43-4b48-bba3-ec960b18b36e-251126165621.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2422 | Fritzy | Ayo ngobrol bareng! | Rabu, 26 Nov 2025 19:13:01 | <img src="https://cdn.idntimes.com/content-images/post/20251126/717109e0-a064-4f15-8187-5c4d46e56a58-251126191248.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
