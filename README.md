@@ -2432,3 +2432,4 @@
 | 2428 | Intan | Ayo ngobrol bareng! | Rabu, 26 Nov 2025 21:25:27 | <img src="https://cdn.idntimes.com/content-images/post/20251126/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251126212511.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2429 | Lily | Heyo | Rabu, 26 Nov 2025 21:33:03 | <img src="https://cdn.idntimes.com/content-images/post/20251126/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251126213256.jpg" alt="Heyo" width="200"/> |
 | 2430 | Ribka | Ayo ngobrol bareng! | Rabu, 26 Nov 2025 22:29:08 | <img src="https://cdn.idntimes.com/content-images/post/20251126/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251126222900.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2431 | Lia | Ayo ngobrol bareng! | Rabu, 26 Nov 2025 22:39:12 | <img src="https://cdn.idntimes.com/content-images/post/20251126/15dfee86-a928-4a15-8c90-6aa21097d0ff-251126223904.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
