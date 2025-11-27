@@ -2439,3 +2439,4 @@
 | 2435 | Auwia | GRWM LAGREIDHWUUW | Kamis, 27 Nov 2025 17:21:35 | <img src="https://cdn.idntimes.com/content-images/post/20251127/f9500eb4-9d6d-491d-a857-40ca6f862d61-251127172123.jpg" alt="GRWM LAGREIDHWUUW" width="200"/> |
 | 2436 | Lana | Temenin ngelukis | Kamis, 27 Nov 2025 20:26:20 | <img src="https://cdn.idntimes.com/content-images/post/20251127/e2af7271-2598-4ee8-8760-68043e671e6d-251127202612.jpg" alt="Temenin ngelukis" width="200"/> |
 | 2437 | Oniel | Ayo ngobrol bareng! | Kamis, 27 Nov 2025 21:30:44 | <img src="https://cdn.idntimes.com/content-images/post/20251127/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251127213038.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2438 | Ekin | Ayo ngobrol bareng! | Kamis, 27 Nov 2025 22:00:36 | <img src="https://cdn.idntimes.com/content-images/post/20251127/85f369d7-6525-41c0-94b8-9a56686713eb-251127220028.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
