@@ -2436,3 +2436,4 @@
 | 2432 | Daisy | Ayo ngobrol bareng! | Kamis, 27 Nov 2025 11:08:08 | <img src="https://cdn.idntimes.com/content-images/post/20251127/b11b0692-d0b8-464c-849a-9e81439a048c-251127110759.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2433 | Danella | Ayo ngobrol bareng! | Kamis, 27 Nov 2025 11:08:57 | <img src="https://cdn.idntimes.com/content-images/post/20251127/33139b05-1c43-4b48-bba3-ec960b18b36e-251127110850.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2434 | Lily | Hellou!! | Kamis, 27 Nov 2025 15:05:01 | <img src="https://cdn.idntimes.com/content-images/post/20251127/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251127150454.jpg" alt="Hellou!!" width="200"/> |
+| 2435 | Auwia | GRWM LAGREIDHWUUW | Kamis, 27 Nov 2025 17:21:35 | <img src="https://cdn.idntimes.com/content-images/post/20251127/f9500eb4-9d6d-491d-a857-40ca6f862d61-251127172123.jpg" alt="GRWM LAGREIDHWUUW" width="200"/> |
