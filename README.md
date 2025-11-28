@@ -2445,3 +2445,4 @@
 | 2441 | Ribka | Ayo ngobrol bareng! | Jumat, 28 Nov 2025 15:16:37 | <img src="https://cdn.idntimes.com/content-images/post/20251128/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251128151630.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2442 | Giaa | soreeeee | Jumat, 28 Nov 2025 18:00:09 | <img src="https://cdn.idntimes.com/content-images/post/20251128/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251128180002.jpg" alt="soreeeee" width="200"/> |
 | 2443 | Alya | Ayo ngobrol bareng! | Jumat, 28 Nov 2025 19:05:33 | <img src="https://cdn.idntimes.com/content-images/post/20251128/74e76417-0353-487f-b9b7-7520c0398e87-251128190526.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2444 | Danella | Ayo ngobrol bareng! | Jumat, 28 Nov 2025 21:14:07 | <img src="https://cdn.idntimes.com/content-images/post/20251128/33139b05-1c43-4b48-bba3-ec960b18b36e-251128211400.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
