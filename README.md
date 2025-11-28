@@ -2443,3 +2443,4 @@
 | 2439 | Trisha | halo | Kamis, 27 Nov 2025 22:11:20 | <img src="https://cdn.idntimes.com/content-images/post/20251127/92d66abb-0171-4a2b-a30d-37ad58359248-251127221103.jpg" alt="halo" width="200"/> |
 | 2440 | Amanda | Laip sbntr aja temenin makan | Jumat, 28 Nov 2025 09:46:23 | <img src="https://cdn.idntimes.com/content-images/post/20251128/e8aa0877-684a-4430-8a3b-d96302e53aab-251128094611.jpg" alt="Laip sbntr aja temenin makan" width="200"/> |
 | 2441 | Ribka | Ayo ngobrol bareng! | Jumat, 28 Nov 2025 15:16:37 | <img src="https://cdn.idntimes.com/content-images/post/20251128/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251128151630.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2442 | Giaa | soreeeee | Jumat, 28 Nov 2025 18:00:09 | <img src="https://cdn.idntimes.com/content-images/post/20251128/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251128180002.jpg" alt="soreeeee" width="200"/> |
