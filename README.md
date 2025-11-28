@@ -2441,3 +2441,4 @@
 | 2437 | Oniel | Ayo ngobrol bareng! | Kamis, 27 Nov 2025 21:30:44 | <img src="https://cdn.idntimes.com/content-images/post/20251127/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251127213038.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2438 | Ekin | Ayo ngobrol bareng! | Kamis, 27 Nov 2025 22:00:36 | <img src="https://cdn.idntimes.com/content-images/post/20251127/85f369d7-6525-41c0-94b8-9a56686713eb-251127220028.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2439 | Trisha | halo | Kamis, 27 Nov 2025 22:11:20 | <img src="https://cdn.idntimes.com/content-images/post/20251127/92d66abb-0171-4a2b-a30d-37ad58359248-251127221103.jpg" alt="halo" width="200"/> |
+| 2440 | Amanda | Laip sbntr aja temenin makan | Jumat, 28 Nov 2025 09:46:23 | <img src="https://cdn.idntimes.com/content-images/post/20251128/e8aa0877-684a-4430-8a3b-d96302e53aab-251128094611.jpg" alt="Laip sbntr aja temenin makan" width="200"/> |
