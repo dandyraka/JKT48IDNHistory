@@ -2467,3 +2467,5 @@
 | 2463 | Trisha | halo | Sabtu, 29 Nov 2025 22:22:59 | <img src="https://cdn.idntimes.com/content-images/post/20251129/92d66abb-0171-4a2b-a30d-37ad58359248-251129222244.jpg" alt="halo" width="200"/> |
 | 2464 | Lyn | Ayo ngobrol bareng! | Sabtu, 29 Nov 2025 22:53:43 | <img src="https://cdn.idntimes.com/content-images/post/20251129/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251129225331.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2465 | Alya | Ayo ngobrol bareng! | Sabtu, 29 Nov 2025 23:14:44 | <img src="https://cdn.idntimes.com/content-images/post/20251129/74e76417-0353-487f-b9b7-7520c0398e87-251129231437.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2466 | Daisy | Ayo ngobrol bareng! | Sabtu, 29 Nov 2025 23:39:19 | <img src="https://cdn.idntimes.com/content-images/post/20251129/b11b0692-d0b8-464c-849a-9e81439a048c-251129233911.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2467 | Danella | Ayo ngobrol bareng! | Sabtu, 29 Nov 2025 23:39:32 | <img src="https://cdn.idntimes.com/content-images/post/20251129/33139b05-1c43-4b48-bba3-ec960b18b36e-251129233925.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
