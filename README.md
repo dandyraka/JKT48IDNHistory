@@ -2465,3 +2465,4 @@
 | 2461 | Greesel | Ayo ngobrol bareng! | Sabtu, 29 Nov 2025 22:20:00 | <img src="https://cdn.idntimes.com/content-images/post/20251129/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251129221952.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2462 | Eli | Ayo ngobrol bareng! | Sabtu, 29 Nov 2025 22:22:17 | <img src="https://cdn.idntimes.com/content-images/post/20251129/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251129222205.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2463 | Trisha | halo | Sabtu, 29 Nov 2025 22:22:59 | <img src="https://cdn.idntimes.com/content-images/post/20251129/92d66abb-0171-4a2b-a30d-37ad58359248-251129222244.jpg" alt="halo" width="200"/> |
+| 2464 | Lyn | Ayo ngobrol bareng! | Sabtu, 29 Nov 2025 22:53:43 | <img src="https://cdn.idntimes.com/content-images/post/20251129/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251129225331.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
