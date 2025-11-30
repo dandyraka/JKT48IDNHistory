@@ -2476,3 +2476,5 @@
 | 2472 | Greesel | grwm^^! | Minggu, 30 Nov 2025 17:14:57 | <img src="https://cdn.idntimes.com/content-images/post/20251130/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251130171448.jpg" alt="grwm^^!" width="200"/> |
 | 2473 | Lia | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 17:15:53 | <img src="https://cdn.idntimes.com/content-images/post/20251130/15dfee86-a928-4a15-8c90-6aa21097d0ff-251130171542.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2474 | Gendis | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 18:58:54 | <img src="https://cdn.idntimes.com/content-images/post/20251130/ab901d82-db49-488c-8d03-da0082ab70e2-251130185846.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2475 | Fritzy | sekejap | Minggu, 30 Nov 2025 19:38:06 | <img src="https://cdn.idntimes.com/content-images/post/20251130/717109e0-a064-4f15-8187-5c4d46e56a58-251130193752.jpg" alt="sekejap" width="200"/> |
+| 2476 | Nayla | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 19:56:13 | <img src="https://cdn.idntimes.com/content-images/post/20251130/e243be19-74b7-435b-8e19-13fc669e0224-251130195603.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
