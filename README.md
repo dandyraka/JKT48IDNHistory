@@ -2473,3 +2473,5 @@
 | 2469 | Raisha | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 16:10:45 | <img src="https://cdn.idntimes.com/content-images/post/20251130/728d224e-6ccb-43d2-a029-a0147dc7fdee-251130161026.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2470 | Greesel | grwm^^! | Minggu, 30 Nov 2025 16:38:49 | <img src="https://cdn.idntimes.com/content-images/post/20251130/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251130163842.jpg" alt="grwm^^!" width="200"/> |
 | 2471 | Michie | get ready with me! | Minggu, 30 Nov 2025 16:38:52 | <img src="https://cdn.idntimes.com/content-images/post/20251130/6970e68a-b488-497a-b793-3a735db5e997-251130163844.jpg" alt="get ready with me!" width="200"/> |
+| 2472 | Greesel | grwm^^! | Minggu, 30 Nov 2025 17:14:57 | <img src="https://cdn.idntimes.com/content-images/post/20251130/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251130171448.jpg" alt="grwm^^!" width="200"/> |
+| 2473 | Lia | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 17:15:53 | <img src="https://cdn.idntimes.com/content-images/post/20251130/15dfee86-a928-4a15-8c90-6aa21097d0ff-251130171542.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
