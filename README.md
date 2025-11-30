@@ -2482,3 +2482,4 @@
 | 2478 | Alya | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 21:20:34 | <img src="https://cdn.idntimes.com/content-images/post/20251130/74e76417-0353-487f-b9b7-7520c0398e87-251130212027.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2479 | Eli | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 22:32:18 | <img src="https://cdn.idntimes.com/content-images/post/20251130/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251130223208.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2480 | Lulu | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 22:44:48 | <img src="https://cdn.idntimes.com/content-images/post/20251130/531d1bc0-ee91-475f-9e9d-098127b8d383-251130224437.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2481 | Oniel | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 22:51:59 | <img src="https://cdn.idntimes.com/content-images/post/20251130/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251130225151.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
