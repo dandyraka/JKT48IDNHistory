@@ -2470,3 +2470,4 @@
 | 2466 | Daisy | Ayo ngobrol bareng! | Sabtu, 29 Nov 2025 23:39:19 | <img src="https://cdn.idntimes.com/content-images/post/20251129/b11b0692-d0b8-464c-849a-9e81439a048c-251129233911.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2467 | Danella | Ayo ngobrol bareng! | Sabtu, 29 Nov 2025 23:39:32 | <img src="https://cdn.idntimes.com/content-images/post/20251129/33139b05-1c43-4b48-bba3-ec960b18b36e-251129233925.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2468 | Cynthia | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 15:48:13 | <img src="https://cdn.idntimes.com/content-images/post/20251130/4f795073-38c9-4df7-9388-74b83de69801-251130154801.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2469 | Raisha | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 16:10:45 | <img src="https://cdn.idntimes.com/content-images/post/20251130/728d224e-6ccb-43d2-a029-a0147dc7fdee-251130161026.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
