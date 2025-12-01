@@ -2493,3 +2493,5 @@
 | 2489 | Mikaela | Ayo ngobrol bareng! | Senin, 1 Des 2025 16:17:11 | <img src="https://cdn.idntimes.com/content-images/post/20251201/a557ba58-12d8-4260-bd50-9e5252ac71ef-251201161659.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2490 | Ribka | Ayo ngobrol bareng! | Senin, 1 Des 2025 16:31:43 | <img src="https://cdn.idntimes.com/content-images/post/20251201/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251201163136.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2491 | Ribka | Ayo ngobrol bareng! | Senin, 1 Des 2025 16:40:12 | <img src="https://cdn.idntimes.com/content-images/post/20251201/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251201164005.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2492 | Nayla | Ayo ngobrol bareng! | Senin, 1 Des 2025 16:52:28 | <img src="https://cdn.idntimes.com/content-images/post/20251201/e243be19-74b7-435b-8e19-13fc669e0224-251201165218.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2493 | Aralie | Ayo ngobrol bareng! | Senin, 1 Des 2025 16:52:53 | <img src="https://cdn.idntimes.com/content-images/post/20251201/f001ba66-3c51-4849-9afa-13cf74eb1571-251201165245.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
