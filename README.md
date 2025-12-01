@@ -2486,3 +2486,4 @@
 | 2482 | Lana | Hi | Minggu, 30 Nov 2025 23:02:13 | <img src="https://cdn.idntimes.com/content-images/post/20251130/e2af7271-2598-4ee8-8760-68043e671e6d-251130230206.jpg" alt="Hi" width="200"/> |
 | 2483 | Cathy | Ayo ngobrol bareng! | Minggu, 30 Nov 2025 23:22:05 | <img src="https://cdn.idntimes.com/content-images/post/20251130/f740e9da-772f-4ae2-8ddd-49f717aacf63-251130232158.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2484 | Anindya | pulkul | Senin, 1 Des 2025 10:37:17 | <img src="https://cdn.idntimes.com/content-images/post/20251201/a5c72141-65a3-47be-86ef-1dc1feaab10d-251201103709.jpg" alt="pulkul" width="200"/> |
+| 2485 | Rilly | Ayo ngobrol bareng! | Senin, 1 Des 2025 14:47:31 | <img src="https://cdn.idntimes.com/content-images/post/20251201/e9170998-f026-4186-bbc5-a17a3b5b2af1-251201144723.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
