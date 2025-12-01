@@ -2488,3 +2488,5 @@
 | 2484 | Anindya | pulkul | Senin, 1 Des 2025 10:37:17 | <img src="https://cdn.idntimes.com/content-images/post/20251201/a5c72141-65a3-47be-86ef-1dc1feaab10d-251201103709.jpg" alt="pulkul" width="200"/> |
 | 2485 | Rilly | Ayo ngobrol bareng! | Senin, 1 Des 2025 14:47:31 | <img src="https://cdn.idntimes.com/content-images/post/20251201/e9170998-f026-4186-bbc5-a17a3b5b2af1-251201144723.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2486 | Levi | Ayo ngobrol bareng! | Senin, 1 Des 2025 15:36:35 | <img src="https://cdn.idntimes.com/content-images/post/20251201/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251201153626.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2487 | Gendis | Ayo ngobrol bareng! | Senin, 1 Des 2025 15:43:28 | <img src="https://cdn.idntimes.com/content-images/post/20251201/ab901d82-db49-488c-8d03-da0082ab70e2-251201154319.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2488 | Lana | Ppp | Senin, 1 Des 2025 15:51:38 | <img src="https://cdn.idntimes.com/content-images/post/20251201/e2af7271-2598-4ee8-8760-68043e671e6d-251201155130.jpg" alt="Ppp" width="200"/> |
