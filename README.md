@@ -2500,3 +2500,4 @@
 | 2496 | Levi | Ayo ngobrol bareng! | Senin, 1 Des 2025 17:23:28 | <img src="https://cdn.idntimes.com/content-images/post/20251201/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251201172318.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2497 | Delynn | Malam malam  | Senin, 1 Des 2025 23:23:30 | <img src="https://cdn.idntimes.com/content-images/post/20251201/266ef38a-da00-4d13-ba77-f94da68599ee-251201232323.jpg" alt="Malam malam " width="200"/> |
 | 2498 | Erine | Ayo ngobrol bareng! | Senin, 1 Des 2025 23:51:28 | <img src="https://cdn.idntimes.com/content-images/post/20251201/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251201235121.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2499 | Lia | Ayo ngobrol bareng! | Selasa, 2 Des 2025 16:37:29 | <img src="https://cdn.idntimes.com/content-images/post/20251202/15dfee86-a928-4a15-8c90-6aa21097d0ff-251202163723.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
