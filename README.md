@@ -2510,3 +2510,4 @@
 | 2506 | Alya | Ayo ngobrol bareng! | Selasa, 2 Des 2025 22:54:11 | <img src="https://cdn.idntimes.com/content-images/post/20251202/74e76417-0353-487f-b9b7-7520c0398e87-251202225403.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2507 | Virgi | Ayo ngobrol bareng! | Rabu, 3 Des 2025 13:36:34 | <img src="https://cdn.idntimes.com/content-images/post/20251203/147e83c8-f3ac-4680-9141-2f518b4b7810-251203133622.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2508 | Amanda | Laip | Rabu, 3 Des 2025 15:41:21 | <img src="https://cdn.idntimes.com/content-images/post/20251203/e8aa0877-684a-4430-8a3b-d96302e53aab-251203154109.jpg" alt="Laip" width="200"/> |
+| 2509 | Rilly | Ayo ngobrol bareng! | Rabu, 3 Des 2025 17:14:58 | <img src="https://cdn.idntimes.com/content-images/post/20251203/e9170998-f026-4186-bbc5-a17a3b5b2af1-251203171449.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
