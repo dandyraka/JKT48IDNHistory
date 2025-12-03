@@ -2514,3 +2514,4 @@
 | 2510 | Greesel | Ayo ngobrol bareng! | Rabu, 3 Des 2025 18:25:17 | <img src="https://cdn.idntimes.com/content-images/post/20251203/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251203182510.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2511 | Intan | Ayo ngobrol bareng! | Rabu, 3 Des 2025 20:24:53 | <img src="https://cdn.idntimes.com/content-images/post/20251203/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251203202439.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2512 | Lily | Helo | Rabu, 3 Des 2025 20:34:39 | <img src="https://cdn.idntimes.com/content-images/post/20251203/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251203203433.jpg" alt="Helo" width="200"/> |
+| 2513 | Gita | Gits | Rabu, 3 Des 2025 21:09:11 | <img src="https://cdn.idntimes.com/content-images/post/20251203/82ffac10-ee56-43d0-ad38-ce432384cfe5-251203210859.jpg" alt="Gits" width="200"/> |
