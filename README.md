@@ -2522,3 +2522,4 @@
 | 2518 | Anindya | PLS  | Rabu, 3 Des 2025 23:08:37 | <img src="https://cdn.idntimes.com/content-images/post/20251203/a5c72141-65a3-47be-86ef-1dc1feaab10d-251203230813.jpg" alt="PLS " width="200"/> |
 | 2519 | Danella | Ayo ngobrol bareng! | Rabu, 3 Des 2025 23:09:42 | <img src="https://cdn.idntimes.com/content-images/post/20251203/33139b05-1c43-4b48-bba3-ec960b18b36e-251203230935.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2520 | Daisy | Ayo ngobrol bareng! | Rabu, 3 Des 2025 23:09:53 | <img src="https://cdn.idntimes.com/content-images/post/20251203/b11b0692-d0b8-464c-849a-9e81439a048c-251203230945.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2521 | Cynthia | Ayo ngobrol bareng! | Rabu, 3 Des 2025 23:27:39 | <img src="https://cdn.idntimes.com/content-images/post/20251203/4f795073-38c9-4df7-9388-74b83de69801-251203232727.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
