@@ -2532,3 +2532,5 @@
 | 2528 | Michie | 🩰 | Kamis, 4 Des 2025 21:56:50 | <img src="https://cdn.idntimes.com/content-images/post/20251204/6970e68a-b488-497a-b793-3a735db5e997-251204215641.jpg" alt="🩰" width="200"/> |
 | 2529 | Cathy | Ayo ngobrol bareng! | Kamis, 4 Des 2025 21:56:51 | <img src="https://cdn.idntimes.com/content-images/post/20251204/f740e9da-772f-4ae2-8ddd-49f717aacf63-251204215642.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2530 | Eli | Ayo ngobrol bareng! | Kamis, 4 Des 2025 22:32:14 | <img src="https://cdn.idntimes.com/content-images/post/20251204/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251204223202.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2531 | Trisha | halooo | Kamis, 4 Des 2025 22:56:54 | <img src="https://cdn.idntimes.com/content-images/post/20251204/92d66abb-0171-4a2b-a30d-37ad58359248-251204225641.jpg" alt="halooo" width="200"/> |
+| 2532 | Anindya | sedih deh | Kamis, 4 Des 2025 23:14:58 | <img src="https://cdn.idntimes.com/content-images/post/20251204/a5c72141-65a3-47be-86ef-1dc1feaab10d-251204231441.jpg" alt="sedih deh" width="200"/> |
