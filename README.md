@@ -2529,3 +2529,5 @@
 | 2525 | Fritzy | studyy | Kamis, 4 Des 2025 21:03:14 | <img src="https://cdn.idntimes.com/content-images/post/20251204/717109e0-a064-4f15-8187-5c4d46e56a58-251204210256.jpg" alt="studyy" width="200"/> |
 | 2526 | Alya | Ayo ngobrol bareng! | Kamis, 4 Des 2025 21:06:54 | <img src="https://cdn.idntimes.com/content-images/post/20251204/74e76417-0353-487f-b9b7-7520c0398e87-251204210646.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2527 | Gracie | eeeey | Kamis, 4 Des 2025 21:10:26 | <img src="https://cdn.idntimes.com/content-images/post/20251204/cae4d972-5f14-4512-9706-37c1802a0541-251204211017.jpg" alt="eeeey" width="200"/> |
+| 2528 | Michie | 🩰 | Kamis, 4 Des 2025 21:56:50 | <img src="https://cdn.idntimes.com/content-images/post/20251204/6970e68a-b488-497a-b793-3a735db5e997-251204215641.jpg" alt="🩰" width="200"/> |
+| 2529 | Cathy | Ayo ngobrol bareng! | Kamis, 4 Des 2025 21:56:51 | <img src="https://cdn.idntimes.com/content-images/post/20251204/f740e9da-772f-4ae2-8ddd-49f717aacf63-251204215642.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
