@@ -2523,3 +2523,5 @@
 | 2519 | Danella | Ayo ngobrol bareng! | Rabu, 3 Des 2025 23:09:42 | <img src="https://cdn.idntimes.com/content-images/post/20251203/33139b05-1c43-4b48-bba3-ec960b18b36e-251203230935.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2520 | Daisy | Ayo ngobrol bareng! | Rabu, 3 Des 2025 23:09:53 | <img src="https://cdn.idntimes.com/content-images/post/20251203/b11b0692-d0b8-464c-849a-9e81439a048c-251203230945.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2521 | Cynthia | Ayo ngobrol bareng! | Rabu, 3 Des 2025 23:27:39 | <img src="https://cdn.idntimes.com/content-images/post/20251203/4f795073-38c9-4df7-9388-74b83de69801-251203232727.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2522 | Danella | Ayo ngobrol bareng! | Kamis, 4 Des 2025 12:01:51 | <img src="https://cdn.idntimes.com/content-images/post/20251204/33139b05-1c43-4b48-bba3-ec960b18b36e-251204120143.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2523 | Daisy | Ayo ngobrol bareng! | Kamis, 4 Des 2025 12:02:33 | <img src="https://cdn.idntimes.com/content-images/post/20251204/b11b0692-d0b8-464c-849a-9e81439a048c-251204120224.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
