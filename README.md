@@ -2535,3 +2535,4 @@
 | 2531 | Trisha | halooo | Kamis, 4 Des 2025 22:56:54 | <img src="https://cdn.idntimes.com/content-images/post/20251204/92d66abb-0171-4a2b-a30d-37ad58359248-251204225641.jpg" alt="halooo" width="200"/> |
 | 2532 | Anindya | sedih deh | Kamis, 4 Des 2025 23:14:58 | <img src="https://cdn.idntimes.com/content-images/post/20251204/a5c72141-65a3-47be-86ef-1dc1feaab10d-251204231441.jpg" alt="sedih deh" width="200"/> |
 | 2533 | Cynthia | Ayo ngobrol bareng! | Jumat, 5 Des 2025 12:51:38 | <img src="https://cdn.idntimes.com/content-images/post/20251205/4f795073-38c9-4df7-9388-74b83de69801-251205125127.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2534 | Lia | Ayo ngobrol bareng! | Jumat, 5 Des 2025 14:00:19 | <img src="https://cdn.idntimes.com/content-images/post/20251205/15dfee86-a928-4a15-8c90-6aa21097d0ff-251205140012.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
