@@ -2539,3 +2539,5 @@
 | 2535 | Auwia | Lampunya rusak | Jumat, 5 Des 2025 15:59:54 | <img src="https://cdn.idntimes.com/content-images/post/20251205/f9500eb4-9d6d-491d-a857-40ca6f862d61-251205155943.jpg" alt="Lampunya rusak" width="200"/> |
 | 2536 | Fritzy | gebrakan | Jumat, 5 Des 2025 18:53:41 | <img src="https://cdn.idntimes.com/content-images/post/20251205/717109e0-a064-4f15-8187-5c4d46e56a58-251205185327.jpg" alt="gebrakan" width="200"/> |
 | 2537 | Amanda | Bntran aja | Jumat, 5 Des 2025 19:11:27 | <img src="https://cdn.idntimes.com/content-images/post/20251205/e8aa0877-684a-4430-8a3b-d96302e53aab-251205191115.jpg" alt="Bntran aja" width="200"/> |
+| 2538 | Virgi | Ayo ngobrol bareng! | Jumat, 5 Des 2025 19:48:23 | <img src="https://cdn.idntimes.com/content-images/post/20251205/147e83c8-f3ac-4680-9141-2f518b4b7810-251205194807.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2539 | Intan | Ayo ngobrol bareng! | Jumat, 5 Des 2025 19:50:13 | <img src="https://cdn.idntimes.com/content-images/post/20251205/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251205194957.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
