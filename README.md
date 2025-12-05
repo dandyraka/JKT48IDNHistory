@@ -2551,3 +2551,4 @@
 | 2547 | Lily | Hellou | Jumat, 5 Des 2025 22:28:25 | <img src="https://cdn.idntimes.com/content-images/post/20251205/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251205222818.jpg" alt="Hellou" width="200"/> |
 | 2548 | Danella | Ayo ngobrol bareng! | Jumat, 5 Des 2025 23:41:25 | <img src="https://cdn.idntimes.com/content-images/post/20251205/33139b05-1c43-4b48-bba3-ec960b18b36e-251205234117.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2549 | Daisy | Hi | Jumat, 5 Des 2025 23:48:47 | <img src="https://cdn.idntimes.com/content-images/post/20251205/b11b0692-d0b8-464c-849a-9e81439a048c-251205234839.jpg" alt="Hi" width="200"/> |
+| 2550 | Delynn | Hoho | Sabtu, 6 Des 2025 00:02:12 | <img src="https://cdn.idntimes.com/content-images/post/20251206/266ef38a-da00-4d13-ba77-f94da68599ee-251206000204.jpg" alt="Hoho" width="200"/> |
