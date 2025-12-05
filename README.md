@@ -2536,3 +2536,4 @@
 | 2532 | Anindya | sedih deh | Kamis, 4 Des 2025 23:14:58 | <img src="https://cdn.idntimes.com/content-images/post/20251204/a5c72141-65a3-47be-86ef-1dc1feaab10d-251204231441.jpg" alt="sedih deh" width="200"/> |
 | 2533 | Cynthia | Ayo ngobrol bareng! | Jumat, 5 Des 2025 12:51:38 | <img src="https://cdn.idntimes.com/content-images/post/20251205/4f795073-38c9-4df7-9388-74b83de69801-251205125127.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2534 | Lia | Ayo ngobrol bareng! | Jumat, 5 Des 2025 14:00:19 | <img src="https://cdn.idntimes.com/content-images/post/20251205/15dfee86-a928-4a15-8c90-6aa21097d0ff-251205140012.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2535 | Auwia | Lampunya rusak | Jumat, 5 Des 2025 15:59:54 | <img src="https://cdn.idntimes.com/content-images/post/20251205/f9500eb4-9d6d-491d-a857-40ca6f862d61-251205155943.jpg" alt="Lampunya rusak" width="200"/> |
