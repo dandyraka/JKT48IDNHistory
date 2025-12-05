@@ -2549,3 +2549,4 @@
 | 2545 | Rilly | Ayo ngobrol bareng! | Jumat, 5 Des 2025 22:06:01 | <img src="https://cdn.idntimes.com/content-images/post/20251205/e9170998-f026-4186-bbc5-a17a3b5b2af1-251205220551.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2546 | Giaa | malammmm | Jumat, 5 Des 2025 22:07:23 | <img src="https://cdn.idntimes.com/content-images/post/20251205/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251205220715.jpg" alt="malammmm" width="200"/> |
 | 2547 | Lily | Hellou | Jumat, 5 Des 2025 22:28:25 | <img src="https://cdn.idntimes.com/content-images/post/20251205/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251205222818.jpg" alt="Hellou" width="200"/> |
+| 2548 | Danella | Ayo ngobrol bareng! | Jumat, 5 Des 2025 23:41:25 | <img src="https://cdn.idntimes.com/content-images/post/20251205/33139b05-1c43-4b48-bba3-ec960b18b36e-251205234117.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
