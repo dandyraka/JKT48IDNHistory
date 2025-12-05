@@ -2544,3 +2544,5 @@
 | 2540 | Nayla | Ayo ngobrol bareng! | Jumat, 5 Des 2025 21:17:47 | <img src="https://cdn.idntimes.com/content-images/post/20251205/e243be19-74b7-435b-8e19-13fc669e0224-251205211738.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2541 | Aralie | Ayo ngobrol bareng! | Jumat, 5 Des 2025 21:28:07 | <img src="https://cdn.idntimes.com/content-images/post/20251205/f001ba66-3c51-4849-9afa-13cf74eb1571-251205212757.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2542 | Ekin | Ayo ngobrol bareng! | Jumat, 5 Des 2025 21:31:13 | <img src="https://cdn.idntimes.com/content-images/post/20251205/85f369d7-6525-41c0-94b8-9a56686713eb-251205213106.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2543 | Jemima | Ayo ngobrol bareng! | Jumat, 5 Des 2025 21:54:01 | <img src="https://cdn.idntimes.com/content-images/post/20251205/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251205215346.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2544 | Nayla | Ayo ngobrol bareng! | Jumat, 5 Des 2025 21:59:12 | <img src="https://cdn.idntimes.com/content-images/post/20251205/e243be19-74b7-435b-8e19-13fc669e0224-251205215905.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
