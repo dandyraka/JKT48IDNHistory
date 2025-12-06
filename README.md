@@ -2552,3 +2552,4 @@
 | 2548 | Danella | Ayo ngobrol bareng! | Jumat, 5 Des 2025 23:41:25 | <img src="https://cdn.idntimes.com/content-images/post/20251205/33139b05-1c43-4b48-bba3-ec960b18b36e-251205234117.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2549 | Daisy | Hi | Jumat, 5 Des 2025 23:48:47 | <img src="https://cdn.idntimes.com/content-images/post/20251205/b11b0692-d0b8-464c-849a-9e81439a048c-251205234839.jpg" alt="Hi" width="200"/> |
 | 2550 | Delynn | Hoho | Sabtu, 6 Des 2025 00:02:12 | <img src="https://cdn.idntimes.com/content-images/post/20251206/266ef38a-da00-4d13-ba77-f94da68599ee-251206000204.jpg" alt="Hoho" width="200"/> |
+| 2551 | Maira | Ayo ngobrol bareng! | Sabtu, 6 Des 2025 09:20:50 | <img src="https://cdn.idntimes.com/content-images/post/20251206/7599c984-c466-4962-8c5b-73c1d33d59d9-251206092035.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
