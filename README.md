@@ -2569,3 +2569,5 @@
 | 2565 | Gita | Gits | Sabtu, 6 Des 2025 21:40:28 | <img src="https://cdn.idntimes.com/content-images/post/20251206/82ffac10-ee56-43d0-ad38-ce432384cfe5-251206214015.jpg" alt="Gits" width="200"/> |
 | 2566 | Fritzy | mau main FF | Sabtu, 6 Des 2025 23:00:04 | <img src="https://cdn.idntimes.com/content-images/post/20251206/717109e0-a064-4f15-8187-5c4d46e56a58-251206225952.jpg" alt="mau main FF" width="200"/> |
 | 2567 | Elin | Haiii | Minggu, 7 Des 2025 15:19:40 | <img src="https://cdn.idntimes.com/content-images/post/20251207/e0ececb4-71d8-4f32-a221-ef21634a746a-251207151930.jpg" alt="Haiii" width="200"/> |
+| 2568 | Michie | nobar | Minggu, 7 Des 2025 15:47:46 | <img src="https://cdn.idntimes.com/content-images/post/20251207/6970e68a-b488-497a-b793-3a735db5e997-251207154738.jpg" alt="nobar" width="200"/> |
+| 2569 | Cathy | Ayo ngobrol bareng! | Minggu, 7 Des 2025 15:47:48 | <img src="https://cdn.idntimes.com/content-images/post/20251207/f740e9da-772f-4ae2-8ddd-49f717aacf63-251207154737.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
