@@ -2578,3 +2578,5 @@
 | 2574 | Ekin | Ayo ngobrol bareng! | Minggu, 7 Des 2025 21:22:12 | <img src="https://cdn.idntimes.com/content-images/post/20251207/85f369d7-6525-41c0-94b8-9a56686713eb-251207212204.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2575 | Jemima | Ayo ngobrol bareng! | Minggu, 7 Des 2025 21:44:11 | <img src="https://cdn.idntimes.com/content-images/post/20251207/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251207214355.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2576 | Intan | bub | Minggu, 7 Des 2025 21:50:20 | <img src="https://cdn.idntimes.com/content-images/post/20251207/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251207215005.jpg" alt="bub" width="200"/> |
+| 2577 | Ribka | Ayo ngobrol bareng! | Minggu, 7 Des 2025 22:31:20 | <img src="https://cdn.idntimes.com/content-images/post/20251207/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251207223112.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2578 | Levi | Ayo ngobrol bareng! | Minggu, 7 Des 2025 22:35:43 | <img src="https://cdn.idntimes.com/content-images/post/20251207/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251207223536.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
