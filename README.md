@@ -2573,3 +2573,4 @@
 | 2569 | Cathy | Ayo ngobrol bareng! | Minggu, 7 Des 2025 15:47:48 | <img src="https://cdn.idntimes.com/content-images/post/20251207/f740e9da-772f-4ae2-8ddd-49f717aacf63-251207154737.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2570 | Daisy | Ayo ngobrol bareng! | Minggu, 7 Des 2025 17:02:21 | <img src="https://cdn.idntimes.com/content-images/post/20251207/b11b0692-d0b8-464c-849a-9e81439a048c-251207170213.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2571 | Virgi | Ayo ngobrol bareng! | Minggu, 7 Des 2025 18:11:17 | <img src="https://cdn.idntimes.com/content-images/post/20251207/147e83c8-f3ac-4680-9141-2f518b4b7810-251207181105.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2572 | Mikaela | Ayo ngobrol bareng! | Minggu, 7 Des 2025 20:01:07 | <img src="https://cdn.idntimes.com/content-images/post/20251207/a557ba58-12d8-4260-bd50-9e5252ac71ef-251207200054.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
