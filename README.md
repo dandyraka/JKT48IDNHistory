@@ -2583,3 +2583,5 @@
 | 2579 | Trisha | haiii | Minggu, 7 Des 2025 22:44:55 | <img src="https://cdn.idntimes.com/content-images/post/20251207/92d66abb-0171-4a2b-a30d-37ad58359248-251207224447.jpg" alt="haiii" width="200"/> |
 | 2580 | Delynn | Hai | Minggu, 7 Des 2025 23:02:54 | <img src="https://cdn.idntimes.com/content-images/post/20251207/266ef38a-da00-4d13-ba77-f94da68599ee-251207230247.jpg" alt="Hai" width="200"/> |
 | 2581 | Mikaela | Ayo ngobrol bareng! | Senin, 8 Des 2025 11:15:55 | <img src="https://cdn.idntimes.com/content-images/post/20251208/a557ba58-12d8-4260-bd50-9e5252ac71ef-251208111542.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2582 | Daisy | Ayo ngobrol bareng! | Senin, 8 Des 2025 13:03:41 | <img src="https://cdn.idntimes.com/content-images/post/20251208/b11b0692-d0b8-464c-849a-9e81439a048c-251208130333.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2583 | Lily | Helo | Senin, 8 Des 2025 13:20:03 | <img src="https://cdn.idntimes.com/content-images/post/20251208/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251208131957.jpg" alt="Helo" width="200"/> |
