@@ -2602,3 +2602,5 @@
 | 2598 | Cynthia | Ayo ngobrol bareng! | Senin, 8 Des 2025 21:02:50 | <img src="https://cdn.idntimes.com/content-images/post/20251208/4f795073-38c9-4df7-9388-74b83de69801-251208210234.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2599 | Alya | Ayo ngobrol bareng! | Senin, 8 Des 2025 21:03:48 | <img src="https://cdn.idntimes.com/content-images/post/20251208/74e76417-0353-487f-b9b7-7520c0398e87-251208210340.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2600 | Elin | Helloww | Senin, 8 Des 2025 21:14:18 | <img src="https://cdn.idntimes.com/content-images/post/20251208/e0ececb4-71d8-4f32-a221-ef21634a746a-251208211411.jpg" alt="Helloww" width="200"/> |
+| 2601 | Greesel | Ayo ngobrol bareng! | Senin, 8 Des 2025 21:18:08 | <img src="https://cdn.idntimes.com/content-images/post/20251208/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251208211802.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2602 | Danella | Ayo ngobrol bareng! | Senin, 8 Des 2025 21:18:16 | <img src="https://cdn.idntimes.com/content-images/post/20251208/33139b05-1c43-4b48-bba3-ec960b18b36e-251208211810.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
