@@ -2588,3 +2588,4 @@
 | 2584 | Virgi | Ayo ngobrol bareng! | Senin, 8 Des 2025 15:08:04 | <img src="https://cdn.idntimes.com/content-images/post/20251208/147e83c8-f3ac-4680-9141-2f518b4b7810-251208150753.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2585 | Rilly | Ayo ngobrol bareng! | Senin, 8 Des 2025 15:08:46 | <img src="https://cdn.idntimes.com/content-images/post/20251208/e9170998-f026-4186-bbc5-a17a3b5b2af1-251208150836.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2586 | Intan | Ayo ngobrol bareng! | Senin, 8 Des 2025 15:09:10 | <img src="https://cdn.idntimes.com/content-images/post/20251208/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251208150857.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2587 | Ekin | Ayo ngobrol bareng! | Senin, 8 Des 2025 15:39:52 | <img src="https://cdn.idntimes.com/content-images/post/20251208/85f369d7-6525-41c0-94b8-9a56686713eb-251208153945.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
