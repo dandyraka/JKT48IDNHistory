@@ -2610,3 +2610,4 @@
 | 2606 | Lia | Ayo ngobrol bareng! | Selasa, 9 Des 2025 17:30:27 | <img src="https://cdn.idntimes.com/content-images/post/20251209/15dfee86-a928-4a15-8c90-6aa21097d0ff-251209173021.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2607 | Anindya | temenin nugas pls | Selasa, 9 Des 2025 19:35:13 | <img src="https://cdn.idntimes.com/content-images/post/20251209/a5c72141-65a3-47be-86ef-1dc1feaab10d-251209193451.jpg" alt="temenin nugas pls" width="200"/> |
 | 2608 | Gendis | challange liatin tembok | Selasa, 9 Des 2025 20:08:47 | <img src="https://cdn.idntimes.com/content-images/post/20251209/ab901d82-db49-488c-8d03-da0082ab70e2-251209200839.jpg" alt="challange liatin tembok" width="200"/> |
+| 2609 | Lana | Yang kangen yang kangen | Selasa, 9 Des 2025 20:20:53 | <img src="https://cdn.idntimes.com/content-images/post/20251209/e2af7271-2598-4ee8-8760-68043e671e6d-251209202047.jpg" alt="Yang kangen yang kangen" width="200"/> |
