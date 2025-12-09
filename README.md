@@ -2608,3 +2608,5 @@
 | 2604 | Fritzy | p. | Senin, 8 Des 2025 22:07:30 | <img src="https://cdn.idntimes.com/content-images/post/20251208/717109e0-a064-4f15-8187-5c4d46e56a58-251208220717.jpg" alt="p." width="200"/> |
 | 2605 | Elin | Haiii | Selasa, 9 Des 2025 15:39:49 | <img src="https://cdn.idntimes.com/content-images/post/20251209/e0ececb4-71d8-4f32-a221-ef21634a746a-251209153940.jpg" alt="Haiii" width="200"/> |
 | 2606 | Lia | Ayo ngobrol bareng! | Selasa, 9 Des 2025 17:30:27 | <img src="https://cdn.idntimes.com/content-images/post/20251209/15dfee86-a928-4a15-8c90-6aa21097d0ff-251209173021.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2607 | Anindya | temenin nugas pls | Selasa, 9 Des 2025 19:35:13 | <img src="https://cdn.idntimes.com/content-images/post/20251209/a5c72141-65a3-47be-86ef-1dc1feaab10d-251209193451.jpg" alt="temenin nugas pls" width="200"/> |
+| 2608 | Gendis | challange liatin tembok | Selasa, 9 Des 2025 20:08:47 | <img src="https://cdn.idntimes.com/content-images/post/20251209/ab901d82-db49-488c-8d03-da0082ab70e2-251209200839.jpg" alt="challange liatin tembok" width="200"/> |
