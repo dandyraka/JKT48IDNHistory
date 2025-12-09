@@ -2607,3 +2607,4 @@
 | 2603 | Alya | Ayo ngobrol bareng! | Senin, 8 Des 2025 21:57:17 | <img src="https://cdn.idntimes.com/content-images/post/20251208/74e76417-0353-487f-b9b7-7520c0398e87-251208215710.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2604 | Fritzy | p. | Senin, 8 Des 2025 22:07:30 | <img src="https://cdn.idntimes.com/content-images/post/20251208/717109e0-a064-4f15-8187-5c4d46e56a58-251208220717.jpg" alt="p." width="200"/> |
 | 2605 | Elin | Haiii | Selasa, 9 Des 2025 15:39:49 | <img src="https://cdn.idntimes.com/content-images/post/20251209/e0ececb4-71d8-4f32-a221-ef21634a746a-251209153940.jpg" alt="Haiii" width="200"/> |
+| 2606 | Lia | Ayo ngobrol bareng! | Selasa, 9 Des 2025 17:30:27 | <img src="https://cdn.idntimes.com/content-images/post/20251209/15dfee86-a928-4a15-8c90-6aa21097d0ff-251209173021.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
