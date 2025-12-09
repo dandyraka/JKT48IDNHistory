@@ -2612,3 +2612,4 @@
 | 2608 | Gendis | challange liatin tembok | Selasa, 9 Des 2025 20:08:47 | <img src="https://cdn.idntimes.com/content-images/post/20251209/ab901d82-db49-488c-8d03-da0082ab70e2-251209200839.jpg" alt="challange liatin tembok" width="200"/> |
 | 2609 | Lana | Yang kangen yang kangen | Selasa, 9 Des 2025 20:20:53 | <img src="https://cdn.idntimes.com/content-images/post/20251209/e2af7271-2598-4ee8-8760-68043e671e6d-251209202047.jpg" alt="Yang kangen yang kangen" width="200"/> |
 | 2610 | Marsha | Ayo ngobrol bareng! | Selasa, 9 Des 2025 22:22:02 | <img src="https://cdn.idntimes.com/content-images/post/20251209/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251209222150.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2611 | Cathy | Ayo ngobrol bareng! | Selasa, 9 Des 2025 22:38:33 | <img src="https://cdn.idntimes.com/content-images/post/20251209/f740e9da-772f-4ae2-8ddd-49f717aacf63-251209223827.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
