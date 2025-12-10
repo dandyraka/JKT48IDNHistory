@@ -2616,3 +2616,5 @@
 | 2612 | Lily | Hii | Rabu, 10 Des 2025 12:41:08 | <img src="https://cdn.idntimes.com/content-images/post/20251210/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251210124102.jpg" alt="Hii" width="200"/> |
 | 2613 | Lily | Hello | Rabu, 10 Des 2025 13:49:13 | <img src="https://cdn.idntimes.com/content-images/post/20251210/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251210134907.jpg" alt="Hello" width="200"/> |
 | 2614 | Amanda | Laippp | Rabu, 10 Des 2025 18:31:03 | <img src="https://cdn.idntimes.com/content-images/post/20251210/e8aa0877-684a-4430-8a3b-d96302e53aab-251210183051.jpg" alt="Laippp" width="200"/> |
+| 2615 | Marsha | Ayo ngobrol bareng! | Rabu, 10 Des 2025 19:47:29 | <img src="https://cdn.idntimes.com/content-images/post/20251210/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251210194718.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2616 | Greesel | wadup | Rabu, 10 Des 2025 19:47:48 | <img src="https://cdn.idntimes.com/content-images/post/20251210/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251210194735.jpg" alt="wadup" width="200"/> |
