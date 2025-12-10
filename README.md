@@ -2629,3 +2629,5 @@
 | 2625 | Delynn | Hi | Rabu, 10 Des 2025 22:18:58 | <img src="https://cdn.idntimes.com/content-images/post/20251210/266ef38a-da00-4d13-ba77-f94da68599ee-251210221852.jpg" alt="Hi" width="200"/> |
 | 2626 | Danella | Ayo ngobrol bareng! | Rabu, 10 Des 2025 22:45:38 | <img src="https://cdn.idntimes.com/content-images/post/20251210/33139b05-1c43-4b48-bba3-ec960b18b36e-251210224531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2627 | Daisy | Ayo ngobrol bareng! | Rabu, 10 Des 2025 23:15:17 | <img src="https://cdn.idntimes.com/content-images/post/20251210/b11b0692-d0b8-464c-849a-9e81439a048c-251210231508.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2628 | Daisy | Ayo ngobrol bareng! | Kamis, 11 Des 2025 00:09:59 | <img src="https://cdn.idntimes.com/content-images/post/20251211/b11b0692-d0b8-464c-849a-9e81439a048c-251211000951.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2629 | Eli | Ayo ngobrol bareng! | Kamis, 11 Des 2025 00:13:49 | <img src="https://cdn.idntimes.com/content-images/post/20251211/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251211001338.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
