@@ -2618,3 +2618,6 @@
 | 2614 | Amanda | Laippp | Rabu, 10 Des 2025 18:31:03 | <img src="https://cdn.idntimes.com/content-images/post/20251210/e8aa0877-684a-4430-8a3b-d96302e53aab-251210183051.jpg" alt="Laippp" width="200"/> |
 | 2615 | Marsha | Ayo ngobrol bareng! | Rabu, 10 Des 2025 19:47:29 | <img src="https://cdn.idntimes.com/content-images/post/20251210/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251210194718.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2616 | Greesel | wadup | Rabu, 10 Des 2025 19:47:48 | <img src="https://cdn.idntimes.com/content-images/post/20251210/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251210194735.jpg" alt="wadup" width="200"/> |
+| 2617 | Cathy | Ayo ngobrol bareng! | Rabu, 10 Des 2025 20:03:08 | <img src="https://cdn.idntimes.com/content-images/post/20251210/f740e9da-772f-4ae2-8ddd-49f717aacf63-251210200301.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2618 | Marsha | Ayo ngobrol bareng! | Rabu, 10 Des 2025 20:10:31 | <img src="https://cdn.idntimes.com/content-images/post/20251210/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-251210201016.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2619 | Ribka | Ayo ngobrol bareng! | Rabu, 10 Des 2025 20:19:38 | <img src="https://cdn.idntimes.com/content-images/post/20251210/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251210201925.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
