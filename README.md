@@ -2627,3 +2627,4 @@
 | 2623 | Rilly | Ayo ngobrol bareng! | Rabu, 10 Des 2025 21:06:13 | <img src="https://cdn.idntimes.com/content-images/post/20251210/e9170998-f026-4186-bbc5-a17a3b5b2af1-251210210605.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2624 | Aralie | Ayo ngobrol bareng! | Rabu, 10 Des 2025 21:30:37 | <img src="https://cdn.idntimes.com/content-images/post/20251210/f001ba66-3c51-4849-9afa-13cf74eb1571-251210213028.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2625 | Delynn | Hi | Rabu, 10 Des 2025 22:18:58 | <img src="https://cdn.idntimes.com/content-images/post/20251210/266ef38a-da00-4d13-ba77-f94da68599ee-251210221852.jpg" alt="Hi" width="200"/> |
+| 2626 | Danella | Ayo ngobrol bareng! | Rabu, 10 Des 2025 22:45:38 | <img src="https://cdn.idntimes.com/content-images/post/20251210/33139b05-1c43-4b48-bba3-ec960b18b36e-251210224531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
