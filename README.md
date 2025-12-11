@@ -2641,3 +2641,5 @@
 | 2637 | Nayla | Ayo ngobrol bareng! | Kamis, 11 Des 2025 18:11:36 | <img src="https://cdn.idntimes.com/content-images/post/20251211/e243be19-74b7-435b-8e19-13fc669e0224-251211181124.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2638 | Gita | Gits | Kamis, 11 Des 2025 18:12:12 | <img src="https://cdn.idntimes.com/content-images/post/20251211/82ffac10-ee56-43d0-ad38-ce432384cfe5-251211181200.jpg" alt="Gits" width="200"/> |
 | 2639 | Gracie | Ayo ngobrol bareng! | Kamis, 11 Des 2025 18:36:26 | <img src="https://cdn.idntimes.com/content-images/post/20251211/cae4d972-5f14-4512-9706-37c1802a0541-251211183618.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2640 | Raisha | Ayo ngobrol bareng! | Kamis, 11 Des 2025 20:32:18 | <img src="https://cdn.idntimes.com/content-images/post/20251211/728d224e-6ccb-43d2-a029-a0147dc7fdee-251211203202.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2641 | Lyn | Ayo ngobrol bareng! | Kamis, 11 Des 2025 20:32:23 | <img src="https://cdn.idntimes.com/content-images/post/20251211/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251211203210.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
