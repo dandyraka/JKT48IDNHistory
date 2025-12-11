@@ -2637,3 +2637,4 @@
 | 2633 | Danella | Ayo ngobrol bareng! | Kamis, 11 Des 2025 16:41:26 | <img src="https://cdn.idntimes.com/content-images/post/20251211/33139b05-1c43-4b48-bba3-ec960b18b36e-251211164119.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2634 | Daisy | Ayo ngobrol bareng! | Kamis, 11 Des 2025 16:56:06 | <img src="https://cdn.idntimes.com/content-images/post/20251211/b11b0692-d0b8-464c-849a-9e81439a048c-251211165557.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2635 | Daisy | Ayo ngobrol bareng! | Kamis, 11 Des 2025 17:13:32 | <img src="https://cdn.idntimes.com/content-images/post/20251211/b11b0692-d0b8-464c-849a-9e81439a048c-251211171326.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2636 | Virgi | Ayo ngobrol bareng! | Kamis, 11 Des 2025 17:39:14 | <img src="https://cdn.idntimes.com/content-images/post/20251211/147e83c8-f3ac-4680-9141-2f518b4b7810-251211173902.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
