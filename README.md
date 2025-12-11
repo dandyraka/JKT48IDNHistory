@@ -2640,3 +2640,4 @@
 | 2636 | Virgi | Ayo ngobrol bareng! | Kamis, 11 Des 2025 17:39:14 | <img src="https://cdn.idntimes.com/content-images/post/20251211/147e83c8-f3ac-4680-9141-2f518b4b7810-251211173902.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2637 | Nayla | Ayo ngobrol bareng! | Kamis, 11 Des 2025 18:11:36 | <img src="https://cdn.idntimes.com/content-images/post/20251211/e243be19-74b7-435b-8e19-13fc669e0224-251211181124.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2638 | Gita | Gits | Kamis, 11 Des 2025 18:12:12 | <img src="https://cdn.idntimes.com/content-images/post/20251211/82ffac10-ee56-43d0-ad38-ce432384cfe5-251211181200.jpg" alt="Gits" width="200"/> |
+| 2639 | Gracie | Ayo ngobrol bareng! | Kamis, 11 Des 2025 18:36:26 | <img src="https://cdn.idntimes.com/content-images/post/20251211/cae4d972-5f14-4512-9706-37c1802a0541-251211183618.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
