@@ -2636,3 +2636,4 @@
 | 2632 | Elin | Haiii | Kamis, 11 Des 2025 15:13:14 | <img src="https://cdn.idntimes.com/content-images/post/20251211/e0ececb4-71d8-4f32-a221-ef21634a746a-251211151301.jpg" alt="Haiii" width="200"/> |
 | 2633 | Danella | Ayo ngobrol bareng! | Kamis, 11 Des 2025 16:41:26 | <img src="https://cdn.idntimes.com/content-images/post/20251211/33139b05-1c43-4b48-bba3-ec960b18b36e-251211164119.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2634 | Daisy | Ayo ngobrol bareng! | Kamis, 11 Des 2025 16:56:06 | <img src="https://cdn.idntimes.com/content-images/post/20251211/b11b0692-d0b8-464c-849a-9e81439a048c-251211165557.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2635 | Daisy | Ayo ngobrol bareng! | Kamis, 11 Des 2025 17:13:32 | <img src="https://cdn.idntimes.com/content-images/post/20251211/b11b0692-d0b8-464c-849a-9e81439a048c-251211171326.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
