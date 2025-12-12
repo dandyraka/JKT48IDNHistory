@@ -2644,3 +2644,4 @@
 | 2640 | Raisha | Ayo ngobrol bareng! | Kamis, 11 Des 2025 20:32:18 | <img src="https://cdn.idntimes.com/content-images/post/20251211/728d224e-6ccb-43d2-a029-a0147dc7fdee-251211203202.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2641 | Lyn | Ayo ngobrol bareng! | Kamis, 11 Des 2025 20:32:23 | <img src="https://cdn.idntimes.com/content-images/post/20251211/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251211203210.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2642 | Michie | hello | Jumat, 12 Des 2025 00:29:21 | <img src="https://cdn.idntimes.com/content-images/post/20251212/6970e68a-b488-497a-b793-3a735db5e997-251212002913.jpg" alt="hello" width="200"/> |
+| 2643 | Lily | Haii | Jumat, 12 Des 2025 08:26:54 | <img src="https://cdn.idntimes.com/content-images/post/20251212/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251212082648.jpg" alt="Haii" width="200"/> |
