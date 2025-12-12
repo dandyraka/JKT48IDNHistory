@@ -2653,3 +2653,4 @@
 | 2649 | Auwia | Membangun rumah kita berdua azek | Jumat, 12 Des 2025 14:57:03 | <img src="https://cdn.idntimes.com/content-images/post/20251212/f9500eb4-9d6d-491d-a857-40ca6f862d61-251212145651.jpg" alt="Membangun rumah kita berdua azek" width="200"/> |
 | 2650 | Cathy | Ayo ngobrol bareng! | Jumat, 12 Des 2025 15:42:10 | <img src="https://cdn.idntimes.com/content-images/post/20251212/f740e9da-772f-4ae2-8ddd-49f717aacf63-251212154203.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2651 | Michie | Ayo ngobrol bareng! | Jumat, 12 Des 2025 15:42:14 | <img src="https://cdn.idntimes.com/content-images/post/20251212/6970e68a-b488-497a-b793-3a735db5e997-251212154205.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2652 | Christy | heyyo | Jumat, 12 Des 2025 16:10:21 | <img src="https://cdn.idntimes.com/content-images/post/20251212/01506e57-d837-4a1e-8dd4-3e99e3489ac8-251212161010.jpg" alt="heyyo" width="200"/> |
