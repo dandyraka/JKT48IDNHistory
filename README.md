@@ -2654,3 +2654,4 @@
 | 2650 | Cathy | Ayo ngobrol bareng! | Jumat, 12 Des 2025 15:42:10 | <img src="https://cdn.idntimes.com/content-images/post/20251212/f740e9da-772f-4ae2-8ddd-49f717aacf63-251212154203.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2651 | Michie | Ayo ngobrol bareng! | Jumat, 12 Des 2025 15:42:14 | <img src="https://cdn.idntimes.com/content-images/post/20251212/6970e68a-b488-497a-b793-3a735db5e997-251212154205.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2652 | Christy | heyyo | Jumat, 12 Des 2025 16:10:21 | <img src="https://cdn.idntimes.com/content-images/post/20251212/01506e57-d837-4a1e-8dd4-3e99e3489ac8-251212161010.jpg" alt="heyyo" width="200"/> |
+| 2653 | Gracie | Ayo ngobrol bareng! | Jumat, 12 Des 2025 16:26:36 | <img src="https://cdn.idntimes.com/content-images/post/20251212/cae4d972-5f14-4512-9706-37c1802a0541-251212162628.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
