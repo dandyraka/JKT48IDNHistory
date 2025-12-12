@@ -2647,3 +2647,4 @@
 | 2643 | Lily | Haii | Jumat, 12 Des 2025 08:26:54 | <img src="https://cdn.idntimes.com/content-images/post/20251212/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251212082648.jpg" alt="Haii" width="200"/> |
 | 2644 | Lia | Ayo ngobrol bareng! | Jumat, 12 Des 2025 12:02:25 | <img src="https://cdn.idntimes.com/content-images/post/20251212/15dfee86-a928-4a15-8c90-6aa21097d0ff-251212120218.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2645 | Gita | Gits | Jumat, 12 Des 2025 12:02:34 | <img src="https://cdn.idntimes.com/content-images/post/20251212/82ffac10-ee56-43d0-ad38-ce432384cfe5-251212120221.jpg" alt="Gits" width="200"/> |
+| 2646 | Mikaela | Ayo ngobrol bareng! | Jumat, 12 Des 2025 13:23:41 | <img src="https://cdn.idntimes.com/content-images/post/20251212/a557ba58-12d8-4260-bd50-9e5252ac71ef-251212132329.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
