@@ -2663,3 +2663,5 @@
 | 2659 | Daisy | Ayo ngobrol bareng! | Jumat, 12 Des 2025 23:37:24 | <img src="https://cdn.idntimes.com/content-images/post/20251212/b11b0692-d0b8-464c-849a-9e81439a048c-251212233717.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2660 | Eli | Ayo ngobrol bareng! | Sabtu, 13 Des 2025 00:21:36 | <img src="https://cdn.idntimes.com/content-images/post/20251213/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251213002123.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2661 | Lily | Hello | Sabtu, 13 Des 2025 12:40:45 | <img src="https://cdn.idntimes.com/content-images/post/20251213/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251213124038.jpg" alt="Hello" width="200"/> |
+| 2662 | Giaa | cobaa lagii | Sabtu, 13 Des 2025 13:30:11 | <img src="https://cdn.idntimes.com/content-images/post/20251213/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251213133003.jpg" alt="cobaa lagii" width="200"/> |
+| 2663 | Mikaela | Ayo ngobrol bareng! | Sabtu, 13 Des 2025 13:32:56 | <img src="https://cdn.idntimes.com/content-images/post/20251213/a557ba58-12d8-4260-bd50-9e5252ac71ef-251213133243.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
