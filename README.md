@@ -2678,3 +2678,4 @@
 | 2674 | Lyn | Ayo ngobrol bareng! | Minggu, 14 Des 2025 15:54:19 | <img src="https://cdn.idntimes.com/content-images/post/20251214/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251214155352.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2675 | Raisha | Ayo ngobrol bareng! | Minggu, 14 Des 2025 15:57:25 | <img src="https://cdn.idntimes.com/content-images/post/20251214/728d224e-6ccb-43d2-a029-a0147dc7fdee-251214155709.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2676 | Amanda | Bentaran bgt | Minggu, 14 Des 2025 15:59:05 | <img src="https://cdn.idntimes.com/content-images/post/20251214/e8aa0877-684a-4430-8a3b-d96302e53aab-251214155853.jpg" alt="Bentaran bgt" width="200"/> |
+| 2677 | Trisha | halo | Senin, 15 Des 2025 00:15:07 | <img src="https://cdn.idntimes.com/content-images/post/20251215/92d66abb-0171-4a2b-a30d-37ad58359248-251215001450.jpg" alt="halo" width="200"/> |
