@@ -2671,3 +2671,4 @@
 | 2667 | Daisy | Ayo ngobrol bareng! | Sabtu, 13 Des 2025 15:16:00 | <img src="https://cdn.idntimes.com/content-images/post/20251213/b11b0692-d0b8-464c-849a-9e81439a048c-251213151552.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2668 | Raisha | Ayo ngobrol bareng! | Sabtu, 13 Des 2025 16:11:42 | <img src="https://cdn.idntimes.com/content-images/post/20251213/728d224e-6ccb-43d2-a029-a0147dc7fdee-251213161127.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2669 | Gracie | Ayo ngobrol bareng! | Sabtu, 13 Des 2025 16:13:25 | <img src="https://cdn.idntimes.com/content-images/post/20251213/cae4d972-5f14-4512-9706-37c1802a0541-251213161317.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2670 | Maira | Ayo ngobrol bareng! | Minggu, 14 Des 2025 10:26:02 | <img src="https://cdn.idntimes.com/content-images/post/20251214/7599c984-c466-4962-8c5b-73c1d33d59d9-251214102547.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
