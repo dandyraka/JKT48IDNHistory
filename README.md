@@ -2681,3 +2681,5 @@
 | 2677 | Trisha | halo | Senin, 15 Des 2025 00:15:07 | <img src="https://cdn.idntimes.com/content-images/post/20251215/92d66abb-0171-4a2b-a30d-37ad58359248-251215001450.jpg" alt="halo" width="200"/> |
 | 2678 | Trisha | halo | Senin, 15 Des 2025 01:14:00 | <img src="https://cdn.idntimes.com/content-images/post/20251215/92d66abb-0171-4a2b-a30d-37ad58359248-251215011345.jpg" alt="halo" width="200"/> |
 | 2679 | Lily | Hi | Senin, 15 Des 2025 11:26:54 | <img src="https://cdn.idntimes.com/content-images/post/20251215/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251215112649.jpg" alt="Hi" width="200"/> |
+| 2680 | Auwia | Nyanyii | Senin, 15 Des 2025 14:08:48 | <img src="https://cdn.idntimes.com/content-images/post/20251215/f9500eb4-9d6d-491d-a857-40ca6f862d61-251215140836.jpg" alt="Nyanyii" width="200"/> |
+| 2681 | Virgi | Ayo ngobrol bareng! | Senin, 15 Des 2025 14:23:52 | <img src="https://cdn.idntimes.com/content-images/post/20251215/147e83c8-f3ac-4680-9141-2f518b4b7810-251215142338.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
