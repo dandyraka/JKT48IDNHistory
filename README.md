@@ -2709,3 +2709,4 @@
 | 2705 | Nayla | Ayo ngobrol bareng! | Selasa, 16 Des 2025 20:59:49 | <img src="https://cdn.idntimes.com/content-images/post/20251216/e243be19-74b7-435b-8e19-13fc669e0224-251216205937.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2706 | Gendis | Ayo ngobrol bareng! | Selasa, 16 Des 2025 21:24:33 | <img src="https://cdn.idntimes.com/content-images/post/20251216/ab901d82-db49-488c-8d03-da0082ab70e2-251216212424.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2707 | Eli | Ayo ngobrol bareng! | Selasa, 16 Des 2025 21:59:13 | <img src="https://cdn.idntimes.com/content-images/post/20251216/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251216215859.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2708 | Trisha | halooo | Selasa, 16 Des 2025 22:48:36 | <img src="https://cdn.idntimes.com/content-images/post/20251216/92d66abb-0171-4a2b-a30d-37ad58359248-251216224821.jpg" alt="halooo" width="200"/> |
