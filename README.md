@@ -2687,3 +2687,5 @@
 | 2683 | Intan | Ayo ngobrol bareng! | Selasa, 16 Des 2025 12:19:39 | <img src="https://cdn.idntimes.com/content-images/post/20251216/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251216121916.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2684 | Virgi | Ayo ngobrol bareng! | Selasa, 16 Des 2025 12:47:56 | <img src="https://cdn.idntimes.com/content-images/post/20251216/147e83c8-f3ac-4680-9141-2f518b4b7810-251216124740.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2685 | Lily | Hii | Selasa, 16 Des 2025 12:52:54 | <img src="https://cdn.idntimes.com/content-images/post/20251216/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251216125247.jpg" alt="Hii" width="200"/> |
+| 2686 | Gita | Gits | Selasa, 16 Des 2025 14:02:18 | <img src="https://cdn.idntimes.com/content-images/post/20251216/82ffac10-ee56-43d0-ad38-ce432384cfe5-251216140205.jpg" alt="Gits" width="200"/> |
+| 2687 | Rilly | Ayo ngobrol bareng! | Selasa, 16 Des 2025 14:03:15 | <img src="https://cdn.idntimes.com/content-images/post/20251216/e9170998-f026-4186-bbc5-a17a3b5b2af1-251216140306.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
