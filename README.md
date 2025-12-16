@@ -2691,3 +2691,5 @@
 | 2687 | Rilly | Ayo ngobrol bareng! | Selasa, 16 Des 2025 14:03:15 | <img src="https://cdn.idntimes.com/content-images/post/20251216/e9170998-f026-4186-bbc5-a17a3b5b2af1-251216140306.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2688 | Ribka | Ayo ngobrol bareng! | Selasa, 16 Des 2025 14:22:24 | <img src="https://cdn.idntimes.com/content-images/post/20251216/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251216142217.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2689 | Mikaela | Ayo ngobrol bareng! | Selasa, 16 Des 2025 14:25:44 | <img src="https://cdn.idntimes.com/content-images/post/20251216/a557ba58-12d8-4260-bd50-9e5252ac71ef-251216142531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2690 | Lia | Ayo ngobrol bareng! | Selasa, 16 Des 2025 15:12:29 | <img src="https://cdn.idntimes.com/content-images/post/20251216/15dfee86-a928-4a15-8c90-6aa21097d0ff-251216151221.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2691 | Delynn | Ayo ngobrol bareng! | Selasa, 16 Des 2025 15:19:53 | <img src="https://cdn.idntimes.com/content-images/post/20251216/266ef38a-da00-4d13-ba77-f94da68599ee-251216151945.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
