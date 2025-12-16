@@ -2689,3 +2689,5 @@
 | 2685 | Lily | Hii | Selasa, 16 Des 2025 12:52:54 | <img src="https://cdn.idntimes.com/content-images/post/20251216/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251216125247.jpg" alt="Hii" width="200"/> |
 | 2686 | Gita | Gits | Selasa, 16 Des 2025 14:02:18 | <img src="https://cdn.idntimes.com/content-images/post/20251216/82ffac10-ee56-43d0-ad38-ce432384cfe5-251216140205.jpg" alt="Gits" width="200"/> |
 | 2687 | Rilly | Ayo ngobrol bareng! | Selasa, 16 Des 2025 14:03:15 | <img src="https://cdn.idntimes.com/content-images/post/20251216/e9170998-f026-4186-bbc5-a17a3b5b2af1-251216140306.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2688 | Ribka | Ayo ngobrol bareng! | Selasa, 16 Des 2025 14:22:24 | <img src="https://cdn.idntimes.com/content-images/post/20251216/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251216142217.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2689 | Mikaela | Ayo ngobrol bareng! | Selasa, 16 Des 2025 14:25:44 | <img src="https://cdn.idntimes.com/content-images/post/20251216/a557ba58-12d8-4260-bd50-9e5252ac71ef-251216142531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
