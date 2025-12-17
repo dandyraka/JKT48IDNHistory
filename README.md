@@ -2713,3 +2713,4 @@
 | 2709 | Aralie | hi | Selasa, 16 Des 2025 22:52:20 | <img src="https://cdn.idntimes.com/content-images/post/20251216/f001ba66-3c51-4849-9afa-13cf74eb1571-251216225211.jpg" alt="hi" width="200"/> |
 | 2710 | Gendis | Ayo ngobrol bareng! | Rabu, 17 Des 2025 13:48:36 | <img src="https://cdn.idntimes.com/content-images/post/20251217/ab901d82-db49-488c-8d03-da0082ab70e2-251217134827.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2711 | Lily | Hii | Rabu, 17 Des 2025 13:52:22 | <img src="https://cdn.idntimes.com/content-images/post/20251217/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251217135215.jpg" alt="Hii" width="200"/> |
+| 2712 | Levi | Ayo ngobrol bareng! | Rabu, 17 Des 2025 14:03:06 | <img src="https://cdn.idntimes.com/content-images/post/20251217/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251217140259.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
