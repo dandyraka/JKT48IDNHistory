@@ -2716,3 +2716,6 @@
 | 2712 | Levi | Ayo ngobrol bareng! | Rabu, 17 Des 2025 14:03:06 | <img src="https://cdn.idntimes.com/content-images/post/20251217/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251217140259.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2713 | Mikaela | Ayo ngobrol bareng! | Rabu, 17 Des 2025 14:33:00 | <img src="https://cdn.idntimes.com/content-images/post/20251217/a557ba58-12d8-4260-bd50-9e5252ac71ef-251217143247.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2714 | Oniel | Ayo ngobrol bareng! | Rabu, 17 Des 2025 14:34:30 | <img src="https://cdn.idntimes.com/content-images/post/20251217/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251217143423.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2715 | Elin | Haii | Rabu, 17 Des 2025 15:25:53 | <img src="https://cdn.idntimes.com/content-images/post/20251217/e0ececb4-71d8-4f32-a221-ef21634a746a-251217152545.jpg" alt="Haii" width="200"/> |
+| 2716 | Ribka | happy 14th anniv jkt48🥳🥳🥳 | Rabu, 17 Des 2025 15:39:09 | <img src="https://cdn.idntimes.com/content-images/post/20251217/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251217153859.jpg" alt="happy 14th anniv jkt48🥳🥳🥳" width="200"/> |
+| 2717 | Eli | Ayo ngobrol bareng! | Rabu, 17 Des 2025 15:44:59 | <img src="https://cdn.idntimes.com/content-images/post/20251217/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251217154447.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
