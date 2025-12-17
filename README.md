@@ -2720,3 +2720,5 @@
 | 2716 | Ribka | happy 14th anniv jkt48🥳🥳🥳 | Rabu, 17 Des 2025 15:39:09 | <img src="https://cdn.idntimes.com/content-images/post/20251217/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251217153859.jpg" alt="happy 14th anniv jkt48🥳🥳🥳" width="200"/> |
 | 2717 | Eli | Ayo ngobrol bareng! | Rabu, 17 Des 2025 15:44:59 | <img src="https://cdn.idntimes.com/content-images/post/20251217/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251217154447.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2718 | Danella | Ayo ngobrol bareng! | Rabu, 17 Des 2025 23:38:27 | <img src="https://cdn.idntimes.com/content-images/post/20251217/33139b05-1c43-4b48-bba3-ec960b18b36e-251217233821.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2719 | Daisy | Ayo ngobrol bareng! | Rabu, 17 Des 2025 23:39:54 | <img src="https://cdn.idntimes.com/content-images/post/20251217/b11b0692-d0b8-464c-849a-9e81439a048c-251217233946.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2720 | Lyn | Ayo ngobrol bareng! | Rabu, 17 Des 2025 23:54:06 | <img src="https://cdn.idntimes.com/content-images/post/20251217/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251217235351.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
