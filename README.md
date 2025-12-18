@@ -2735,3 +2735,4 @@
 | 2731 | Gracie | Ayo ngobrol bareng! | Kamis, 18 Des 2025 21:28:29 | <img src="https://cdn.idntimes.com/content-images/post/20251218/cae4d972-5f14-4512-9706-37c1802a0541-251218212821.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2732 | Delynn | Hi | Kamis, 18 Des 2025 21:34:20 | <img src="https://cdn.idntimes.com/content-images/post/20251218/266ef38a-da00-4d13-ba77-f94da68599ee-251218213411.jpg" alt="Hi" width="200"/> |
 | 2733 | Ekin | Ayo ngobrol bareng! | Kamis, 18 Des 2025 21:37:04 | <img src="https://cdn.idntimes.com/content-images/post/20251218/85f369d7-6525-41c0-94b8-9a56686713eb-251218213655.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2734 | Mikaela | Ayo ngobrol bareng! | Kamis, 18 Des 2025 21:52:32 | <img src="https://cdn.idntimes.com/content-images/post/20251218/a557ba58-12d8-4260-bd50-9e5252ac71ef-251218215219.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
