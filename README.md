@@ -2736,3 +2736,5 @@
 | 2732 | Delynn | Hi | Kamis, 18 Des 2025 21:34:20 | <img src="https://cdn.idntimes.com/content-images/post/20251218/266ef38a-da00-4d13-ba77-f94da68599ee-251218213411.jpg" alt="Hi" width="200"/> |
 | 2733 | Ekin | Ayo ngobrol bareng! | Kamis, 18 Des 2025 21:37:04 | <img src="https://cdn.idntimes.com/content-images/post/20251218/85f369d7-6525-41c0-94b8-9a56686713eb-251218213655.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2734 | Mikaela | Ayo ngobrol bareng! | Kamis, 18 Des 2025 21:52:32 | <img src="https://cdn.idntimes.com/content-images/post/20251218/a557ba58-12d8-4260-bd50-9e5252ac71ef-251218215219.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2735 | Intan | Ayo ngobrol bareng! | Kamis, 18 Des 2025 21:59:16 | <img src="https://cdn.idntimes.com/content-images/post/20251218/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251218215859.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2736 | Lyn | Ayo ngobrol bareng! | Kamis, 18 Des 2025 22:16:37 | <img src="https://cdn.idntimes.com/content-images/post/20251218/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251218221621.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
