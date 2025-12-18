@@ -2725,3 +2725,4 @@
 | 2721 | Eli | Ayo ngobrol bareng! | Kamis, 18 Des 2025 00:15:24 | <img src="https://cdn.idntimes.com/content-images/post/20251218/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251218001511.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2722 | Elin | Hai | Kamis, 18 Des 2025 16:27:42 | <img src="https://cdn.idntimes.com/content-images/post/20251218/e0ececb4-71d8-4f32-a221-ef21634a746a-251218162734.jpg" alt="Hai" width="200"/> |
 | 2723 | Nachia | Ayo ngobrol bareng! | Kamis, 18 Des 2025 16:43:37 | <img src="https://cdn.idntimes.com/content-images/post/20251218/21a420b0-dd01-4daa-b185-b9020f8bf69d-251218164325.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2724 | Fritzy | bahas membahas | Kamis, 18 Des 2025 17:02:43 | <img src="https://cdn.idntimes.com/content-images/post/20251218/717109e0-a064-4f15-8187-5c4d46e56a58-251218170228.jpg" alt="bahas membahas" width="200"/> |
