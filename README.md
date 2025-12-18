@@ -2729,3 +2729,4 @@
 | 2725 | Aralie | Ayo ngobrol bareng! | Kamis, 18 Des 2025 19:08:34 | <img src="https://cdn.idntimes.com/content-images/post/20251218/f001ba66-3c51-4849-9afa-13cf74eb1571-251218190825.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2726 | Ribka | Ayo ngobrol bareng! | Kamis, 18 Des 2025 19:10:26 | <img src="https://cdn.idntimes.com/content-images/post/20251218/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251218191017.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2727 | Nala | Ayo ngobrol bareng! | Kamis, 18 Des 2025 19:10:30 | <img src="https://cdn.idntimes.com/content-images/post/20251218/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-251218191016.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2728 | Levi | Ayo ngobrol bareng! | Kamis, 18 Des 2025 19:50:33 | <img src="https://cdn.idntimes.com/content-images/post/20251218/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251218195024.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
