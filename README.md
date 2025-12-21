@@ -2755,3 +2755,4 @@
 | 2751 | Delynn | Hai | Minggu, 21 Des 2025 21:01:02 | <img src="https://cdn.idntimes.com/content-images/post/20251221/266ef38a-da00-4d13-ba77-f94da68599ee-251221210054.jpg" alt="Hai" width="200"/> |
 | 2752 | Jemima | Ayo ngobrol bareng! | Minggu, 21 Des 2025 21:16:44 | <img src="https://cdn.idntimes.com/content-images/post/20251221/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251221211629.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2753 | Ekin | Ayo ngobrol bareng! | Minggu, 21 Des 2025 21:48:25 | <img src="https://cdn.idntimes.com/content-images/post/20251221/85f369d7-6525-41c0-94b8-9a56686713eb-251221214815.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2754 | Trisha | hai | Minggu, 21 Des 2025 21:55:58 | <img src="https://cdn.idntimes.com/content-images/post/20251221/92d66abb-0171-4a2b-a30d-37ad58359248-251221215543.jpg" alt="hai" width="200"/> |
