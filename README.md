@@ -2751,3 +2751,4 @@
 | 2747 | Levi | Ayo ngobrol bareng! | Minggu, 21 Des 2025 19:37:25 | <img src="https://cdn.idntimes.com/content-images/post/20251221/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251221193715.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2748 | Rilly | Ayo ngobrol bareng! | Minggu, 21 Des 2025 20:10:49 | <img src="https://cdn.idntimes.com/content-images/post/20251221/e9170998-f026-4186-bbc5-a17a3b5b2af1-251221201041.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2749 | Indah | Ayo ngobrol bareng! | Minggu, 21 Des 2025 20:27:23 | <img src="https://cdn.idntimes.com/content-images/post/20251221/539f5185-1414-416c-b84d-2ad366b6d60a-251221202707.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2750 | Fritzy | MatchaZyy | Minggu, 21 Des 2025 20:48:35 | <img src="https://cdn.idntimes.com/content-images/post/20251221/717109e0-a064-4f15-8187-5c4d46e56a58-251221204821.jpg" alt="MatchaZyy" width="200"/> |
