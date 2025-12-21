@@ -2745,3 +2745,4 @@
 | 2741 | Elin | Haiii | Jumat, 19 Des 2025 11:29:59 | <img src="https://cdn.idntimes.com/content-images/post/20251219/e0ececb4-71d8-4f32-a221-ef21634a746a-251219112951.jpg" alt="Haiii" width="200"/> |
 | 2742 | Aralie | Ayo ngobrol bareng! | Jumat, 19 Des 2025 12:29:12 | <img src="https://cdn.idntimes.com/content-images/post/20251219/f001ba66-3c51-4849-9afa-13cf74eb1571-251219122903.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2743 | Cynthia | Ayo ngobrol bareng! | Jumat, 19 Des 2025 14:18:44 | <img src="https://cdn.idntimes.com/content-images/post/20251219/4f795073-38c9-4df7-9388-74b83de69801-251219141832.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2744 | Lily | Helloo | Minggu, 21 Des 2025 14:57:44 | <img src="https://cdn.idntimes.com/content-images/post/20251221/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251221145738.jpg" alt="Helloo" width="200"/> |
