@@ -2754,3 +2754,4 @@
 | 2750 | Fritzy | MatchaZyy | Minggu, 21 Des 2025 20:48:35 | <img src="https://cdn.idntimes.com/content-images/post/20251221/717109e0-a064-4f15-8187-5c4d46e56a58-251221204821.jpg" alt="MatchaZyy" width="200"/> |
 | 2751 | Delynn | Hai | Minggu, 21 Des 2025 21:01:02 | <img src="https://cdn.idntimes.com/content-images/post/20251221/266ef38a-da00-4d13-ba77-f94da68599ee-251221210054.jpg" alt="Hai" width="200"/> |
 | 2752 | Jemima | Ayo ngobrol bareng! | Minggu, 21 Des 2025 21:16:44 | <img src="https://cdn.idntimes.com/content-images/post/20251221/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251221211629.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2753 | Ekin | Ayo ngobrol bareng! | Minggu, 21 Des 2025 21:48:25 | <img src="https://cdn.idntimes.com/content-images/post/20251221/85f369d7-6525-41c0-94b8-9a56686713eb-251221214815.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
