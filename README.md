@@ -2758,3 +2758,4 @@
 | 2754 | Trisha | hai | Minggu, 21 Des 2025 21:55:58 | <img src="https://cdn.idntimes.com/content-images/post/20251221/92d66abb-0171-4a2b-a30d-37ad58359248-251221215543.jpg" alt="hai" width="200"/> |
 | 2755 | Eli | Ayo ngobrol bareng! | Minggu, 21 Des 2025 22:35:33 | <img src="https://cdn.idntimes.com/content-images/post/20251221/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251221223521.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2756 | Lily | Hii | Minggu, 21 Des 2025 23:28:55 | <img src="https://cdn.idntimes.com/content-images/post/20251221/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251221232848.jpg" alt="Hii" width="200"/> |
+| 2757 | Fritzy | giftt!❤️💚 | Senin, 22 Des 2025 20:04:07 | <img src="https://cdn.idntimes.com/content-images/post/20251222/717109e0-a064-4f15-8187-5c4d46e56a58-251222200354.jpg" alt="giftt!❤️💚" width="200"/> |
