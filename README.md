@@ -2769,3 +2769,5 @@
 | 2765 | Ribka | Ayo ngobrol bareng! | Senin, 22 Des 2025 21:58:52 | <img src="https://cdn.idntimes.com/content-images/post/20251222/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251222215842.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2766 | Lily | Haii | Senin, 22 Des 2025 22:19:44 | <img src="https://cdn.idntimes.com/content-images/post/20251222/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251222221936.jpg" alt="Haii" width="200"/> |
 | 2767 | Oline | Ayo ngobrol bareng! | Senin, 22 Des 2025 22:21:10 | <img src="https://cdn.idntimes.com/content-images/post/20251222/a2b5d818-475d-44ce-af52-e99526482aaf-251222222051.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2768 | Elin | :):)hai | Senin, 22 Des 2025 22:54:23 | <img src="https://cdn.idntimes.com/content-images/post/20251222/e0ececb4-71d8-4f32-a221-ef21634a746a-251222225407.jpg" alt=":):)hai" width="200"/> |
+| 2769 | Lyn | Ayo ngobrol bareng! | Senin, 22 Des 2025 22:56:06 | <img src="https://cdn.idntimes.com/content-images/post/20251222/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251222225548.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
