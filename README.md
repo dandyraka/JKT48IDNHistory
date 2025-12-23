@@ -2775,3 +2775,4 @@
 | 2771 | Cynthia | Ayo ngobrol bareng! | Senin, 22 Des 2025 23:46:48 | <img src="https://cdn.idntimes.com/content-images/post/20251222/4f795073-38c9-4df7-9388-74b83de69801-251222234624.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2772 | Michie | Ayo ngobrol bareng! | Selasa, 23 Des 2025 00:53:20 | <img src="https://cdn.idntimes.com/content-images/post/20251223/6970e68a-b488-497a-b793-3a735db5e997-251223005304.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2773 | Maira | Ayo ngobrol bareng! | Selasa, 23 Des 2025 08:48:59 | <img src="https://cdn.idntimes.com/content-images/post/20251223/7599c984-c466-4962-8c5b-73c1d33d59d9-251223084842.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2774 | Eli | Ayo ngobrol bareng! | Selasa, 23 Des 2025 16:57:22 | <img src="https://cdn.idntimes.com/content-images/post/20251223/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251223165710.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
