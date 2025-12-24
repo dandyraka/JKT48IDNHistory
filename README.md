@@ -2796,3 +2796,4 @@
 | 2792 | Eli | Ayo ngobrol bareng! | Rabu, 24 Des 2025 00:52:22 | <img src="https://cdn.idntimes.com/content-images/post/20251224/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251224005210.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2793 | Ella | Ayo ngobrol bareng! | Rabu, 24 Des 2025 12:39:55 | <img src="https://cdn.idntimes.com/content-images/post/20251224/b0d1e6c3-d356-4b00-8d00-846e5297693b-251224123945.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2794 | Lia | Ayo ngobrol bareng! | Rabu, 24 Des 2025 16:14:30 | <img src="https://cdn.idntimes.com/content-images/post/20251224/15dfee86-a928-4a15-8c90-6aa21097d0ff-251224161422.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2795 | Lily | Grem Christmas eve yes | Rabu, 24 Des 2025 17:10:15 | <img src="https://cdn.idntimes.com/content-images/post/20251224/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251224171009.jpg" alt="Grem Christmas eve yes" width="200"/> |
