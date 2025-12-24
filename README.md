@@ -2809,3 +2809,5 @@
 | 2805 | Kathrina | p adu balap | Rabu, 24 Des 2025 22:38:50 | <img src="https://cdn.idntimes.com/content-images/post/20251224/c3d28bcd-d000-4ccc-a9bf-956853cfa433-251224223835.jpg" alt="p adu balap" width="200"/> |
 | 2806 | Lyn | Ayo ngobrol bareng! | Rabu, 24 Des 2025 22:41:29 | <img src="https://cdn.idntimes.com/content-images/post/20251224/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251224224112.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2807 | Anindya | afterrr off airr | Rabu, 24 Des 2025 22:47:32 | <img src="https://cdn.idntimes.com/content-images/post/20251224/a5c72141-65a3-47be-86ef-1dc1feaab10d-251224224716.jpg" alt="afterrr off airr" width="200"/> |
+| 2808 | Ribka | RAPATT | Rabu, 24 Des 2025 22:59:12 | <img src="https://cdn.idntimes.com/content-images/post/20251224/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251224225903.jpg" alt="RAPATT" width="200"/> |
+| 2809 | Gracie | Ayo ngobrol bareng! | Rabu, 24 Des 2025 23:18:49 | <img src="https://cdn.idntimes.com/content-images/post/20251224/cae4d972-5f14-4512-9706-37c1802a0541-251224231841.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
