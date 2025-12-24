@@ -2811,3 +2811,4 @@
 | 2807 | Anindya | afterrr off airr | Rabu, 24 Des 2025 22:47:32 | <img src="https://cdn.idntimes.com/content-images/post/20251224/a5c72141-65a3-47be-86ef-1dc1feaab10d-251224224716.jpg" alt="afterrr off airr" width="200"/> |
 | 2808 | Ribka | RAPATT | Rabu, 24 Des 2025 22:59:12 | <img src="https://cdn.idntimes.com/content-images/post/20251224/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251224225903.jpg" alt="RAPATT" width="200"/> |
 | 2809 | Gracie | Ayo ngobrol bareng! | Rabu, 24 Des 2025 23:18:49 | <img src="https://cdn.idntimes.com/content-images/post/20251224/cae4d972-5f14-4512-9706-37c1802a0541-251224231841.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2810 | Eli | Ayo ngobrol bareng! | Kamis, 25 Des 2025 00:08:52 | <img src="https://cdn.idntimes.com/content-images/post/20251225/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251225000841.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
