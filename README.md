@@ -2814,3 +2814,4 @@
 | 2810 | Eli | Ayo ngobrol bareng! | Kamis, 25 Des 2025 00:08:52 | <img src="https://cdn.idntimes.com/content-images/post/20251225/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251225000841.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2811 | Lily | Grwm | Kamis, 25 Des 2025 10:16:37 | <img src="https://cdn.idntimes.com/content-images/post/20251225/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251225101630.jpg" alt="Grwm" width="200"/> |
 | 2812 | Cathy | Ayo ngobrol bareng! | Kamis, 25 Des 2025 10:44:33 | <img src="https://cdn.idntimes.com/content-images/post/20251225/f740e9da-772f-4ae2-8ddd-49f717aacf63-251225104425.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2813 | Raisha | Ayo ngobrol bareng! | Kamis, 25 Des 2025 12:41:44 | <img src="https://cdn.idntimes.com/content-images/post/20251225/728d224e-6ccb-43d2-a029-a0147dc7fdee-251225124129.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
