@@ -2827,3 +2827,4 @@
 | 2823 | Ekin | Ayo ngobrol bareng! | Kamis, 25 Des 2025 21:04:23 | <img src="https://cdn.idntimes.com/content-images/post/20251225/85f369d7-6525-41c0-94b8-9a56686713eb-251225210410.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2824 | Intan | bub | Kamis, 25 Des 2025 21:05:04 | <img src="https://cdn.idntimes.com/content-images/post/20251225/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251225210444.jpg" alt="bub" width="200"/> |
 | 2825 | Giaa | Ayo ngobrol bareng! | Kamis, 25 Des 2025 21:11:02 | <img src="https://cdn.idntimes.com/content-images/post/20251225/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251225211052.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2826 | Chelsea | NGOBROL | Kamis, 25 Des 2025 21:24:20 | <img src="https://cdn.idntimes.com/content-images/post/20251225/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251225212353.jpg" alt="NGOBROL" width="200"/> |
