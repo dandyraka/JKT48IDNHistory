@@ -2829,3 +2829,4 @@
 | 2825 | Giaa | Ayo ngobrol bareng! | Kamis, 25 Des 2025 21:11:02 | <img src="https://cdn.idntimes.com/content-images/post/20251225/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251225211052.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2826 | Chelsea | NGOBROL | Kamis, 25 Des 2025 21:24:20 | <img src="https://cdn.idntimes.com/content-images/post/20251225/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251225212353.jpg" alt="NGOBROL" width="200"/> |
 | 2827 | Anindya | nighty night | Kamis, 25 Des 2025 21:41:29 | <img src="https://cdn.idntimes.com/content-images/post/20251225/a5c72141-65a3-47be-86ef-1dc1feaab10d-251225214113.jpg" alt="nighty night" width="200"/> |
+| 2828 | Greesel | Ayo ngobrol bareng! | Kamis, 25 Des 2025 22:05:12 | <img src="https://cdn.idntimes.com/content-images/post/20251225/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251225220505.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
