@@ -2816,3 +2816,4 @@
 | 2812 | Cathy | Ayo ngobrol bareng! | Kamis, 25 Des 2025 10:44:33 | <img src="https://cdn.idntimes.com/content-images/post/20251225/f740e9da-772f-4ae2-8ddd-49f717aacf63-251225104425.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2813 | Raisha | Ayo ngobrol bareng! | Kamis, 25 Des 2025 12:41:44 | <img src="https://cdn.idntimes.com/content-images/post/20251225/728d224e-6ccb-43d2-a029-a0147dc7fdee-251225124129.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2814 | Gendis | GRWM | Kamis, 25 Des 2025 15:04:35 | <img src="https://cdn.idntimes.com/content-images/post/20251225/ab901d82-db49-488c-8d03-da0082ab70e2-251225150426.jpg" alt="GRWM" width="200"/> |
+| 2815 | Ribka | chill xmas | Kamis, 25 Des 2025 17:39:02 | <img src="https://cdn.idntimes.com/content-images/post/20251225/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251225173854.jpg" alt="chill xmas" width="200"/> |
