@@ -2822,3 +2822,4 @@
 | 2818 | Indah | Ayo ngobrol bareng! | Kamis, 25 Des 2025 19:50:30 | <img src="https://cdn.idntimes.com/content-images/post/20251225/539f5185-1414-416c-b84d-2ad366b6d60a-251225195017.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2819 | Lyn | Ayo ngobrol bareng! | Kamis, 25 Des 2025 19:56:42 | <img src="https://cdn.idntimes.com/content-images/post/20251225/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251225195624.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2820 | Trisha | halo | Kamis, 25 Des 2025 20:03:02 | <img src="https://cdn.idntimes.com/content-images/post/20251225/92d66abb-0171-4a2b-a30d-37ad58359248-251225200246.jpg" alt="halo" width="200"/> |
+| 2821 | Alya | Ayo ngobrol bareng! | Kamis, 25 Des 2025 20:35:46 | <img src="https://cdn.idntimes.com/content-images/post/20251225/74e76417-0353-487f-b9b7-7520c0398e87-251225203538.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
