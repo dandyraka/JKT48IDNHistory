@@ -2834,3 +2834,4 @@
 | 2830 | Lily | Christmas gurwm | Kamis, 25 Des 2025 22:33:16 | <img src="https://cdn.idntimes.com/content-images/post/20251225/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251225223309.jpg" alt="Christmas gurwm" width="200"/> |
 | 2831 | Oniel | Ayo ngobrol bareng! | Kamis, 25 Des 2025 23:00:33 | <img src="https://cdn.idntimes.com/content-images/post/20251225/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251225230026.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2832 | Gracie | merry christmaasss | Kamis, 25 Des 2025 23:23:19 | <img src="https://cdn.idntimes.com/content-images/post/20251225/cae4d972-5f14-4512-9706-37c1802a0541-251225232308.jpg" alt="merry christmaasss" width="200"/> |
+| 2833 | Eli | Ayo ngobrol bareng! | Kamis, 25 Des 2025 23:44:54 | <img src="https://cdn.idntimes.com/content-images/post/20251225/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251225234443.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
