@@ -2830,3 +2830,5 @@
 | 2826 | Chelsea | NGOBROL | Kamis, 25 Des 2025 21:24:20 | <img src="https://cdn.idntimes.com/content-images/post/20251225/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-251225212353.jpg" alt="NGOBROL" width="200"/> |
 | 2827 | Anindya | nighty night | Kamis, 25 Des 2025 21:41:29 | <img src="https://cdn.idntimes.com/content-images/post/20251225/a5c72141-65a3-47be-86ef-1dc1feaab10d-251225214113.jpg" alt="nighty night" width="200"/> |
 | 2828 | Greesel | Ayo ngobrol bareng! | Kamis, 25 Des 2025 22:05:12 | <img src="https://cdn.idntimes.com/content-images/post/20251225/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-251225220505.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2829 | Gendis | aku gabuts | Kamis, 25 Des 2025 22:22:16 | <img src="https://cdn.idntimes.com/content-images/post/20251225/ab901d82-db49-488c-8d03-da0082ab70e2-251225222159.jpg" alt="aku gabuts" width="200"/> |
+| 2830 | Lily | Christmas gurwm | Kamis, 25 Des 2025 22:33:16 | <img src="https://cdn.idntimes.com/content-images/post/20251225/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251225223309.jpg" alt="Christmas gurwm" width="200"/> |
