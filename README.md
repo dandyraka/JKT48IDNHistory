@@ -2854,3 +2854,4 @@
 | 2850 | Anindya | ulang | Jumat, 26 Des 2025 22:48:45 | <img src="https://cdn.idntimes.com/content-images/post/20251226/a5c72141-65a3-47be-86ef-1dc1feaab10d-251226224829.jpg" alt="ulang" width="200"/> |
 | 2851 | Levi | Ayo ngobrol bareng! | Jumat, 26 Des 2025 22:54:09 | <img src="https://cdn.idntimes.com/content-images/post/20251226/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251226225401.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2852 | Ribka | rapat yuuuuu | Jumat, 26 Des 2025 22:54:33 | <img src="https://cdn.idntimes.com/content-images/post/20251226/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251226225425.jpg" alt="rapat yuuuuu" width="200"/> |
+| 2853 | Cathy | Ayo ngobrol bareng! | Jumat, 26 Des 2025 23:37:03 | <img src="https://cdn.idntimes.com/content-images/post/20251226/f740e9da-772f-4ae2-8ddd-49f717aacf63-251226233654.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
