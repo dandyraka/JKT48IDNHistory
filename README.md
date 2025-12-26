@@ -2845,3 +2845,4 @@
 | 2841 | Jemima | Ayo ngobrol bareng! | Jumat, 26 Des 2025 13:47:19 | <img src="https://cdn.idntimes.com/content-images/post/20251226/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251226134704.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2842 | Elin | Haii | Jumat, 26 Des 2025 14:34:32 | <img src="https://cdn.idntimes.com/content-images/post/20251226/e0ececb4-71d8-4f32-a221-ef21634a746a-251226143420.jpg" alt="Haii" width="200"/> |
 | 2843 | Rilly | Ayo ngobrol bareng! | Jumat, 26 Des 2025 14:49:35 | <img src="https://cdn.idntimes.com/content-images/post/20251226/e9170998-f026-4186-bbc5-a17a3b5b2af1-251226144926.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2844 | Maira | Ayo ngobrol bareng! | Jumat, 26 Des 2025 16:11:46 | <img src="https://cdn.idntimes.com/content-images/post/20251226/7599c984-c466-4962-8c5b-73c1d33d59d9-251226161132.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
