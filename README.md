@@ -2838,3 +2838,5 @@
 | 2834 | Michie | Ayo ngobrol bareng! | Kamis, 25 Des 2025 23:57:38 | <img src="https://cdn.idntimes.com/content-images/post/20251225/6970e68a-b488-497a-b793-3a735db5e997-251225235717.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2835 | Gita | Gits | Jumat, 26 Des 2025 09:30:38 | <img src="https://cdn.idntimes.com/content-images/post/20251226/82ffac10-ee56-43d0-ad38-ce432384cfe5-251226093023.jpg" alt="Gits" width="200"/> |
 | 2836 | Michie | Ayo ngobrol bareng! | Jumat, 26 Des 2025 10:34:22 | <img src="https://cdn.idntimes.com/content-images/post/20251226/6970e68a-b488-497a-b793-3a735db5e997-251226103354.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2837 | Aralie | Ayo ngobrol bareng! | Jumat, 26 Des 2025 11:12:22 | <img src="https://cdn.idntimes.com/content-images/post/20251226/f001ba66-3c51-4849-9afa-13cf74eb1571-251226111213.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2838 | Virgi | Ayo ngobrol bareng! | Jumat, 26 Des 2025 11:43:03 | <img src="https://cdn.idntimes.com/content-images/post/20251226/147e83c8-f3ac-4680-9141-2f518b4b7810-251226114251.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
