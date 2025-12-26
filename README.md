@@ -2849,3 +2849,5 @@
 | 2845 | Gendis | gendis pink | Jumat, 26 Des 2025 19:35:38 | <img src="https://cdn.idntimes.com/content-images/post/20251226/ab901d82-db49-488c-8d03-da0082ab70e2-251226193521.jpg" alt="gendis pink" width="200"/> |
 | 2846 | Indah | Ayo ngobrol bareng! | Jumat, 26 Des 2025 20:00:18 | <img src="https://cdn.idntimes.com/content-images/post/20251226/539f5185-1414-416c-b84d-2ad366b6d60a-251226200004.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2847 | Erine | Ayo ngobrol bareng! | Jumat, 26 Des 2025 21:36:17 | <img src="https://cdn.idntimes.com/content-images/post/20251226/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251226213608.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2848 | Lily | Xmas | Jumat, 26 Des 2025 22:34:06 | <img src="https://cdn.idntimes.com/content-images/post/20251226/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251226223400.jpg" alt="Xmas" width="200"/> |
+| 2849 | Delynn | Hai | Jumat, 26 Des 2025 22:34:24 | <img src="https://cdn.idntimes.com/content-images/post/20251226/266ef38a-da00-4d13-ba77-f94da68599ee-251226223415.jpg" alt="Hai" width="200"/> |
