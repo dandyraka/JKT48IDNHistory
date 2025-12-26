@@ -2841,3 +2841,5 @@
 | 2837 | Aralie | Ayo ngobrol bareng! | Jumat, 26 Des 2025 11:12:22 | <img src="https://cdn.idntimes.com/content-images/post/20251226/f001ba66-3c51-4849-9afa-13cf74eb1571-251226111213.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2838 | Virgi | Ayo ngobrol bareng! | Jumat, 26 Des 2025 11:43:03 | <img src="https://cdn.idntimes.com/content-images/post/20251226/147e83c8-f3ac-4680-9141-2f518b4b7810-251226114251.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2839 | Lily | Hoho | Jumat, 26 Des 2025 12:00:44 | <img src="https://cdn.idntimes.com/content-images/post/20251226/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251226120037.jpg" alt="Hoho" width="200"/> |
+| 2840 | Lily | Hai | Jumat, 26 Des 2025 13:37:55 | <img src="https://cdn.idntimes.com/content-images/post/20251226/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251226133746.jpg" alt="Hai" width="200"/> |
+| 2841 | Jemima | Ayo ngobrol bareng! | Jumat, 26 Des 2025 13:47:19 | <img src="https://cdn.idntimes.com/content-images/post/20251226/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251226134704.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
