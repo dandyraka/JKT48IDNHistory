@@ -2851,3 +2851,6 @@
 | 2847 | Erine | Ayo ngobrol bareng! | Jumat, 26 Des 2025 21:36:17 | <img src="https://cdn.idntimes.com/content-images/post/20251226/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-251226213608.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2848 | Lily | Xmas | Jumat, 26 Des 2025 22:34:06 | <img src="https://cdn.idntimes.com/content-images/post/20251226/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251226223400.jpg" alt="Xmas" width="200"/> |
 | 2849 | Delynn | Hai | Jumat, 26 Des 2025 22:34:24 | <img src="https://cdn.idntimes.com/content-images/post/20251226/266ef38a-da00-4d13-ba77-f94da68599ee-251226223415.jpg" alt="Hai" width="200"/> |
+| 2850 | Anindya | ulang | Jumat, 26 Des 2025 22:48:45 | <img src="https://cdn.idntimes.com/content-images/post/20251226/a5c72141-65a3-47be-86ef-1dc1feaab10d-251226224829.jpg" alt="ulang" width="200"/> |
+| 2851 | Levi | Ayo ngobrol bareng! | Jumat, 26 Des 2025 22:54:09 | <img src="https://cdn.idntimes.com/content-images/post/20251226/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-251226225401.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2852 | Ribka | rapat yuuuuu | Jumat, 26 Des 2025 22:54:33 | <img src="https://cdn.idntimes.com/content-images/post/20251226/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251226225425.jpg" alt="rapat yuuuuu" width="200"/> |
