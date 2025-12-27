@@ -2872,3 +2872,4 @@
 | 2868 | Ella | Ayo ngobrol bareng! | Sabtu, 27 Des 2025 22:16:33 | <img src="https://cdn.idntimes.com/content-images/post/20251227/b0d1e6c3-d356-4b00-8d00-846e5297693b-251227221617.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2869 | Trisha | hai | Sabtu, 27 Des 2025 22:16:42 | <img src="https://cdn.idntimes.com/content-images/post/20251227/92d66abb-0171-4a2b-a30d-37ad58359248-251227221618.jpg" alt="hai" width="200"/> |
 | 2870 | Oniel | Ayo ngobrol bareng! | Sabtu, 27 Des 2025 22:37:35 | <img src="https://cdn.idntimes.com/content-images/post/20251227/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251227223724.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2871 | Ribka | Ayo ngobrol bareng! | Sabtu, 27 Des 2025 22:41:18 | <img src="https://cdn.idntimes.com/content-images/post/20251227/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251227224108.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
