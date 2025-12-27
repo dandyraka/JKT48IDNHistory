@@ -2876,3 +2876,5 @@
 | 2872 | Gita | Gits | Sabtu, 27 Des 2025 22:48:55 | <img src="https://cdn.idntimes.com/content-images/post/20251227/82ffac10-ee56-43d0-ad38-ce432384cfe5-251227224840.jpg" alt="Gits" width="200"/> |
 | 2873 | Danella | Hi | Sabtu, 27 Des 2025 23:11:26 | <img src="https://cdn.idntimes.com/content-images/post/20251227/33139b05-1c43-4b48-bba3-ec960b18b36e-251227231117.jpg" alt="Hi" width="200"/> |
 | 2874 | Daisy | Ayo ngobrol bareng! | Sabtu, 27 Des 2025 23:11:44 | <img src="https://cdn.idntimes.com/content-images/post/20251227/b11b0692-d0b8-464c-849a-9e81439a048c-251227231137.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2875 | Cathy | Ayo ngobrol bareng! | Minggu, 28 Des 2025 00:15:17 | <img src="https://cdn.idntimes.com/content-images/post/20251228/f740e9da-772f-4ae2-8ddd-49f717aacf63-251228001509.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2876 | Michie | Ayo ngobrol bareng! | Minggu, 28 Des 2025 00:27:50 | <img src="https://cdn.idntimes.com/content-images/post/20251228/6970e68a-b488-497a-b793-3a735db5e997-251228002729.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
