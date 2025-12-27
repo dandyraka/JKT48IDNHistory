@@ -2865,3 +2865,5 @@
 | 2861 | Gracie | Ayo ngobrol bareng! | Sabtu, 27 Des 2025 20:45:46 | <img src="https://cdn.idntimes.com/content-images/post/20251227/cae4d972-5f14-4512-9706-37c1802a0541-251227204535.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2862 | Cynthia | Ayo ngobrol bareng! | Sabtu, 27 Des 2025 21:06:19 | <img src="https://cdn.idntimes.com/content-images/post/20251227/4f795073-38c9-4df7-9388-74b83de69801-251227210601.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2863 | Indah | Ayo ngobrol bareng! | Sabtu, 27 Des 2025 21:09:54 | <img src="https://cdn.idntimes.com/content-images/post/20251227/539f5185-1414-416c-b84d-2ad366b6d60a-251227210941.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2864 | Anindya | 👋  | Sabtu, 27 Des 2025 21:52:49 | <img src="https://cdn.idntimes.com/content-images/post/20251227/a5c72141-65a3-47be-86ef-1dc1feaab10d-251227215239.jpg" alt="👋 " width="200"/> |
+| 2865 | Lana | Huhu | Sabtu, 27 Des 2025 21:57:39 | <img src="https://cdn.idntimes.com/content-images/post/20251227/e2af7271-2598-4ee8-8760-68043e671e6d-251227215730.jpg" alt="Huhu" width="200"/> |
