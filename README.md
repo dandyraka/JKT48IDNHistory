@@ -2883,3 +2883,6 @@
 | 2879 | Lily | Hai | Minggu, 28 Des 2025 22:52:15 | <img src="https://cdn.idntimes.com/content-images/post/20251228/e25cfed0-757c-424a-9b6e-85d4ef5b5192-251228225208.jpg" alt="Hai" width="200"/> |
 | 2880 | Lyn | Ayo ngobrol bareng! | Minggu, 28 Des 2025 22:55:42 | <img src="https://cdn.idntimes.com/content-images/post/20251228/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251228225522.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2881 | Elin | Haii | Minggu, 28 Des 2025 22:57:09 | <img src="https://cdn.idntimes.com/content-images/post/20251228/e0ececb4-71d8-4f32-a221-ef21634a746a-251228225657.jpg" alt="Haii" width="200"/> |
+| 2882 | Gendis | Bentaar | Minggu, 28 Des 2025 23:06:16 | <img src="https://cdn.idntimes.com/content-images/post/20251228/ab901d82-db49-488c-8d03-da0082ab70e2-251228230601.jpg" alt="Bentaar" width="200"/> |
+| 2883 | Eli | Ayo ngobrol bareng! | Minggu, 28 Des 2025 23:21:15 | <img src="https://cdn.idntimes.com/content-images/post/20251228/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251228232103.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2884 | Aralie | Ayo ngobrol bareng! | Minggu, 28 Des 2025 23:29:54 | <img src="https://cdn.idntimes.com/content-images/post/20251228/f001ba66-3c51-4849-9afa-13cf74eb1571-251228232945.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
