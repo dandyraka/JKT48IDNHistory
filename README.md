@@ -2892,3 +2892,5 @@
 | 2888 | Eli | Ayo ngobrol bareng! | Minggu, 28 Des 2025 23:58:58 | <img src="https://cdn.idntimes.com/content-images/post/20251228/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251228235847.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2889 | Lyn | Halo | Senin, 29 Des 2025 00:00:40 | <img src="https://cdn.idntimes.com/content-images/post/20251229/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251229000032.jpg" alt="Halo" width="200"/> |
 | 2890 | Delynn | Helow | Senin, 29 Des 2025 00:12:31 | <img src="https://cdn.idntimes.com/content-images/post/20251229/266ef38a-da00-4d13-ba77-f94da68599ee-251229001223.jpg" alt="Helow" width="200"/> |
+| 2891 | Daisy | Ayo ngobrol bareng! | Senin, 29 Des 2025 00:40:23 | <img src="https://cdn.idntimes.com/content-images/post/20251229/b11b0692-d0b8-464c-849a-9e81439a048c-251229004016.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2892 | Danella | Ayo ngobrol bareng! | Senin, 29 Des 2025 00:46:15 | <img src="https://cdn.idntimes.com/content-images/post/20251229/33139b05-1c43-4b48-bba3-ec960b18b36e-251229004607.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
