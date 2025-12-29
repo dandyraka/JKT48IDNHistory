@@ -2899,3 +2899,4 @@
 | 2895 | Eli | Ayo ngobrol bareng! | Senin, 29 Des 2025 01:26:57 | <img src="https://cdn.idntimes.com/content-images/post/20251229/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251229012613.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2896 | Lia | Ayo ngobrol bareng! | Senin, 29 Des 2025 14:46:11 | <img src="https://cdn.idntimes.com/content-images/post/20251229/15dfee86-a928-4a15-8c90-6aa21097d0ff-251229144605.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2897 | Aralie | Ayo ngobrol bareng! | Senin, 29 Des 2025 14:55:42 | <img src="https://cdn.idntimes.com/content-images/post/20251229/f001ba66-3c51-4849-9afa-13cf74eb1571-251229145533.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2898 | Michie | grwm | Senin, 29 Des 2025 15:03:41 | <img src="https://cdn.idntimes.com/content-images/post/20251229/6970e68a-b488-497a-b793-3a735db5e997-251229150320.jpg" alt="grwm" width="200"/> |
