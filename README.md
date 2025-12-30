@@ -2919,3 +2919,4 @@
 | 2915 | Michie | Ayo ngobrol bareng! | Selasa, 30 Des 2025 00:09:56 | <img src="https://cdn.idntimes.com/content-images/post/20251230/6970e68a-b488-497a-b793-3a735db5e997-251230000936.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2916 | Virgi | Ayo ngobrol bareng! | Selasa, 30 Des 2025 09:44:18 | <img src="https://cdn.idntimes.com/content-images/post/20251230/147e83c8-f3ac-4680-9141-2f518b4b7810-251230094406.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2917 | Intan | Ayo ngobrol bareng! | Selasa, 30 Des 2025 09:47:29 | <img src="https://cdn.idntimes.com/content-images/post/20251230/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-251230094712.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2918 | Lia | Ayo ngobrol bareng! | Selasa, 30 Des 2025 14:13:26 | <img src="https://cdn.idntimes.com/content-images/post/20251230/15dfee86-a928-4a15-8c90-6aa21097d0ff-251230141317.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
