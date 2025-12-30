@@ -2930,3 +2930,5 @@
 | 2926 | Lyn | Ayo ngobrol bareng! | Selasa, 30 Des 2025 20:28:06 | <img src="https://cdn.idntimes.com/content-images/post/20251230/73aa1a4d-7482-41be-b28e-25e0b6c7b967-251230202754.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2927 | Danella | Heu | Selasa, 30 Des 2025 20:43:26 | <img src="https://cdn.idntimes.com/content-images/post/20251230/33139b05-1c43-4b48-bba3-ec960b18b36e-251230204318.jpg" alt="Heu" width="200"/> |
 | 2928 | Daisy | Ayo ngobrol bareng! | Selasa, 30 Des 2025 20:43:52 | <img src="https://cdn.idntimes.com/content-images/post/20251230/b11b0692-d0b8-464c-849a-9e81439a048c-251230204344.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2929 | Gracie | Ayo ngobrol bareng! | Selasa, 30 Des 2025 20:59:46 | <img src="https://cdn.idntimes.com/content-images/post/20251230/cae4d972-5f14-4512-9706-37c1802a0541-251230205937.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2930 | Eli | Ayo ngobrol bareng! | Selasa, 30 Des 2025 21:10:02 | <img src="https://cdn.idntimes.com/content-images/post/20251230/1f119aa1-3482-44b6-9f68-2ad41c8d6743-251230210950.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
