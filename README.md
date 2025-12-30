@@ -2940,3 +2940,4 @@
 | 2936 | Oniel | Ayo ngobrol bareng! | Selasa, 30 Des 2025 23:03:19 | <img src="https://cdn.idntimes.com/content-images/post/20251230/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-251230230310.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2937 | Michie | Ayo ngobrol bareng! | Selasa, 30 Des 2025 23:25:30 | <img src="https://cdn.idntimes.com/content-images/post/20251230/6970e68a-b488-497a-b793-3a735db5e997-251230232508.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2938 | Trisha | hai | Selasa, 30 Des 2025 23:35:19 | <img src="https://cdn.idntimes.com/content-images/post/20251230/92d66abb-0171-4a2b-a30d-37ad58359248-251230233509.jpg" alt="hai" width="200"/> |
+| 2939 | Raisha | Ayo ngobrol bareng! | Selasa, 30 Des 2025 23:50:16 | <img src="https://cdn.idntimes.com/content-images/post/20251230/728d224e-6ccb-43d2-a029-a0147dc7fdee-251230235004.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
