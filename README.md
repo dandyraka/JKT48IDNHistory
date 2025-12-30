@@ -2922,3 +2922,4 @@
 | 2918 | Lia | Ayo ngobrol bareng! | Selasa, 30 Des 2025 14:13:26 | <img src="https://cdn.idntimes.com/content-images/post/20251230/15dfee86-a928-4a15-8c90-6aa21097d0ff-251230141317.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2919 | Delynn | Haii | Selasa, 30 Des 2025 15:54:32 | <img src="https://cdn.idntimes.com/content-images/post/20251230/266ef38a-da00-4d13-ba77-f94da68599ee-251230155423.jpg" alt="Haii" width="200"/> |
 | 2920 | Elin | Haiii | Selasa, 30 Des 2025 16:39:55 | <img src="https://cdn.idntimes.com/content-images/post/20251230/e0ececb4-71d8-4f32-a221-ef21634a746a-251230163943.jpg" alt="Haiii" width="200"/> |
+| 2921 | Elin | Part 2 live hehehe | Selasa, 30 Des 2025 18:00:53 | <img src="https://cdn.idntimes.com/content-images/post/20251230/e0ececb4-71d8-4f32-a221-ef21634a746a-251230180038.jpg" alt="Part 2 live hehehe" width="200"/> |
