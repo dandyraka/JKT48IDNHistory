@@ -2959,3 +2959,5 @@
 | 2955 | Gracie | Ayo ngobrol bareng! | Rabu, 31 Des 2025 22:11:17 | <img src="https://cdn.idntimes.com/content-images/post/20251231/cae4d972-5f14-4512-9706-37c1802a0541-251231221107.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2956 | Aralie | Ayo ngobrol bareng! | Rabu, 31 Des 2025 22:11:55 | <img src="https://cdn.idntimes.com/content-images/post/20251231/f001ba66-3c51-4849-9afa-13cf74eb1571-251231221142.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2957 | Jemima | Ayo ngobrol bareng! | Rabu, 31 Des 2025 22:17:57 | <img src="https://cdn.idntimes.com/content-images/post/20251231/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251231221738.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2958 | Mikaela | Ayo ngobrol bareng! | Rabu, 31 Des 2025 22:38:15 | <img src="https://cdn.idntimes.com/content-images/post/20251231/a557ba58-12d8-4260-bd50-9e5252ac71ef-251231223801.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2959 | Giaa | terakhir sebelum 2026 | Rabu, 31 Des 2025 22:39:32 | <img src="https://cdn.idntimes.com/content-images/post/20251231/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251231223925.jpg" alt="terakhir sebelum 2026" width="200"/> |
