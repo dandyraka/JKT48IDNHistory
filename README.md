@@ -2961,3 +2961,5 @@
 | 2957 | Jemima | Ayo ngobrol bareng! | Rabu, 31 Des 2025 22:17:57 | <img src="https://cdn.idntimes.com/content-images/post/20251231/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-251231221738.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2958 | Mikaela | Ayo ngobrol bareng! | Rabu, 31 Des 2025 22:38:15 | <img src="https://cdn.idntimes.com/content-images/post/20251231/a557ba58-12d8-4260-bd50-9e5252ac71ef-251231223801.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2959 | Giaa | terakhir sebelum 2026 | Rabu, 31 Des 2025 22:39:32 | <img src="https://cdn.idntimes.com/content-images/post/20251231/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-251231223925.jpg" alt="terakhir sebelum 2026" width="200"/> |
+| 2960 | Ribka | Ayo ngobrol bareng! | Rabu, 31 Des 2025 23:15:39 | <img src="https://cdn.idntimes.com/content-images/post/20251231/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251231231527.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2961 | Fritzy | 2026 bgt nih?? | Rabu, 31 Des 2025 23:27:36 | <img src="https://cdn.idntimes.com/content-images/post/20251231/717109e0-a064-4f15-8187-5c4d46e56a58-251231232722.jpg" alt="2026 bgt nih??" width="200"/> |
