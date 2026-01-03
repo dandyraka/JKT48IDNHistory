@@ -2964,3 +2964,4 @@
 | 2960 | Ribka | Ayo ngobrol bareng! | Rabu, 31 Des 2025 23:15:39 | <img src="https://cdn.idntimes.com/content-images/post/20251231/3cbe26d9-ff3f-4985-bbe1-c4403908124a-251231231527.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2961 | Fritzy | 2026 bgt nih?? | Rabu, 31 Des 2025 23:27:36 | <img src="https://cdn.idntimes.com/content-images/post/20251231/717109e0-a064-4f15-8187-5c4d46e56a58-251231232722.jpg" alt="2026 bgt nih??" width="200"/> |
 | 2962 | Virgi | Ayo ngobrol bareng! | Jumat, 2 Jan 2026 16:37:27 | <img src="https://cdn.idntimes.com/content-images/post/20260102/147e83c8-f3ac-4680-9141-2f518b4b7810-260102163714.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2963 | Ekin | Ayo ngobrol bareng! | Sabtu, 3 Jan 2026 20:01:36 | <img src="https://cdn.idntimes.com/content-images/post/20260103/85f369d7-6525-41c0-94b8-9a56686713eb-260103200125.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
