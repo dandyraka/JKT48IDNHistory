@@ -2972,3 +2972,4 @@
 | 2968 | Nala | Ayo ngobrol bareng! | Selasa, 6 Jan 2026 14:27:42 | <img src="https://cdn.idntimes.com/content-images/post/20260106/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260106142730.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2969 | Intan | Ayo ngobrol bareng! | Selasa, 6 Jan 2026 15:18:58 | <img src="https://cdn.idntimes.com/content-images/post/20260106/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260106151844.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2970 | Rilly | Ayo ngobrol bareng! | Selasa, 6 Jan 2026 20:07:47 | <img src="https://cdn.idntimes.com/content-images/post/20260106/e9170998-f026-4186-bbc5-a17a3b5b2af1-260106200738.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2971 | Jemima | Ayo ngobrol bareng! | Selasa, 6 Jan 2026 21:16:06 | <img src="https://cdn.idntimes.com/content-images/post/20260106/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260106211551.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
