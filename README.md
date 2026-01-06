@@ -2969,3 +2969,4 @@
 | 2965 | Rilly | Ayo ngobrol bareng! | Sabtu, 3 Jan 2026 21:54:54 | <img src="https://cdn.idntimes.com/content-images/post/20260103/e9170998-f026-4186-bbc5-a17a3b5b2af1-260103215445.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2966 | Lily | Hii | Minggu, 4 Jan 2026 21:25:49 | <img src="https://cdn.idntimes.com/content-images/post/20260104/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260104212542.jpg" alt="Hii" width="200"/> |
 | 2967 | Anindya | halow | Minggu, 4 Jan 2026 22:18:56 | <img src="https://cdn.idntimes.com/content-images/post/20260104/a5c72141-65a3-47be-86ef-1dc1feaab10d-260104221844.jpg" alt="halow" width="200"/> |
+| 2968 | Nala | Ayo ngobrol bareng! | Selasa, 6 Jan 2026 14:27:42 | <img src="https://cdn.idntimes.com/content-images/post/20260106/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260106142730.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
