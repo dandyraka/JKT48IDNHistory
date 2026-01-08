@@ -2977,3 +2977,5 @@
 | 2973 | Giaa | malamm  | Selasa, 6 Jan 2026 22:03:29 | <img src="https://cdn.idntimes.com/content-images/post/20260106/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260106220320.jpg" alt="malamm " width="200"/> |
 | 2974 | Auwia | Hallow hehe | Rabu, 7 Jan 2026 13:32:29 | <img src="https://cdn.idntimes.com/content-images/post/20260107/f9500eb4-9d6d-491d-a857-40ca6f862d61-260107133213.jpg" alt="Hallow hehe" width="200"/> |
 | 2975 | Auwia | Karaoke night seshh | Rabu, 7 Jan 2026 18:19:16 | <img src="https://cdn.idntimes.com/content-images/post/20260107/f9500eb4-9d6d-491d-a857-40ca6f862d61-260107181901.jpg" alt="Karaoke night seshh" width="200"/> |
+| 2976 | Auwia | Belajar gitar yu | Kamis, 8 Jan 2026 16:49:00 | <img src="https://cdn.idntimes.com/content-images/post/20260108/f9500eb4-9d6d-491d-a857-40ca6f862d61-260108164845.jpg" alt="Belajar gitar yu" width="200"/> |
+| 2977 | Nala | Ayo ngobrol bareng! | Kamis, 8 Jan 2026 16:50:57 | <img src="https://cdn.idntimes.com/content-images/post/20260108/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260108165050.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
