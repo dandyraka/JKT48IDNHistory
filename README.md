@@ -2979,3 +2979,4 @@
 | 2975 | Auwia | Karaoke night seshh | Rabu, 7 Jan 2026 18:19:16 | <img src="https://cdn.idntimes.com/content-images/post/20260107/f9500eb4-9d6d-491d-a857-40ca6f862d61-260107181901.jpg" alt="Karaoke night seshh" width="200"/> |
 | 2976 | Auwia | Belajar gitar yu | Kamis, 8 Jan 2026 16:49:00 | <img src="https://cdn.idntimes.com/content-images/post/20260108/f9500eb4-9d6d-491d-a857-40ca6f862d61-260108164845.jpg" alt="Belajar gitar yu" width="200"/> |
 | 2977 | Nala | Ayo ngobrol bareng! | Kamis, 8 Jan 2026 16:50:57 | <img src="https://cdn.idntimes.com/content-images/post/20260108/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260108165050.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2978 | Mikaela | Ayo ngobrol bareng! | Kamis, 8 Jan 2026 18:38:22 | <img src="https://cdn.idntimes.com/content-images/post/20260108/a557ba58-12d8-4260-bd50-9e5252ac71ef-260108183808.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
