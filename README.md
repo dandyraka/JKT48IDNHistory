@@ -2989,3 +2989,4 @@
 | 2985 | Mikaela | Ayo ngobrol bareng! | Jumat, 9 Jan 2026 21:18:22 | <img src="https://cdn.idntimes.com/content-images/post/20260109/a557ba58-12d8-4260-bd50-9e5252ac71ef-260109211809.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2986 | Maira | Ayo ngobrol bareng! | Sabtu, 10 Jan 2026 08:59:23 | <img src="https://cdn.idntimes.com/content-images/post/20260110/7599c984-c466-4962-8c5b-73c1d33d59d9-260110085908.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2987 | Cynthia | Ayo ngobrol bareng! | Minggu, 11 Jan 2026 00:06:15 | <img src="https://cdn.idntimes.com/content-images/post/20260111/4f795073-38c9-4df7-9388-74b83de69801-260111000601.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2988 | Elin | Hai | Minggu, 11 Jan 2026 00:30:21 | <img src="https://cdn.idntimes.com/content-images/post/20260111/e0ececb4-71d8-4f32-a221-ef21634a746a-260111003006.jpg" alt="Hai" width="200"/> |
