@@ -2994,3 +2994,4 @@
 | 2990 | Ekin | Ayo ngobrol bareng! | Minggu, 11 Jan 2026 21:01:54 | <img src="https://cdn.idntimes.com/content-images/post/20260111/85f369d7-6525-41c0-94b8-9a56686713eb-260111210142.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2991 | Delynn | Join kuy | Minggu, 11 Jan 2026 21:22:12 | <img src="https://cdn.idntimes.com/content-images/post/20260111/266ef38a-da00-4d13-ba77-f94da68599ee-260111212151.jpg" alt="Join kuy" width="200"/> |
 | 2992 | Cynthia | Ayo ngobrol bareng! | Minggu, 11 Jan 2026 21:30:16 | <img src="https://cdn.idntimes.com/content-images/post/20260111/4f795073-38c9-4df7-9388-74b83de69801-260111213002.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 2993 | Eli | Ayo ngobrol bareng! | Minggu, 11 Jan 2026 23:32:14 | <img src="https://cdn.idntimes.com/content-images/post/20260111/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260111233159.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
