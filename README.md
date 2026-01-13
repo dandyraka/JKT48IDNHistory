@@ -3009,3 +3009,4 @@
 | 3005 | Mikaela | Ayo ngobrol bareng! | Selasa, 13 Jan 2026 20:46:50 | <img src="https://cdn.idntimes.com/content-images/post/20260113/a557ba58-12d8-4260-bd50-9e5252ac71ef-260113204637.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3006 | Daisy | Ayo ngobrol bareng! | Selasa, 13 Jan 2026 20:59:39 | <img src="https://cdn.idntimes.com/content-images/post/20260113/b11b0692-d0b8-464c-849a-9e81439a048c-260113205931.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3007 | Rilly | Ayo ngobrol bareng! | Selasa, 13 Jan 2026 21:18:53 | <img src="https://cdn.idntimes.com/content-images/post/20260113/e9170998-f026-4186-bbc5-a17a3b5b2af1-260113211844.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3008 | Fritzy | unboxing gifttt | Selasa, 13 Jan 2026 21:33:24 | <img src="https://cdn.idntimes.com/content-images/post/20260113/717109e0-a064-4f15-8187-5c4d46e56a58-260113213307.jpg" alt="unboxing gifttt" width="200"/> |
