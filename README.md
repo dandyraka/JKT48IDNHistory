@@ -3012,3 +3012,4 @@
 | 3008 | Fritzy | unboxing gifttt | Selasa, 13 Jan 2026 21:33:24 | <img src="https://cdn.idntimes.com/content-images/post/20260113/717109e0-a064-4f15-8187-5c4d46e56a58-260113213307.jpg" alt="unboxing gifttt" width="200"/> |
 | 3009 | Intan | bub | Selasa, 13 Jan 2026 22:11:07 | <img src="https://cdn.idntimes.com/content-images/post/20260113/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260113221049.jpg" alt="bub" width="200"/> |
 | 3010 | Nayla | Oyasuji  | Selasa, 13 Jan 2026 22:24:48 | <img src="https://cdn.idntimes.com/content-images/post/20260113/e243be19-74b7-435b-8e19-13fc669e0224-260113222440.jpg" alt="Oyasuji " width="200"/> |
+| 3011 | Lily | Hai | Selasa, 13 Jan 2026 22:49:35 | <img src="https://cdn.idntimes.com/content-images/post/20260113/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260113224927.jpg" alt="Hai" width="200"/> |
