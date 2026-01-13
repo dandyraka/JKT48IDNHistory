@@ -3001,3 +3001,4 @@
 | 2997 | Raisha | Ayo ngobrol bareng! | Senin, 12 Jan 2026 21:05:51 | <img src="https://cdn.idntimes.com/content-images/post/20260112/728d224e-6ccb-43d2-a029-a0147dc7fdee-260112210535.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 2998 | Giaa | bleee | Senin, 12 Jan 2026 21:57:54 | <img src="https://cdn.idntimes.com/content-images/post/20260112/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260112215747.jpg" alt="bleee" width="200"/> |
 | 2999 | Nayla | Hai | Senin, 12 Jan 2026 22:14:32 | <img src="https://cdn.idntimes.com/content-images/post/20260112/e243be19-74b7-435b-8e19-13fc669e0224-260112221423.jpg" alt="Hai" width="200"/> |
+| 3000 | Intan | Ayo ngobrol bareng! | Selasa, 13 Jan 2026 09:31:48 | <img src="https://cdn.idntimes.com/content-images/post/20260113/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260113093132.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
