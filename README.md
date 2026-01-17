@@ -3029,3 +3029,4 @@
 | 3025 | Auwia | Prepppp | Sabtu, 17 Jan 2026 13:01:11 | <img src="https://cdn.idntimes.com/content-images/post/20260117/f9500eb4-9d6d-491d-a857-40ca6f862d61-260117130056.jpg" alt="Prepppp" width="200"/> |
 | 3026 | Alya | Ayo ngobrol bareng! | Sabtu, 17 Jan 2026 17:06:27 | <img src="https://cdn.idntimes.com/content-images/post/20260117/74e76417-0353-487f-b9b7-7520c0398e87-260117170620.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3027 | Nayla | Ayo ngobrol bareng! | Sabtu, 17 Jan 2026 17:15:40 | <img src="https://cdn.idntimes.com/content-images/post/20260117/e243be19-74b7-435b-8e19-13fc669e0224-260117171531.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3028 | Alya | Ayo ngobrol bareng! | Sabtu, 17 Jan 2026 17:27:47 | <img src="https://cdn.idntimes.com/content-images/post/20260117/74e76417-0353-487f-b9b7-7520c0398e87-260117172740.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
