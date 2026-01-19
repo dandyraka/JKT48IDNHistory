@@ -3035,3 +3035,4 @@
 | 3031 | Ribka | Ayo ngobrol bareng! | Minggu, 18 Jan 2026 19:59:32 | <img src="https://cdn.idntimes.com/content-images/post/20260118/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260118195921.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3032 | Ekin | Ayo ngobrol bareng! | Minggu, 18 Jan 2026 20:32:51 | <img src="https://cdn.idntimes.com/content-images/post/20260118/85f369d7-6525-41c0-94b8-9a56686713eb-260118203240.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3033 | Cynthia | Ayo ngobrol bareng! | Minggu, 18 Jan 2026 23:55:35 | <img src="https://cdn.idntimes.com/content-images/post/20260118/4f795073-38c9-4df7-9388-74b83de69801-260118235518.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3034 | Nachia | Ayo ngobrol bareng! | Senin, 19 Jan 2026 16:05:14 | <img src="https://cdn.idntimes.com/content-images/post/20260119/21a420b0-dd01-4daa-b185-b9020f8bf69d-260119160504.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
