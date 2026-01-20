@@ -3060,3 +3060,4 @@
 | 3056 | Lyn | Ayo ngobrol bareng! | Selasa, 20 Jan 2026 23:07:34 | <img src="https://cdn.idntimes.com/content-images/post/20260120/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260120230726.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3057 | Lana | Ayo ngobrol bareng! | Selasa, 20 Jan 2026 23:22:11 | <img src="https://cdn.idntimes.com/content-images/post/20260120/e2af7271-2598-4ee8-8760-68043e671e6d-260120232205.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3058 | Lana | Ayo ngobrol bareng! | Rabu, 21 Jan 2026 00:06:46 | <img src="https://cdn.idntimes.com/content-images/post/20260121/e2af7271-2598-4ee8-8760-68043e671e6d-260121000639.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3059 | Erine | es pisang ijo  | Rabu, 21 Jan 2026 05:22:26 | <img src="https://cdn.idntimes.com/content-images/post/20260121/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260121052216.jpg" alt="es pisang ijo " width="200"/> |
