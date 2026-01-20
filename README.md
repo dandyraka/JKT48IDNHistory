@@ -3045,3 +3045,4 @@
 | 3041 | Oline | yoyoyoy | Senin, 19 Jan 2026 21:17:18 | <img src="https://cdn.idntimes.com/content-images/post/20260119/a2b5d818-475d-44ce-af52-e99526482aaf-260119211708.jpg" alt="yoyoyoy" width="200"/> |
 | 3042 | Ekin | Ayo ngobrol bareng! | Senin, 19 Jan 2026 21:29:36 | <img src="https://cdn.idntimes.com/content-images/post/20260119/85f369d7-6525-41c0-94b8-9a56686713eb-260119212927.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3043 | Jessi | haiiii | Selasa, 20 Jan 2026 19:13:33 | <img src="https://cdn.idntimes.com/content-images/post/20260120/a9579a29-9203-40c0-9326-9837b8eae6e8-260120191322.jpg" alt="haiiii" width="200"/> |
+| 3044 | Auwia | Chillin | Selasa, 20 Jan 2026 20:40:59 | <img src="https://cdn.idntimes.com/content-images/post/20260120/f9500eb4-9d6d-491d-a857-40ca6f862d61-260120204044.jpg" alt="Chillin" width="200"/> |
