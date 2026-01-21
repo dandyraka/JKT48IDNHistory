@@ -3072,3 +3072,4 @@
 | 3068 | Muthe | Hi | Rabu, 21 Jan 2026 20:56:07 | <img src="https://cdn.idntimes.com/content-images/post/20260121/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260121205558.jpg" alt="Hi" width="200"/> |
 | 3069 | Fiony | Haii | Rabu, 21 Jan 2026 20:57:42 | <img src="https://cdn.idntimes.com/content-images/post/20260121/85482779-8b59-4995-a600-f8a4230c29d8-260121205734.jpg" alt="Haii" width="200"/> |
 | 3070 | Marsha | Halo | Rabu, 21 Jan 2026 21:04:11 | <img src="https://cdn.idntimes.com/content-images/post/20260121/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260121210359.jpg" alt="Halo" width="200"/> |
+| 3071 | Cynthia | Ayo ngobrol bareng! | Rabu, 21 Jan 2026 21:46:11 | <img src="https://cdn.idntimes.com/content-images/post/20260121/4f795073-38c9-4df7-9388-74b83de69801-260121214554.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
