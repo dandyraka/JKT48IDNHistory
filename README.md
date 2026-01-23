@@ -3091,3 +3091,4 @@
 | 3087 | Greesel | 📻 | Kamis, 22 Jan 2026 23:32:18 | <img src="https://cdn.idntimes.com/content-images/post/20260122/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260122233210.jpg" alt="📻" width="200"/> |
 | 3088 | Greesel | 📻 | Jumat, 23 Jan 2026 00:04:48 | <img src="https://cdn.idntimes.com/content-images/post/20260123/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260123000441.jpg" alt="📻" width="200"/> |
 | 3089 | Cynthia | Ayo ngobrol bareng! | Jumat, 23 Jan 2026 00:17:00 | <img src="https://cdn.idntimes.com/content-images/post/20260123/4f795073-38c9-4df7-9388-74b83de69801-260123001646.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3090 | Auwia | Grwm | Jumat, 23 Jan 2026 13:52:42 | <img src="https://cdn.idntimes.com/content-images/post/20260123/f9500eb4-9d6d-491d-a857-40ca6f862d61-260123135227.jpg" alt="Grwm" width="200"/> |
