@@ -3130,3 +3130,5 @@
 | 3126 | Gita | Gits | Minggu, 25 Jan 2026 23:18:20 | <img src="https://cdn.idntimes.com/content-images/post/20260125/82ffac10-ee56-43d0-ad38-ce432384cfe5-260125231804.jpg" alt="Gits" width="200"/> |
 | 3127 | Lily | Hi | Senin, 26 Jan 2026 14:12:41 | <img src="https://cdn.idntimes.com/content-images/post/20260126/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260126141235.jpg" alt="Hi" width="200"/> |
 | 3128 | Intan | oi | Senin, 26 Jan 2026 14:45:56 | <img src="https://cdn.idntimes.com/content-images/post/20260126/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260126144541.jpg" alt="oi" width="200"/> |
+| 3129 | Mikaela | Ayo ngobrol bareng! | Senin, 26 Jan 2026 17:11:14 | <img src="https://cdn.idntimes.com/content-images/post/20260126/a557ba58-12d8-4260-bd50-9e5252ac71ef-260126171058.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3130 | Ribka | Ayo ngobrol bareng! | Senin, 26 Jan 2026 17:33:38 | <img src="https://cdn.idntimes.com/content-images/post/20260126/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260126173327.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
