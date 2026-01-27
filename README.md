@@ -3146,3 +3146,4 @@
 | 3142 | Giaa | ulanggg | Senin, 26 Jan 2026 21:51:06 | <img src="https://cdn.idntimes.com/content-images/post/20260126/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260126215059.jpg" alt="ulanggg" width="200"/> |
 | 3143 | Mikaela | Ayo ngobrol bareng! | Senin, 26 Jan 2026 22:20:35 | <img src="https://cdn.idntimes.com/content-images/post/20260126/a557ba58-12d8-4260-bd50-9e5252ac71ef-260126222022.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3144 | Kathrina | yoksss | Selasa, 27 Jan 2026 15:35:39 | <img src="https://cdn.idntimes.com/content-images/post/20260127/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260127153528.jpg" alt="yoksss" width="200"/> |
+| 3145 | Eli | Ayo ngobrol bareng! | Selasa, 27 Jan 2026 18:34:59 | <img src="https://cdn.idntimes.com/content-images/post/20260127/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260127183451.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
