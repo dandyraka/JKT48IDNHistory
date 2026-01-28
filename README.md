@@ -3161,3 +3161,4 @@
 | 3157 | Lia | Ayo ngobrol bareng! | Selasa, 27 Jan 2026 23:25:52 | <img src="https://cdn.idntimes.com/content-images/post/20260127/15dfee86-a928-4a15-8c90-6aa21097d0ff-260127232543.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3158 | Cynthia | Ayo ngobrol bareng! | Rabu, 28 Jan 2026 00:17:21 | <img src="https://cdn.idntimes.com/content-images/post/20260128/4f795073-38c9-4df7-9388-74b83de69801-260128001712.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3159 | Cynthia | Ayo ngobrol bareng! | Rabu, 28 Jan 2026 00:51:22 | <img src="https://cdn.idntimes.com/content-images/post/20260128/4f795073-38c9-4df7-9388-74b83de69801-260128005113.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3160 | Gita | Gits | Rabu, 28 Jan 2026 11:40:28 | <img src="https://cdn.idntimes.com/content-images/post/20260128/82ffac10-ee56-43d0-ad38-ce432384cfe5-260128114009.jpg" alt="Gits" width="200"/> |
