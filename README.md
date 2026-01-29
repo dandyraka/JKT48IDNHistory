@@ -3181,3 +3181,4 @@
 | 3177 | Alya | Ayo ngobrol bareng! | Rabu, 28 Jan 2026 22:06:41 | <img src="https://cdn.idntimes.com/content-images/post/20260128/74e76417-0353-487f-b9b7-7520c0398e87-260128220631.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3178 | Freya | Tes | Rabu, 28 Jan 2026 22:36:25 | <img src="https://cdn.idntimes.com/content-images/post/20260128/12addeb8-6ec5-4cea-a3b4-ad86e9bfc8d1-260128223610.jpg" alt="Tes" width="200"/> |
 | 3179 | Nala | Ayo ngobrol bareng! | Rabu, 28 Jan 2026 23:19:12 | <img src="https://cdn.idntimes.com/content-images/post/20260128/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260128231851.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3180 | Gita | Gits | Kamis, 29 Jan 2026 11:48:14 | <img src="https://cdn.idntimes.com/content-images/post/20260129/82ffac10-ee56-43d0-ad38-ce432384cfe5-260129114759.jpg" alt="Gits" width="200"/> |
