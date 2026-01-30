@@ -3197,3 +3197,4 @@
 | 3193 | Gita | Gits | Jumat, 30 Jan 2026 17:54:33 | <img src="https://cdn.idntimes.com/content-images/post/20260130/82ffac10-ee56-43d0-ad38-ce432384cfe5-260130175418.jpg" alt="Gits" width="200"/> |
 | 3194 | Marsha | Haiiui | Jumat, 30 Jan 2026 17:56:10 | <img src="https://cdn.idntimes.com/content-images/post/20260130/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260130175559.jpg" alt="Haiiui" width="200"/> |
 | 3195 | Rilly | Ayo ngobrol bareng! | Jumat, 30 Jan 2026 18:29:46 | <img src="https://cdn.idntimes.com/content-images/post/20260130/e9170998-f026-4186-bbc5-a17a3b5b2af1-260130182938.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3196 | Marsha | Ayo ngobrol bareng! | Jumat, 30 Jan 2026 18:56:08 | <img src="https://cdn.idntimes.com/content-images/post/20260130/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260130185555.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
