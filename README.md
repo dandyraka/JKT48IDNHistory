@@ -3216,3 +3216,4 @@
 | 3212 | Virgi | Ayo ngobrol bareng! | Minggu, 1 Feb 2026 19:32:05 | <img src="https://cdn.idntimes.com/content-images/post/20260201/147e83c8-f3ac-4680-9141-2f518b4b7810-260201193149.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3213 | Rilly | Ayo ngobrol bareng! | Minggu, 1 Feb 2026 19:48:02 | <img src="https://cdn.idntimes.com/content-images/post/20260201/e9170998-f026-4186-bbc5-a17a3b5b2af1-260201194754.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3214 | Jemima | Ayo ngobrol bareng! | Minggu, 1 Feb 2026 19:55:45 | <img src="https://cdn.idntimes.com/content-images/post/20260201/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260201195528.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3215 | Gita | Gits | Minggu, 1 Feb 2026 20:50:08 | <img src="https://cdn.idntimes.com/content-images/post/20260201/82ffac10-ee56-43d0-ad38-ce432384cfe5-260201204954.jpg" alt="Gits" width="200"/> |
