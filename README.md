@@ -3233,3 +3233,4 @@
 | 3229 | Nachia | yey | Minggu, 1 Feb 2026 23:03:14 | <img src="https://cdn.idntimes.com/content-images/post/20260201/21a420b0-dd01-4daa-b185-b9020f8bf69d-260201230306.jpg" alt="yey" width="200"/> |
 | 3230 | Kimmy | haihaihoi | Minggu, 1 Feb 2026 23:03:59 | <img src="https://cdn.idntimes.com/content-images/post/20260201/52c5c190-3611-4def-866f-76c32c0b837e-260201230350.jpg" alt="haihaihoi" width="200"/> |
 | 3231 | Lily | Heiyo | Senin, 2 Feb 2026 11:57:59 | <img src="https://cdn.idntimes.com/content-images/post/20260202/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260202115752.jpg" alt="Heiyo" width="200"/> |
+| 3232 | Lyn | Ayo ngobrol bareng! | Senin, 2 Feb 2026 17:36:58 | <img src="https://cdn.idntimes.com/content-images/post/20260202/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260202173650.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
