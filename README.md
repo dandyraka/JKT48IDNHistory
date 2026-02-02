@@ -3235,3 +3235,5 @@
 | 3231 | Lily | Heiyo | Senin, 2 Feb 2026 11:57:59 | <img src="https://cdn.idntimes.com/content-images/post/20260202/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260202115752.jpg" alt="Heiyo" width="200"/> |
 | 3232 | Lyn | Ayo ngobrol bareng! | Senin, 2 Feb 2026 17:36:58 | <img src="https://cdn.idntimes.com/content-images/post/20260202/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260202173650.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3233 | Virgi | Ayo ngobrol bareng! | Senin, 2 Feb 2026 18:42:41 | <img src="https://cdn.idntimes.com/content-images/post/20260202/147e83c8-f3ac-4680-9141-2f518b4b7810-260202184229.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3234 | Gracie | Ayo ngobrol bareng! | Senin, 2 Feb 2026 20:46:33 | <img src="https://cdn.idntimes.com/content-images/post/20260202/cae4d972-5f14-4512-9706-37c1802a0541-260202204621.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3235 | Ekin | Ayo ngobrol bareng! | Senin, 2 Feb 2026 21:22:13 | <img src="https://cdn.idntimes.com/content-images/post/20260202/85f369d7-6525-41c0-94b8-9a56686713eb-260202212205.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
