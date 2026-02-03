@@ -3248,3 +3248,4 @@
 | 3244 | Giaa | live mam | Selasa, 3 Feb 2026 16:48:51 | <img src="https://cdn.idntimes.com/content-images/post/20260203/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260203164835.jpg" alt="live mam" width="200"/> |
 | 3245 | Jemima | hai  | Selasa, 3 Feb 2026 16:49:00 | <img src="https://cdn.idntimes.com/content-images/post/20260203/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260203164844.jpg" alt="hai " width="200"/> |
 | 3246 | Rilly | Ayo ngobrol bareng! | Selasa, 3 Feb 2026 17:03:06 | <img src="https://cdn.idntimes.com/content-images/post/20260203/e9170998-f026-4186-bbc5-a17a3b5b2af1-260203170258.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3247 | Ekin | Ayo ngobrol bareng! | Selasa, 3 Feb 2026 17:42:15 | <img src="https://cdn.idntimes.com/content-images/post/20260203/85f369d7-6525-41c0-94b8-9a56686713eb-260203174157.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
