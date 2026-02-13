@@ -3334,3 +3334,4 @@
 | 3330 | Lia | Ayo ngobrol bareng! | Jumat, 13 Feb 2026 20:32:28 | <img src="https://cdn.idntimes.com/content-images/post/20260213/15dfee86-a928-4a15-8c90-6aa21097d0ff-260213203219.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3331 | Anindya | Ayo ngobrol bareng! | Jumat, 13 Feb 2026 20:45:53 | <img src="https://cdn.idntimes.com/content-images/post/20260213/a5c72141-65a3-47be-86ef-1dc1feaab10d-260213204544.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3332 | Lily | Hi | Jumat, 13 Feb 2026 20:58:08 | <img src="https://cdn.idntimes.com/content-images/post/20260213/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260213205800.jpg" alt="Hi" width="200"/> |
+| 3333 | Fritzy | Ayo ngobrol bareng! | Jumat, 13 Feb 2026 21:34:19 | <img src="https://cdn.idntimes.com/content-images/post/20260213/717109e0-a064-4f15-8187-5c4d46e56a58-260213213402.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
