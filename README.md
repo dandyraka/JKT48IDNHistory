@@ -3335,3 +3335,5 @@
 | 3331 | Anindya | Ayo ngobrol bareng! | Jumat, 13 Feb 2026 20:45:53 | <img src="https://cdn.idntimes.com/content-images/post/20260213/a5c72141-65a3-47be-86ef-1dc1feaab10d-260213204544.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3332 | Lily | Hi | Jumat, 13 Feb 2026 20:58:08 | <img src="https://cdn.idntimes.com/content-images/post/20260213/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260213205800.jpg" alt="Hi" width="200"/> |
 | 3333 | Fritzy | Ayo ngobrol bareng! | Jumat, 13 Feb 2026 21:34:19 | <img src="https://cdn.idntimes.com/content-images/post/20260213/717109e0-a064-4f15-8187-5c4d46e56a58-260213213402.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3334 | Lana | Temenin makan pwies🙏 | Jumat, 13 Feb 2026 22:54:19 | <img src="https://cdn.idntimes.com/content-images/post/20260213/e2af7271-2598-4ee8-8760-68043e671e6d-260213225411.jpg" alt="Temenin makan pwies🙏" width="200"/> |
+| 3335 | Nala | Ayo ngobrol bareng! | Jumat, 13 Feb 2026 23:17:41 | <img src="https://cdn.idntimes.com/content-images/post/20260213/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260213231733.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
