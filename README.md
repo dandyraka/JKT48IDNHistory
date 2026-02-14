@@ -3340,3 +3340,4 @@
 | 3336 | Amanda | Lipe random di mobil | Jumat, 13 Feb 2026 23:53:32 | <img src="https://cdn.idntimes.com/content-images/post/20260213/e8aa0877-684a-4430-8a3b-d96302e53aab-260213235322.jpg" alt="Lipe random di mobil" width="200"/> |
 | 3337 | Eli | Ayo ngobrol bareng! | Sabtu, 14 Feb 2026 01:46:19 | <img src="https://cdn.idntimes.com/content-images/post/20260214/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260214014611.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3338 | Elin | Hai | Sabtu, 14 Feb 2026 13:44:41 | <img src="https://cdn.idntimes.com/content-images/post/20260214/e0ececb4-71d8-4f32-a221-ef21634a746a-260214134434.jpg" alt="Hai" width="200"/> |
+| 3339 | Ella | Ayo ngobrol bareng! | Sabtu, 14 Feb 2026 20:59:11 | <img src="https://cdn.idntimes.com/content-images/post/20260214/b0d1e6c3-d356-4b00-8d00-846e5297693b-260214205905.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
