@@ -3354,3 +3354,4 @@
 | 3350 | Delynn | hi | Sabtu, 14 Feb 2026 23:06:00 | <img src="https://cdn.idntimes.com/content-images/post/20260214/266ef38a-da00-4d13-ba77-f94da68599ee-260214230552.jpg" alt="hi" width="200"/> |
 | 3351 | Maira | Ayo ngobrol bareng! | Minggu, 15 Feb 2026 12:29:21 | <img src="https://cdn.idntimes.com/content-images/post/20260215/7599c984-c466-4962-8c5b-73c1d33d59d9-260215122905.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3352 | Kathrina | yook | Minggu, 15 Feb 2026 13:33:18 | <img src="https://cdn.idntimes.com/content-images/post/20260215/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260215133300.jpg" alt="yook" width="200"/> |
+| 3353 | Levi | Ayo ngobrol bareng! | Minggu, 15 Feb 2026 15:28:50 | <img src="https://cdn.idntimes.com/content-images/post/20260215/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260215152828.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
