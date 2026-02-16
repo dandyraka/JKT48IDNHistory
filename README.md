@@ -3382,3 +3382,4 @@
 | 3378 | Aralie | Ayo ngobrol bareng! | Senin, 16 Feb 2026 22:47:22 | <img src="https://cdn.idntimes.com/content-images/post/20260216/f001ba66-3c51-4849-9afa-13cf74eb1571-260216224710.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3379 | Danella | Ayo ngobrol bareng! | Senin, 16 Feb 2026 22:53:08 | <img src="https://cdn.idntimes.com/content-images/post/20260216/33139b05-1c43-4b48-bba3-ec960b18b36e-260216225258.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3380 | Eli | Ayo ngobrol bareng! | Senin, 16 Feb 2026 22:57:50 | <img src="https://cdn.idntimes.com/content-images/post/20260216/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260216225743.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3381 | Nala | Ayo ngobrol bareng! | Senin, 16 Feb 2026 23:53:48 | <img src="https://cdn.idntimes.com/content-images/post/20260216/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260216235332.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
