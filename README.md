@@ -3379,3 +3379,6 @@
 | 3375 | Ribka | Ayo ngobrol bareng! | Senin, 16 Feb 2026 19:37:17 | <img src="https://cdn.idntimes.com/content-images/post/20260216/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260216193705.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3376 | Kathrina | greeemell | Senin, 16 Feb 2026 20:12:10 | <img src="https://cdn.idntimes.com/content-images/post/20260216/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260216201151.jpg" alt="greeemell" width="200"/> |
 | 3377 | Nayla | こんばんは！ | Senin, 16 Feb 2026 21:11:59 | <img src="https://cdn.idntimes.com/content-images/post/20260216/e243be19-74b7-435b-8e19-13fc669e0224-260216211151.jpg" alt="こんばんは！" width="200"/> |
+| 3378 | Aralie | Ayo ngobrol bareng! | Senin, 16 Feb 2026 22:47:22 | <img src="https://cdn.idntimes.com/content-images/post/20260216/f001ba66-3c51-4849-9afa-13cf74eb1571-260216224710.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3379 | Danella | Ayo ngobrol bareng! | Senin, 16 Feb 2026 22:53:08 | <img src="https://cdn.idntimes.com/content-images/post/20260216/33139b05-1c43-4b48-bba3-ec960b18b36e-260216225258.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3380 | Eli | Ayo ngobrol bareng! | Senin, 16 Feb 2026 22:57:50 | <img src="https://cdn.idntimes.com/content-images/post/20260216/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260216225743.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
