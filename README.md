@@ -3378,3 +3378,4 @@
 | 3374 | Greesel | Ayo ngobrol bareng! | Senin, 16 Feb 2026 19:36:42 | <img src="https://cdn.idntimes.com/content-images/post/20260216/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260216193635.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3375 | Ribka | Ayo ngobrol bareng! | Senin, 16 Feb 2026 19:37:17 | <img src="https://cdn.idntimes.com/content-images/post/20260216/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260216193705.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3376 | Kathrina | greeemell | Senin, 16 Feb 2026 20:12:10 | <img src="https://cdn.idntimes.com/content-images/post/20260216/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260216201151.jpg" alt="greeemell" width="200"/> |
+| 3377 | Nayla | こんばんは！ | Senin, 16 Feb 2026 21:11:59 | <img src="https://cdn.idntimes.com/content-images/post/20260216/e243be19-74b7-435b-8e19-13fc669e0224-260216211151.jpg" alt="こんばんは！" width="200"/> |
