@@ -3479,3 +3479,4 @@
 | 3475 | Lana | Haikk | Sabtu, 21 Feb 2026 03:33:29 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e2af7271-2598-4ee8-8760-68043e671e6d-260221033319.jpg" alt="Haikk" width="200"/> |
 | 3476 | Amanda | #TTS 3 | Sabtu, 21 Feb 2026 03:35:42 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e8aa0877-684a-4430-8a3b-d96302e53aab-260221033530.jpg" alt="#TTS 3" width="200"/> |
 | 3477 | Lily | SawithLy | Sabtu, 21 Feb 2026 03:41:44 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260221034135.jpg" alt="SawithLy" width="200"/> |
+| 3478 | Maira | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 03:51:59 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7599c984-c466-4962-8c5b-73c1d33d59d9-260221035148.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
