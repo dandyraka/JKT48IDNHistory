@@ -3482,3 +3482,4 @@
 | 3478 | Maira | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 03:51:59 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7599c984-c466-4962-8c5b-73c1d33d59d9-260221035148.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3479 | Aralie | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 12:36:26 | <img src="https://cdn.idntimes.com/content-images/post/20260221/f001ba66-3c51-4849-9afa-13cf74eb1571-260221123614.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3480 | Nayla | スラマットシアング | Sabtu, 21 Feb 2026 12:36:28 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e243be19-74b7-435b-8e19-13fc669e0224-260221123610.jpg" alt="スラマットシアング" width="200"/> |
+| 3481 | Chelsea | GRWM | Sabtu, 21 Feb 2026 15:38:08 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260221153801.jpg" alt="GRWM" width="200"/> |
