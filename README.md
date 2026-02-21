@@ -3495,3 +3495,4 @@
 | 3491 | Virgi | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 20:12:45 | <img src="https://cdn.idntimes.com/content-images/post/20260221/147e83c8-f3ac-4680-9141-2f518b4b7810-260221201231.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3492 | Mikaela | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 20:34:18 | <img src="https://cdn.idntimes.com/content-images/post/20260221/a557ba58-12d8-4260-bd50-9e5252ac71ef-260221203403.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3493 | Gita | #AndaiKuBukanIdolaJKT48 | Sabtu, 21 Feb 2026 21:31:27 | <img src="https://cdn.idntimes.com/content-images/post/20260221/82ffac10-ee56-43d0-ad38-ce432384cfe5-260221213115.jpg" alt="#AndaiKuBukanIdolaJKT48" width="200"/> |
+| 3494 | Gracie | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 22:50:11 | <img src="https://cdn.idntimes.com/content-images/post/20260221/cae4d972-5f14-4512-9706-37c1802a0541-260221225002.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
