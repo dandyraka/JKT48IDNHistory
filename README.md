@@ -3480,3 +3480,5 @@
 | 3476 | Amanda | #TTS 3 | Sabtu, 21 Feb 2026 03:35:42 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e8aa0877-684a-4430-8a3b-d96302e53aab-260221033530.jpg" alt="#TTS 3" width="200"/> |
 | 3477 | Lily | SawithLy | Sabtu, 21 Feb 2026 03:41:44 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260221034135.jpg" alt="SawithLy" width="200"/> |
 | 3478 | Maira | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 03:51:59 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7599c984-c466-4962-8c5b-73c1d33d59d9-260221035148.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3479 | Aralie | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 12:36:26 | <img src="https://cdn.idntimes.com/content-images/post/20260221/f001ba66-3c51-4849-9afa-13cf74eb1571-260221123614.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3480 | Nayla | スラマットシアング | Sabtu, 21 Feb 2026 12:36:28 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e243be19-74b7-435b-8e19-13fc669e0224-260221123610.jpg" alt="スラマットシアング" width="200"/> |
