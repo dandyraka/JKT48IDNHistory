@@ -3484,3 +3484,4 @@
 | 3480 | Nayla | スラマットシアング | Sabtu, 21 Feb 2026 12:36:28 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e243be19-74b7-435b-8e19-13fc669e0224-260221123610.jpg" alt="スラマットシアング" width="200"/> |
 | 3481 | Chelsea | GRWM | Sabtu, 21 Feb 2026 15:38:08 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260221153801.jpg" alt="GRWM" width="200"/> |
 | 3482 | Elin | Live part 1 | Sabtu, 21 Feb 2026 17:20:25 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e0ececb4-71d8-4f32-a221-ef21634a746a-260221172018.jpg" alt="Live part 1" width="200"/> |
+| 3483 | Auwia | #BukAuw | Sabtu, 21 Feb 2026 18:23:22 | <img src="https://cdn.idntimes.com/content-images/post/20260221/f9500eb4-9d6d-491d-a857-40ca6f862d61-260221182306.jpg" alt="#BukAuw" width="200"/> |
