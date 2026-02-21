@@ -3485,3 +3485,6 @@
 | 3481 | Chelsea | GRWM | Sabtu, 21 Feb 2026 15:38:08 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260221153801.jpg" alt="GRWM" width="200"/> |
 | 3482 | Elin | Live part 1 | Sabtu, 21 Feb 2026 17:20:25 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e0ececb4-71d8-4f32-a221-ef21634a746a-260221172018.jpg" alt="Live part 1" width="200"/> |
 | 3483 | Auwia | #BukAuw | Sabtu, 21 Feb 2026 18:23:22 | <img src="https://cdn.idntimes.com/content-images/post/20260221/f9500eb4-9d6d-491d-a857-40ca6f862d61-260221182306.jpg" alt="#BukAuw" width="200"/> |
+| 3484 | Elin | Part 2 | Sabtu, 21 Feb 2026 19:31:22 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e0ececb4-71d8-4f32-a221-ef21634a746a-260221193115.jpg" alt="Part 2" width="200"/> |
+| 3485 | Marsha | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 19:48:36 | <img src="https://cdn.idntimes.com/content-images/post/20260221/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260221194823.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3486 | Chelsea | LIVEEE | Sabtu, 21 Feb 2026 19:49:17 | <img src="https://cdn.idntimes.com/content-images/post/20260221/7e9a83b8-4fd8-42ad-b4b6-54c00fbbe28d-260221194908.jpg" alt="LIVEEE" width="200"/> |
