@@ -3497,3 +3497,5 @@
 | 3493 | Gita | #AndaiKuBukanIdolaJKT48 | Sabtu, 21 Feb 2026 21:31:27 | <img src="https://cdn.idntimes.com/content-images/post/20260221/82ffac10-ee56-43d0-ad38-ce432384cfe5-260221213115.jpg" alt="#AndaiKuBukanIdolaJKT48" width="200"/> |
 | 3494 | Gracie | Ayo ngobrol bareng! | Sabtu, 21 Feb 2026 22:50:11 | <img src="https://cdn.idntimes.com/content-images/post/20260221/cae4d972-5f14-4512-9706-37c1802a0541-260221225002.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3495 | Erine | Ayo ngobrol bareng! | Minggu, 22 Feb 2026 01:07:37 | <img src="https://cdn.idntimes.com/content-images/post/20260222/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260222010729.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3496 | Eli | Ayo ngobrol bareng! | Minggu, 22 Feb 2026 01:57:19 | <img src="https://cdn.idntimes.com/content-images/post/20260222/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260222015702.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3497 | Daisy | Ayo ngobrol bareng! | Minggu, 22 Feb 2026 02:03:04 | <img src="https://cdn.idntimes.com/content-images/post/20260222/b11b0692-d0b8-464c-849a-9e81439a048c-260222020249.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
