@@ -3615,3 +3615,4 @@
 | 3611 | Anindya | #SABARIN DAAAY TEEENNN | Sabtu, 28 Feb 2026 03:30:50 | <img src="https://cdn.idntimes.com/content-images/post/20260228/a5c72141-65a3-47be-86ef-1dc1feaab10d-260228033032.jpg" alt="#SABARIN DAAAY TEEENNN" width="200"/> |
 | 3612 | Fritzy | #ZYAHURRR | Sabtu, 28 Feb 2026 03:34:04 | <img src="https://cdn.idntimes.com/content-images/post/20260228/717109e0-a064-4f15-8187-5c4d46e56a58-260228033343.jpg" alt="#ZYAHURRR" width="200"/> |
 | 3613 | Cynthia | Ayo ngobrol bareng! | Sabtu, 28 Feb 2026 03:34:25 | <img src="https://cdn.idntimes.com/content-images/post/20260228/4f795073-38c9-4df7-9388-74b83de69801-260228033414.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3614 | Gita | Gits | Sabtu, 28 Feb 2026 16:45:26 | <img src="https://cdn.idntimes.com/content-images/post/20260228/82ffac10-ee56-43d0-ad38-ce432384cfe5-260228164514.jpg" alt="Gits" width="200"/> |
