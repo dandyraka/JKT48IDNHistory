@@ -3681,3 +3681,4 @@
 | 3677 | Virgi | Ayo ngobrol bareng! | Kamis, 5 Mar 2026 20:29:44 | <img src="https://cdn.idntimes.com/content-images/post/20260305/147e83c8-f3ac-4680-9141-2f518b4b7810-260305202926.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3678 | Ekin | Ayo ngobrol bareng! | Kamis, 5 Mar 2026 20:29:53 | <img src="https://cdn.idntimes.com/content-images/post/20260305/85f369d7-6525-41c0-94b8-9a56686713eb-260305202940.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3679 | Jemima | Ayo ngobrol bareng! | Kamis, 5 Mar 2026 20:30:23 | <img src="https://cdn.idntimes.com/content-images/post/20260305/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260305202957.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 3680 | Amanda | LAIP | Kamis, 5 Mar 2026 21:10:39 | <img src="https://cdn.idntimes.com/content-images/post/20260305/e8aa0877-684a-4430-8a3b-d96302e53aab-260305211030.jpg" alt="LAIP" width="200"/> |
