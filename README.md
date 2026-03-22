@@ -3842,3 +3842,4 @@
 | 3838 | Ekin | Ayo ngobrol bareng! | Sabtu, 21 Mar 2026 22:00:05 | <img src="https://cdn.idntimes.com/content-images/post/20260321/85f369d7-6525-41c0-94b8-9a56686713eb-260321215952.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 3839 | Oline | yup | Sabtu, 21 Mar 2026 22:49:39 | <img src="https://cdn.idntimes.com/content-images/post/20260321/a2b5d818-475d-44ce-af52-e99526482aaf-260321224930.jpg" alt="yup" width="200"/> |
 | 3840 | Amanda | random aja | Minggu, 22 Mar 2026 00:20:11 | <img src="https://cdn.idntimes.com/content-images/post/20260322/e8aa0877-684a-4430-8a3b-d96302e53aab-260322002002.jpg" alt="random aja" width="200"/> |
+| 3841 | Daisy | Haiiiii!!!!🫶🏻 | Minggu, 22 Mar 2026 16:25:32 | <img src="https://cdn.idntimes.com/content-images/post/20260322/b11b0692-d0b8-464c-849a-9e81439a048c-260322162505.jpg" alt="Haiiiii!!!!🫶🏻" width="200"/> |
