@@ -4048,3 +4048,5 @@
 | 4044 | Intan | hi | Rabu, 22 Apr 2026 23:00:44 | <img src="https://cdn.idntimes.com/content-images/post/20260422/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260422230028.jpg" alt="hi" width="200"/> |
 | 4045 | Cathy | Ayo ngobrol bareng! | Rabu, 22 Apr 2026 23:16:52 | <img src="https://cdn.idntimes.com/content-images/post/20260422/f740e9da-772f-4ae2-8ddd-49f717aacf63-260422231639.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4046 | Delynn | Hii | Rabu, 22 Apr 2026 23:17:35 | <img src="https://cdn.idntimes.com/content-images/post/20260422/266ef38a-da00-4d13-ba77-f94da68599ee-260422231720.jpg" alt="Hii" width="200"/> |
+| 4047 | Daisy | Haiiiiiiu | Kamis, 23 Apr 2026 16:50:06 | <img src="https://cdn.idntimes.com/content-images/post/20260423/b11b0692-d0b8-464c-849a-9e81439a048c-260423164959.jpg" alt="Haiiiiiiu" width="200"/> |
+| 4048 | Danella | Hi | Kamis, 23 Apr 2026 16:50:25 | <img src="https://cdn.idntimes.com/content-images/post/20260423/33139b05-1c43-4b48-bba3-ec960b18b36e-260423165014.jpg" alt="Hi" width="200"/> |
