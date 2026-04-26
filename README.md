@@ -4071,3 +4071,4 @@
 | 4067 | Danella | Hi | Sabtu, 25 Apr 2026 23:19:19 | <img src="https://cdn.idntimes.com/content-images/post/20260425/33139b05-1c43-4b48-bba3-ec960b18b36e-260425231909.jpg" alt="Hi" width="200"/> |
 | 4068 | Lily | Brewekly | Minggu, 26 Apr 2026 13:02:50 | <img src="https://cdn.idntimes.com/content-images/post/20260426/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260426130243.jpg" alt="Brewekly" width="200"/> |
 | 4069 | Fritzy | LOVE 12  SECONDSS🩷 | Minggu, 26 Apr 2026 20:38:44 | <img src="https://cdn.idntimes.com/content-images/post/20260426/717109e0-a064-4f15-8187-5c4d46e56a58-260426203826.jpg" alt="LOVE 12  SECONDSS🩷" width="200"/> |
+| 4070 | Lana | Haiiii | Minggu, 26 Apr 2026 22:12:10 | <img src="https://cdn.idntimes.com/content-images/post/20260426/e2af7271-2598-4ee8-8760-68043e671e6d-260426221201.jpg" alt="Haiiii" width="200"/> |
