@@ -4172,3 +4172,4 @@
 | 4168 | Greesel | wadupp | Jumat, 8 Mei 2026 17:34:00 | <img src="https://cdn.idntimes.com/content-images/post/20260508/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260508173353.jpg" alt="wadupp" width="200"/> |
 | 4169 | Marsha | Ayo ngobrol bareng! | Jumat, 8 Mei 2026 17:34:49 | <img src="https://cdn.idntimes.com/content-images/post/20260508/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260508173438.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4170 | Eli | Ayo ngobrol bareng! | Jumat, 8 Mei 2026 17:37:38 | <img src="https://cdn.idntimes.com/content-images/post/20260508/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260508173730.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4171 | Ribka | Ayo ngobrol bareng! | Jumat, 8 Mei 2026 18:59:37 | <img src="https://cdn.idntimes.com/content-images/post/20260508/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260508185926.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
