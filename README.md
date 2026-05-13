@@ -4243,3 +4243,4 @@
 | 4239 | Lyn | Ayo ngobrol bareng! | Selasa, 12 Mei 2026 21:41:02 | <img src="https://cdn.idntimes.com/content-images/post/20260512/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260512214047.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4240 | Gita | Gits | Selasa, 12 Mei 2026 21:43:56 | <img src="https://cdn.idntimes.com/content-images/post/20260512/82ffac10-ee56-43d0-ad38-ce432384cfe5-260512214343.jpg" alt="Gits" width="200"/> |
 | 4241 | Ribka | Ayo ngobrol bareng! | Selasa, 12 Mei 2026 21:49:36 | <img src="https://cdn.idntimes.com/content-images/post/20260512/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260512214925.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4242 | Fritzy | GRWM | Rabu, 13 Mei 2026 14:06:56 | <img src="https://cdn.idntimes.com/content-images/post/20260513/717109e0-a064-4f15-8187-5c4d46e56a58-260513140646.jpg" alt="GRWM" width="200"/> |
