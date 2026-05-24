@@ -4358,3 +4358,4 @@
 | 4354 | Ribka | mahadsyat | Jumat, 22 Mei 2026 17:14:09 | <img src="https://cdn.idntimes.com/content-images/post/20260522/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260522171342.jpg" alt="mahadsyat" width="200"/> |
 | 4355 | Nala | Ayo ngobrol bareng! | Jumat, 22 Mei 2026 17:16:19 | <img src="https://cdn.idntimes.com/content-images/post/20260522/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260522171602.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4356 | Aralie | hi | Jumat, 22 Mei 2026 17:28:56 | <img src="https://cdn.idntimes.com/content-images/post/20260522/f001ba66-3c51-4849-9afa-13cf74eb1571-260522172846.jpg" alt="hi" width="200"/> |
+| 4357 | Eli | Ayo ngobrol bareng! | Minggu, 24 Mei 2026 17:56:08 | <img src="https://cdn.idntimes.com/content-images/post/20260524/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260524175558.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
