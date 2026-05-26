@@ -4378,3 +4378,4 @@
 | 4374 | Rilly | Yurpppp | Selasa, 26 Mei 2026 14:46:25 | <img src="https://cdn.idntimes.com/content-images/post/20260526/e9170998-f026-4186-bbc5-a17a3b5b2af1-260526144617.jpg" alt="Yurpppp" width="200"/> |
 | 4375 | Giaa | haiii | Selasa, 26 Mei 2026 19:30:37 | <img src="https://cdn.idntimes.com/content-images/post/20260526/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260526193028.jpg" alt="haiii" width="200"/> |
 | 4376 | Lulu | lg aph | Selasa, 26 Mei 2026 20:47:45 | <img src="https://cdn.idntimes.com/content-images/post/20260526/531d1bc0-ee91-475f-9e9d-098127b8d383-260526204733.jpg" alt="lg aph" width="200"/> |
+| 4377 | Levi | hai | Selasa, 26 Mei 2026 22:56:24 | <img src="https://cdn.idntimes.com/content-images/post/20260526/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260526225616.jpg" alt="hai" width="200"/> |
