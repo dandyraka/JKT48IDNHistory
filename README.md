@@ -4454,3 +4454,4 @@
 | 4450 | Muthe | Hi | Kamis, 4 Jun 2026 18:24:12 | <img src="https://cdn.idntimes.com/content-images/post/20260604/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260604182405.jpg" alt="Hi" width="200"/> |
 | 4451 | Gracie | hiii | Kamis, 4 Jun 2026 21:36:52 | <img src="https://cdn.idntimes.com/content-images/post/20260604/cae4d972-5f14-4512-9706-37c1802a0541-260604213645.jpg" alt="hiii" width="200"/> |
 | 4452 | Anindya | 🙆🏻‍♀️🙆🏻‍♀️ | Kamis, 4 Jun 2026 22:29:17 | <img src="https://cdn.idntimes.com/content-images/post/20260604/a5c72141-65a3-47be-86ef-1dc1feaab10d-260604222905.jpg" alt="🙆🏻‍♀️🙆🏻‍♀️" width="200"/> |
+| 4453 | Auwia | Grem | Jumat, 5 Jun 2026 14:03:50 | <img src="https://cdn.idntimes.com/content-images/post/20260605/f9500eb4-9d6d-491d-a857-40ca6f862d61-260605140335.jpg" alt="Grem" width="200"/> |
