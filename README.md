@@ -4456,3 +4456,5 @@
 | 4452 | Anindya | 🙆🏻‍♀️🙆🏻‍♀️ | Kamis, 4 Jun 2026 22:29:17 | <img src="https://cdn.idntimes.com/content-images/post/20260604/a5c72141-65a3-47be-86ef-1dc1feaab10d-260604222905.jpg" alt="🙆🏻‍♀️🙆🏻‍♀️" width="200"/> |
 | 4453 | Auwia | Grem | Jumat, 5 Jun 2026 14:03:50 | <img src="https://cdn.idntimes.com/content-images/post/20260605/f9500eb4-9d6d-491d-a857-40ca6f862d61-260605140335.jpg" alt="Grem" width="200"/> |
 | 4454 | Nachia | brewek | Sabtu, 6 Jun 2026 13:53:57 | <img src="https://cdn.idntimes.com/content-images/post/20260606/21a420b0-dd01-4daa-b185-b9020f8bf69d-260606135349.jpg" alt="brewek" width="200"/> |
+| 4455 | Mikaela | Ayo ngobrol bareng! | Sabtu, 6 Jun 2026 17:25:29 | <img src="https://cdn.idntimes.com/content-images/post/20260606/a557ba58-12d8-4260-bd50-9e5252ac71ef-260606172516.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4456 | Jessi | mam | Sabtu, 6 Jun 2026 18:02:52 | <img src="https://cdn.idntimes.com/content-images/post/20260606/a9579a29-9203-40c0-9326-9837b8eae6e8-260606180236.jpg" alt="mam" width="200"/> |
