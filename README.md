@@ -4481,3 +4481,4 @@
 | 4477 | Intan | bub | Minggu, 7 Jun 2026 22:37:46 | <img src="https://cdn.idntimes.com/content-images/post/20260607/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260607223729.jpg" alt="bub" width="200"/> |
 | 4478 | Ribka | Ayo ngobrol bareng! | Minggu, 7 Jun 2026 22:46:39 | <img src="https://cdn.idntimes.com/content-images/post/20260607/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260607224631.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4479 | Mikaela | Ayo ngobrol bareng! | Minggu, 7 Jun 2026 23:01:15 | <img src="https://cdn.idntimes.com/content-images/post/20260607/a557ba58-12d8-4260-bd50-9e5252ac71ef-260607230102.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4480 | Cathy | Ayo ngobrol bareng! | Senin, 8 Jun 2026 00:25:55 | <img src="https://cdn.idntimes.com/content-images/post/20260608/f740e9da-772f-4ae2-8ddd-49f717aacf63-260608002547.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
