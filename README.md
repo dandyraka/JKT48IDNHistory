@@ -4592,3 +4592,4 @@
 | 4588 | Jessi | hii | Senin, 22 Jun 2026 19:08:34 | <img src="https://cdn.idntimes.com/content-images/post/20260622/a9579a29-9203-40c0-9326-9837b8eae6e8-260622190821.jpg" alt="hii" width="200"/> |
 | 4589 | Muthe | Radio klo kata jeci | Senin, 22 Jun 2026 19:33:23 | <img src="https://cdn.idntimes.com/content-images/post/20260622/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260622193314.jpg" alt="Radio klo kata jeci" width="200"/> |
 | 4590 | Gracie | hiii | Senin, 22 Jun 2026 20:00:24 | <img src="https://cdn.idntimes.com/content-images/post/20260622/cae4d972-5f14-4512-9706-37c1802a0541-260622200017.jpg" alt="hiii" width="200"/> |
+| 4591 | Raisha | Ayo ngobrol bareng! | Senin, 22 Jun 2026 23:41:42 | <img src="https://cdn.idntimes.com/content-images/post/20260622/728d224e-6ccb-43d2-a029-a0147dc7fdee-260622234127.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
