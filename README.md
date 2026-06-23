@@ -4608,3 +4608,4 @@
 | 4604 | Lily | Radioly | Selasa, 23 Jun 2026 18:55:58 | <img src="https://cdn.idntimes.com/content-images/post/20260623/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260623185550.jpg" alt="Radioly" width="200"/> |
 | 4605 | Delynn | malam | Selasa, 23 Jun 2026 21:45:24 | <img src="https://cdn.idntimes.com/content-images/post/20260623/266ef38a-da00-4d13-ba77-f94da68599ee-260623214510.jpg" alt="malam" width="200"/> |
 | 4606 | Alya | Ayo ngobrol bareng! | Selasa, 23 Jun 2026 22:10:22 | <img src="https://cdn.idntimes.com/content-images/post/20260623/74e76417-0353-487f-b9b7-7520c0398e87-260623221015.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4607 | Gita | Gits | Rabu, 24 Jun 2026 02:53:59 | <img src="https://cdn.idntimes.com/content-images/post/20260624/82ffac10-ee56-43d0-ad38-ce432384cfe5-260624025346.jpg" alt="Gits" width="200"/> |
