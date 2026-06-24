@@ -4613,3 +4613,4 @@
 | 4609 | Aralie | hi | Rabu, 24 Jun 2026 10:30:42 | <img src="https://cdn.idntimes.com/content-images/post/20260624/f001ba66-3c51-4849-9afa-13cf74eb1571-260624103032.jpg" alt="hi" width="200"/> |
 | 4610 | Michie | hi | Rabu, 24 Jun 2026 13:46:15 | <img src="https://cdn.idntimes.com/content-images/post/20260624/6970e68a-b488-497a-b793-3a735db5e997-260624134551.jpg" alt="hi" width="200"/> |
 | 4611 | Auwia | Orng imut live | Rabu, 24 Jun 2026 14:05:14 | <img src="https://cdn.idntimes.com/content-images/post/20260624/f9500eb4-9d6d-491d-a857-40ca6f862d61-260624140459.jpg" alt="Orng imut live" width="200"/> |
+| 4612 | Ekin | Ayo ngobrol bareng! | Rabu, 24 Jun 2026 22:40:34 | <img src="https://cdn.idntimes.com/content-images/post/20260624/85f369d7-6525-41c0-94b8-9a56686713eb-260624224020.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
