@@ -4634,3 +4634,4 @@
 | 4630 | Ribka | Ayo ngobrol bareng! | Kamis, 25 Jun 2026 23:31:37 | <img src="https://cdn.idntimes.com/content-images/post/20260625/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260625233122.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4631 | Erine | Erin | Kamis, 25 Jun 2026 23:33:36 | <img src="https://cdn.idntimes.com/content-images/post/20260625/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260625233324.jpg" alt="Erin" width="200"/> |
 | 4632 | Levi | Ayo ngobrol bareng! | Jumat, 26 Jun 2026 00:04:23 | <img src="https://cdn.idntimes.com/content-images/post/20260626/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260626000403.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4633 | Gita | Gits | Jumat, 26 Jun 2026 06:30:17 | <img src="https://cdn.idntimes.com/content-images/post/20260626/82ffac10-ee56-43d0-ad38-ce432384cfe5-260626063003.jpg" alt="Gits" width="200"/> |
