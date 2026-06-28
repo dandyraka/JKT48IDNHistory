@@ -4680,3 +4680,4 @@
 | 4676 | Danella | Hi | Sabtu, 27 Jun 2026 23:45:00 | <img src="https://cdn.idntimes.com/content-images/post/20260627/33139b05-1c43-4b48-bba3-ec960b18b36e-260627234454.jpg" alt="Hi" width="200"/> |
 | 4677 | Oniel | Ayo ngobrol bareng! | Sabtu, 27 Jun 2026 23:45:24 | <img src="https://cdn.idntimes.com/content-images/post/20260627/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260627234516.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4678 | Levi | hai | Sabtu, 27 Jun 2026 23:53:53 | <img src="https://cdn.idntimes.com/content-images/post/20260627/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260627235347.jpg" alt="hai" width="200"/> |
+| 4679 | Intan | hi | Minggu, 28 Jun 2026 21:10:57 | <img src="https://cdn.idntimes.com/content-images/post/20260628/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260628211044.jpg" alt="hi" width="200"/> |
