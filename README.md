@@ -4735,3 +4735,5 @@
 | 4731 | Lana | Tim love | Selasa, 14 Jul 2026 15:48:38 | <img src="https://cdn.idntimes.com/content-images/post/20260714/e2af7271-2598-4ee8-8760-68043e671e6d-260714154828.jpg" alt="Tim love" width="200"/> |
 | 4732 | Auwia | Hai | Selasa, 14 Jul 2026 16:01:46 | <img src="https://cdn.idntimes.com/content-images/post/20260714/f9500eb4-9d6d-491d-a857-40ca6f862d61-260714160132.jpg" alt="Hai" width="200"/> |
 | 4733 | Elin | Haiii yuk mabarrr Honor of kings | Selasa, 14 Jul 2026 18:07:06 | <img src="https://cdn.idntimes.com/content-images/post/20260714/e0ececb4-71d8-4f32-a221-ef21634a746a-260714180658.jpg" alt="Haiii yuk mabarrr Honor of kings" width="200"/> |
+| 4734 | Rilly | Ngobs ajaa | Selasa, 14 Jul 2026 18:40:22 | <img src="https://cdn.idntimes.com/content-images/post/20260714/e9170998-f026-4186-bbc5-a17a3b5b2af1-260714184012.jpg" alt="Ngobs ajaa" width="200"/> |
+| 4735 | Intan | hi | Selasa, 14 Jul 2026 19:00:27 | <img src="https://cdn.idntimes.com/content-images/post/20260714/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260714190012.jpg" alt="hi" width="200"/> |
