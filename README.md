@@ -4774,3 +4774,5 @@
 | 4770 | Giaa | oi | Kamis, 16 Jul 2026 22:22:22 | <img src="https://cdn.idntimes.com/content-images/post/20260716/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260716222206.jpg" alt="oi" width="200"/> |
 | 4771 | Cynthia | Ayo ngobrol bareng! | Kamis, 16 Jul 2026 22:25:46 | <img src="https://cdn.idntimes.com/content-images/post/20260716/4f795073-38c9-4df7-9388-74b83de69801-260716222532.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4772 | Gita | Gits | Kamis, 16 Jul 2026 22:31:50 | <img src="https://cdn.idntimes.com/content-images/post/20260716/82ffac10-ee56-43d0-ad38-ce432384cfe5-260716223136.jpg" alt="Gits" width="200"/> |
+| 4773 | Fritzy | guwmm | Kamis, 16 Jul 2026 23:06:50 | <img src="https://cdn.idntimes.com/content-images/post/20260716/717109e0-a064-4f15-8187-5c4d46e56a58-260716230635.jpg" alt="guwmm" width="200"/> |
+| 4774 | Elin | Haiiii | Kamis, 16 Jul 2026 23:25:09 | <img src="https://cdn.idntimes.com/content-images/post/20260716/e0ececb4-71d8-4f32-a221-ef21634a746a-260716232502.jpg" alt="Haiiii" width="200"/> |
