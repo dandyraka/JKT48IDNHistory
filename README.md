@@ -4778,3 +4778,5 @@
 | 4774 | Elin | Haiiii | Kamis, 16 Jul 2026 23:25:09 | <img src="https://cdn.idntimes.com/content-images/post/20260716/e0ececb4-71d8-4f32-a221-ef21634a746a-260716232502.jpg" alt="Haiiii" width="200"/> |
 | 4775 | Lulu | masak | Jumat, 17 Jul 2026 12:56:07 | <img src="https://cdn.idntimes.com/content-images/post/20260717/531d1bc0-ee91-475f-9e9d-098127b8d383-260717125600.jpg" alt="masak" width="200"/> |
 | 4776 | Lia | Ayo ngobrol bareng! | Jumat, 17 Jul 2026 15:18:28 | <img src="https://cdn.idntimes.com/content-images/post/20260717/15dfee86-a928-4a15-8c90-6aa21097d0ff-260717151816.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4777 | Kathrina | Wow | Jumat, 17 Jul 2026 18:26:41 | <img src="https://cdn.idntimes.com/content-images/post/20260717/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260717182630.jpg" alt="Wow" width="200"/> |
+| 4778 | Ribka | Ayo ngobrol bareng! | Jumat, 17 Jul 2026 18:27:51 | <img src="https://cdn.idntimes.com/content-images/post/20260717/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260717182745.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
