@@ -4777,3 +4777,4 @@
 | 4773 | Fritzy | guwmm | Kamis, 16 Jul 2026 23:06:50 | <img src="https://cdn.idntimes.com/content-images/post/20260716/717109e0-a064-4f15-8187-5c4d46e56a58-260716230635.jpg" alt="guwmm" width="200"/> |
 | 4774 | Elin | Haiiii | Kamis, 16 Jul 2026 23:25:09 | <img src="https://cdn.idntimes.com/content-images/post/20260716/e0ececb4-71d8-4f32-a221-ef21634a746a-260716232502.jpg" alt="Haiiii" width="200"/> |
 | 4775 | Lulu | masak | Jumat, 17 Jul 2026 12:56:07 | <img src="https://cdn.idntimes.com/content-images/post/20260717/531d1bc0-ee91-475f-9e9d-098127b8d383-260717125600.jpg" alt="masak" width="200"/> |
+| 4776 | Lia | Ayo ngobrol bareng! | Jumat, 17 Jul 2026 15:18:28 | <img src="https://cdn.idntimes.com/content-images/post/20260717/15dfee86-a928-4a15-8c90-6aa21097d0ff-260717151816.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
