@@ -4802,3 +4802,4 @@
 | 4798 | Lia | Ayo ngobrol bareng! | Sabtu, 18 Jul 2026 15:34:12 | <img src="https://cdn.idntimes.com/content-images/post/20260718/15dfee86-a928-4a15-8c90-6aa21097d0ff-260718153405.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4799 | Jemima | Ayo ngobrol bareng! | Sabtu, 18 Jul 2026 18:05:59 | <img src="https://cdn.idntimes.com/content-images/post/20260718/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260718180548.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4800 | Ribka | Ayo ngobrol bareng! | Sabtu, 18 Jul 2026 18:28:55 | <img src="https://cdn.idntimes.com/content-images/post/20260718/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260718182849.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4801 | Lana | Tim love | Sabtu, 18 Jul 2026 18:49:15 | <img src="https://cdn.idntimes.com/content-images/post/20260718/e2af7271-2598-4ee8-8760-68043e671e6d-260718184908.jpg" alt="Tim love" width="200"/> |
