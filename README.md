@@ -4801,3 +4801,4 @@
 | 4797 | Fritzy | grwm | Sabtu, 18 Jul 2026 14:39:42 | <img src="https://cdn.idntimes.com/content-images/post/20260718/717109e0-a064-4f15-8187-5c4d46e56a58-260718143933.jpg" alt="grwm" width="200"/> |
 | 4798 | Lia | Ayo ngobrol bareng! | Sabtu, 18 Jul 2026 15:34:12 | <img src="https://cdn.idntimes.com/content-images/post/20260718/15dfee86-a928-4a15-8c90-6aa21097d0ff-260718153405.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4799 | Jemima | Ayo ngobrol bareng! | Sabtu, 18 Jul 2026 18:05:59 | <img src="https://cdn.idntimes.com/content-images/post/20260718/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260718180548.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4800 | Ribka | Ayo ngobrol bareng! | Sabtu, 18 Jul 2026 18:28:55 | <img src="https://cdn.idntimes.com/content-images/post/20260718/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260718182849.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
