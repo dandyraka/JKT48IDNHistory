@@ -4809,3 +4809,4 @@
 | 4805 | Levi | hai | Sabtu, 18 Jul 2026 19:09:05 | <img src="https://cdn.idntimes.com/content-images/post/20260718/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260718190858.jpg" alt="hai" width="200"/> |
 | 4806 | Elin | Hai hai | Sabtu, 18 Jul 2026 19:34:06 | <img src="https://cdn.idntimes.com/content-images/post/20260718/e0ececb4-71d8-4f32-a221-ef21634a746a-260718193357.jpg" alt="Hai hai" width="200"/> |
 | 4807 | Nayla | Ayo ngobrol bareng! | Sabtu, 18 Jul 2026 20:12:25 | <img src="https://cdn.idntimes.com/content-images/post/20260718/e243be19-74b7-435b-8e19-13fc669e0224-260718201216.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4808 | Gracie | hiii | Sabtu, 18 Jul 2026 21:13:55 | <img src="https://cdn.idntimes.com/content-images/post/20260718/cae4d972-5f14-4512-9706-37c1802a0541-260718211348.jpg" alt="hiii" width="200"/> |
