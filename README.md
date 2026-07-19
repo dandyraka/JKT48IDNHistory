@@ -4848,3 +4848,4 @@
 | 4844 | Muthe | Hi | Minggu, 19 Jul 2026 22:04:07 | <img src="https://cdn.idntimes.com/content-images/post/20260719/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260719220400.jpg" alt="Hi" width="200"/> |
 | 4845 | Oniel | saya kembali | Minggu, 19 Jul 2026 22:05:43 | <img src="https://cdn.idntimes.com/content-images/post/20260719/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260719220532.jpg" alt="saya kembali" width="200"/> |
 | 4846 | Ekin | hai | Minggu, 19 Jul 2026 22:17:26 | <img src="https://cdn.idntimes.com/content-images/post/20260719/85f369d7-6525-41c0-94b8-9a56686713eb-260719221709.jpg" alt="hai" width="200"/> |
+| 4847 | Giaa | oi | Minggu, 19 Jul 2026 22:31:03 | <img src="https://cdn.idntimes.com/content-images/post/20260719/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260719223048.jpg" alt="oi" width="200"/> |
