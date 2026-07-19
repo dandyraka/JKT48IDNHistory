@@ -4816,3 +4816,4 @@
 | 4812 | Daisy | Haiii | Sabtu, 18 Jul 2026 22:32:43 | <img src="https://cdn.idntimes.com/content-images/post/20260718/b11b0692-d0b8-464c-849a-9e81439a048c-260718223237.jpg" alt="Haiii" width="200"/> |
 | 4813 | Delynn | Hi | Sabtu, 18 Jul 2026 22:53:04 | <img src="https://cdn.idntimes.com/content-images/post/20260718/266ef38a-da00-4d13-ba77-f94da68599ee-260718225252.jpg" alt="Hi" width="200"/> |
 | 4814 | Muthe | Hi | Sabtu, 18 Jul 2026 23:25:52 | <img src="https://cdn.idntimes.com/content-images/post/20260718/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260718232544.jpg" alt="Hi" width="200"/> |
+| 4815 | Lia | Ayo ngobrol bareng! | Minggu, 19 Jul 2026 08:58:48 | <img src="https://cdn.idntimes.com/content-images/post/20260719/15dfee86-a928-4a15-8c90-6aa21097d0ff-260719085841.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
