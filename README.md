@@ -4842,3 +4842,4 @@
 | 4838 | Delynn | hi | Minggu, 19 Jul 2026 21:39:42 | <img src="https://cdn.idntimes.com/content-images/post/20260719/266ef38a-da00-4d13-ba77-f94da68599ee-260719213928.jpg" alt="hi" width="200"/> |
 | 4839 | Erine | Erin | Minggu, 19 Jul 2026 21:44:40 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260719214424.jpg" alt="Erin" width="200"/> |
 | 4840 | Erine | Erin | Minggu, 19 Jul 2026 21:46:25 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260719214609.jpg" alt="Erin" width="200"/> |
+| 4841 | Jemima | Ayo ngobrol bareng! | Minggu, 19 Jul 2026 21:49:56 | <img src="https://cdn.idntimes.com/content-images/post/20260719/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260719214943.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
