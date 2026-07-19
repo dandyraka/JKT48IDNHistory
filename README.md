@@ -4829,3 +4829,4 @@
 | 4825 | Indah | Ayo ngobrol bareng! | Minggu, 19 Jul 2026 19:18:07 | <img src="https://cdn.idntimes.com/content-images/post/20260719/539f5185-1414-416c-b84d-2ad366b6d60a-260719191758.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4826 | Elin | Haiii | Minggu, 19 Jul 2026 19:19:38 | <img src="https://cdn.idntimes.com/content-images/post/20260719/e0ececb4-71d8-4f32-a221-ef21634a746a-260719191929.jpg" alt="Haiii" width="200"/> |
 | 4827 | Lana | Haii | Minggu, 19 Jul 2026 19:19:49 | <img src="https://cdn.idntimes.com/content-images/post/20260719/e2af7271-2598-4ee8-8760-68043e671e6d-260719191941.jpg" alt="Haii" width="200"/> |
+| 4828 | Lana | Haii | Minggu, 19 Jul 2026 19:28:54 | <img src="https://cdn.idntimes.com/content-images/post/20260719/e2af7271-2598-4ee8-8760-68043e671e6d-260719192846.jpg" alt="Haii" width="200"/> |
