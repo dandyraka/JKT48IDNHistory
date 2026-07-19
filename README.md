@@ -4823,3 +4823,4 @@
 | 4819 | Levi | hai | Minggu, 19 Jul 2026 15:58:07 | <img src="https://cdn.idntimes.com/content-images/post/20260719/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260719155801.jpg" alt="hai" width="200"/> |
 | 4820 | Nachia | hi | Minggu, 19 Jul 2026 16:33:12 | <img src="https://cdn.idntimes.com/content-images/post/20260719/21a420b0-dd01-4daa-b185-b9020f8bf69d-260719163303.jpg" alt="hi" width="200"/> |
 | 4821 | Eli | Gabut | Minggu, 19 Jul 2026 16:56:09 | <img src="https://cdn.idntimes.com/content-images/post/20260719/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260719165559.jpg" alt="Gabut" width="200"/> |
+| 4822 | Ribka | Ayo ngobrol bareng! | Minggu, 19 Jul 2026 18:12:07 | <img src="https://cdn.idntimes.com/content-images/post/20260719/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260719181201.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
