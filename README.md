@@ -4822,3 +4822,4 @@
 | 4818 | Kathrina | Wow | Minggu, 19 Jul 2026 15:27:10 | <img src="https://cdn.idntimes.com/content-images/post/20260719/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260719152702.jpg" alt="Wow" width="200"/> |
 | 4819 | Levi | hai | Minggu, 19 Jul 2026 15:58:07 | <img src="https://cdn.idntimes.com/content-images/post/20260719/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260719155801.jpg" alt="hai" width="200"/> |
 | 4820 | Nachia | hi | Minggu, 19 Jul 2026 16:33:12 | <img src="https://cdn.idntimes.com/content-images/post/20260719/21a420b0-dd01-4daa-b185-b9020f8bf69d-260719163303.jpg" alt="hi" width="200"/> |
+| 4821 | Eli | Gabut | Minggu, 19 Jul 2026 16:56:09 | <img src="https://cdn.idntimes.com/content-images/post/20260719/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260719165559.jpg" alt="Gabut" width="200"/> |
