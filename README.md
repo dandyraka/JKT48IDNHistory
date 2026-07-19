@@ -4844,3 +4844,4 @@
 | 4840 | Erine | Erin | Minggu, 19 Jul 2026 21:46:25 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260719214609.jpg" alt="Erin" width="200"/> |
 | 4841 | Jemima | Ayo ngobrol bareng! | Minggu, 19 Jul 2026 21:49:56 | <img src="https://cdn.idntimes.com/content-images/post/20260719/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260719214943.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4842 | Lily | Unboxing | Minggu, 19 Jul 2026 21:55:09 | <img src="https://cdn.idntimes.com/content-images/post/20260719/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260719215501.jpg" alt="Unboxing" width="200"/> |
+| 4843 | Ella | aloo | Minggu, 19 Jul 2026 22:00:02 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0d1e6c3-d356-4b00-8d00-846e5297693b-260719215952.jpg" alt="aloo" width="200"/> |
