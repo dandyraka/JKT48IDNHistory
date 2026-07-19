@@ -4840,3 +4840,4 @@
 | 4836 | Ella | aloo | Minggu, 19 Jul 2026 21:01:12 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0d1e6c3-d356-4b00-8d00-846e5297693b-260719210102.jpg" alt="aloo" width="200"/> |
 | 4837 | Virgi | Ayo ngobrol bareng! | Minggu, 19 Jul 2026 21:15:28 | <img src="https://cdn.idntimes.com/content-images/post/20260719/147e83c8-f3ac-4680-9141-2f518b4b7810-260719211514.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4838 | Delynn | hi | Minggu, 19 Jul 2026 21:39:42 | <img src="https://cdn.idntimes.com/content-images/post/20260719/266ef38a-da00-4d13-ba77-f94da68599ee-260719213928.jpg" alt="hi" width="200"/> |
+| 4839 | Erine | Erin | Minggu, 19 Jul 2026 21:44:40 | <img src="https://cdn.idntimes.com/content-images/post/20260719/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260719214424.jpg" alt="Erin" width="200"/> |
