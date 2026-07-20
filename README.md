@@ -4866,3 +4866,4 @@
 | 4862 | Virgi | Ayo ngobrol bareng! | Senin, 20 Jul 2026 16:31:43 | <img src="https://cdn.idntimes.com/content-images/post/20260720/147e83c8-f3ac-4680-9141-2f518b4b7810-260720163125.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4863 | Elin | Soreee | Senin, 20 Jul 2026 16:52:55 | <img src="https://cdn.idntimes.com/content-images/post/20260720/e0ececb4-71d8-4f32-a221-ef21634a746a-260720165248.jpg" alt="Soreee" width="200"/> |
 | 4864 | Lia | Ayo ngobrol bareng! | Senin, 20 Jul 2026 19:15:48 | <img src="https://cdn.idntimes.com/content-images/post/20260720/15dfee86-a928-4a15-8c90-6aa21097d0ff-260720191540.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4865 | Ribka | Ayo ngobrol bareng! | Senin, 20 Jul 2026 19:24:06 | <img src="https://cdn.idntimes.com/content-images/post/20260720/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260720192400.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
