@@ -4889,3 +4889,4 @@
 | 4885 | Mikaela | Ayo ngobrol bareng! | Selasa, 21 Jul 2026 15:49:37 | <img src="https://cdn.idntimes.com/content-images/post/20260721/a557ba58-12d8-4260-bd50-9e5252ac71ef-260721154924.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4886 | Ella | aloo | Selasa, 21 Jul 2026 16:38:04 | <img src="https://cdn.idntimes.com/content-images/post/20260721/b0d1e6c3-d356-4b00-8d00-846e5297693b-260721163754.jpg" alt="aloo" width="200"/> |
 | 4887 | Lyn | Ayo ngobrol bareng! | Selasa, 21 Jul 2026 17:01:51 | <img src="https://cdn.idntimes.com/content-images/post/20260721/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260721170140.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4888 | Auwia | Gabut | Selasa, 21 Jul 2026 17:04:20 | <img src="https://cdn.idntimes.com/content-images/post/20260721/f9500eb4-9d6d-491d-a857-40ca6f862d61-260721170405.jpg" alt="Gabut" width="200"/> |
