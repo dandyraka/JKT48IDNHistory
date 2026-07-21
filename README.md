@@ -4894,3 +4894,4 @@
 | 4890 | Delynn | Hi | Selasa, 21 Jul 2026 19:25:42 | <img src="https://cdn.idntimes.com/content-images/post/20260721/266ef38a-da00-4d13-ba77-f94da68599ee-260721192530.jpg" alt="Hi" width="200"/> |
 | 4891 | Alya | Ayo ngobrol bareng! | Selasa, 21 Jul 2026 19:33:21 | <img src="https://cdn.idntimes.com/content-images/post/20260721/74e76417-0353-487f-b9b7-7520c0398e87-260721193307.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4892 | Virgi | Ayo ngobrol bareng! | Selasa, 21 Jul 2026 19:55:07 | <img src="https://cdn.idntimes.com/content-images/post/20260721/147e83c8-f3ac-4680-9141-2f518b4b7810-260721195456.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4893 | Fritzy | heyyy | Selasa, 21 Jul 2026 20:04:57 | <img src="https://cdn.idntimes.com/content-images/post/20260721/717109e0-a064-4f15-8187-5c4d46e56a58-260721200446.jpg" alt="heyyy" width="200"/> |
