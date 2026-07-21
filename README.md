@@ -4897,3 +4897,4 @@
 | 4893 | Fritzy | heyyy | Selasa, 21 Jul 2026 20:04:57 | <img src="https://cdn.idntimes.com/content-images/post/20260721/717109e0-a064-4f15-8187-5c4d46e56a58-260721200446.jpg" alt="heyyy" width="200"/> |
 | 4894 | Raisha | Ayo ngobrol bareng! | Selasa, 21 Jul 2026 20:37:41 | <img src="https://cdn.idntimes.com/content-images/post/20260721/728d224e-6ccb-43d2-a029-a0147dc7fdee-260721203731.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4895 | Kathrina | Wow | Selasa, 21 Jul 2026 20:54:33 | <img src="https://cdn.idntimes.com/content-images/post/20260721/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260721205422.jpg" alt="Wow" width="200"/> |
+| 4896 | Ekin | bobok | Selasa, 21 Jul 2026 21:37:20 | <img src="https://cdn.idntimes.com/content-images/post/20260721/85f369d7-6525-41c0-94b8-9a56686713eb-260721213708.jpg" alt="bobok" width="200"/> |
