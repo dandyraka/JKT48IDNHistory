@@ -4923,3 +4923,4 @@
 | 4919 | Oline | mau baca podium | Rabu, 22 Jul 2026 19:16:22 | <img src="https://cdn.idntimes.com/content-images/post/20260722/a2b5d818-475d-44ce-af52-e99526482aaf-260722191612.jpg" alt="mau baca podium" width="200"/> |
 | 4920 | Aralie | hi | Rabu, 22 Jul 2026 19:37:14 | <img src="https://cdn.idntimes.com/content-images/post/20260722/f001ba66-3c51-4849-9afa-13cf74eb1571-260722193705.jpg" alt="hi" width="200"/> |
 | 4921 | Greesel | sianggg! | Rabu, 22 Jul 2026 20:00:31 | <img src="https://cdn.idntimes.com/content-images/post/20260722/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260722200025.jpg" alt="sianggg!" width="200"/> |
+| 4922 | Fritzy | lgi apaa | Rabu, 22 Jul 2026 20:07:06 | <img src="https://cdn.idntimes.com/content-images/post/20260722/717109e0-a064-4f15-8187-5c4d46e56a58-260722200654.jpg" alt="lgi apaa" width="200"/> |
