@@ -4938,3 +4938,4 @@
 | 4934 | Daisy | Haiii | Kamis, 23 Jul 2026 14:58:38 | <img src="https://cdn.idntimes.com/content-images/post/20260723/b11b0692-d0b8-464c-849a-9e81439a048c-260723145831.jpg" alt="Haiii" width="200"/> |
 | 4935 | Danella | Hi | Kamis, 23 Jul 2026 15:00:14 | <img src="https://cdn.idntimes.com/content-images/post/20260723/33139b05-1c43-4b48-bba3-ec960b18b36e-260723150007.jpg" alt="Hi" width="200"/> |
 | 4936 | Lily | Haii | Kamis, 23 Jul 2026 15:22:59 | <img src="https://cdn.idntimes.com/content-images/post/20260723/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260723152252.jpg" alt="Haii" width="200"/> |
+| 4937 | Jemima | Ayo ngobrol bareng! | Kamis, 23 Jul 2026 15:59:53 | <img src="https://cdn.idntimes.com/content-images/post/20260723/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260723155940.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
