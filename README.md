@@ -4951,3 +4951,6 @@
 | 4947 | Kathrina | Wow | Kamis, 23 Jul 2026 19:17:20 | <img src="https://cdn.idntimes.com/content-images/post/20260723/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260723191711.jpg" alt="Wow" width="200"/> |
 | 4948 | Ribka | Ayo ngobrol bareng! | Kamis, 23 Jul 2026 19:19:49 | <img src="https://cdn.idntimes.com/content-images/post/20260723/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260723191943.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4949 | Muthe | Hi | Kamis, 23 Jul 2026 19:32:11 | <img src="https://cdn.idntimes.com/content-images/post/20260723/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260723193203.jpg" alt="Hi" width="200"/> |
+| 4950 | Levi | hai | Kamis, 23 Jul 2026 20:45:14 | <img src="https://cdn.idntimes.com/content-images/post/20260723/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260723204505.jpg" alt="hai" width="200"/> |
+| 4951 | Nayla | Sasageyo  | Kamis, 23 Jul 2026 21:01:52 | <img src="https://cdn.idntimes.com/content-images/post/20260723/e243be19-74b7-435b-8e19-13fc669e0224-260723210143.jpg" alt="Sasageyo " width="200"/> |
+| 4952 | Lana | Hai | Kamis, 23 Jul 2026 22:04:46 | <img src="https://cdn.idntimes.com/content-images/post/20260723/e2af7271-2598-4ee8-8760-68043e671e6d-260723220438.jpg" alt="Hai" width="200"/> |
