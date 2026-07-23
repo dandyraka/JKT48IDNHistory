@@ -4954,3 +4954,4 @@
 | 4950 | Levi | hai | Kamis, 23 Jul 2026 20:45:14 | <img src="https://cdn.idntimes.com/content-images/post/20260723/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260723204505.jpg" alt="hai" width="200"/> |
 | 4951 | Nayla | Sasageyo  | Kamis, 23 Jul 2026 21:01:52 | <img src="https://cdn.idntimes.com/content-images/post/20260723/e243be19-74b7-435b-8e19-13fc669e0224-260723210143.jpg" alt="Sasageyo " width="200"/> |
 | 4952 | Lana | Hai | Kamis, 23 Jul 2026 22:04:46 | <img src="https://cdn.idntimes.com/content-images/post/20260723/e2af7271-2598-4ee8-8760-68043e671e6d-260723220438.jpg" alt="Hai" width="200"/> |
+| 4953 | Erine | Erin | Kamis, 23 Jul 2026 22:17:23 | <img src="https://cdn.idntimes.com/content-images/post/20260723/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260723221707.jpg" alt="Erin" width="200"/> |
