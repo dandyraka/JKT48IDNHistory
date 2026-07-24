@@ -4964,3 +4964,4 @@
 | 4960 | Auwia | #GalAuw 😮‍💨😮‍💨 | Jumat, 24 Jul 2026 19:02:47 | <img src="https://cdn.idntimes.com/content-images/post/20260724/f9500eb4-9d6d-491d-a857-40ca6f862d61-260724190233.jpg" alt="#GalAuw 😮‍💨😮‍💨" width="200"/> |
 | 4961 | Maira | Ayo ngobrol bareng! | Jumat, 24 Jul 2026 19:09:28 | <img src="https://cdn.idntimes.com/content-images/post/20260724/7599c984-c466-4962-8c5b-73c1d33d59d9-260724190920.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 4962 | Virgi | Ayo ngobrol bareng! | Jumat, 24 Jul 2026 19:09:39 | <img src="https://cdn.idntimes.com/content-images/post/20260724/147e83c8-f3ac-4680-9141-2f518b4b7810-260724190928.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4963 | Auwia | #GalAuw 😮‍💨😮‍💨 | Jumat, 24 Jul 2026 20:06:38 | <img src="https://cdn.idntimes.com/content-images/post/20260724/f9500eb4-9d6d-491d-a857-40ca6f862d61-260724200623.jpg" alt="#GalAuw 😮‍💨😮‍💨" width="200"/> |
