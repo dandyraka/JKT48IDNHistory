@@ -4962,3 +4962,4 @@
 | 4958 | Kathrina | wow | Jumat, 24 Jul 2026 17:03:43 | <img src="https://cdn.idntimes.com/content-images/post/20260724/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260724170336.jpg" alt="wow" width="200"/> |
 | 4959 | Muthe | Hi | Jumat, 24 Jul 2026 18:51:34 | <img src="https://cdn.idntimes.com/content-images/post/20260724/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260724185125.jpg" alt="Hi" width="200"/> |
 | 4960 | Auwia | #GalAuw 😮‍💨😮‍💨 | Jumat, 24 Jul 2026 19:02:47 | <img src="https://cdn.idntimes.com/content-images/post/20260724/f9500eb4-9d6d-491d-a857-40ca6f862d61-260724190233.jpg" alt="#GalAuw 😮‍💨😮‍💨" width="200"/> |
+| 4961 | Maira | Ayo ngobrol bareng! | Jumat, 24 Jul 2026 19:09:28 | <img src="https://cdn.idntimes.com/content-images/post/20260724/7599c984-c466-4962-8c5b-73c1d33d59d9-260724190920.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
