@@ -4981,3 +4981,4 @@
 | 4977 | Oline | y | Sabtu, 25 Jul 2026 21:07:26 | <img src="https://cdn.idntimes.com/content-images/post/20260725/a2b5d818-475d-44ce-af52-e99526482aaf-260725210716.jpg" alt="y" width="200"/> |
 | 4978 | Muthe | Hi | Sabtu, 25 Jul 2026 21:07:41 | <img src="https://cdn.idntimes.com/content-images/post/20260725/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260725210734.jpg" alt="Hi" width="200"/> |
 | 4979 | Muthe | Hi | Sabtu, 25 Jul 2026 21:08:46 | <img src="https://cdn.idntimes.com/content-images/post/20260725/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260725210839.jpg" alt="Hi" width="200"/> |
+| 4980 | Christy | 💀 | Sabtu, 25 Jul 2026 21:26:35 | <img src="https://cdn.idntimes.com/content-images/post/20260725/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260725212622.jpg" alt="💀" width="200"/> |
