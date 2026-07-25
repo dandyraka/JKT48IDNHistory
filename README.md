@@ -4983,3 +4983,4 @@
 | 4979 | Muthe | Hi | Sabtu, 25 Jul 2026 21:08:46 | <img src="https://cdn.idntimes.com/content-images/post/20260725/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260725210839.jpg" alt="Hi" width="200"/> |
 | 4980 | Christy | 💀 | Sabtu, 25 Jul 2026 21:26:35 | <img src="https://cdn.idntimes.com/content-images/post/20260725/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260725212622.jpg" alt="💀" width="200"/> |
 | 4981 | Ribka | Ayo ngobrol bareng! | Sabtu, 25 Jul 2026 22:07:49 | <img src="https://cdn.idntimes.com/content-images/post/20260725/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260725220741.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 4982 | Elin | Malammmmm | Sabtu, 25 Jul 2026 22:17:21 | <img src="https://cdn.idntimes.com/content-images/post/20260725/e0ececb4-71d8-4f32-a221-ef21634a746a-260725221713.jpg" alt="Malammmmm" width="200"/> |
