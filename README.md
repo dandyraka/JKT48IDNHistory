@@ -5038,3 +5038,4 @@
 | 5034 | Intan | p | Selasa, 28 Jul 2026 21:55:48 | <img src="https://cdn.idntimes.com/content-images/post/20260728/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260728215541.jpg" alt="p" width="200"/> |
 | 5035 | Giaa | oi | Selasa, 28 Jul 2026 22:01:33 | <img src="https://cdn.idntimes.com/content-images/post/20260728/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260728220119.jpg" alt="oi" width="200"/> |
 | 5036 | Delynn | malams | Selasa, 28 Jul 2026 22:36:57 | <img src="https://cdn.idntimes.com/content-images/post/20260728/266ef38a-da00-4d13-ba77-f94da68599ee-260728223643.jpg" alt="malams" width="200"/> |
+| 5037 | Fritzy | 18 uhuyy!! | Selasa, 28 Jul 2026 23:57:07 | <img src="https://cdn.idntimes.com/content-images/post/20260728/717109e0-a064-4f15-8187-5c4d46e56a58-260728235702.jpg" alt="18 uhuyy!!" width="200"/> |
