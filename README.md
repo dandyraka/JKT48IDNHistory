@@ -5054,3 +5054,4 @@
 | 5050 | Erine | Erin | Rabu, 29 Jul 2026 20:55:12 | <img src="https://cdn.idntimes.com/content-images/post/20260729/b0e628c8-0b0a-40c7-aa6a-a1c7660c25ce-260729205458.jpg" alt="Erin" width="200"/> |
 | 5051 | Gracie | hiii | Rabu, 29 Jul 2026 21:12:25 | <img src="https://cdn.idntimes.com/content-images/post/20260729/cae4d972-5f14-4512-9706-37c1802a0541-260729211218.jpg" alt="hiii" width="200"/> |
 | 5052 | Nayla | Eu | Rabu, 29 Jul 2026 22:01:48 | <img src="https://cdn.idntimes.com/content-images/post/20260729/e243be19-74b7-435b-8e19-13fc669e0224-260729220139.jpg" alt="Eu" width="200"/> |
+| 5053 | Fritzy | ada yg baru | Rabu, 29 Jul 2026 22:03:05 | <img src="https://cdn.idntimes.com/content-images/post/20260729/717109e0-a064-4f15-8187-5c4d46e56a58-260729220241.jpg" alt="ada yg baru" width="200"/> |
