@@ -5049,3 +5049,4 @@
 | 5045 | Eli | BENAS TERSERAH ATUR SENDIRI | Rabu, 29 Jul 2026 18:39:05 | <img src="https://cdn.idntimes.com/content-images/post/20260729/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260729183857.jpg" alt="BENAS TERSERAH ATUR SENDIRI" width="200"/> |
 | 5046 | Oniel | saya kembali | Rabu, 29 Jul 2026 19:01:22 | <img src="https://cdn.idntimes.com/content-images/post/20260729/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260729190108.jpg" alt="saya kembali" width="200"/> |
 | 5047 | Ribka | Ayo ngobrol bareng! | Rabu, 29 Jul 2026 19:59:17 | <img src="https://cdn.idntimes.com/content-images/post/20260729/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260729195912.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5048 | Ribka | Ayo ngobrol bareng! | Rabu, 29 Jul 2026 20:02:00 | <img src="https://cdn.idntimes.com/content-images/post/20260729/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260729200156.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
