@@ -5081,3 +5081,4 @@
 | 5077 | Lyn | Ayo ngobrol bareng! | Kamis, 30 Jul 2026 18:25:07 | <img src="https://cdn.idntimes.com/content-images/post/20260730/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260730182457.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5078 | Ella | aloo | Kamis, 30 Jul 2026 18:27:30 | <img src="https://cdn.idntimes.com/content-images/post/20260730/b0d1e6c3-d356-4b00-8d00-846e5297693b-260730182721.jpg" alt="aloo" width="200"/> |
 | 5079 | Delynn | hi | Kamis, 30 Jul 2026 18:30:24 | <img src="https://cdn.idntimes.com/content-images/post/20260730/266ef38a-da00-4d13-ba77-f94da68599ee-260730183009.jpg" alt="hi" width="200"/> |
+| 5080 | Eli | BENAS TERSERAH ATUR SENDIRI | Kamis, 30 Jul 2026 18:44:44 | <img src="https://cdn.idntimes.com/content-images/post/20260730/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260730184423.jpg" alt="BENAS TERSERAH ATUR SENDIRI" width="200"/> |
