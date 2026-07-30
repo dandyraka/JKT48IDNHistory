@@ -5089,3 +5089,4 @@
 | 5085 | Gracie | hiii | Kamis, 30 Jul 2026 21:15:29 | <img src="https://cdn.idntimes.com/content-images/post/20260730/cae4d972-5f14-4512-9706-37c1802a0541-260730211521.jpg" alt="hiii" width="200"/> |
 | 5086 | Fritzy | hii | Kamis, 30 Jul 2026 22:04:15 | <img src="https://cdn.idntimes.com/content-images/post/20260730/717109e0-a064-4f15-8187-5c4d46e56a58-260730220402.jpg" alt="hii" width="200"/> |
 | 5087 | Lily | Studyy | Kamis, 30 Jul 2026 22:11:04 | <img src="https://cdn.idntimes.com/content-images/post/20260730/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260730221058.jpg" alt="Studyy" width="200"/> |
+| 5088 | Ribka | Hi abis lari nih bos | Kamis, 30 Jul 2026 22:39:32 | <img src="https://cdn.idntimes.com/content-images/post/20260730/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260730223927.jpg" alt="Hi abis lari nih bos" width="200"/> |
