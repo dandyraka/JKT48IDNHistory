@@ -5061,3 +5061,4 @@
 | 5057 | Delynn | hayo | Kamis, 30 Jul 2026 01:08:33 | <img src="https://cdn.idntimes.com/content-images/post/20260730/266ef38a-da00-4d13-ba77-f94da68599ee-260730010819.jpg" alt="hayo" width="200"/> |
 | 5058 | Delynn | HEHE | Kamis, 30 Jul 2026 01:09:58 | <img src="https://cdn.idntimes.com/content-images/post/20260730/266ef38a-da00-4d13-ba77-f94da68599ee-260730010944.jpg" alt="HEHE" width="200"/> |
 | 5059 | Danella | ayo | Kamis, 30 Jul 2026 11:10:19 | <img src="https://cdn.idntimes.com/content-images/post/20260730/33139b05-1c43-4b48-bba3-ec960b18b36e-260730111003.jpg" alt="ayo" width="200"/> |
+| 5060 | Daisy | abis jalan | Kamis, 30 Jul 2026 11:12:32 | <img src="https://cdn.idntimes.com/content-images/post/20260730/b11b0692-d0b8-464c-849a-9e81439a048c-260730111225.jpg" alt="abis jalan" width="200"/> |
