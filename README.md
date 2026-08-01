@@ -5128,3 +5128,4 @@
 | 5124 | Levi | hai | Sabtu, 1 Agt 2026 20:12:22 | <img src="https://cdn.idntimes.com/content-images/post/20260801/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260801201217.jpg" alt="hai" width="200"/> |
 | 5125 | Intan | p | Sabtu, 1 Agt 2026 20:46:16 | <img src="https://cdn.idntimes.com/content-images/post/20260801/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260801204608.jpg" alt="p" width="200"/> |
 | 5126 | Anindya | halo | Sabtu, 1 Agt 2026 21:00:35 | <img src="https://cdn.idntimes.com/content-images/post/20260801/a5c72141-65a3-47be-86ef-1dc1feaab10d-260801210029.jpg" alt="halo" width="200"/> |
+| 5127 | Ribka | p | Sabtu, 1 Agt 2026 21:20:05 | <img src="https://cdn.idntimes.com/content-images/post/20260801/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260801211950.jpg" alt="p" width="200"/> |
