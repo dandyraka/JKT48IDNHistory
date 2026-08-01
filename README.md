@@ -5133,3 +5133,4 @@
 | 5129 | Lulu | sama temen temen | Sabtu, 1 Agt 2026 21:57:04 | <img src="https://cdn.idntimes.com/content-images/post/20260801/531d1bc0-ee91-475f-9e9d-098127b8d383-260801215658.jpg" alt="sama temen temen" width="200"/> |
 | 5130 | Muthe | Hi | Sabtu, 1 Agt 2026 21:57:08 | <img src="https://cdn.idntimes.com/content-images/post/20260801/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260801215702.jpg" alt="Hi" width="200"/> |
 | 5131 | Ella | aloo | Sabtu, 1 Agt 2026 21:57:55 | <img src="https://cdn.idntimes.com/content-images/post/20260801/b0d1e6c3-d356-4b00-8d00-846e5297693b-260801215747.jpg" alt="aloo" width="200"/> |
+| 5132 | Michie | hello | Sabtu, 1 Agt 2026 21:58:28 | <img src="https://cdn.idntimes.com/content-images/post/20260801/6970e68a-b488-497a-b793-3a735db5e997-260801215821.jpg" alt="hello" width="200"/> |
