@@ -5156,3 +5156,4 @@
 | 5152 | Aralie | hi | Minggu, 2 Agt 2026 21:12:46 | <img src="https://cdn.idntimes.com/content-images/post/20260802/f001ba66-3c51-4849-9afa-13cf74eb1571-260802211238.jpg" alt="hi" width="200"/> |
 | 5153 | Intan | p | Minggu, 2 Agt 2026 21:13:39 | <img src="https://cdn.idntimes.com/content-images/post/20260802/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260802211331.jpg" alt="p" width="200"/> |
 | 5154 | Ribka | p | Minggu, 2 Agt 2026 21:15:35 | <img src="https://cdn.idntimes.com/content-images/post/20260802/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260802211521.jpg" alt="p" width="200"/> |
+| 5155 | Lulu | bro | Minggu, 2 Agt 2026 21:51:47 | <img src="https://cdn.idntimes.com/content-images/post/20260802/531d1bc0-ee91-475f-9e9d-098127b8d383-260802215140.jpg" alt="bro" width="200"/> |
