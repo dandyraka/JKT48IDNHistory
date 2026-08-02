@@ -5154,3 +5154,4 @@
 | 5150 | Rilly | Ngobss | Minggu, 2 Agt 2026 20:02:25 | <img src="https://cdn.idntimes.com/content-images/post/20260802/e9170998-f026-4186-bbc5-a17a3b5b2af1-260802200217.jpg" alt="Ngobss" width="200"/> |
 | 5151 | Delynn | Hi | Minggu, 2 Agt 2026 20:56:59 | <img src="https://cdn.idntimes.com/content-images/post/20260802/266ef38a-da00-4d13-ba77-f94da68599ee-260802205641.jpg" alt="Hi" width="200"/> |
 | 5152 | Aralie | hi | Minggu, 2 Agt 2026 21:12:46 | <img src="https://cdn.idntimes.com/content-images/post/20260802/f001ba66-3c51-4849-9afa-13cf74eb1571-260802211238.jpg" alt="hi" width="200"/> |
+| 5153 | Intan | p | Minggu, 2 Agt 2026 21:13:39 | <img src="https://cdn.idntimes.com/content-images/post/20260802/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260802211331.jpg" alt="p" width="200"/> |
