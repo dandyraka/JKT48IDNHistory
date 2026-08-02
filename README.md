@@ -5146,3 +5146,4 @@
 | 5142 | Eli | BEBAS | Minggu, 2 Agt 2026 16:23:46 | <img src="https://cdn.idntimes.com/content-images/post/20260802/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260802162338.jpg" alt="BEBAS" width="200"/> |
 | 5143 | Nala | hanya sebentar | Minggu, 2 Agt 2026 16:56:46 | <img src="https://cdn.idntimes.com/content-images/post/20260802/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260802165631.jpg" alt="hanya sebentar" width="200"/> |
 | 5144 | Ella | aloo | Minggu, 2 Agt 2026 17:08:01 | <img src="https://cdn.idntimes.com/content-images/post/20260802/b0d1e6c3-d356-4b00-8d00-846e5297693b-260802170752.jpg" alt="aloo" width="200"/> |
+| 5145 | Greesel | :v | Minggu, 2 Agt 2026 17:11:43 | <img src="https://cdn.idntimes.com/content-images/post/20260802/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260802171138.jpg" alt=":v" width="200"/> |
