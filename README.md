@@ -5164,3 +5164,5 @@
 | 5160 | Ekin | hai | Minggu, 2 Agt 2026 22:39:49 | <img src="https://cdn.idntimes.com/content-images/post/20260802/85f369d7-6525-41c0-94b8-9a56686713eb-260802223935.jpg" alt="hai" width="200"/> |
 | 5161 | Levi | hai | Minggu, 2 Agt 2026 22:48:37 | <img src="https://cdn.idntimes.com/content-images/post/20260802/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260802224828.jpg" alt="hai" width="200"/> |
 | 5162 | Oline | y | Minggu, 2 Agt 2026 23:04:09 | <img src="https://cdn.idntimes.com/content-images/post/20260802/a2b5d818-475d-44ce-af52-e99526482aaf-260802230401.jpg" alt="y" width="200"/> |
+| 5163 | Lyn | Ayo ngobrol bareng! | Minggu, 2 Agt 2026 23:11:23 | <img src="https://cdn.idntimes.com/content-images/post/20260802/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260802231114.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5164 | Oline | y | Minggu, 2 Agt 2026 23:11:27 | <img src="https://cdn.idntimes.com/content-images/post/20260802/a2b5d818-475d-44ce-af52-e99526482aaf-260802231119.jpg" alt="y" width="200"/> |
