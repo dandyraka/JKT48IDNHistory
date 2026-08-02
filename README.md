@@ -5153,3 +5153,4 @@
 | 5149 | Jemima | Ayo ngobrol bareng! | Minggu, 2 Agt 2026 20:01:38 | <img src="https://cdn.idntimes.com/content-images/post/20260802/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260802200127.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5150 | Rilly | Ngobss | Minggu, 2 Agt 2026 20:02:25 | <img src="https://cdn.idntimes.com/content-images/post/20260802/e9170998-f026-4186-bbc5-a17a3b5b2af1-260802200217.jpg" alt="Ngobss" width="200"/> |
 | 5151 | Delynn | Hi | Minggu, 2 Agt 2026 20:56:59 | <img src="https://cdn.idntimes.com/content-images/post/20260802/266ef38a-da00-4d13-ba77-f94da68599ee-260802205641.jpg" alt="Hi" width="200"/> |
+| 5152 | Aralie | hi | Minggu, 2 Agt 2026 21:12:46 | <img src="https://cdn.idntimes.com/content-images/post/20260802/f001ba66-3c51-4849-9afa-13cf74eb1571-260802211238.jpg" alt="hi" width="200"/> |
