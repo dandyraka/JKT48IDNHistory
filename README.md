@@ -5151,3 +5151,4 @@
 | 5147 | Kathrina | wow | Minggu, 2 Agt 2026 18:38:21 | <img src="https://cdn.idntimes.com/content-images/post/20260802/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260802183809.jpg" alt="wow" width="200"/> |
 | 5148 | Christy | mam | Minggu, 2 Agt 2026 18:39:49 | <img src="https://cdn.idntimes.com/content-images/post/20260802/01506e57-d837-4a1e-8dd4-3e99e3489ac8-260802183940.jpg" alt="mam" width="200"/> |
 | 5149 | Jemima | Ayo ngobrol bareng! | Minggu, 2 Agt 2026 20:01:38 | <img src="https://cdn.idntimes.com/content-images/post/20260802/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260802200127.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5150 | Rilly | Ngobss | Minggu, 2 Agt 2026 20:02:25 | <img src="https://cdn.idntimes.com/content-images/post/20260802/e9170998-f026-4186-bbc5-a17a3b5b2af1-260802200217.jpg" alt="Ngobss" width="200"/> |
