@@ -5170,3 +5170,4 @@
 | 5166 | Lily | BREWEK | Minggu, 2 Agt 2026 23:22:33 | <img src="https://cdn.idntimes.com/content-images/post/20260802/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260802232226.jpg" alt="BREWEK" width="200"/> |
 | 5167 | Lia | Ayo ngobrol bareng! | Minggu, 2 Agt 2026 23:33:32 | <img src="https://cdn.idntimes.com/content-images/post/20260802/15dfee86-a928-4a15-8c90-6aa21097d0ff-260802233327.jpg" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5168 | Elin | Hola | Senin, 3 Agt 2026 09:03:31 | <img src="https://cdn.idntimes.com/content-images/post/20260803/e0ececb4-71d8-4f32-a221-ef21634a746a-260803090324.jpg" alt="Hola" width="200"/> |
+| 5169 | Lulu | sarapan | Senin, 3 Agt 2026 10:26:33 | <img src="https://cdn.idntimes.com/content-images/post/20260803/531d1bc0-ee91-475f-9e9d-098127b8d383-260803102627.jpg" alt="sarapan" width="200"/> |
