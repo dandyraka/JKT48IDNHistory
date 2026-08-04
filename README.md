@@ -5214,3 +5214,4 @@
 | 5210 | Lyn | Ayo ngobrol bareng! | Selasa, 4 Agt 2026 21:21:56 | <img src="https://cdn.idn.app/livestream/3f59736b0e6a31c350c9148ea3710bbb.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5211 | Lily | Hii | Selasa, 4 Agt 2026 21:33:08 | <img src="https://cdn.idn.app/livestream/be711729c748916a4ed74b6a0f1c3ef3.webp" alt="Hii" width="200"/> |
 | 5212 | Levi | hai | Selasa, 4 Agt 2026 21:39:42 | <img src="https://cdn.idn.app/livestream/91c37d9b56023b6688361a331115655e.webp" alt="hai" width="200"/> |
+| 5213 | Lana | Brewekk | Selasa, 4 Agt 2026 22:49:43 | <img src="https://cdn.idn.app/livestream/847443a521e762b8ff30e4baa83cf6d9.webp" alt="Brewekk" width="200"/> |
