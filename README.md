@@ -5236,3 +5236,4 @@
 | 5232 | Kathrina | Hihi | Rabu, 5 Agt 2026 20:34:30 | <img src="https://cdn.idn.app/livestream/855807b257d665dd3fd9109214ba2c04.webp" alt="Hihi" width="200"/> |
 | 5233 | Fritzy | hii | Rabu, 5 Agt 2026 20:35:35 | <img src="https://cdn.idn.app/livestream/239922332a1021372f50338705b798d9.webp" alt="hii" width="200"/> |
 | 5234 | Trisha | haaiii | Rabu, 5 Agt 2026 21:57:25 | <img src="https://cdn.idn.app/livestream/40503521f9f538fa0b92d1087def67df.webp" alt="haaiii" width="200"/> |
+| 5235 | Lia | Ayo ngobrol bareng! | Rabu, 5 Agt 2026 21:59:21 | <img src="https://cdn.idn.app/livestream/08d940a36171ca08d299235b63c1539b.webp" alt="Ayo ngobrol bareng!" width="200"/> |
