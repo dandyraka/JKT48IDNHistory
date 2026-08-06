@@ -5260,3 +5260,4 @@
 | 5256 | Gita | Gits | Kamis, 6 Agt 2026 18:29:16 | <img src="https://cdn.idn.app/livestream/81518d920183968da7ff26f1701f9065.webp" alt="Gits" width="200"/> |
 | 5257 | Nachia | hiiii | Kamis, 6 Agt 2026 18:29:25 | <img src="https://cdn.idn.app/livestream/6e36b226794dc5955720b543613cc3e0.webp" alt="hiiii" width="200"/> |
 | 5258 | Marsha | Plisss | Kamis, 6 Agt 2026 18:29:30 | <img src="https://cdn.idn.app/livestream/9621934b49faca0be932df0c678e8a98.webp" alt="Plisss" width="200"/> |
+| 5259 | Freya | Ayo ngobrol bareng! | Kamis, 6 Agt 2026 18:31:53 | <img src="https://cdn.idn.app/livestream/c7fe495df21e97e4ff2d99e077d148c4.webp" alt="Ayo ngobrol bareng!" width="200"/> |
