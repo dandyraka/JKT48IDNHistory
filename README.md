@@ -5299,3 +5299,4 @@
 | 5295 | Greesel | #GreeFM | Sabtu, 8 Agt 2026 19:42:32 | <img src="https://cdn.idn.app/livestream/bca1151fb53d8f6693c44df41b961044.webp" alt="#GreeFM" width="200"/> |
 | 5296 | Olla | Ayo ngobrol bareng! | Sabtu, 8 Agt 2026 19:45:34 | <img src="https://cdn.idn.app/livestream/83786375263df984bb95e66500147cf3.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5297 | Ribka | p | Sabtu, 8 Agt 2026 19:47:07 | <img src="https://cdn.idn.app/livestream/3ced612c316188ac7795d007665a41d6.webp" alt="p" width="200"/> |
+| 5298 | Nayla | Aku mau  | Sabtu, 8 Agt 2026 20:24:24 | <img src="https://cdn.idn.app/livestream/b6f337f11259bd2db79dd79bdd5ec289.webp" alt="Aku mau " width="200"/> |
