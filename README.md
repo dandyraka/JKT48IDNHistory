@@ -5314,3 +5314,4 @@
 | 5310 | Maira | Ayo ngobrol bareng! | Sabtu, 8 Agt 2026 22:06:36 | <img src="https://cdn.idn.app/livestream/0980ce7f65f89848bb554e46649cff2d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5311 | Nayla | Aku mau  | Sabtu, 8 Agt 2026 22:12:20 | <img src="https://cdn.idn.app/livestream/a8233fb52930aedd451247f206094c03.webp" alt="Aku mau " width="200"/> |
 | 5312 | Lily | Hii | Sabtu, 8 Agt 2026 23:27:53 | <img src="https://cdn.idn.app/livestream/8adfdc7b7f449aa860f46091084b82ff.webp" alt="Hii" width="200"/> |
+| 5313 | Elin | Temenin aku makeup | Minggu, 9 Agt 2026 11:14:59 | <img src="https://cdn.idn.app/livestream/4f37f093c4f0c6fe92cd989a4a465425.webp" alt="Temenin aku makeup" width="200"/> |
