@@ -5339,3 +5339,4 @@
 | 5335 | Danella | Ayo ngobrol bareng! | Senin, 10 Agt 2026 11:23:14 | <img src="https://cdn.idn.app/livestream/9fd0443ae2b52dd78f186465f44e3cc6.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5336 | Elin | Temenin brewek | Senin, 10 Agt 2026 14:35:08 | <img src="https://cdn.idn.app/livestream/8dd982be269efeb98ee5bce0441669ce.webp" alt="Temenin brewek" width="200"/> |
 | 5337 | Lia | IDNNN | Senin, 10 Agt 2026 18:53:26 | <img src="https://cdn.idn.app/livestream/66f7859bdb6ce111f3f064d05ef0ed89.webp" alt="IDNNN" width="200"/> |
+| 5338 | Jessi | 🤓 | Senin, 10 Agt 2026 19:08:19 | <img src="https://cdn.idn.app/livestream/b8ae9393530d1a9c4bedc2dcb19ce21c.webp" alt="🤓" width="200"/> |
