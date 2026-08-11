@@ -5369,3 +5369,4 @@
 | 5365 | Ribka | p | Selasa, 11 Agt 2026 20:25:51 | <img src="https://cdn.idn.app/livestream/b881f29c4d675f3ceb599dcdf3e8d07e.webp" alt="p" width="200"/> |
 | 5366 | Ella | aloo | Selasa, 11 Agt 2026 21:02:47 | <img src="https://cdn.idn.app/livestream/f7a2417f3e4fa98b8d4dfc7ad6c47069.webp" alt="aloo" width="200"/> |
 | 5367 | Raisha | Ayo ngobrol bareng! | Selasa, 11 Agt 2026 21:03:06 | <img src="https://cdn.idn.app/livestream/5fec93e9997ba7985a2cb872a1d91aa6.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5368 | Fritzy | kngn ga | Selasa, 11 Agt 2026 21:09:19 | <img src="https://cdn.idn.app/livestream/24d6a7752bbd0d3e8a86e9ca8876c683.webp" alt="kngn ga" width="200"/> |
