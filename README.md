@@ -5353,3 +5353,5 @@
 | 5349 | Kathrina | Lol | Senin, 10 Agt 2026 22:00:49 | <img src="https://cdn.idn.app/livestream/d2f6a58d08ff458f30b8e13fe0ce01a5.webp" alt="Lol" width="200"/> |
 | 5350 | Virgi | Ayo ngobrol bareng! | Senin, 10 Agt 2026 22:02:59 | <img src="https://cdn.idn.app/livestream/0a080dbc7477cf0924e6cfc08dfca63f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5351 | Christy | mam | Senin, 10 Agt 2026 22:05:29 | <img src="https://cdn.idn.app/livestream/4e54b0ba2bb32d31e635aca53c4a026f.webp" alt="mam" width="200"/> |
+| 5352 | Daisy | Haiii | Selasa, 11 Agt 2026 11:41:22 | <img src="https://cdn.idn.app/livestream/89450e3782599aaebd03859e7adf8a6f.webp" alt="Haiii" width="200"/> |
+| 5353 | Danella | Ayo ngobrol bareng! | Selasa, 11 Agt 2026 11:45:56 | <img src="https://cdn.idn.app/livestream/3edab63492b54e114304f96af5f68533.webp" alt="Ayo ngobrol bareng!" width="200"/> |
