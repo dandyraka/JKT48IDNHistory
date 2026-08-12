@@ -5387,3 +5387,4 @@
 | 5383 | Elin | Haii | Rabu, 12 Agt 2026 17:37:20 | <img src="https://cdn.idn.app/livestream/83512678c1cfe9902c46b41ba5b8f30f.webp" alt="Haii" width="200"/> |
 | 5384 | Greesel | :D | Rabu, 12 Agt 2026 17:38:03 | <img src="https://cdn.idn.app/livestream/f30f426f6ffbc6e4c0f85228453967c2.webp" alt=":D" width="200"/> |
 | 5385 | Cynthia | Ayo ngobrol bareng! | Rabu, 12 Agt 2026 17:41:04 | <img src="https://cdn.idn.app/livestream/f5f6a53ffaf674875dee717602c4e594.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5386 | Greesel | :D | Rabu, 12 Agt 2026 18:13:57 | <img src="https://cdn.idn.app/livestream/96cb0e250c432b2522d3934bfc5586fc.webp" alt=":D" width="200"/> |
