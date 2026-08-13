@@ -5414,3 +5414,4 @@
 | 5410 | Lia | IDNNN | Kamis, 13 Agt 2026 20:29:56 | <img src="https://cdn.idn.app/livestream/a1681b917f398b553937a459e291c1cc.webp" alt="IDNNN" width="200"/> |
 | 5411 | Christy | Ayo ngobrol bareng! | Kamis, 13 Agt 2026 20:30:54 | <img src="https://cdn.idn.app/livestream/bd9855242b344ccf9573e0923803a139.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5412 | Muthe | Hi | Kamis, 13 Agt 2026 20:35:56 | <img src="https://cdn.idn.app/livestream/7f83a6549a4d8949c1e3848b88732fc0.webp" alt="Hi" width="200"/> |
+| 5413 | Danella | Ayo ngobrol bareng! | Kamis, 13 Agt 2026 21:01:50 | <img src="https://cdn.idn.app/livestream/7336f96326c0e19af63da6d9e3c6278f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
