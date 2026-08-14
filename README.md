@@ -5422,3 +5422,4 @@
 | 5418 | Auwia | Temenin jamming | Jumat, 14 Agt 2026 19:47:42 | <img src="https://cdn.idn.app/livestream/03cd67e81dcb41956f490c01d1e2d13d.webp" alt="Temenin jamming" width="200"/> |
 | 5419 | Auwia | Temenin jamming | Jumat, 14 Agt 2026 20:03:47 | <img src="https://cdn.idn.app/livestream/4788eaf98525ccd5177978bd80d2ab59.webp" alt="Temenin jamming" width="200"/> |
 | 5420 | Nayla | Sblm ice krim sampai  | Jumat, 14 Agt 2026 20:07:43 | <img src="https://cdn.idn.app/livestream/33209df592fb7edcf99fe8c2503d031a.webp" alt="Sblm ice krim sampai " width="200"/> |
+| 5421 | Rilly | YAURRR | Jumat, 14 Agt 2026 20:11:35 | <img src="https://cdn.idn.app/livestream/2753d6b3aa6700b7d56f792d46c1b7d3.webp" alt="YAURRR" width="200"/> |
