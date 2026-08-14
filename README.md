@@ -5424,3 +5424,4 @@
 | 5420 | Nayla | Sblm ice krim sampai  | Jumat, 14 Agt 2026 20:07:43 | <img src="https://cdn.idn.app/livestream/33209df592fb7edcf99fe8c2503d031a.webp" alt="Sblm ice krim sampai " width="200"/> |
 | 5421 | Rilly | YAURRR | Jumat, 14 Agt 2026 20:11:35 | <img src="https://cdn.idn.app/livestream/2753d6b3aa6700b7d56f792d46c1b7d3.webp" alt="YAURRR" width="200"/> |
 | 5422 | Oniel | saya kembali | Jumat, 14 Agt 2026 20:22:50 | <img src="https://cdn.idn.app/livestream/08fed2915fd8b7f4f4cd35d5add12a53.webp" alt="saya kembali" width="200"/> |
+| 5423 | Danella | Ayo ngobrol bareng! | Jumat, 14 Agt 2026 20:48:37 | <img src="https://cdn.idn.app/livestream/66d5e97822a650be840bef72f7cda55a.webp" alt="Ayo ngobrol bareng!" width="200"/> |
