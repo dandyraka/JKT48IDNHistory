@@ -5421,3 +5421,4 @@
 | 5417 | Elin | Temenin makeup | Jumat, 14 Agt 2026 12:50:31 | <img src="https://cdn.idn.app/livestream/28bc24df3c02d6db6876b25e8e046cf8.webp" alt="Temenin makeup" width="200"/> |
 | 5418 | Auwia | Temenin jamming | Jumat, 14 Agt 2026 19:47:42 | <img src="https://cdn.idn.app/livestream/03cd67e81dcb41956f490c01d1e2d13d.webp" alt="Temenin jamming" width="200"/> |
 | 5419 | Auwia | Temenin jamming | Jumat, 14 Agt 2026 20:03:47 | <img src="https://cdn.idn.app/livestream/4788eaf98525ccd5177978bd80d2ab59.webp" alt="Temenin jamming" width="200"/> |
+| 5420 | Nayla | Sblm ice krim sampai  | Jumat, 14 Agt 2026 20:07:43 | <img src="https://cdn.idn.app/livestream/33209df592fb7edcf99fe8c2503d031a.webp" alt="Sblm ice krim sampai " width="200"/> |
