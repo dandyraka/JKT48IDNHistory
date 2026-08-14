@@ -5419,3 +5419,4 @@
 | 5415 | Gita | Gits | Kamis, 13 Agt 2026 21:14:36 | <img src="https://cdn.idn.app/livestream/10d9cae79fa77cd4b258c6b14876ffd6.webp" alt="Gits" width="200"/> |
 | 5416 | Trisha | haai | Kamis, 13 Agt 2026 21:29:20 | <img src="https://cdn.idn.app/livestream/af5c9757e2e5c1ef426c733215dff4ce.webp" alt="haai" width="200"/> |
 | 5417 | Elin | Temenin makeup | Jumat, 14 Agt 2026 12:50:31 | <img src="https://cdn.idn.app/livestream/28bc24df3c02d6db6876b25e8e046cf8.webp" alt="Temenin makeup" width="200"/> |
+| 5418 | Auwia | Temenin jamming | Jumat, 14 Agt 2026 19:47:42 | <img src="https://cdn.idn.app/livestream/03cd67e81dcb41956f490c01d1e2d13d.webp" alt="Temenin jamming" width="200"/> |
