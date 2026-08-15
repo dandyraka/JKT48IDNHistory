@@ -5443,3 +5443,4 @@
 | 5439 | Nala | yooo | Jumat, 14 Agt 2026 23:50:01 | <img src="https://cdn.idn.app/livestream/fffb3a5543018b35a17477bd238540b8.webp" alt="yooo" width="200"/> |
 | 5440 | Lana | Review gifteu yaur | Jumat, 14 Agt 2026 23:50:07 | <img src="https://cdn.idn.app/livestream/878801af801442ee7e57877b4d8d5190.webp" alt="Review gifteu yaur" width="200"/> |
 | 5441 | Maira | Ayo ngobrol bareng! | Sabtu, 15 Agt 2026 08:59:03 | <img src="https://cdn.idn.app/livestream/9a4523ab4f3868e768e8416fa455acd3.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5442 | Lulu | masaakk | Sabtu, 15 Agt 2026 09:52:33 | <img src="https://cdn.idn.app/livestream/e33ad3bf7b5044199eb20eca9614124f.webp" alt="masaakk" width="200"/> |
