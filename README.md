@@ -5446,3 +5446,5 @@
 | 5442 | Lulu | masaakk | Sabtu, 15 Agt 2026 09:52:33 | <img src="https://cdn.idn.app/livestream/e33ad3bf7b5044199eb20eca9614124f.webp" alt="masaakk" width="200"/> |
 | 5443 | Lyn | Ayo ngobrol bareng! | Sabtu, 15 Agt 2026 13:36:47 | <img src="https://cdn.idn.app/livestream/579a5d0ccc88a42ef8d61fa5d1f67b72.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5444 | Marsha | Plisss | Sabtu, 15 Agt 2026 14:27:00 | <img src="https://cdn.idn.app/livestream/4957eb1eeca5b7ccf7fabdd3aa63b63f.webp" alt="Plisss" width="200"/> |
+| 5445 | Greesel | :D | Sabtu, 15 Agt 2026 14:27:08 | <img src="https://cdn.idn.app/livestream/33fdd1d15ee5d47181b05caa4795b190.webp" alt=":D" width="200"/> |
+| 5446 | Indah | Ayo ngobrol bareng! | Sabtu, 15 Agt 2026 14:27:17 | <img src="https://cdn.idn.app/livestream/3f6f025b6396ebd678b594f4f8fce06b.webp" alt="Ayo ngobrol bareng!" width="200"/> |
