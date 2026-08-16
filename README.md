@@ -5481,3 +5481,4 @@
 | 5477 | Elin | Bentarr ajaaa | Minggu, 16 Agt 2026 11:15:23 | <img src="https://cdn.idn.app/livestream/021d96c82a87b9c137c7e8b12094e465.webp" alt="Bentarr ajaaa" width="200"/> |
 | 5478 | Levi | hai | Minggu, 16 Agt 2026 11:45:12 | <img src="https://cdn.idn.app/livestream/b24a3eef2b155bfb833980c45d33128a.webp" alt="hai" width="200"/> |
 | 5479 | Elin | Part 2 | Minggu, 16 Agt 2026 12:03:01 | <img src="https://cdn.idn.app/livestream/935eb1ea15c5ccf180b76fbe4b01f400.webp" alt="Part 2" width="200"/> |
+| 5480 | Lyn | Ayo ngobrol bareng! | Minggu, 16 Agt 2026 16:54:27 | <img src="https://cdn.idn.app/livestream/74edd99d474aa0c42388e97a616a3379.webp" alt="Ayo ngobrol bareng!" width="200"/> |
