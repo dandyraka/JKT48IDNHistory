@@ -5478,3 +5478,4 @@
 | 5474 | Eli | BEBAS | Sabtu, 15 Agt 2026 22:45:30 | <img src="https://cdn.idn.app/livestream/4f9497794d55b68ad637c3819469a8c4.webp" alt="BEBAS" width="200"/> |
 | 5475 | Lia | IDNNN | Sabtu, 15 Agt 2026 22:49:54 | <img src="https://cdn.idn.app/livestream/628ecafc5d56fc313e2458777ef07b8e.webp" alt="IDNNN" width="200"/> |
 | 5476 | Lily | ready go go go | Minggu, 16 Agt 2026 10:23:12 | <img src="https://cdn.idn.app/livestream/60ffd1f5e6bf358e181533017de1a254.webp" alt="ready go go go" width="200"/> |
+| 5477 | Elin | Bentarr ajaaa | Minggu, 16 Agt 2026 11:15:23 | <img src="https://cdn.idn.app/livestream/021d96c82a87b9c137c7e8b12094e465.webp" alt="Bentarr ajaaa" width="200"/> |
