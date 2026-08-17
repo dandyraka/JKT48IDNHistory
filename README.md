@@ -5506,3 +5506,4 @@
 | 5502 | Nala | yooo | Senin, 17 Agt 2026 14:26:37 | <img src="https://cdn.idn.app/livestream/bc8a086c3dc066b94bcfebac4ec355ac.webp" alt="yooo" width="200"/> |
 | 5503 | Lily | Makan | Senin, 17 Agt 2026 15:03:28 | <img src="https://cdn.idn.app/livestream/efe9abf87a78b39bc4c6c0d5a0e5d213.webp" alt="Makan" width="200"/> |
 | 5504 | Cynthia | Ayo ngobrol bareng! | Senin, 17 Agt 2026 15:18:55 | <img src="https://cdn.idn.app/livestream/3ef7980fcbd6349629b02fcd832e60f4.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5505 | Gita | Gits | Senin, 17 Agt 2026 15:49:54 | <img src="https://cdn.idn.app/livestream/ddaf8965fcd24a8cc1ac389155343af7.webp" alt="Gits" width="200"/> |
