@@ -5544,3 +5544,4 @@
 | 5540 | Levi | hai | Selasa, 18 Agt 2026 20:07:01 | <img src="https://cdn.idn.app/livestream/fd5e133f408a84f968e89eb742846f93.webp" alt="hai" width="200"/> |
 | 5541 | Eli | BEBAS | Selasa, 18 Agt 2026 20:07:32 | <img src="https://cdn.idn.app/livestream/bd5b383c16b53bec7c7fcc3842868580.webp" alt="BEBAS" width="200"/> |
 | 5542 | Nachia | yaaa | Selasa, 18 Agt 2026 20:45:18 | <img src="https://cdn.idn.app/livestream/a8a81c47ec9025368160c1e36d84375a.webp" alt="yaaa" width="200"/> |
+| 5543 | Jemima | Ayo ngobrol bareng! | Selasa, 18 Agt 2026 21:30:46 | <img src="https://cdn.idn.app/livestream/72022ee455dc09eb43959ee7295b606f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
