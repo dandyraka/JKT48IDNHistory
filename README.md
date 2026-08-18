@@ -5534,3 +5534,4 @@
 | 5530 | Lia | IDNNN | Selasa, 18 Agt 2026 12:24:27 | <img src="https://cdn.idn.app/livestream/6c808fd17b55cff2a15cd25151cc6938.webp" alt="IDNNN" width="200"/> |
 | 5531 | Gita | Gits | Selasa, 18 Agt 2026 15:29:36 | <img src="https://cdn.idn.app/livestream/4e8d06a9377a8a02e6a13736f1c848d2.webp" alt="Gits" width="200"/> |
 | 5532 | Elin | Hi | Selasa, 18 Agt 2026 17:41:47 | <img src="https://cdn.idn.app/livestream/de1ba5396669cddf8b4cd8684c894294.webp" alt="Hi" width="200"/> |
+| 5533 | Lyn | Ayo ngobrol bareng! | Selasa, 18 Agt 2026 18:01:23 | <img src="https://cdn.idn.app/livestream/25d2a968bf60e47c227f010eda9b49c3.webp" alt="Ayo ngobrol bareng!" width="200"/> |
