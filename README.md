@@ -5620,4 +5620,3 @@
 | 5616 | Intan | live sm bong | Sabtu, 22 Agt 2026 16:28:34 | <img src="https://cdn.idn.app/livestream/4316ff8a408e8cf1fbcee5737e4c4cc1.webp" alt="live sm bong" width="200"/> |
 | 5617 | Lia | Ayo ngobrol bareng! | Sabtu, 22 Agt 2026 16:40:15 | <img src="https://cdn.idn.app/livestream/12a7f72c14049ebaeb51b50778fbabc5.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5618 | Indah | Ayo ngobrol bareng! | Sabtu, 22 Agt 2026 16:40:27 | <img src="https://cdn.idn.app/livestream/20ba94eb40a1500f903373c1bc04feeb.webp" alt="Ayo ngobrol bareng!" width="200"/> |
-| 5619 | Nayla | Sama Kaka kakaa | Sabtu, 22 Agt 2026 16:41:34 | <img src="https://cdn.idn.app/livestream/952ddea8847b471e7021b6c60cd6a193.webp" alt="Sama Kaka kakaa" width="200"/> |
