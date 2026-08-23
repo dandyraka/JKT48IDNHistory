@@ -5639,3 +5639,5 @@
 | 5635 | Danella | Ayo ngobrol bareng! | Minggu, 23 Agt 2026 19:50:23 | <img src="https://cdn.idn.app/livestream/a593119f3025b58e2eb4ccdeaa932793.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5636 | Daisy | Hai | Minggu, 23 Agt 2026 19:56:33 | <img src="https://cdn.idn.app/livestream/812430a0c35b3b327ed3d216b8f2dfb7.webp" alt="Hai" width="200"/> |
 | 5637 | Raisha | Ayo ngobrol bareng! | Minggu, 23 Agt 2026 21:13:39 | <img src="https://cdn.idn.app/livestream/07ed2dc6a59a10e27197b0b63f2e733b.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5638 | Ribka | Hi | Minggu, 23 Agt 2026 21:22:16 | <img src="https://cdn.idn.app/livestream/7071a2adeb1e7863a66cc34f84d99cbf.webp" alt="Hi" width="200"/> |
+| 5639 | Levi | Ayo ngobrol bareng! | Minggu, 23 Agt 2026 21:22:33 | <img src="https://cdn.idn.app/livestream/ee5e07c532f50e0466003a326e217bcd.webp" alt="Ayo ngobrol bareng!" width="200"/> |
