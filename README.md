@@ -5637,3 +5637,4 @@
 | 5633 | Giaa | lomba | Minggu, 23 Agt 2026 18:46:47 | <img src="https://cdn.idn.app/livestream/86b0d7d5357d96bc20da6bfac0405f21.webp" alt="lomba" width="200"/> |
 | 5634 | Nachia | yaaa | Minggu, 23 Agt 2026 19:21:27 | <img src="https://cdn.idn.app/livestream/ccc119fb8097691aea7d2f362b88965b.webp" alt="yaaa" width="200"/> |
 | 5635 | Danella | Ayo ngobrol bareng! | Minggu, 23 Agt 2026 19:50:23 | <img src="https://cdn.idn.app/livestream/a593119f3025b58e2eb4ccdeaa932793.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5636 | Daisy | Hai | Minggu, 23 Agt 2026 19:56:33 | <img src="https://cdn.idn.app/livestream/812430a0c35b3b327ed3d216b8f2dfb7.webp" alt="Hai" width="200"/> |
