@@ -5684,3 +5684,4 @@
 | 5680 | Gracie | hiii | Senin, 24 Agt 2026 21:14:33 | <img src="https://cdn.idn.app/livestream/0691047266d883819fe00def48ced41a.webp" alt="hiii" width="200"/> |
 | 5681 | Jemima | Ayo ngobrol bareng! | Senin, 24 Agt 2026 21:44:20 | <img src="https://cdn.idn.app/livestream/75066cf9568800667d42775dc034991c.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5682 | Lia | Ayo ngobrol bareng! | Senin, 24 Agt 2026 22:02:16 | <img src="https://cdn.idn.app/livestream/7e2dbb549f11d9b3aba1ccba77fc21ba.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5683 | Giaa | bosen bgt gatau mau ngapain | Senin, 24 Agt 2026 22:19:37 | <img src="https://cdn.idn.app/livestream/5457bfbc0acc11bcd182e7df8cebd4b6.webp" alt="bosen bgt gatau mau ngapain" width="200"/> |
