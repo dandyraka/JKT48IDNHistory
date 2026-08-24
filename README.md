@@ -5683,3 +5683,4 @@
 | 5679 | Virgi | Ayo ngobrol bareng! | Senin, 24 Agt 2026 20:50:15 | <img src="https://cdn.idn.app/livestream/04cd917a754297b34c4895f3ea205956.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5680 | Gracie | hiii | Senin, 24 Agt 2026 21:14:33 | <img src="https://cdn.idn.app/livestream/0691047266d883819fe00def48ced41a.webp" alt="hiii" width="200"/> |
 | 5681 | Jemima | Ayo ngobrol bareng! | Senin, 24 Agt 2026 21:44:20 | <img src="https://cdn.idn.app/livestream/75066cf9568800667d42775dc034991c.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5682 | Lia | Ayo ngobrol bareng! | Senin, 24 Agt 2026 22:02:16 | <img src="https://cdn.idn.app/livestream/7e2dbb549f11d9b3aba1ccba77fc21ba.webp" alt="Ayo ngobrol bareng!" width="200"/> |
