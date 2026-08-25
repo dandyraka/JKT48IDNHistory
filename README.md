@@ -5709,5 +5709,3 @@
 | 5705 | Indah | Ayo ngobrol bareng! | Selasa, 25 Agt 2026 20:27:14 | <img src="https://cdn.idn.app/livestream/b5537d6f38de2a8963907ce68584d2fa.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5706 | Jessi | halo | Selasa, 25 Agt 2026 20:29:41 | <img src="https://cdn.idn.app/livestream/bd552dd3777794e43d18fea89300048e.webp" alt="halo" width="200"/> |
 | 5707 | Anindya | hihohi | Selasa, 25 Agt 2026 21:06:24 | <img src="https://cdn.idn.app/livestream/9d6402136ca4941161ba9f7a21efc7ae.webp" alt="hihohi" width="200"/> |
-| 5708 | Gracie | hiii | Selasa, 25 Agt 2026 21:14:00 | <img src="https://cdn.idn.app/livestream/cef9a26ed909255284f97bf19d2cc674.webp" alt="hiii" width="200"/> |
-| 5709 | Anindya | hm | Selasa, 25 Agt 2026 21:14:16 | <img src="https://cdn.idn.app/livestream/99c8c00e15ddba8a544b64d2b8876979.webp" alt="hm" width="200"/> |
