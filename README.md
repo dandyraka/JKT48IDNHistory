@@ -5721,3 +5721,4 @@
 | 5717 | Michie | hi | Selasa, 25 Agt 2026 22:17:41 | <img src="https://cdn.idn.app/livestream/13c597082a0749c8f1d3566bb5ca2b63.webp" alt="hi" width="200"/> |
 | 5718 | Alya | Ayo ngobrol bareng! | Selasa, 25 Agt 2026 22:26:13 | <img src="https://cdn.idn.app/livestream/a5fa05dbedaf882b7e2119082b7f31c7.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5719 | Levi | hai | Selasa, 25 Agt 2026 22:37:32 | <img src="https://cdn.idn.app/livestream/b793cfdb97ed81a20164aab765dec0c3.webp" alt="hai" width="200"/> |
+| 5720 | Anindya | halo!!!! | Rabu, 26 Agt 2026 14:53:07 | <img src="https://cdn.idn.app/livestream/ec724de9da4ab2a69c9934ccdf13c403.webp" alt="halo!!!!" width="200"/> |
