@@ -5746,3 +5746,4 @@
 | 5742 | Gracie | hiii | Rabu, 26 Agt 2026 19:20:51 | <img src="https://cdn.idn.app/livestream/f11d0d30d8ca46ae9e0236bb24443a87.webp" alt="hiii" width="200"/> |
 | 5743 | Gracie | hiii | Rabu, 26 Agt 2026 19:25:10 | <img src="https://cdn.idn.app/livestream/98910f8deb1af74aea3a7e6ad028f2a6.webp" alt="hiii" width="200"/> |
 | 5744 | Lulu | yippey | Rabu, 26 Agt 2026 20:32:16 | <img src="https://cdn.idn.app/livestream/3703346e952db8ac77d30ad834937f92.webp" alt="yippey" width="200"/> |
+| 5745 | Fritzy | gi apaa | Rabu, 26 Agt 2026 20:33:27 | <img src="https://cdn.idn.app/livestream/2c1ab821e7138153d093029ce543a7fb.webp" alt="gi apaa" width="200"/> |
