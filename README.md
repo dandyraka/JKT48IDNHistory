@@ -5780,3 +5780,5 @@
 | 5776 | Lulu | sama passion | Jumat, 28 Agt 2026 21:58:49 | <img src="https://cdn.idn.app/livestream/fef8d40b68663edfdf12068f95f24ebb.webp" alt="sama passion" width="200"/> |
 | 5777 | Jessi | after show | Jumat, 28 Agt 2026 21:59:09 | <img src="https://cdn.idn.app/livestream/cb6ad54af30581fa67ff8666aa2020d1.webp" alt="after show" width="200"/> |
 | 5778 | Erine | diroriiiii | Jumat, 28 Agt 2026 21:59:29 | <img src="https://cdn.idn.app/livestream/ee932bf8034f4b092ea18429d9cb6eda.webp" alt="diroriiiii" width="200"/> |
+| 5779 | Ribka | p | Jumat, 28 Agt 2026 21:59:45 | <img src="https://cdn.idn.app/livestream/1b07c8aa5a965366da180601d2e6d4a6.webp" alt="p" width="200"/> |
+| 5780 | Christy | Ayo ngobrol bareng! | Jumat, 28 Agt 2026 21:59:59 | <img src="https://cdn.idn.app/livestream/9a710de31bd05e0ebacb145e63e0a596.webp" alt="Ayo ngobrol bareng!" width="200"/> |
