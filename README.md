@@ -5789,3 +5789,4 @@
 | 5785 | Raisha | Ayo ngobrol bareng! | Jumat, 28 Agt 2026 22:10:13 | <img src="https://cdn.idn.app/livestream/696a6b483f6bea8b76b7f56fad3bdf86.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5786 | Christy | Ayo ngobrol bareng! | Jumat, 28 Agt 2026 22:11:39 | <img src="https://cdn.idn.app/livestream/900e70db690885f4ffd684a7b5f13531.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5787 | Kathrina | wup | Jumat, 28 Agt 2026 22:11:42 | <img src="https://cdn.idn.app/livestream/2e1b3fed9552db3b3451bf9c8b0b8b15.webp" alt="wup" width="200"/> |
+| 5788 | Trisha | haaii | Jumat, 28 Agt 2026 22:14:06 | <img src="https://cdn.idn.app/livestream/6a9933142db012f3eadb1e4f795ed37c.webp" alt="haaii" width="200"/> |
