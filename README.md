@@ -5784,3 +5784,4 @@
 | 5780 | Christy | Ayo ngobrol bareng! | Jumat, 28 Agt 2026 21:59:59 | <img src="https://cdn.idn.app/livestream/9a710de31bd05e0ebacb145e63e0a596.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5781 | Kimmy | helo | Jumat, 28 Agt 2026 22:00:35 | <img src="https://cdn.idn.app/livestream/fa29b200008e782ca3de76895f0e57f7.webp" alt="helo" width="200"/> |
 | 5782 | Cynthia | Ayo ngobrol bareng! | Jumat, 28 Agt 2026 22:07:18 | <img src="https://cdn.idn.app/livestream/eb2e6750045c0ab8b6049e8f668b6373.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5783 | Mikaela | Ayo ngobrol bareng! | Jumat, 28 Agt 2026 22:09:35 | <img src="https://cdn.idn.app/livestream/a300202ca6d3644b6a38aeba5ff053c5.webp" alt="Ayo ngobrol bareng!" width="200"/> |
