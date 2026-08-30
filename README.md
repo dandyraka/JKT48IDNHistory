@@ -5809,4 +5809,3 @@
 | 5805 | Lyn | Ayo ngobrol bareng! | Minggu, 30 Agt 2026 13:39:53 | <img src="https://cdn.idn.app/livestream/a830041948c474deea026d1f07e869b7.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5806 | Greesel | mamm | Minggu, 30 Agt 2026 13:40:13 | <img src="https://cdn.idn.app/livestream/c276617718f32638b60578059160ffd7.webp" alt="mamm" width="200"/> |
 | 5807 | Ella | aloo | Minggu, 30 Agt 2026 13:40:26 | <img src="https://cdn.idn.app/livestream/5bb6a1979dc9456acf09e75304a711c4.webp" alt="aloo" width="200"/> |
-| 5808 | Lyn | Ayo ngobrol bareng! | Minggu, 30 Agt 2026 13:47:44 | <img src="https://cdn.idn.app/livestream/e96f8f8a6e4a7f18fd09ab2bb61d0430.webp" alt="Ayo ngobrol bareng!" width="200"/> |
