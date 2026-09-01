@@ -5846,3 +5846,4 @@
 | 5842 | Lia | Ayo ngobrol bareng! | Selasa, 1 Sep 2026 17:00:56 | <img src="https://cdn.idn.app/livestream/df6c33d6e991b7cecb4b702751d3c21d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5843 | Alya | Ayo ngobrol bareng! | Selasa, 1 Sep 2026 18:09:39 | <img src="https://cdn.idn.app/livestream/1d08fbf12f8e173c94b1c82ee7e985b8.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5844 | Cynthia | Ayo ngobrol bareng! | Selasa, 1 Sep 2026 18:09:43 | <img src="https://cdn.idn.app/livestream/e5567a9e4095bf0a0548c5ca2e3c37f2.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5845 | Nayla | え | Selasa, 1 Sep 2026 19:38:38 | <img src="https://cdn.idn.app/livestream/46532aba57b93bfd68242a21d684cedb.webp" alt="え" width="200"/> |
