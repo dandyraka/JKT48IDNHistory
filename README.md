@@ -5843,3 +5843,4 @@
 | 5839 | Aralie | hi | Selasa, 1 Sep 2026 16:24:14 | <img src="https://cdn.idn.app/livestream/4da72d1dbd2d096c117b8067a877df63.webp" alt="hi" width="200"/> |
 | 5840 | Aralie | hi | Selasa, 1 Sep 2026 16:28:28 | <img src="https://cdn.idn.app/livestream/1b03c67a3c79133c142d5db8fb9dae87.webp" alt="hi" width="200"/> |
 | 5841 | Aralie | hi | Selasa, 1 Sep 2026 16:29:08 | <img src="https://cdn.idn.app/livestream/1ce410e9380a0b36c425dcbe6ecf218d.webp" alt="hi" width="200"/> |
+| 5842 | Lia | Ayo ngobrol bareng! | Selasa, 1 Sep 2026 17:00:56 | <img src="https://cdn.idn.app/livestream/df6c33d6e991b7cecb4b702751d3c21d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
