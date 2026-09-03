@@ -5883,3 +5883,4 @@
 | 5879 | Oline | Live | Kamis, 3 Sep 2026 21:31:35 | <img src="https://cdn.idn.app/livestream/fe3b4c2d6afa374754b0c98cc7a9a950.webp" alt="Live" width="200"/> |
 | 5880 | Anindya | halo!!!! | Kamis, 3 Sep 2026 22:49:46 | <img src="https://cdn.idn.app/livestream/6e3810a6287ca328c2fde62973b882b4.webp" alt="halo!!!!" width="200"/> |
 | 5881 | Trisha | haii | Kamis, 3 Sep 2026 22:52:00 | <img src="https://cdn.idn.app/livestream/b76f4a9df47bff2b10dec1224916f949.webp" alt="haii" width="200"/> |
+| 5882 | Mikaela | Ayo ngobrol bareng! | Kamis, 3 Sep 2026 23:12:01 | <img src="https://cdn.idn.app/livestream/8e10929e1a2ac9f0b17e2bc2abac429c.webp" alt="Ayo ngobrol bareng!" width="200"/> |
