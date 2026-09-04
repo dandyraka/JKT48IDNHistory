@@ -5893,3 +5893,4 @@
 | 5889 | Lulu | kemas bahan makan | Jumat, 4 Sep 2026 19:49:26 | <img src="https://cdn.idn.app/livestream/b463fca8715ec572ccf52ce7db1d1ba1.webp" alt="kemas bahan makan" width="200"/> |
 | 5890 | Nayla | え | Jumat, 4 Sep 2026 20:13:06 | <img src="https://cdn.idn.app/livestream/b15b1271f26da780309fec4005598051.webp" alt="え" width="200"/> |
 | 5891 | Lana | Hii | Jumat, 4 Sep 2026 20:13:23 | <img src="https://cdn.idn.app/livestream/22138d4e85232c4bb46b8b0587165571.webp" alt="Hii" width="200"/> |
+| 5892 | Fritzy | hiii | Jumat, 4 Sep 2026 20:23:09 | <img src="https://cdn.idn.app/livestream/fc3221745b1bfc8db968109d0a64a788.webp" alt="hiii" width="200"/> |
