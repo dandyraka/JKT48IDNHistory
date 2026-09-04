@@ -5890,3 +5890,4 @@
 | 5886 | Raisha | Ayo ngobrol bareng! | Jumat, 4 Sep 2026 18:21:07 | <img src="https://cdn.idn.app/livestream/da966642b857155f9176cfafa606a952.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5887 | Raisha | Ayo ngobrol bareng! | Jumat, 4 Sep 2026 19:04:02 | <img src="https://cdn.idn.app/livestream/e72c47762763d3e9789a8f69e5ae06bc.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5888 | Raisha | Ayo ngobrol bareng! | Jumat, 4 Sep 2026 19:04:54 | <img src="https://cdn.idn.app/livestream/3497223bae07d078e57f8c32587e5aa1.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 5889 | Lulu | kemas bahan makan | Jumat, 4 Sep 2026 19:49:26 | <img src="https://cdn.idn.app/livestream/b463fca8715ec572ccf52ce7db1d1ba1.webp" alt="kemas bahan makan" width="200"/> |
