@@ -5970,3 +5970,4 @@
 | 5966 | Aralie | hi | Senin, 7 Sep 2026 21:22:52 | <img src="https://cdn.idn.app/livestream/0b6d330de8986035f1e79446d9179b3a.webp" alt="hi" width="200"/> |
 | 5967 | Jessi | hello | Senin, 7 Sep 2026 21:23:22 | <img src="https://cdn.idn.app/livestream/df52f9bc7ddd65b2e679d955a9910ec3.webp" alt="hello" width="200"/> |
 | 5968 | Nachia | hi | Senin, 7 Sep 2026 21:37:20 | <img src="https://cdn.idn.app/livestream/d6264f0d7e3d586442e371d00390f6a2.webp" alt="hi" width="200"/> |
+| 5969 | Cynthia | Ayo ngobrol bareng! | Senin, 7 Sep 2026 22:00:49 | <img src="https://cdn.idn.app/livestream/00f407c7c13e5dd26e9ef1a2a82c1301.webp" alt="Ayo ngobrol bareng!" width="200"/> |
