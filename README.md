@@ -5989,3 +5989,4 @@
 | 5985 | Eli | Ayo ngobrol bareng! | Selasa, 8 Sep 2026 19:36:58 | <img src="https://cdn.idn.app/livestream/6f1bc4cd1b42e2bedde6139b2011351f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 5986 | Lily | Haii | Selasa, 8 Sep 2026 19:50:21 | <img src="https://cdn.idn.app/livestream/98527edca96e4723b9a98df119805eb8.webp" alt="Haii" width="200"/> |
 | 5987 | Ribka | Hi | Selasa, 8 Sep 2026 21:04:05 | <img src="https://cdn.idn.app/livestream/2d664fda184db194faf076c243424a8d.webp" alt="Hi" width="200"/> |
+| 5988 | Raisha | Ayo ngobrol bareng! | Selasa, 8 Sep 2026 21:19:33 | <img src="https://cdn.idn.app/livestream/6e00f17959931aa6607d1a186c71d5f7.webp" alt="Ayo ngobrol bareng!" width="200"/> |
