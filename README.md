@@ -5983,3 +5983,4 @@
 | 5979 | Erine | diroriiiii | Selasa, 8 Sep 2026 16:17:16 | <img src="https://cdn.idn.app/livestream/b05b2bf25feb5f37ea74f7a4e94e44dc.webp" alt="diroriiiii" width="200"/> |
 | 5980 | Ella | aloo | Selasa, 8 Sep 2026 18:39:56 | <img src="https://cdn.idn.app/livestream/aeb7afd898e7b0be8539308c9958a044.webp" alt="aloo" width="200"/> |
 | 5981 | Oline | y | Selasa, 8 Sep 2026 18:40:35 | <img src="https://cdn.idn.app/livestream/066f6cf9c05f7d66b49739030d1b3503.webp" alt="y" width="200"/> |
+| 5982 | Indah | Ayo ngobrol bareng! | Selasa, 8 Sep 2026 19:08:13 | <img src="https://cdn.idn.app/livestream/5036ce4550637df3be807c3cdb380f68.webp" alt="Ayo ngobrol bareng!" width="200"/> |
