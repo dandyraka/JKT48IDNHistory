@@ -6004,3 +6004,4 @@
 | 6000 | Eli | Ayo ngobrol bareng! | Rabu, 9 Sep 2026 20:01:16 | <img src="https://cdn.idn.app/livestream/ef0530ee35896ac320d4133a02517ec8.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6001 | Olla | Ayo ngobrol bareng! | Rabu, 9 Sep 2026 21:14:11 | <img src="https://cdn.idn.app/livestream/d154e52543c0d95b3b522a25c17883f3.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6002 | Aralie | hi | Kamis, 10 Sep 2026 11:43:26 | <img src="https://cdn.idn.app/livestream/bc49b04fa799e3d188ec9677f39abcf5.webp" alt="hi" width="200"/> |
+| 6003 | Giaa | mam | Kamis, 10 Sep 2026 11:52:02 | <img src="https://cdn.idn.app/livestream/f684bf4e691779dd574426949e941c13.webp" alt="mam" width="200"/> |
