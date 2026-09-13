@@ -6060,3 +6060,4 @@
 | 6056 | Nala | yooo | Minggu, 13 Sep 2026 22:28:54 | <img src="https://cdn.idn.app/livestream/90a4d55db85379475b482a9ebd161cef.webp" alt="yooo" width="200"/> |
 | 6057 | Eli | Ayo ngobrol bareng! | Minggu, 13 Sep 2026 22:49:53 | <img src="https://cdn.idn.app/livestream/6edc1cd75e52a25bd9e65216004ff607.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6058 | Nayla | Night routine | Minggu, 13 Sep 2026 23:15:08 | <img src="https://cdn.idn.app/livestream/720a308b2ac89037711ce51e7f7af811.webp" alt="Night routine" width="200"/> |
+| 6059 | Lana | 20🎂🩷 | Minggu, 13 Sep 2026 23:15:46 | <img src="https://cdn.idn.app/livestream/9d47bb5ef6cab5e11ba7495998e91905.webp" alt="20🎂🩷" width="200"/> |
