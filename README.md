@@ -6040,3 +6040,4 @@
 | 6036 | Indah | Ayo ngobrol bareng! | Minggu, 13 Sep 2026 19:18:49 | <img src="https://cdn.idn.app/livestream/a2cd98ad962543b074f39f0d3e87f771.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6037 | Daisy | haii | Minggu, 13 Sep 2026 19:21:59 | <img src="https://cdn.idn.app/livestream/4ecdccd86a6afdfa356acb611962385c.webp" alt="haii" width="200"/> |
 | 6038 | Levi | hai | Minggu, 13 Sep 2026 19:26:55 | <img src="https://cdn.idn.app/livestream/6f8d18ece7f5f0e6fce0268a933b22cf.webp" alt="hai" width="200"/> |
+| 6039 | Ribka | Hi | Minggu, 13 Sep 2026 19:37:29 | <img src="https://cdn.idn.app/livestream/7f1246af3a36939847407068f05a9e92.webp" alt="Hi" width="200"/> |
