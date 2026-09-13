@@ -6057,3 +6057,4 @@
 | 6053 | Oline | y | Minggu, 13 Sep 2026 22:24:46 | <img src="https://cdn.idn.app/livestream/1c5c108d6d11f9bd8b6b88d1bce66c8c.webp" alt="y" width="200"/> |
 | 6054 | Olla | Ayo ngobrol bareng! | Minggu, 13 Sep 2026 22:24:49 | <img src="https://cdn.idn.app/livestream/dd6b58fc2dd2181286dfc9c9f5908667.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6055 | Giaa | p | Minggu, 13 Sep 2026 22:27:06 | <img src="https://cdn.idn.app/livestream/e5e817fda20ec15fedf108a1d117023f.webp" alt="p" width="200"/> |
+| 6056 | Nala | yooo | Minggu, 13 Sep 2026 22:28:54 | <img src="https://cdn.idn.app/livestream/90a4d55db85379475b482a9ebd161cef.webp" alt="yooo" width="200"/> |
