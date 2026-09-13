@@ -6053,3 +6053,6 @@
 | 6049 | Ekin | hi | Minggu, 13 Sep 2026 22:15:55 | <img src="https://cdn.idn.app/livestream/422f93b8ce2f341db495f95f3cff7655.webp" alt="hi" width="200"/> |
 | 6050 | Gita | Gits | Minggu, 13 Sep 2026 22:23:24 | <img src="https://cdn.idn.app/livestream/58cea3125e896b0a7666159c859aa9ba.webp" alt="Gits" width="200"/> |
 | 6051 | Greesel | yuhuuu | Minggu, 13 Sep 2026 22:23:57 | <img src="https://cdn.idn.app/livestream/8b5495034bb353d856b1bdc39186e256.webp" alt="yuhuuu" width="200"/> |
+| 6052 | Nachia | hi | Minggu, 13 Sep 2026 22:24:40 | <img src="https://cdn.idn.app/livestream/de20fce1779540bf375427c085db1ccc.webp" alt="hi" width="200"/> |
+| 6053 | Oline | y | Minggu, 13 Sep 2026 22:24:46 | <img src="https://cdn.idn.app/livestream/1c5c108d6d11f9bd8b6b88d1bce66c8c.webp" alt="y" width="200"/> |
+| 6054 | Olla | Ayo ngobrol bareng! | Minggu, 13 Sep 2026 22:24:49 | <img src="https://cdn.idn.app/livestream/dd6b58fc2dd2181286dfc9c9f5908667.webp" alt="Ayo ngobrol bareng!" width="200"/> |
