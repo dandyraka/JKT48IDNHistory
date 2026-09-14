@@ -6065,3 +6065,4 @@
 | 6061 | Aralie | hi | Senin, 14 Sep 2026 13:57:37 | <img src="https://cdn.idn.app/livestream/50757e06a2ae553842a8a7f22e0b6a98.webp" alt="hi" width="200"/> |
 | 6062 | Maira | Let’s go!!! | Senin, 14 Sep 2026 19:43:35 | <img src="https://cdn.idn.app/livestream/13d7adc1a685635f925899fc3df9fcb7.webp" alt="Let’s go!!!" width="200"/> |
 | 6063 | Intan | sdg apaaa | Senin, 14 Sep 2026 19:59:13 | <img src="https://cdn.idn.app/livestream/ac5ce99671a1dfb3a0e9bc1604daaf15.webp" alt="sdg apaaa" width="200"/> |
+| 6064 | Jemima | Ayo ngobrol bareng! | Senin, 14 Sep 2026 20:56:23 | <img src="https://cdn.idn.app/livestream/56f844d967a431e8e356186d12fd4177.webp" alt="Ayo ngobrol bareng!" width="200"/> |
