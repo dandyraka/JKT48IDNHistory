@@ -6062,3 +6062,4 @@
 | 6058 | Nayla | Night routine | Minggu, 13 Sep 2026 23:15:08 | <img src="https://cdn.idn.app/livestream/720a308b2ac89037711ce51e7f7af811.webp" alt="Night routine" width="200"/> |
 | 6059 | Lana | 20🎂🩷 | Minggu, 13 Sep 2026 23:15:46 | <img src="https://cdn.idn.app/livestream/9d47bb5ef6cab5e11ba7495998e91905.webp" alt="20🎂🩷" width="200"/> |
 | 6060 | Nayla | Night routine | Minggu, 13 Sep 2026 23:20:20 | <img src="https://cdn.idn.app/livestream/cd43b52624f404c3e54d0af783752f3d.webp" alt="Night routine" width="200"/> |
+| 6061 | Aralie | hi | Senin, 14 Sep 2026 13:57:37 | <img src="https://cdn.idn.app/livestream/50757e06a2ae553842a8a7f22e0b6a98.webp" alt="hi" width="200"/> |
