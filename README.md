@@ -6068,3 +6068,4 @@
 | 6064 | Jemima | Ayo ngobrol bareng! | Senin, 14 Sep 2026 20:56:23 | <img src="https://cdn.idn.app/livestream/56f844d967a431e8e356186d12fd4177.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6065 | Mikaela | Ayo ngobrol bareng! | Senin, 14 Sep 2026 21:14:00 | <img src="https://cdn.idn.app/livestream/71a2fcd27981e901f3a163706d63e129.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6066 | Ekin | hi | Senin, 14 Sep 2026 21:24:33 | <img src="https://cdn.idn.app/livestream/28ed0deb91f64c20adf975a49e73ae66.webp" alt="hi" width="200"/> |
+| 6067 | Virgi | Ayo ngobrol bareng! | Senin, 14 Sep 2026 21:28:31 | <img src="https://cdn.idn.app/livestream/a05cef469e332f18f7e1d3880aca7c92.webp" alt="Ayo ngobrol bareng!" width="200"/> |
