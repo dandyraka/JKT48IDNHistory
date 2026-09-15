@@ -6079,3 +6079,4 @@
 | 6075 | Jemima | Ayo ngobrol bareng! | Selasa, 15 Sep 2026 16:34:47 | <img src="https://cdn.idn.app/livestream/4534fce5b83f37d62144e454ffe76e65.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6076 | Gita | Gits | Selasa, 15 Sep 2026 17:01:35 | <img src="https://cdn.idn.app/livestream/683f8c159cb2b4a91dc83dacbec37ad4.webp" alt="Gits" width="200"/> |
 | 6077 | Kathrina | Hi | Selasa, 15 Sep 2026 17:30:42 | <img src="https://cdn.idn.app/livestream/33e3bccbf24eb30aaf2a0f954dcaae63.webp" alt="Hi" width="200"/> |
+| 6078 | Eli | Ayo ngobrol bareng! | Selasa, 15 Sep 2026 18:09:13 | <img src="https://cdn.idn.app/livestream/7663d0406c868161144e92aff44008f9.webp" alt="Ayo ngobrol bareng!" width="200"/> |
