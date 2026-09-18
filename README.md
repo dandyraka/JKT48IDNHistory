@@ -6117,3 +6117,4 @@
 | 6113 | Greesel | yuhuuu | Kamis, 17 Sep 2026 21:58:39 | <img src="https://cdn.idn.app/livestream/8b8a834855aa2775feab8919fb31d05d.webp" alt="yuhuuu" width="200"/> |
 | 6114 | Gita | Gits | Kamis, 17 Sep 2026 22:02:07 | <img src="https://cdn.idn.app/livestream/4e8a52fa02c2e83ab2e7176cbe6bdf25.webp" alt="Gits" width="200"/> |
 | 6115 | Cynthia | Ayo ngobrol bareng! | Kamis, 17 Sep 2026 22:58:01 | <img src="https://cdn.idn.app/livestream/0fe46a06435fc8d3dd900a4625ad766c.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6116 | Mikaela | Ayo ngobrol bareng! | Jumat, 18 Sep 2026 08:25:38 | <img src="https://cdn.idn.app/livestream/969094c5eff32584778fad1f1c15bbe9.webp" alt="Ayo ngobrol bareng!" width="200"/> |
