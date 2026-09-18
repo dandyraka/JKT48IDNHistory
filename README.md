@@ -6121,3 +6121,4 @@
 | 6117 | Lyn | Ayo ngobrol bareng! | Jumat, 18 Sep 2026 15:48:55 | <img src="https://cdn.idn.app/livestream/72e36c58c6ecc2f71bd099085fe03186.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6118 | Rilly | Ngobss | Jumat, 18 Sep 2026 16:37:49 | <img src="https://cdn.idn.app/livestream/cb9cc0c74fc2c30e4fc823317a9776bd.webp" alt="Ngobss" width="200"/> |
 | 6119 | Rilly | Ngobss | Jumat, 18 Sep 2026 16:46:55 | <img src="https://cdn.idn.app/livestream/c918e06f7927a3a79e8e69de8445ada9.webp" alt="Ngobss" width="200"/> |
+| 6120 | Gita | Gits | Jumat, 18 Sep 2026 17:27:24 | <img src="https://cdn.idn.app/livestream/27d15486605b216149e6f097111baa09.webp" alt="Gits" width="200"/> |
