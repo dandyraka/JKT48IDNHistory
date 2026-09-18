@@ -6134,3 +6134,4 @@
 | 6130 | Anindya | HALO!! | Jumat, 18 Sep 2026 22:17:22 | <img src="https://cdn.idn.app/livestream/56752e51c76e63134db5aff7878eee0e.webp" alt="HALO!!" width="200"/> |
 | 6131 | Michie | hi | Jumat, 18 Sep 2026 22:17:09 | <img src="https://cdn.idn.app/livestream/cf3f6776c24c0e97e651489ca6055a2c.webp" alt="hi" width="200"/> |
 | 6132 | Lily | Haii | Jumat, 18 Sep 2026 23:00:18 | <img src="https://cdn.idn.app/livestream/cf4bd557c174f6d3dfcfaf4cc5c3fffc.webp" alt="Haii" width="200"/> |
+| 6133 | Giaa | p bosen  | Jumat, 18 Sep 2026 23:10:53 | <img src="https://cdn.idn.app/livestream/2af4c0ac858f7bb86e27bf0cfdd424a5.webp" alt="p bosen " width="200"/> |
