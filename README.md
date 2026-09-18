@@ -6126,3 +6126,4 @@
 | 6122 | Maira | Ayo ngobrol bareng! | Jumat, 18 Sep 2026 19:33:30 | <img src="https://cdn.idn.app/livestream/32d21254e616af31a50b1628722ae84b.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6123 | Kathrina | Hi | Jumat, 18 Sep 2026 20:50:26 | <img src="https://cdn.idn.app/livestream/79db7c3ee6428f3486d2b53876b34366.webp" alt="Hi" width="200"/> |
 | 6124 | Aralie | hi | Jumat, 18 Sep 2026 20:51:09 | <img src="https://cdn.idn.app/livestream/8f7fd5411cb43ff26470c381016080ef.webp" alt="hi" width="200"/> |
+| 6125 | Daisy | Hi | Jumat, 18 Sep 2026 20:52:07 | <img src="https://cdn.idn.app/livestream/4a823fb0bc4c9ad437bde2f3bd78db26.webp" alt="Hi" width="200"/> |
