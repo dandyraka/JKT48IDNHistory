@@ -6145,3 +6145,4 @@
 | 6141 | Erine | diroriiiii | Minggu, 20 Sep 2026 11:05:26 | <img src="https://cdn.idn.app/livestream/451ba294203907e74cd1b706ca2b8e0a.webp" alt="diroriiiii" width="200"/> |
 | 6142 | Michie | hi | Minggu, 20 Sep 2026 14:09:32 | <img src="https://cdn.idn.app/livestream/a41ee792a196b25145a94e6c4a4c3864.webp" alt="hi" width="200"/> |
 | 6143 | Intan | HIIII AYO KITA BAHAS BUBBLINTAN | Minggu, 20 Sep 2026 19:14:17 | <img src="https://cdn.idn.app/livestream/d1bcf01dbad1e6796af509f0bd7f73c0.webp" alt="HIIII AYO KITA BAHAS BUBBLINTAN" width="200"/> |
+| 6144 | Indah | Ayo ngobrol bareng! | Minggu, 20 Sep 2026 19:34:54 | <img src="https://cdn.idn.app/livestream/7ab019175cc3c8ec256bb8956dc608e5.webp" alt="Ayo ngobrol bareng!" width="200"/> |
