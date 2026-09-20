@@ -6149,3 +6149,4 @@
 | 6145 | Marsha | Haiiiuuu | Minggu, 20 Sep 2026 19:35:20 | <img src="https://cdn.idn.app/livestream/cab37f0ba35cf297ce38f9152f8c4061.webp" alt="Haiiiuuu" width="200"/> |
 | 6146 | Lulu | hi | Minggu, 20 Sep 2026 19:35:50 | <img src="https://cdn.idn.app/livestream/fb4952c0a378965c3077516c7171f5db.webp" alt="hi" width="200"/> |
 | 6147 | Oniel | saya kembali | Minggu, 20 Sep 2026 19:36:07 | <img src="https://cdn.idn.app/livestream/bdcb0897596c81ebd95aefcfc10930ad.webp" alt="saya kembali" width="200"/> |
+| 6148 | Christy | Ayo ngobrol bareng! | Minggu, 20 Sep 2026 19:37:39 | <img src="https://cdn.idn.app/livestream/2b1106a0328ca86191d2fe53a2ed26aa.webp" alt="Ayo ngobrol bareng!" width="200"/> |
