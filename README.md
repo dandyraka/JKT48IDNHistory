@@ -6175,3 +6175,4 @@
 | 6171 | Nachia | hi | Selasa, 22 Sep 2026 19:03:25 | <img src="https://cdn.idn.app/livestream/6a5fec51b9596a49ce82b2e0ed7e91c6.webp" alt="hi" width="200"/> |
 | 6172 | Lana | Haii unboxing  | Selasa, 22 Sep 2026 21:12:27 | <img src="https://cdn.idn.app/livestream/dd1bd1bb5c69a1dd3aa615c39ded5f50.webp" alt="Haii unboxing " width="200"/> |
 | 6173 | Lia | Ayo ngobrol bareng! | Selasa, 22 Sep 2026 21:59:30 | <img src="https://cdn.idn.app/livestream/ddf91d85587c63516e9990a0d00d24ef.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6174 | Giaa | team trainee | Selasa, 22 Sep 2026 22:12:26 | <img src="https://cdn.idn.app/livestream/0b4278ea351f55fbec3622f83feaddb8.webp" alt="team trainee" width="200"/> |
