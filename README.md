@@ -6178,3 +6178,4 @@
 | 6174 | Giaa | team trainee | Selasa, 22 Sep 2026 22:12:26 | <img src="https://cdn.idn.app/livestream/0b4278ea351f55fbec3622f83feaddb8.webp" alt="team trainee" width="200"/> |
 | 6175 | Ekin | haloh | Selasa, 22 Sep 2026 22:23:57 | <img src="https://cdn.idn.app/livestream/01e9c92cb8b5685de5d8160a1179448e.webp" alt="haloh" width="200"/> |
 | 6176 | Trisha | hai | Selasa, 22 Sep 2026 22:39:05 | <img src="https://cdn.idn.app/livestream/d79287eaf58d71df265fd318dca0db17.webp" alt="hai" width="200"/> |
+| 6177 | Anindya | HALO!! | Selasa, 22 Sep 2026 22:53:51 | <img src="https://cdn.idn.app/livestream/5d57fd563cdb8ec66e93f2e15b344e70.webp" alt="HALO!!" width="200"/> |
