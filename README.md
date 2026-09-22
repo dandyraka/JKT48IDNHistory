@@ -6179,3 +6179,4 @@
 | 6175 | Ekin | haloh | Selasa, 22 Sep 2026 22:23:57 | <img src="https://cdn.idn.app/livestream/01e9c92cb8b5685de5d8160a1179448e.webp" alt="haloh" width="200"/> |
 | 6176 | Trisha | hai | Selasa, 22 Sep 2026 22:39:05 | <img src="https://cdn.idn.app/livestream/d79287eaf58d71df265fd318dca0db17.webp" alt="hai" width="200"/> |
 | 6177 | Anindya | HALO!! | Selasa, 22 Sep 2026 22:53:51 | <img src="https://cdn.idn.app/livestream/5d57fd563cdb8ec66e93f2e15b344e70.webp" alt="HALO!!" width="200"/> |
+| 6178 | Lia | Ayo ngobrol bareng! | Selasa, 22 Sep 2026 23:07:39 | <img src="https://cdn.idn.app/livestream/8b59afbc8086f4d74b63804942fa336f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
