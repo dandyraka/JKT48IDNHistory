@@ -6195,3 +6195,4 @@
 | 6191 | Ribka | Hi | Rabu, 23 Sep 2026 22:23:13 | <img src="https://cdn.idn.app/livestream/383a571087c390b4a266f9fd522c0f8b.webp" alt="Hi" width="200"/> |
 | 6192 | Anindya | HALO!! | Rabu, 23 Sep 2026 22:32:22 | <img src="https://cdn.idn.app/livestream/7522623cc273036c692af4beb62f1210.webp" alt="HALO!!" width="200"/> |
 | 6193 | Ella | aloo | Rabu, 23 Sep 2026 22:33:02 | <img src="https://cdn.idn.app/livestream/01c066d202ac9a97f84870133eba24dd.webp" alt="aloo" width="200"/> |
+| 6194 | Ella | aloo | Kamis, 24 Sep 2026 00:27:49 | <img src="https://cdn.idn.app/livestream/64b5a9039220b18d75c1b18feb08e624.webp" alt="aloo" width="200"/> |
