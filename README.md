@@ -6244,3 +6244,4 @@
 | 6240 | Michie | hi | Senin, 28 Sep 2026 16:04:36 | <img src="https://cdn.idn.app/livestream/c3e9e4ea87f382f560998905335a3f3b.webp" alt="hi" width="200"/> |
 | 6241 | Kathrina | Hi | Senin, 28 Sep 2026 16:45:56 | <img src="https://cdn.idn.app/livestream/41235a2462ceeaa76ba4efb09b06c410.webp" alt="Hi" width="200"/> |
 | 6242 | Michie | hi | Senin, 28 Sep 2026 17:24:29 | <img src="https://cdn.idn.app/livestream/f98b41dc35149f27fbc387489b4c161b.webp" alt="hi" width="200"/> |
+| 6243 | Nala | Ayo ngobrol bareng! | Senin, 28 Sep 2026 19:18:26 | <img src="https://cdn.idn.app/livestream/7c0f597641199773903232728dce6a51.webp" alt="Ayo ngobrol bareng!" width="200"/> |
