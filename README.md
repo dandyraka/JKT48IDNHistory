@@ -6285,3 +6285,4 @@
 | 6281 | Jemima | Ayo ngobrol bareng! | Minggu, 4 Okt 2026 21:01:32 | <img src="https://cdn.idn.app/livestream/92f71a33459bf58eb08dc53d1f884af7.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6282 | Lia | Ayo ngobrol bareng! | Minggu, 4 Okt 2026 21:35:22 | <img src="https://cdn.idn.app/livestream/c05c258f536f41a96c9e965615ce1ac1.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6283 | Eli | Ayo ngobrol bareng! | Minggu, 4 Okt 2026 22:07:22 | <img src="https://cdn.idn.app/livestream/44bfe94770d6e54a93ae5dc51d0c9181.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6284 | Cynthia | Ayo ngobrol bareng! | Minggu, 4 Okt 2026 23:00:00 | <img src="https://cdn.idn.app/livestream/2b70b5c5218188db70b198e839817e11.webp" alt="Ayo ngobrol bareng!" width="200"/> |
