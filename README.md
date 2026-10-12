@@ -6314,3 +6314,9 @@
 | 6310 | Rilly | SAMBIL MAKMALL | Minggu, 11 Okt 2026 21:00:59 | <img src="https://cdn.idn.app/livestream/6159a18bc770ff58b4a3a6aa1d8e8b45.webp" alt="SAMBIL MAKMALL" width="200"/> |
 | 6311 | Delynn | HAIIIIII | Minggu, 11 Okt 2026 21:55:20 | <img src="https://cdn.idn.app/livestream/e5d1350a40b6c5d4909d5fd2c78e3518.webp" alt="HAIIIIII" width="200"/> |
 | 6312 | Aralie | hi | Senin, 12 Okt 2026 12:17:51 | <img src="https://cdn.idn.app/livestream/7f835ce445139cccaad022fe6bd86072.webp" alt="hi" width="200"/> |
+| 6313 | Giaa | p makeup | Senin, 12 Okt 2026 18:14:51 | <img src="https://cdn.idn.app/livestream/965b9dceed59ad89cf7df7e84eee2e26.webp" alt="p makeup" width="200"/> |
+| 6314 | Jemima | Ayo ngobrol bareng! | Senin, 12 Okt 2026 18:15:02 | <img src="https://cdn.idn.app/livestream/ff58bd0577f789af3efd0c0913cab796.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6315 | Maira | Let’s go!!! | Senin, 12 Okt 2026 18:15:03 | <img src="https://cdn.idn.app/livestream/29063a2a7fe9a0cf6fd486e4b85e89ca.webp" alt="Let’s go!!!" width="200"/> |
+| 6316 | Ekin | live challenge makeup | Senin, 12 Okt 2026 18:15:07 | <img src="https://cdn.idn.app/livestream/3d0d38e2c3cf11c425eee2a26b0dc5a2.webp" alt="live challenge makeup" width="200"/> |
+| 6317 | Virgi | Ayo ngobrol bareng! | Senin, 12 Okt 2026 18:15:11 | <img src="https://cdn.idn.app/livestream/690730e1b8c1e4832727475ff07a6495.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6318 | Mikaela | Ayo ngobrol bareng! | Senin, 12 Okt 2026 18:15:53 | <img src="https://cdn.idn.app/livestream/394bc2f7607aa93d92de849354980945.webp" alt="Ayo ngobrol bareng!" width="200"/> |
