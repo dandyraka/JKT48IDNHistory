@@ -6320,3 +6320,5 @@
 | 6316 | Ekin | live challenge makeup | Senin, 12 Okt 2026 18:15:07 | <img src="https://cdn.idn.app/livestream/3d0d38e2c3cf11c425eee2a26b0dc5a2.webp" alt="live challenge makeup" width="200"/> |
 | 6317 | Virgi | Ayo ngobrol bareng! | Senin, 12 Okt 2026 18:15:11 | <img src="https://cdn.idn.app/livestream/690730e1b8c1e4832727475ff07a6495.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6318 | Mikaela | Ayo ngobrol bareng! | Senin, 12 Okt 2026 18:15:53 | <img src="https://cdn.idn.app/livestream/394bc2f7607aa93d92de849354980945.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6319 | Rilly | Yassss | Senin, 12 Okt 2026 18:16:33 | <img src="https://cdn.idn.app/livestream/ed89a120a1fd0418bd907455e551be23.webp" alt="Yassss" width="200"/> |
+| 6320 | Intan | gatau pokonya perhatiin aku aja | Senin, 12 Okt 2026 18:16:33 | <img src="https://cdn.idn.app/livestream/efe884dc56e36729d4ded2390227721a.webp" alt="gatau pokonya perhatiin aku aja" width="200"/> |
