@@ -6349,3 +6349,4 @@
 | 6345 | Raisha | Ayo ngobrol bareng! | Rabu, 21 Okt 2026 00:14:55 | <img src="https://cdn.idn.app/livestream/e967c980ae46d4a3ece85ca9fb8a32e8.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6346 | Rilly | Makmalll | Rabu, 21 Okt 2026 19:45:14 | <img src="https://cdn.idn.app/livestream/104fe5552cf76ecdd1cb309332071217.webp" alt="Makmalll" width="200"/> |
 | 6347 | Maira | Ayo ngobrol bareng! | Rabu, 21 Okt 2026 20:42:35 | <img src="https://cdn.idn.app/livestream/9bd10bc0796efec2cb029dbee02e9b7e.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6348 | Cynthia | Ayo ngobrol bareng! | Kamis, 22 Okt 2026 00:17:19 | <img src="https://cdn.idn.app/livestream/73e773180141c88903bdc72d9368c6a4.webp" alt="Ayo ngobrol bareng!" width="200"/> |
