@@ -6357,3 +6357,4 @@
 | 6353 | Giaa | p | Senin, 26 Okt 2026 17:41:18 | <img src="https://cdn.idn.app/livestream/941af1a78547bcbb3e9f36c23460f2d1.webp" alt="p" width="200"/> |
 | 6354 | Jemima | Ayo ngobrol bareng! | Senin, 26 Okt 2026 17:41:20 | <img src="https://cdn.idn.app/livestream/dabc31e8e4869f4c875d14db30b2b2fa.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6355 | Virgi | Ayo ngobrol bareng! | Senin, 26 Okt 2026 17:41:28 | <img src="https://cdn.idn.app/livestream/ca89b46a86a5cb6a4e34551b96d6f1a4.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6356 | Eli | Ayo ngobrol bareng! | Senin, 26 Okt 2026 19:22:55 | <img src="https://cdn.idn.app/livestream/ea73eceb967e50c6697771f35ef1d5a9.webp" alt="Ayo ngobrol bareng!" width="200"/> |
