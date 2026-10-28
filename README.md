@@ -6368,3 +6368,4 @@
 | 6364 | Michie | live orang baik | Rabu, 28 Okt 2026 20:43:03 | <img src="https://cdn.idn.app/livestream/450830aac9a8c873a2ce283111175492.webp" alt="live orang baik" width="200"/> |
 | 6365 | Mikaela | Ayo ngobrol bareng! | Rabu, 28 Okt 2026 21:34:52 | <img src="https://cdn.idn.app/livestream/4c85b82153e9c5e241313a645f1fa154.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6366 | Ribka | nagu mania | Rabu, 28 Okt 2026 22:47:22 | <img src="https://cdn.idn.app/livestream/c696afe373ff836b41b1d97a87c5bf98.webp" alt="nagu mania" width="200"/> |
+| 6367 | Cynthia | Ayo ngobrol bareng! | Rabu, 28 Okt 2026 22:48:46 | <img src="https://cdn.idn.app/livestream/6e269e18328fa696d2118bf313fc341d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
