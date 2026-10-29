@@ -6370,3 +6370,4 @@
 | 6366 | Ribka | nagu mania | Rabu, 28 Okt 2026 22:47:22 | <img src="https://cdn.idn.app/livestream/c696afe373ff836b41b1d97a87c5bf98.webp" alt="nagu mania" width="200"/> |
 | 6367 | Cynthia | Ayo ngobrol bareng! | Rabu, 28 Okt 2026 22:48:46 | <img src="https://cdn.idn.app/livestream/6e269e18328fa696d2118bf313fc341d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6368 | Ekin | hai | Kamis, 29 Okt 2026 16:54:55 | <img src="https://cdn.idn.app/livestream/fde1f118c52ccb6f50fc54dda88f6f94.webp" alt="hai" width="200"/> |
+| 6369 | Lia | Ayo ngobrol bareng! | Kamis, 29 Okt 2026 22:10:48 | <img src="https://cdn.idn.app/livestream/dc01ddab70bfd0f23703d19dace83f6e.webp" alt="Ayo ngobrol bareng!" width="200"/> |
