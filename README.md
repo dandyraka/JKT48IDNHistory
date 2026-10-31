@@ -6379,3 +6379,4 @@
 | 6375 | Ekin | hai | Jumat, 30 Okt 2026 23:47:13 | <img src="https://cdn.idn.app/livestream/a32bc23e0bac5dcc4fcf6c1b587b9a1c.webp" alt="hai" width="200"/> |
 | 6376 | Rilly | WOW MANTAP | Sabtu, 31 Okt 2026 15:39:06 | <img src="https://cdn.idn.app/livestream/7465a98694188b97495c9d6dbc3089ae.webp" alt="WOW MANTAP" width="200"/> |
 | 6377 | Intan | Ayo ngobrol bareng! | Sabtu, 31 Okt 2026 15:39:07 | <img src="https://cdn.idn.app/livestream/9e8ccbc387e4dc08351f8a22d707aff2.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6378 | Delynn | Malming oi | Sabtu, 31 Okt 2026 21:07:50 | <img src="https://cdn.idn.app/livestream/a6e68950c7ef00dc62dacd2ff9d2b89f.webp" alt="Malming oi" width="200"/> |
