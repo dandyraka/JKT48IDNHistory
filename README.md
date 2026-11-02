@@ -6404,3 +6404,4 @@
 | 6400 | Ekin | hai | Senin, 2 Nov 2026 22:34:52 | <img src="https://cdn.idn.app/livestream/14546440b5dd00c6e00d368e67c1dca4.webp" alt="hai" width="200"/> |
 | 6401 | Nayla | Malam  | Senin, 2 Nov 2026 22:39:32 | <img src="https://cdn.idn.app/livestream/a5c889651caac64201f9d06321f25a9f.webp" alt="Malam " width="200"/> |
 | 6402 | Mikaela | Ayo ngobrol bareng! | Senin, 2 Nov 2026 22:42:12 | <img src="https://cdn.idn.app/livestream/561cc36494f0aaab82179bad835e724f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6403 | Lily | Brewekly | Senin, 2 Nov 2026 22:58:48 | <img src="https://cdn.idn.app/livestream/280e620f55d9fc9ecd6a1155c93b0517.webp" alt="Brewekly" width="200"/> |
