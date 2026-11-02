@@ -6400,3 +6400,4 @@
 | 6396 | Lia | Ayo ngobrol bareng! | Senin, 2 Nov 2026 21:10:54 | <img src="https://cdn.idn.app/livestream/9aa0d2060123dc7e2b22d2c3b3ef4c3d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6397 | Michie | 🪽🪽🪽 | Senin, 2 Nov 2026 21:26:36 | <img src="https://cdn.idn.app/livestream/9aa9e24fb7765f35db2b7359c51b48ae.webp" alt="🪽🪽🪽" width="200"/> |
 | 6398 | Jemima | Ayo ngobrol bareng! | Senin, 2 Nov 2026 21:28:42 | <img src="https://cdn.idn.app/livestream/5bfa4a9b419954bb414496e6fbe5554f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6399 | Cynthia | Ayo ngobrol bareng! | Senin, 2 Nov 2026 22:06:25 | <img src="https://cdn.idn.app/livestream/f15c34d123927ba349065a7710964aa4.webp" alt="Ayo ngobrol bareng!" width="200"/> |
