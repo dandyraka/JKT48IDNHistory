@@ -6392,3 +6392,4 @@
 | 6388 | Delynn | hi | Senin, 2 Nov 2026 19:58:03 | <img src="https://cdn.idn.app/livestream/f9e3a5a38f63e64ce1f9917c84032b7d.webp" alt="hi" width="200"/> |
 | 6389 | Gita | Gits | Senin, 2 Nov 2026 19:59:25 | <img src="https://cdn.idn.app/livestream/7fd79d7753db10c6619feb87be4f1b6c.webp" alt="Gits" width="200"/> |
 | 6390 | Nala | Ayo ngobrol bareng! | Senin, 2 Nov 2026 20:08:51 | <img src="https://cdn.idn.app/livestream/d7dc75d88867dde691f338d63e2efa0e.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6391 | Lana | Temenin rangkum | Senin, 2 Nov 2026 20:41:34 | <img src="https://cdn.idn.app/livestream/5e8dfbf3d2fcc7758adf1763c4b9cf47.webp" alt="Temenin rangkum" width="200"/> |
