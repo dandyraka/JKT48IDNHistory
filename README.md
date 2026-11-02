@@ -6397,3 +6397,4 @@
 | 6393 | Ribka | Ayo ngobrol bareng! | Senin, 2 Nov 2026 20:43:56 | <img src="https://cdn.idn.app/livestream/b681fb7b56daca2077adc03d72177635.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6394 | Giaa | p | Senin, 2 Nov 2026 20:57:02 | <img src="https://cdn.idn.app/livestream/db6d75a30dfd2fe115106e3e42af370c.webp" alt="p" width="200"/> |
 | 6395 | Intan | bubbbbbb | Senin, 2 Nov 2026 20:59:03 | <img src="https://cdn.idn.app/livestream/00fcd65fb589b7dd4c376fccfbaedd26.webp" alt="bubbbbbb" width="200"/> |
+| 6396 | Lia | Ayo ngobrol bareng! | Senin, 2 Nov 2026 21:10:54 | <img src="https://cdn.idn.app/livestream/9aa0d2060123dc7e2b22d2c3b3ef4c3d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
