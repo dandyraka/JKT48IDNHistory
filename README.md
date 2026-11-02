@@ -6390,3 +6390,4 @@
 | 6386 | Levi | hai | Senin, 2 Nov 2026 18:44:15 | <img src="https://cdn.idn.app/livestream/16bf4d6f88176bac60b062c28adf81ae.webp" alt="hai" width="200"/> |
 | 6387 | Rilly | Makmalll | Senin, 2 Nov 2026 19:16:12 | <img src="https://cdn.idn.app/livestream/332e66fb087f358fdded89f4d2ed3573.webp" alt="Makmalll" width="200"/> |
 | 6388 | Delynn | hi | Senin, 2 Nov 2026 19:58:03 | <img src="https://cdn.idn.app/livestream/f9e3a5a38f63e64ce1f9917c84032b7d.webp" alt="hi" width="200"/> |
+| 6389 | Gita | Gits | Senin, 2 Nov 2026 19:59:25 | <img src="https://cdn.idn.app/livestream/7fd79d7753db10c6619feb87be4f1b6c.webp" alt="Gits" width="200"/> |
