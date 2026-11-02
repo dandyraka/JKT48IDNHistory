@@ -6395,3 +6395,4 @@
 | 6391 | Lana | Temenin rangkum | Senin, 2 Nov 2026 20:41:34 | <img src="https://cdn.idn.app/livestream/5e8dfbf3d2fcc7758adf1763c4b9cf47.webp" alt="Temenin rangkum" width="200"/> |
 | 6392 | Aralie | hi | Senin, 2 Nov 2026 20:42:20 | <img src="https://cdn.idn.app/livestream/b487f92f9bcbe556a3777928ebd9dba5.webp" alt="hi" width="200"/> |
 | 6393 | Ribka | Ayo ngobrol bareng! | Senin, 2 Nov 2026 20:43:56 | <img src="https://cdn.idn.app/livestream/b681fb7b56daca2077adc03d72177635.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6394 | Giaa | p | Senin, 2 Nov 2026 20:57:02 | <img src="https://cdn.idn.app/livestream/db6d75a30dfd2fe115106e3e42af370c.webp" alt="p" width="200"/> |
