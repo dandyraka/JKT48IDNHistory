@@ -6422,3 +6422,4 @@
 | 6418 | Gracie | hiii | Selasa, 3 Nov 2026 21:20:35 | <img src="https://cdn.idn.app/livestream/ae5f520c9fbedaffc626699c841305ec.webp" alt="hiii" width="200"/> |
 | 6419 | Michie | 🪽🪽🪽 | Selasa, 3 Nov 2026 21:37:06 | <img src="https://cdn.idn.app/livestream/4a04c4d2d04d28b25b2a173daf31b4f7.webp" alt="🪽🪽🪽" width="200"/> |
 | 6420 | Anindya | HALO!! | Selasa, 3 Nov 2026 21:46:48 | <img src="https://cdn.idn.app/livestream/b3c8e00aec3e3d6fe3d83f98588b55df.webp" alt="HALO!!" width="200"/> |
+| 6421 | Nayla | Love  | Selasa, 3 Nov 2026 22:01:52 | <img src="https://cdn.idn.app/livestream/a7684f46de33a92f51fad5c1ef8b1f94.webp" alt="Love " width="200"/> |
