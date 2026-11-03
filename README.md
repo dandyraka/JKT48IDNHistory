@@ -6418,3 +6418,4 @@
 | 6414 | Rilly | MAU MAMM | Selasa, 3 Nov 2026 19:47:18 | <img src="https://cdn.idn.app/livestream/24c8da6957c18150ea0185a7ebb6c9b4.webp" alt="MAU MAMM" width="200"/> |
 | 6415 | Aralie | hi | Selasa, 3 Nov 2026 19:53:45 | <img src="https://cdn.idn.app/livestream/e840dc49856b1de593f1587d70b5194f.webp" alt="hi" width="200"/> |
 | 6416 | Olla | Ayo ngobrol bareng! | Selasa, 3 Nov 2026 20:59:04 | <img src="https://cdn.idn.app/livestream/184eb3ec32430f6ce627f5fa6fcb4b2a.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6417 | Jemima | Ayo ngobrol bareng! | Selasa, 3 Nov 2026 21:14:04 | <img src="https://cdn.idn.app/livestream/1c7ece8afae4a3b9642f8fa9a0e3c36d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
