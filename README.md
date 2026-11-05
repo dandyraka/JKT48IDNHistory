@@ -6452,3 +6452,4 @@
 | 6448 | Ribka | Ayo ngobrol bareng! | Kamis, 5 Nov 2026 16:33:16 | <img src="https://cdn.idn.app/livestream/c7e6fd7d12239186e353d77d482d5a74.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6449 | Lia | Ayo ngobrol bareng! | Kamis, 5 Nov 2026 16:33:18 | <img src="https://cdn.idn.app/livestream/2486bb28bb7fceba6f36e2da1882c9f5.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6450 | Oniel | saya kembali | Kamis, 5 Nov 2026 17:00:48 | <img src="https://cdn.idn.app/livestream/d60176b8991ee7c916e0de073c12c35f.webp" alt="saya kembali" width="200"/> |
+| 6451 | Lulu | aph yh | Kamis, 5 Nov 2026 17:05:39 | <img src="https://cdn.idn.app/livestream/1c46d7d084fd8c5fcbf280e03f163b1c.webp" alt="aph yh" width="200"/> |
