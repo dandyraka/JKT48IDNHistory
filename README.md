@@ -6444,3 +6444,4 @@
 | 6440 | Lily | Hai | Rabu, 4 Nov 2026 23:01:12 | <img src="https://cdn.idn.app/livestream/9ab054d5141f3d3ae92de899c6c941ed.webp" alt="Hai" width="200"/> |
 | 6441 | Delynn | HOLA | Rabu, 4 Nov 2026 23:03:42 | <img src="https://cdn.idn.app/livestream/e2a9166fb5adb44988c174371f0d0849.webp" alt="HOLA" width="200"/> |
 | 6442 | Muthe | Hi | Kamis, 5 Nov 2026 09:30:24 | <img src="https://cdn.idn.app/livestream/d60c5c0435dff54bd168e916184e36f7.webp" alt="Hi" width="200"/> |
+| 6443 | Levi | Ayo ngobrol bareng! | Kamis, 5 Nov 2026 10:01:19 | <img src="https://cdn.idn.app/livestream/d042f9601c4e6a081436e1f2f71981b6.webp" alt="Ayo ngobrol bareng!" width="200"/> |
