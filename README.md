@@ -6448,3 +6448,4 @@
 | 6444 | Nala | org baik kembali | Kamis, 5 Nov 2026 11:02:40 | <img src="https://cdn.idn.app/livestream/9cf50105fb1761db07f4ed947968dda3.webp" alt="org baik kembali" width="200"/> |
 | 6445 | Nachia | hi | Kamis, 5 Nov 2026 16:03:16 | <img src="https://cdn.idn.app/livestream/9b2fda9e810733113e72d7a570241a24.webp" alt="hi" width="200"/> |
 | 6446 | Michie | 🪽🪽🪽 | Kamis, 5 Nov 2026 16:21:56 | <img src="https://cdn.idn.app/livestream/5f07d35983de340bde0103058e7d95f3.webp" alt="🪽🪽🪽" width="200"/> |
+| 6447 | Eli | Get ready with Eli | Kamis, 5 Nov 2026 16:29:10 | <img src="https://cdn.idn.app/livestream/b10590fa0fcb4111c6386dd147d77310.webp" alt="Get ready with Eli" width="200"/> |
