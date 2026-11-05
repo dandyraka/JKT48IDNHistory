@@ -6449,3 +6449,5 @@
 | 6445 | Nachia | hi | Kamis, 5 Nov 2026 16:03:16 | <img src="https://cdn.idn.app/livestream/9b2fda9e810733113e72d7a570241a24.webp" alt="hi" width="200"/> |
 | 6446 | Michie | 🪽🪽🪽 | Kamis, 5 Nov 2026 16:21:56 | <img src="https://cdn.idn.app/livestream/5f07d35983de340bde0103058e7d95f3.webp" alt="🪽🪽🪽" width="200"/> |
 | 6447 | Eli | Get ready with Eli | Kamis, 5 Nov 2026 16:29:10 | <img src="https://cdn.idn.app/livestream/b10590fa0fcb4111c6386dd147d77310.webp" alt="Get ready with Eli" width="200"/> |
+| 6448 | Ribka | Ayo ngobrol bareng! | Kamis, 5 Nov 2026 16:33:16 | <img src="https://cdn.idn.app/livestream/c7e6fd7d12239186e353d77d482d5a74.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6449 | Lia | Ayo ngobrol bareng! | Kamis, 5 Nov 2026 16:33:18 | <img src="https://cdn.idn.app/livestream/2486bb28bb7fceba6f36e2da1882c9f5.webp" alt="Ayo ngobrol bareng!" width="200"/> |
