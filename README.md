@@ -6453,3 +6453,4 @@
 | 6449 | Lia | Ayo ngobrol bareng! | Kamis, 5 Nov 2026 16:33:18 | <img src="https://cdn.idn.app/livestream/2486bb28bb7fceba6f36e2da1882c9f5.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6450 | Oniel | saya kembali | Kamis, 5 Nov 2026 17:00:48 | <img src="https://cdn.idn.app/livestream/d60176b8991ee7c916e0de073c12c35f.webp" alt="saya kembali" width="200"/> |
 | 6451 | Lulu | aph yh | Kamis, 5 Nov 2026 17:05:39 | <img src="https://cdn.idn.app/livestream/1c46d7d084fd8c5fcbf280e03f163b1c.webp" alt="aph yh" width="200"/> |
+| 6452 | Fritzy | sks ngedit tugass | Kamis, 5 Nov 2026 17:37:37 | <img src="https://cdn.idn.app/livestream/b33a230c76c9675a51821304ac7e41cb.webp" alt="sks ngedit tugass" width="200"/> |
