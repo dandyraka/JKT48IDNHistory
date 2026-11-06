@@ -6491,3 +6491,4 @@
 | 6487 | Oniel | saya kembali | Jumat, 6 Nov 2026 22:02:10 | <img src="https://cdn.idn.app/livestream/02d4a1d02fc6ab59e9bdb2a193ddef2f.webp" alt="saya kembali" width="200"/> |
 | 6488 | Anindya | HALO!! | Jumat, 6 Nov 2026 22:15:41 | <img src="https://cdn.idn.app/livestream/b5fdf1d27ee7859b54c6bce798207e09.webp" alt="HALO!!" width="200"/> |
 | 6489 | Indah | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 22:15:42 | <img src="https://cdn.idn.app/livestream/f1dd6872ed8348176af9435e07f518f3.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6490 | Cynthia | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 22:18:54 | <img src="https://cdn.idn.app/livestream/ab686451299d1dcefbe540833550aba0.webp" alt="Ayo ngobrol bareng!" width="200"/> |
