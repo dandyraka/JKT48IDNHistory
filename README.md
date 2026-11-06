@@ -6498,3 +6498,4 @@
 | 6494 | Lana | Hi | Jumat, 6 Nov 2026 22:31:43 | <img src="https://cdn.idn.app/livestream/1c8cf557c2b79870eeaba56be2568ebf.webp" alt="Hi" width="200"/> |
 | 6495 | Nayla | Hai | Jumat, 6 Nov 2026 22:31:58 | <img src="https://cdn.idn.app/livestream/688b08a14a16e898e119ffa17d3fe60f.webp" alt="Hai" width="200"/> |
 | 6496 | Trisha | haai | Jumat, 6 Nov 2026 22:33:45 | <img src="https://cdn.idn.app/livestream/b0422231497212f7d2bfc462e7c1b3af.webp" alt="haai" width="200"/> |
+| 6497 | Fritzy | edisi gatau | Jumat, 6 Nov 2026 22:34:13 | <img src="https://cdn.idn.app/livestream/d053d8c9a0f38f6f988b380b1f1fcbf3.webp" alt="edisi gatau" width="200"/> |
