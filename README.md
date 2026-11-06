@@ -6484,3 +6484,4 @@
 | 6480 | Levi | hai | Jumat, 6 Nov 2026 20:29:49 | <img src="https://cdn.idn.app/livestream/133b3be3bae1f3a63762b61db88035c8.webp" alt="hai" width="200"/> |
 | 6481 | Lulu | mlm | Jumat, 6 Nov 2026 20:56:29 | <img src="https://cdn.idn.app/livestream/67f108b08126f868988e07f09b025203.webp" alt="mlm" width="200"/> |
 | 6482 | Jessi | hi lg main | Jumat, 6 Nov 2026 20:59:27 | <img src="https://cdn.idn.app/livestream/31114c460bc34adaa08f92e99247ec2a.webp" alt="hi lg main" width="200"/> |
+| 6483 | Christy | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 21:00:44 | <img src="https://cdn.idn.app/livestream/d01b28b34fce9872426bc83ab4783a65.webp" alt="Ayo ngobrol bareng!" width="200"/> |
