@@ -6494,3 +6494,5 @@
 | 6490 | Cynthia | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 22:18:54 | <img src="https://cdn.idn.app/livestream/ab686451299d1dcefbe540833550aba0.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6491 | Elin | Haaii | Jumat, 6 Nov 2026 22:20:25 | <img src="https://cdn.idn.app/livestream/da76169b95e23e49ed5c0b18ea5a1a76.webp" alt="Haaii" width="200"/> |
 | 6492 | Gracie | hiii | Jumat, 6 Nov 2026 22:22:49 | <img src="https://cdn.idn.app/livestream/f3b0ce393ea58399b138662af557c732.webp" alt="hiii" width="200"/> |
+| 6493 | Intan | hoi | Jumat, 6 Nov 2026 22:31:04 | <img src="https://cdn.idn.app/livestream/854e94a133965e17e3cfa8e8b0f35f6c.webp" alt="hoi" width="200"/> |
+| 6494 | Lana | Hi | Jumat, 6 Nov 2026 22:31:43 | <img src="https://cdn.idn.app/livestream/1c8cf557c2b79870eeaba56be2568ebf.webp" alt="Hi" width="200"/> |
