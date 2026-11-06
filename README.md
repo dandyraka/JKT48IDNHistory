@@ -6470,3 +6470,4 @@
 | 6466 | Delynn | Malming oi | Kamis, 5 Nov 2026 23:00:09 | <img src="https://cdn.idn.app/livestream/52e0925028ca355715ffa2c4d900674e.webp" alt="Malming oi" width="200"/> |
 | 6467 | Mikaela | Ayo ngobrol bareng! | Kamis, 5 Nov 2026 23:22:54 | <img src="https://cdn.idn.app/livestream/809211423c6ac24409b54be6fee5951e.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6468 | Ella | aloo | Jumat, 6 Nov 2026 01:03:59 | <img src="https://cdn.idn.app/livestream/5078a4e29415acea54f5a724e4a3c24d.webp" alt="aloo" width="200"/> |
+| 6469 | Lyn | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 15:21:25 | <img src="https://cdn.idn.app/livestream/32d98c6d13c6b6b02bb44a958c7bfa99.webp" alt="Ayo ngobrol bareng!" width="200"/> |
