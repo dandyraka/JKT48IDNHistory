@@ -6488,3 +6488,4 @@
 | 6484 | Olla | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 21:01:02 | <img src="https://cdn.idn.app/livestream/e7557ec141403fbc6b8fd109a324222b.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6485 | Mikaela | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 21:11:01 | <img src="https://cdn.idn.app/livestream/91ab892b8f6d734983e7ffe53373d2ee.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6486 | Jemima | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 21:26:27 | <img src="https://cdn.idn.app/livestream/d63a3677eeb9a8d72ef55e6e6cc233e0.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6487 | Oniel | saya kembali | Jumat, 6 Nov 2026 22:02:10 | <img src="https://cdn.idn.app/livestream/02d4a1d02fc6ab59e9bdb2a193ddef2f.webp" alt="saya kembali" width="200"/> |
