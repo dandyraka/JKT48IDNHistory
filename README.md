@@ -6473,3 +6473,4 @@
 | 6469 | Lyn | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 15:21:25 | <img src="https://cdn.idn.app/livestream/32d98c6d13c6b6b02bb44a958c7bfa99.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6470 | Aralie | hi | Jumat, 6 Nov 2026 16:57:04 | <img src="https://cdn.idn.app/livestream/1cc664531adf37a5a7f08ead7bcce9d0.webp" alt="hi" width="200"/> |
 | 6471 | Eli | Get ready with Eli | Jumat, 6 Nov 2026 17:10:33 | <img src="https://cdn.idn.app/livestream/34466d6b63662ad2d35a60b0348d68b5.webp" alt="Get ready with Eli" width="200"/> |
+| 6472 | Ribka | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 17:26:24 | <img src="https://cdn.idn.app/livestream/c8b455a147fd830121e67b1a0e3d4318.webp" alt="Ayo ngobrol bareng!" width="200"/> |
