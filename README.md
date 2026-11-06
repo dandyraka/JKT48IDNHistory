@@ -6486,3 +6486,4 @@
 | 6482 | Jessi | hi lg main | Jumat, 6 Nov 2026 20:59:27 | <img src="https://cdn.idn.app/livestream/31114c460bc34adaa08f92e99247ec2a.webp" alt="hi lg main" width="200"/> |
 | 6483 | Christy | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 21:00:44 | <img src="https://cdn.idn.app/livestream/d01b28b34fce9872426bc83ab4783a65.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6484 | Olla | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 21:01:02 | <img src="https://cdn.idn.app/livestream/e7557ec141403fbc6b8fd109a324222b.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6485 | Mikaela | Ayo ngobrol bareng! | Jumat, 6 Nov 2026 21:11:01 | <img src="https://cdn.idn.app/livestream/91ab892b8f6d734983e7ffe53373d2ee.webp" alt="Ayo ngobrol bareng!" width="200"/> |
