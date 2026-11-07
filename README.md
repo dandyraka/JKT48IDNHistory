@@ -6508,3 +6508,4 @@
 | 6504 | Fritzy | hii | Sabtu, 7 Nov 2026 13:16:51 | <img src="https://cdn.idn.app/livestream/fdc436e18b06de8660931ca1f7bef4bb.webp" alt="hii" width="200"/> |
 | 6505 | Gracie | hiii | Sabtu, 7 Nov 2026 13:38:15 | <img src="https://cdn.idn.app/livestream/7e9ecf2e1de4f1e3725f91f86b2527aa.webp" alt="hiii" width="200"/> |
 | 6506 | Lily | Haii | Sabtu, 7 Nov 2026 13:52:41 | <img src="https://cdn.idn.app/livestream/7d893286a87e4cc9d9e42709e415b2ff.webp" alt="Haii" width="200"/> |
+| 6507 | Lia | Ayo ngobrol bareng! | Sabtu, 7 Nov 2026 13:53:26 | <img src="https://cdn.idn.app/livestream/fdac5e1763deb8b1e5a9f359e3974ef0.webp" alt="Ayo ngobrol bareng!" width="200"/> |
