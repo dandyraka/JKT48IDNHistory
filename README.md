@@ -6505,3 +6505,4 @@
 | 6501 | Nayla | Hai | Sabtu, 7 Nov 2026 13:13:39 | <img src="https://cdn.idn.app/livestream/f4c65f048ddb673e8c05cd4228c9fe8e.webp" alt="Hai" width="200"/> |
 | 6502 | Indah | Ayo ngobrol bareng! | Sabtu, 7 Nov 2026 13:13:45 | <img src="https://cdn.idn.app/livestream/9838becf31522fbf79432811b6f8ace4.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6503 | Anindya | HALO!! | Sabtu, 7 Nov 2026 13:14:12 | <img src="https://cdn.idn.app/livestream/434570b81d1479dca37a16da5ed32e28.webp" alt="HALO!!" width="200"/> |
+| 6504 | Fritzy | hii | Sabtu, 7 Nov 2026 13:16:51 | <img src="https://cdn.idn.app/livestream/fdc436e18b06de8660931ca1f7bef4bb.webp" alt="hii" width="200"/> |
