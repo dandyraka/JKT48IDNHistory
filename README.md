@@ -6542,3 +6542,4 @@
 | 6538 | Mikaela | Ayo ngobrol bareng! | Sabtu, 7 Nov 2026 22:45:46 | <img src="https://cdn.idn.app/livestream/ffb0d83878577f69faf60f965b9aaade.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6539 | Ekin | hai | Sabtu, 7 Nov 2026 23:08:24 | <img src="https://cdn.idn.app/livestream/62d68cf96850bcb7b5633f1fe846a495.webp" alt="hai" width="200"/> |
 | 6540 | Giaa | p | Sabtu, 7 Nov 2026 23:55:10 | <img src="https://cdn.idn.app/livestream/6d707e92b88ca7b2617205931034840d.webp" alt="p" width="200"/> |
+| 6541 | Aralie | hi | Minggu, 8 Nov 2026 08:18:53 | <img src="https://cdn.idn.app/livestream/10fca5ed9d93b4e89772a59a9548cc55.webp" alt="hi" width="200"/> |
