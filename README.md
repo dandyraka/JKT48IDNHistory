@@ -6543,3 +6543,4 @@
 | 6539 | Ekin | hai | Sabtu, 7 Nov 2026 23:08:24 | <img src="https://cdn.idn.app/livestream/62d68cf96850bcb7b5633f1fe846a495.webp" alt="hai" width="200"/> |
 | 6540 | Giaa | p | Sabtu, 7 Nov 2026 23:55:10 | <img src="https://cdn.idn.app/livestream/6d707e92b88ca7b2617205931034840d.webp" alt="p" width="200"/> |
 | 6541 | Aralie | hi | Minggu, 8 Nov 2026 08:18:53 | <img src="https://cdn.idn.app/livestream/10fca5ed9d93b4e89772a59a9548cc55.webp" alt="hi" width="200"/> |
+| 6542 | Ella | aloo | Minggu, 8 Nov 2026 11:47:08 | <img src="https://cdn.idn.app/livestream/48bbde88a5c3e194915cab2e8eb98ae8.webp" alt="aloo" width="200"/> |
