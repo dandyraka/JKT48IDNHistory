@@ -6551,3 +6551,4 @@
 | 6547 | Olla | Ayo ngobrol bareng! | Minggu, 8 Nov 2026 11:47:49 | <img src="https://cdn.idn.app/livestream/5697858a4857b0e086b0c17255307140.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6548 | Delynn | hi | Minggu, 8 Nov 2026 11:48:28 | <img src="https://cdn.idn.app/livestream/a85719977f34e08913270186f8f91205.webp" alt="hi" width="200"/> |
 | 6549 | Marsha | Plisss | Minggu, 8 Nov 2026 11:48:30 | <img src="https://cdn.idn.app/livestream/c54818f7dcabd3165407e26653a59137.webp" alt="Plisss" width="200"/> |
+| 6550 | Lia | Ayo ngobrol bareng! | Minggu, 8 Nov 2026 12:12:24 | <img src="https://cdn.idn.app/livestream/ad3efaf7c0db4b969c64c51ef656d127.webp" alt="Ayo ngobrol bareng!" width="200"/> |
