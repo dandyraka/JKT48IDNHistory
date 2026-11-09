@@ -6593,3 +6593,4 @@
 | 6589 | Delynn | hi | Senin, 9 Nov 2026 20:31:03 | <img src="https://cdn.idn.app/livestream/07d44861ee50e9016e6fdf33733b52c0.webp" alt="hi" width="200"/> |
 | 6590 | Intan | hoi | Senin, 9 Nov 2026 20:36:14 | <img src="https://cdn.idn.app/livestream/c8fedc3cef812c3f04bc1a84b2669b50.webp" alt="hoi" width="200"/> |
 | 6591 | Nayla | Hai | Senin, 9 Nov 2026 21:34:06 | <img src="https://cdn.idn.app/livestream/23fb4bf208546196b1125e162ceec555.webp" alt="Hai" width="200"/> |
+| 6592 | Fritzy | Gess | Senin, 9 Nov 2026 21:37:33 | <img src="https://cdn.idn.app/livestream/167789185286b8b86ca87812cbf74ec2.webp" alt="Gess" width="200"/> |
