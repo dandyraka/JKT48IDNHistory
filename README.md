@@ -6582,3 +6582,4 @@
 | 6578 | Lyn | Ayo ngobrol bareng! | Senin, 9 Nov 2026 16:35:02 | <img src="https://cdn.idn.app/livestream/1a934cbe5e8855eae7d9057962f557a6.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6579 | Erine | diroriiiii | Senin, 9 Nov 2026 18:08:13 | <img src="https://cdn.idn.app/livestream/8b73b36ffa489c69773246ec4ce32809.webp" alt="diroriiiii" width="200"/> |
 | 6580 | Aralie | hi | Senin, 9 Nov 2026 18:08:16 | <img src="https://cdn.idn.app/livestream/81d8e3bbc39f14f0b5bdff5c07362dc8.webp" alt="hi" width="200"/> |
+| 6581 | Raisha | Ayo ngobrol bareng! | Senin, 9 Nov 2026 19:00:05 | <img src="https://cdn.idn.app/livestream/f9390907ca96a13eec53dadba752694c.webp" alt="Ayo ngobrol bareng!" width="200"/> |
