@@ -6587,3 +6587,4 @@
 | 6583 | Eli | KaraokELI | Senin, 9 Nov 2026 19:30:36 | <img src="https://cdn.idn.app/livestream/a4a78a6e1cc01a2f494582a5bf224ef3.webp" alt="KaraokELI" width="200"/> |
 | 6584 | Nala | org baik kembali | Senin, 9 Nov 2026 19:33:17 | <img src="https://cdn.idn.app/livestream/ff5268d7ddbd40808efb2d44845652a0.webp" alt="org baik kembali" width="200"/> |
 | 6585 | Nachia | hi | Senin, 9 Nov 2026 19:33:33 | <img src="https://cdn.idn.app/livestream/56a14ead7a98a418047154a1d55915d4.webp" alt="hi" width="200"/> |
+| 6586 | Olla | Ayo ngobrol bareng! | Senin, 9 Nov 2026 19:53:43 | <img src="https://cdn.idn.app/livestream/c3596d8dc175569e0b70b761c0feb3b9.webp" alt="Ayo ngobrol bareng!" width="200"/> |
