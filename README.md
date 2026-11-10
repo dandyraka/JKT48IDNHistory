@@ -6604,3 +6604,4 @@
 | 6600 | Trisha | haai | Senin, 9 Nov 2026 23:09:06 | <img src="https://cdn.idn.app/livestream/30ac31e5e41d0593c1232a61819c39e3.webp" alt="haai" width="200"/> |
 | 6601 | Mikaela | Ayo ngobrol bareng! | Senin, 9 Nov 2026 23:13:36 | <img src="https://cdn.idn.app/livestream/2771eaa1afcf84af6ebaa25b5b891955.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6602 | Michie | live pagi | Selasa, 10 Nov 2026 11:34:11 | <img src="https://cdn.idn.app/livestream/16317f0dd1f726460d3b180bbb8a73a0.webp" alt="live pagi" width="200"/> |
+| 6603 | Maira | Let’s go!!! | Selasa, 10 Nov 2026 14:17:21 | <img src="https://cdn.idn.app/livestream/728f6c4867346cade453a36244cc6b6b.webp" alt="Let’s go!!!" width="200"/> |
