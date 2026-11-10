@@ -6606,3 +6606,4 @@
 | 6602 | Michie | live pagi | Selasa, 10 Nov 2026 11:34:11 | <img src="https://cdn.idn.app/livestream/16317f0dd1f726460d3b180bbb8a73a0.webp" alt="live pagi" width="200"/> |
 | 6603 | Maira | Let’s go!!! | Selasa, 10 Nov 2026 14:17:21 | <img src="https://cdn.idn.app/livestream/728f6c4867346cade453a36244cc6b6b.webp" alt="Let’s go!!!" width="200"/> |
 | 6604 | Lyn | Ayo ngobrol bareng! | Selasa, 10 Nov 2026 15:53:38 | <img src="https://cdn.idn.app/livestream/002ec193a532f84ab95646cf4ea32b5b.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6605 | Giaa | p bareng gen 14 | Selasa, 10 Nov 2026 16:39:05 | <img src="https://cdn.idn.app/livestream/f8f84fe6abeaed791be27c54fc303099.webp" alt="p bareng gen 14" width="200"/> |
