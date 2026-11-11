@@ -6645,3 +6645,5 @@
 | 6641 | Nayla | Hai | Rabu, 11 Nov 2026 20:32:52 | <img src="https://cdn.idn.app/livestream/0ae9fd76d941f83a36f3ffe4d95c8809.webp" alt="Hai" width="200"/> |
 | 6642 | Jessi | makan buah | Rabu, 11 Nov 2026 21:25:24 | <img src="https://cdn.idn.app/livestream/49f3f215b286472560629a2954426502.webp" alt="makan buah" width="200"/> |
 | 6643 | Erine | diroriiiii | Rabu, 11 Nov 2026 21:56:43 | <img src="https://cdn.idn.app/livestream/637cd79be692e3c861021235d309af32.webp" alt="diroriiiii" width="200"/> |
+| 6644 | Indah | Ayo ngobrol bareng! | Rabu, 11 Nov 2026 22:06:40 | <img src="https://cdn.idn.app/livestream/e23977c0566654d928133f14c5d6472d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6645 | Lana | P | Rabu, 11 Nov 2026 22:06:41 | <img src="https://cdn.idn.app/livestream/74de4fd26a0310039ef452abab153f27.webp" alt="P" width="200"/> |
