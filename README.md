@@ -6641,3 +6641,4 @@
 | 6637 | Gracie | hiii | Rabu, 11 Nov 2026 19:38:14 | <img src="https://cdn.idn.app/livestream/c662320a9a4c4bcb94416c414326404e.webp" alt="hiii" width="200"/> |
 | 6638 | Lia | Ayo ngobrol bareng! | Rabu, 11 Nov 2026 19:38:29 | <img src="https://cdn.idn.app/livestream/6112483b32a3a0585100b36f38a0be50.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6639 | Kathrina | wazzap | Rabu, 11 Nov 2026 20:16:26 | <img src="https://cdn.idn.app/livestream/de23c46a59e5b709f83037221a3d2a64.webp" alt="wazzap" width="200"/> |
+| 6640 | Christy | Ayo ngobrol bareng! | Rabu, 11 Nov 2026 20:16:38 | <img src="https://cdn.idn.app/livestream/45d205f30b5c16f60097e427d0853ac6.webp" alt="Ayo ngobrol bareng!" width="200"/> |
