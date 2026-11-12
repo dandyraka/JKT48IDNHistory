@@ -6679,3 +6679,4 @@
 | 6675 | Nachia | hi | Kamis, 12 Nov 2026 22:04:44 | <img src="https://cdn.idn.app/livestream/b3425e9cfbdac23128f78eff14a3914d.webp" alt="hi" width="200"/> |
 | 6676 | Eli | KaraokELI | Kamis, 12 Nov 2026 22:41:23 | <img src="https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp" alt="KaraokELI" width="200"/> |
 | 6677 | Michie | wow | Kamis, 12 Nov 2026 22:41:32 | <img src="https://cdn.idn.app/livestream/d1519c3589501a21bc08d3aa4ba6a721.webp" alt="wow" width="200"/> |
+| 6678 | Fritzy | storytimee | Kamis, 12 Nov 2026 22:48:34 | <img src="https://cdn.idn.app/livestream/99b5c563caacee46203cd76f3a54eefb.webp" alt="storytimee" width="200"/> |
