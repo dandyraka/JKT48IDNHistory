@@ -6662,3 +6662,4 @@
 | 6658 | Lia | Ayo ngobrol bareng! | Kamis, 12 Nov 2026 18:16:48 | <img src="https://cdn.idn.app/livestream/2f399013ad838e937178d80fdfc34cab.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6659 | Fritzy | gais | Kamis, 12 Nov 2026 18:45:11 | <img src="https://cdn.idn.app/livestream/0a7d1b42b9b032b99edce802fddcfc8b.webp" alt="gais" width="200"/> |
 | 6660 | Elin | Hai | Kamis, 12 Nov 2026 18:45:27 | <img src="https://cdn.idn.app/livestream/9df9cc80a57c205691de2c29581136cc.webp" alt="Hai" width="200"/> |
+| 6661 | Aralie | hi | Kamis, 12 Nov 2026 19:05:35 | <img src="https://cdn.idn.app/livestream/67e474b1ebf71fec0fca0f464c6039ae.webp" alt="hi" width="200"/> |
