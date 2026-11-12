@@ -6656,3 +6656,5 @@ Lily | Hi | Kamis, 12 Nov 2026 16:34:05 | https://cdn.idn.app/livestream/5f03981
 Nayla | Hai | Kamis, 12 Nov 2026 16:42:16 | https://cdn.idn.app/livestream/6e8bf07bec7e49312e5b1a0bd427a824.webp
 Elin | Hai | Kamis, 12 Nov 2026 17:13:31 | https://cdn.idn.app/livestream/db6ad54e1fe63486e7fa4c3d8bc625fc.webp
 Lia | Ayo ngobrol bareng! | Kamis, 12 Nov 2026 18:16:48 | https://cdn.idn.app/livestream/2f399013ad838e937178d80fdfc34cab.webp
+Fritzy | gais | Kamis, 12 Nov 2026 18:45:11 | https://cdn.idn.app/livestream/0a7d1b42b9b032b99edce802fddcfc8b.webp
+Elin | Hai | Kamis, 12 Nov 2026 18:45:27 | https://cdn.idn.app/livestream/9df9cc80a57c205691de2c29581136cc.webp
