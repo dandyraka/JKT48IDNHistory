@@ -6703,3 +6703,4 @@
 | 6699 | Fritzy | hai | Jumat, 13 Nov 2026 21:01:42 | <img src="https://cdn.idn.app/livestream/d866448fcb5a676e7efded46971986e0.webp" alt="hai" width="200"/> |
 | 6700 | Raisha | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 21:28:59 | <img src="https://cdn.idn.app/livestream/32510ae038cd67e8725b506a5c3ffb0e.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6701 | Raisha | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 21:36:44 | <img src="https://cdn.idn.app/livestream/47c23f35f4ce468a40f307ce62d8243a.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6702 | Raisha | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 21:41:49 | <img src="https://cdn.idn.app/livestream/36955d3511195269dee6bb2b21682ca1.webp" alt="Ayo ngobrol bareng!" width="200"/> |
