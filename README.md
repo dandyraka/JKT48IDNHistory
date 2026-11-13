@@ -6700,3 +6700,4 @@
 | 6696 | Cynthia | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 20:24:22 | <img src="https://cdn.idn.app/livestream/3619838519beaa1bcd7ea99dd5da60fe.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6697 | Olla | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 20:35:28 | <img src="https://cdn.idn.app/livestream/0a4c95a5bcdfd7f8691a981e3aa8ae58.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6698 | Delynn | WHATSAPPP | Jumat, 13 Nov 2026 20:48:53 | <img src="https://cdn.idn.app/livestream/4ff03f3da1b93818961803b277129937.webp" alt="WHATSAPPP" width="200"/> |
+| 6699 | Fritzy | hai | Jumat, 13 Nov 2026 21:01:42 | <img src="https://cdn.idn.app/livestream/d866448fcb5a676e7efded46971986e0.webp" alt="hai" width="200"/> |
