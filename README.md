@@ -6709,3 +6709,4 @@
 | 6705 | Nala | HELO | Jumat, 13 Nov 2026 22:25:53 | <img src="https://cdn.idn.app/livestream/d75fe8e1acc4651c4f126e8e16ad6b4d.webp" alt="HELO" width="200"/> |
 | 6706 | Nachia | hi | Jumat, 13 Nov 2026 22:26:09 | <img src="https://cdn.idn.app/livestream/8576bf715738d45b15c8e07ca850a985.webp" alt="hi" width="200"/> |
 | 6707 | Erine | diroriiiii | Jumat, 13 Nov 2026 22:38:50 | <img src="https://cdn.idn.app/livestream/c1c2e6d8a517f2ab4fc6c8f2435db3f8.webp" alt="diroriiiii" width="200"/> |
+| 6708 | Mikaela | Ayo ngobrol bareng! | Sabtu, 14 Nov 2026 05:17:11 | <img src="https://cdn.idn.app/livestream/d772c7141b41e89b730a2c4ca00cfffd.webp" alt="Ayo ngobrol bareng!" width="200"/> |
