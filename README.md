@@ -6683,3 +6683,4 @@
 | 6679 | Intan | tmnin mammm | Jumat, 13 Nov 2026 10:47:49 | <img src="https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp" alt="tmnin mammm" width="200"/> |
 | 6680 | Muthe | Hi | Jumat, 13 Nov 2026 10:59:27 | <img src="https://cdn.idn.app/livestream/23bd2852aee1fd2d37c3a4224547da01.webp" alt="Hi" width="200"/> |
 | 6681 | Gracie | hiii | Jumat, 13 Nov 2026 11:52:30 | <img src="https://cdn.idn.app/livestream/449be72826eeb75c249bc792cb3668af.webp" alt="hiii" width="200"/> |
+| 6682 | Jemima | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 12:13:57 | <img src="https://cdn.idn.app/livestream/4d92455151f9af84c03d3a4d168b29d7.webp" alt="Ayo ngobrol bareng!" width="200"/> |
