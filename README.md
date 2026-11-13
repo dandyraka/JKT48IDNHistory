@@ -6698,3 +6698,4 @@
 | 6694 | Lia | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 19:36:02 | <img src="https://cdn.idn.app/livestream/a3c1ff4df011adc6d50bf2f7651c561f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6695 | Gita | Gits | Jumat, 13 Nov 2026 20:23:03 | <img src="https://cdn.idn.app/livestream/7d883ee09d09f560aec87ebaad7c35f1.webp" alt="Gits" width="200"/> |
 | 6696 | Cynthia | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 20:24:22 | <img src="https://cdn.idn.app/livestream/3619838519beaa1bcd7ea99dd5da60fe.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6697 | Olla | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 20:35:28 | <img src="https://cdn.idn.app/livestream/0a4c95a5bcdfd7f8691a981e3aa8ae58.webp" alt="Ayo ngobrol bareng!" width="200"/> |
