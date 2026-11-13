@@ -6692,3 +6692,4 @@
 | 6688 | Lyn | Ayo ngobrol bareng! | Jumat, 13 Nov 2026 15:02:18 | <img src="https://cdn.idn.app/livestream/b26935b2331d076e1f6792035a3c0047.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6689 | Giaa | p | Jumat, 13 Nov 2026 18:32:45 | <img src="https://cdn.idn.app/livestream/00a2ba90bd186cad7cc63495465a76ac.webp" alt="p" width="200"/> |
 | 6690 | Lana | Hai | Jumat, 13 Nov 2026 18:46:22 | <img src="https://cdn.idn.app/livestream/fa15d2c6657dd8d0eee847762907a172.webp" alt="Hai" width="200"/> |
+| 6691 | Elin | Hai | Jumat, 13 Nov 2026 19:33:00 | <img src="https://cdn.idn.app/livestream/62133a590dfac0067efdc11221a12b16.webp" alt="Hai" width="200"/> |
