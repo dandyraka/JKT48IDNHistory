@@ -6680,3 +6680,4 @@
 | 6676 | Eli | KaraokELI | Kamis, 12 Nov 2026 22:41:23 | <img src="https://cdn.idn.app/livestream/822c0b107a5063f5158caa60510dd0af.webp" alt="KaraokELI" width="200"/> |
 | 6677 | Michie | wow | Kamis, 12 Nov 2026 22:41:32 | <img src="https://cdn.idn.app/livestream/d1519c3589501a21bc08d3aa4ba6a721.webp" alt="wow" width="200"/> |
 | 6678 | Fritzy | storytimee | Kamis, 12 Nov 2026 22:48:34 | <img src="https://cdn.idn.app/livestream/99b5c563caacee46203cd76f3a54eefb.webp" alt="storytimee" width="200"/> |
+| 6679 | Intan | tmnin mammm | Jumat, 13 Nov 2026 10:47:49 | <img src="https://cdn.idn.app/livestream/da7ebf77fba502934bd449b8fdc4b319.webp" alt="tmnin mammm" width="200"/> |
