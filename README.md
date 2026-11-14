@@ -6735,3 +6735,4 @@
 | 6731 | Erine | diroriiiii | Sabtu, 14 Nov 2026 22:15:24 | <img src="https://cdn.idn.app/livestream/8714accd251dee7cbad2541e798dcfbc.webp" alt="diroriiiii" width="200"/> |
 | 6732 | Cynthia | Ayo ngobrol bareng! | Sabtu, 14 Nov 2026 22:17:06 | <img src="https://cdn.idn.app/livestream/52d6c3ed2f55d25561fdacfbd4039549.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6733 | Kathrina | wazzap | Sabtu, 14 Nov 2026 22:25:42 | <img src="https://cdn.idn.app/livestream/946181735a63dd6dc10ba2f4e83dfaec.webp" alt="wazzap" width="200"/> |
+| 6734 | Michie | live  aja | Sabtu, 14 Nov 2026 22:26:17 | <img src="https://cdn.idn.app/livestream/e59e93686598d4fa84a31b725bdd3d9f.webp" alt="live  aja" width="200"/> |
