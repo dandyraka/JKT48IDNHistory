@@ -6716,3 +6716,6 @@
 | 6712 | Ekin | hai | Sabtu, 14 Nov 2026 16:31:25 | <img src="https://cdn.idn.app/livestream/842e540ee288b226ae3644915be2d7fd.webp" alt="hai" width="200"/> |
 | 6713 | Anindya | HALO!! | Sabtu, 14 Nov 2026 16:31:48 | <img src="https://cdn.idn.app/livestream/d790bcf7ecd4443fedf02729438bc7df.webp" alt="HALO!!" width="200"/> |
 | 6714 | Jessi | hi | Sabtu, 14 Nov 2026 17:34:43 | <img src="https://cdn.idn.app/livestream/a666648efa1149fdcc090453a1a58954.webp" alt="hi" width="200"/> |
+| 6715 | Giaa | p | Sabtu, 14 Nov 2026 17:52:18 | <img src="https://cdn.idn.app/livestream/a1b4554f8cad1197510bfa6643bb71fb.webp" alt="p" width="200"/> |
+| 6716 | Intan | yu idn | Sabtu, 14 Nov 2026 17:52:24 | <img src="https://cdn.idn.app/livestream/7f837c96a1cda396b7ec5b6219b9a743.webp" alt="yu idn" width="200"/> |
+| 6717 | Jemima | Ayo ngobrol bareng! | Sabtu, 14 Nov 2026 17:52:25 | <img src="https://cdn.idn.app/livestream/4ae5b0169fa43c545fdcee8f48b74814.webp" alt="Ayo ngobrol bareng!" width="200"/> |
