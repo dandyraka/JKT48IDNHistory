@@ -6721,3 +6721,5 @@
 | 6717 | Jemima | Ayo ngobrol bareng! | Sabtu, 14 Nov 2026 17:52:25 | <img src="https://cdn.idn.app/livestream/4ae5b0169fa43c545fdcee8f48b74814.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6718 | Rilly | Yukkk | Sabtu, 14 Nov 2026 18:17:30 | <img src="https://cdn.idn.app/livestream/86e8b8a772bc91313a81e520ed21f336.webp" alt="Yukkk" width="200"/> |
 | 6719 | Elin | Hai | Sabtu, 14 Nov 2026 19:56:12 | <img src="https://cdn.idn.app/livestream/fdf2d5fa22e1ed9a9d44ce999c813334.webp" alt="Hai" width="200"/> |
+| 6720 | Lia | Ayo ngobrol bareng! | Sabtu, 14 Nov 2026 20:00:02 | <img src="https://cdn.idn.app/livestream/8b4752f6fd8c562aed3277e457ded50a.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6721 | Nayla | Manadooo | Sabtu, 14 Nov 2026 20:00:12 | <img src="https://cdn.idn.app/livestream/e2b664c8c6a4fa95b2d0f53059340628.webp" alt="Manadooo" width="200"/> |
