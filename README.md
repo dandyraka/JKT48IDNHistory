@@ -6723,3 +6723,4 @@
 | 6719 | Elin | Hai | Sabtu, 14 Nov 2026 19:56:12 | <img src="https://cdn.idn.app/livestream/fdf2d5fa22e1ed9a9d44ce999c813334.webp" alt="Hai" width="200"/> |
 | 6720 | Lia | Ayo ngobrol bareng! | Sabtu, 14 Nov 2026 20:00:02 | <img src="https://cdn.idn.app/livestream/8b4752f6fd8c562aed3277e457ded50a.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6721 | Nayla | Manadooo | Sabtu, 14 Nov 2026 20:00:12 | <img src="https://cdn.idn.app/livestream/e2b664c8c6a4fa95b2d0f53059340628.webp" alt="Manadooo" width="200"/> |
+| 6722 | Aralie | hi | Sabtu, 14 Nov 2026 20:00:37 | <img src="https://cdn.idn.app/livestream/bb4b3c26ec887b89b28aa748a4b2456d.webp" alt="hi" width="200"/> |
