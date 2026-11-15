@@ -6751,3 +6751,5 @@
 | 6747 | Lana | Hai | Minggu, 15 Nov 2026 17:05:01 | <img src="https://cdn.idn.app/livestream/b70c1dc09f7d4316d556684171468dd2.webp" alt="Hai" width="200"/> |
 | 6748 | Greesel | hi | Minggu, 15 Nov 2026 17:08:33 | <img src="https://cdn.idn.app/livestream/e7b8435bf67718490b3e5ec91dec4782.webp" alt="hi" width="200"/> |
 | 6749 | Nachia | hi | Minggu, 15 Nov 2026 17:21:58 | <img src="https://cdn.idn.app/livestream/f302bf3588a93c4157e971aa7be296dd.webp" alt="hi" width="200"/> |
+| 6750 | Intan | Gantian device ama  rilly😄🙏🏽 | Minggu, 15 Nov 2026 17:51:04 | <img src="https://cdn.idn.app/livestream/87f39ea83492da501883ab3d775cc331.webp" alt="Gantian device ama  rilly😄🙏🏽" width="200"/> |
+| 6751 | Rilly | mau ngobs sm ka nuys | Minggu, 15 Nov 2026 17:51:10 | <img src="https://cdn.idn.app/livestream/d8550e5bf8afb0adf6a6e5e4da02338b.webp" alt="mau ngobs sm ka nuys" width="200"/> |
