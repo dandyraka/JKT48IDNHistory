@@ -6768,3 +6768,4 @@
 | 6764 | Lia | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 22:17:24 | <img src="https://cdn.idn.app/livestream/a04d15182891da5ecf561503e197da52.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6765 | Cynthia | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 22:24:01 | <img src="https://cdn.idn.app/livestream/55ba389d3fa39194175496c11009ac84.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6766 | Elin | Yowww | Minggu, 15 Nov 2026 22:28:26 | <img src="https://cdn.idn.app/livestream/a02a1028b2a7a0eddee24318db0a338a.webp" alt="Yowww" width="200"/> |
+| 6767 | Lulu | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 22:35:55 | <img src="https://cdn.idn.app/livestream/2a62afa1463b7044f13b29d6dcfa631c.webp" alt="Ayo ngobrol bareng!" width="200"/> |
