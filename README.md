@@ -6766,3 +6766,4 @@
 | 6762 | Eli | KaraokELI | Minggu, 15 Nov 2026 20:52:38 | <img src="https://cdn.idn.app/livestream/7b4815f86d8ddb5354ab7cf4857bfa72.webp" alt="KaraokELI" width="200"/> |
 | 6763 | Nala | MALAMin | Minggu, 15 Nov 2026 21:44:58 | <img src="https://cdn.idn.app/livestream/7a60153a3cf16792481196557fbd935e.webp" alt="MALAMin" width="200"/> |
 | 6764 | Lia | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 22:17:24 | <img src="https://cdn.idn.app/livestream/a04d15182891da5ecf561503e197da52.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6765 | Cynthia | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 22:24:01 | <img src="https://cdn.idn.app/livestream/55ba389d3fa39194175496c11009ac84.webp" alt="Ayo ngobrol bareng!" width="200"/> |
