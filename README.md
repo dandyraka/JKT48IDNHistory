@@ -6744,3 +6744,4 @@
 | 6740 | Michie | live  aja | Minggu, 15 Nov 2026 13:43:23 | <img src="https://cdn.idn.app/livestream/140989f6ef48d318b8a4ba78ddb66895.webp" alt="live  aja" width="200"/> |
 | 6741 | Mikaela | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 15:21:33 | <img src="https://cdn.idn.app/livestream/075f7c9aefd60bac8ff049f85c64d29f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6742 | Giaa | p | Minggu, 15 Nov 2026 15:21:33 | <img src="https://cdn.idn.app/livestream/034ab842f7afd82fa02569618eb01308.webp" alt="p" width="200"/> |
+| 6743 | Gita | Gits | Minggu, 15 Nov 2026 16:31:18 | <img src="https://cdn.idn.app/livestream/6a49f6ed910cfafe3173e5fae48f674c.webp" alt="Gits" width="200"/> |
