@@ -6763,3 +6763,4 @@
 | 6759 | Delynn | Hello | Minggu, 15 Nov 2026 19:56:34 | <img src="https://cdn.idn.app/livestream/d7c32c553252f8f1fc836989944b2d7d.webp" alt="Hello" width="200"/> |
 | 6760 | Danella | ☺️ | Minggu, 15 Nov 2026 20:25:22 | <img src="https://cdn.idn.app/livestream/cd36f01e1ef0eda412684acb492336cd.webp" alt="☺️" width="200"/> |
 | 6761 | Daisy | Hi | Minggu, 15 Nov 2026 20:39:02 | <img src="https://cdn.idn.app/livestream/fa07e16096984af7e23def63a2898d47.webp" alt="Hi" width="200"/> |
+| 6762 | Eli | KaraokELI | Minggu, 15 Nov 2026 20:52:38 | <img src="https://cdn.idn.app/livestream/7b4815f86d8ddb5354ab7cf4857bfa72.webp" alt="KaraokELI" width="200"/> |
