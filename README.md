@@ -6745,3 +6745,4 @@
 | 6741 | Mikaela | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 15:21:33 | <img src="https://cdn.idn.app/livestream/075f7c9aefd60bac8ff049f85c64d29f.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6742 | Giaa | p | Minggu, 15 Nov 2026 15:21:33 | <img src="https://cdn.idn.app/livestream/034ab842f7afd82fa02569618eb01308.webp" alt="p" width="200"/> |
 | 6743 | Gita | Gits | Minggu, 15 Nov 2026 16:31:18 | <img src="https://cdn.idn.app/livestream/6a49f6ed910cfafe3173e5fae48f674c.webp" alt="Gits" width="200"/> |
+| 6744 | Gita | Gits | Minggu, 15 Nov 2026 16:33:21 | <img src="https://cdn.idn.app/livestream/b3351c9a9eec8df0623b66d85f5a0246.webp" alt="Gits" width="200"/> |
