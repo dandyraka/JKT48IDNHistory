@@ -6753,3 +6753,4 @@
 | 6749 | Nachia | hi | Minggu, 15 Nov 2026 17:21:58 | <img src="https://cdn.idn.app/livestream/f302bf3588a93c4157e971aa7be296dd.webp" alt="hi" width="200"/> |
 | 6750 | Intan | Gantian device ama  rilly😄🙏🏽 | Minggu, 15 Nov 2026 17:51:04 | <img src="https://cdn.idn.app/livestream/87f39ea83492da501883ab3d775cc331.webp" alt="Gantian device ama  rilly😄🙏🏽" width="200"/> |
 | 6751 | Rilly | mau ngobs sm ka nuys | Minggu, 15 Nov 2026 17:51:10 | <img src="https://cdn.idn.app/livestream/d8550e5bf8afb0adf6a6e5e4da02338b.webp" alt="mau ngobs sm ka nuys" width="200"/> |
+| 6752 | Olla | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 17:59:11 | <img src="https://cdn.idn.app/livestream/77e48d0fb10fc9dd9a2c7dc545b1ab5a.webp" alt="Ayo ngobrol bareng!" width="200"/> |
