@@ -6765,3 +6765,4 @@
 | 6761 | Daisy | Hi | Minggu, 15 Nov 2026 20:39:02 | <img src="https://cdn.idn.app/livestream/fa07e16096984af7e23def63a2898d47.webp" alt="Hi" width="200"/> |
 | 6762 | Eli | KaraokELI | Minggu, 15 Nov 2026 20:52:38 | <img src="https://cdn.idn.app/livestream/7b4815f86d8ddb5354ab7cf4857bfa72.webp" alt="KaraokELI" width="200"/> |
 | 6763 | Nala | MALAMin | Minggu, 15 Nov 2026 21:44:58 | <img src="https://cdn.idn.app/livestream/7a60153a3cf16792481196557fbd935e.webp" alt="MALAMin" width="200"/> |
+| 6764 | Lia | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 22:17:24 | <img src="https://cdn.idn.app/livestream/a04d15182891da5ecf561503e197da52.webp" alt="Ayo ngobrol bareng!" width="200"/> |
