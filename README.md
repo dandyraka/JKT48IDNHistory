@@ -6741,3 +6741,4 @@
 | 6737 | Marsha | Plisss | Sabtu, 14 Nov 2026 23:09:15 | <img src="https://cdn.idn.app/livestream/324d895b438ef910d178b5ef2ca90164.webp" alt="Plisss" width="200"/> |
 | 6738 | Nala | HELO | Sabtu, 14 Nov 2026 23:34:13 | <img src="https://cdn.idn.app/livestream/b86534010ae3da88b13c8a71d090e0d0.webp" alt="HELO" width="200"/> |
 | 6739 | Muthe | Hi | Minggu, 15 Nov 2026 12:17:57 | <img src="https://cdn.idn.app/livestream/d95ffc788d848b39b62ddf410d1e045a.webp" alt="Hi" width="200"/> |
+| 6740 | Michie | live  aja | Minggu, 15 Nov 2026 13:43:23 | <img src="https://cdn.idn.app/livestream/140989f6ef48d318b8a4ba78ddb66895.webp" alt="live  aja" width="200"/> |
