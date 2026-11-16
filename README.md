@@ -6789,3 +6789,4 @@
 | 6785 | Lia | Ayo ngobrol bareng! | Senin, 16 Nov 2026 21:28:22 | <img src="https://cdn.idn.app/livestream/11ece5b42ece11131f89acfce409bd00.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6786 | Lana | Hai | Senin, 16 Nov 2026 21:35:22 | <img src="https://cdn.idn.app/livestream/70ad0b21fefaa69881b99c44fc52b910.webp" alt="Hai" width="200"/> |
 | 6787 | Cynthia | Ayo ngobrol bareng! | Senin, 16 Nov 2026 21:35:27 | <img src="https://cdn.idn.app/livestream/92586596f1460595a1a14f4c4908fcfc.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6788 | Greesel | hi | Senin, 16 Nov 2026 21:43:31 | <img src="https://cdn.idn.app/livestream/3582e6182e830fb417fd25473f35ab5b.webp" alt="hi" width="200"/> |
