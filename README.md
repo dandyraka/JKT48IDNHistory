@@ -6790,3 +6790,5 @@
 | 6786 | Lana | Hai | Senin, 16 Nov 2026 21:35:22 | <img src="https://cdn.idn.app/livestream/70ad0b21fefaa69881b99c44fc52b910.webp" alt="Hai" width="200"/> |
 | 6787 | Cynthia | Ayo ngobrol bareng! | Senin, 16 Nov 2026 21:35:27 | <img src="https://cdn.idn.app/livestream/92586596f1460595a1a14f4c4908fcfc.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6788 | Greesel | hi | Senin, 16 Nov 2026 21:43:31 | <img src="https://cdn.idn.app/livestream/3582e6182e830fb417fd25473f35ab5b.webp" alt="hi" width="200"/> |
+| 6789 | Trisha | haai | Senin, 16 Nov 2026 22:08:30 | <img src="https://cdn.idn.app/livestream/e96b943c3cc263fbc9509e1ce56aec30.webp" alt="haai" width="200"/> |
+| 6790 | Lily | Hai | Senin, 16 Nov 2026 22:09:00 | <img src="https://cdn.idn.app/livestream/e8e2ceff544322aaf2eb7834fefdfaec.webp" alt="Hai" width="200"/> |
