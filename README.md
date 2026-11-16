@@ -6779,3 +6779,4 @@
 | 6775 | Lulu | hi | Senin, 16 Nov 2026 19:04:39 | <img src="https://cdn.idn.app/livestream/48a7653c01bd84ccc31e32ad03a07782.webp" alt="hi" width="200"/> |
 | 6776 | Delynn | malms bosku | Senin, 16 Nov 2026 19:35:56 | <img src="https://cdn.idn.app/livestream/67f8a19952e9084c86c0ee6992c66f14.webp" alt="malms bosku" width="200"/> |
 | 6777 | Christy | Ayo ngobrol bareng! | Senin, 16 Nov 2026 19:36:15 | <img src="https://cdn.idn.app/livestream/bf270cd59de6638d74bf731144b8d6f3.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6778 | Anindya | HALO!! | Senin, 16 Nov 2026 20:32:13 | <img src="https://cdn.idn.app/livestream/f068c7064209585c1be55d621e3adcdd.webp" alt="HALO!!" width="200"/> |
