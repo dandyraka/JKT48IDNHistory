@@ -6770,3 +6770,4 @@
 | 6766 | Elin | Yowww | Minggu, 15 Nov 2026 22:28:26 | <img src="https://cdn.idn.app/livestream/a02a1028b2a7a0eddee24318db0a338a.webp" alt="Yowww" width="200"/> |
 | 6767 | Lulu | Ayo ngobrol bareng! | Minggu, 15 Nov 2026 22:35:55 | <img src="https://cdn.idn.app/livestream/2a62afa1463b7044f13b29d6dcfa631c.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6768 | Intan | p | Senin, 16 Nov 2026 10:53:12 | <img src="https://cdn.idn.app/livestream/32e72618536120de38fc32723f5955d8.webp" alt="p" width="200"/> |
+| 6769 | Gracie | hiii | Senin, 16 Nov 2026 13:02:55 | <img src="https://cdn.idn.app/livestream/45277c459181a1361a57a8734fc27aa2.webp" alt="hiii" width="200"/> |
