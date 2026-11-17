@@ -6807,3 +6807,4 @@
 | 6803 | Ella | aloo | Selasa, 17 Nov 2026 21:50:14 | <img src="https://cdn.idn.app/livestream/b3c9be02377ca22073396c4b2710a4bf.webp" alt="aloo" width="200"/> |
 | 6804 | Ribka | Ayo ngobrol bareng! | Selasa, 17 Nov 2026 21:50:28 | <img src="https://cdn.idn.app/livestream/b925494a50cddbbd0c1f62e5378db323.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6805 | Ekin | hai | Selasa, 17 Nov 2026 22:52:41 | <img src="https://cdn.idn.app/livestream/f97b5f075ebfce3084520c261b258794.webp" alt="hai" width="200"/> |
+| 6806 | Ribka | Ayo ngobrol bareng! | Selasa, 17 Nov 2026 22:58:21 | <img src="https://cdn.idn.app/livestream/8b14b630cdc00fef1a978ae66c68e0b1.webp" alt="Ayo ngobrol bareng!" width="200"/> |
