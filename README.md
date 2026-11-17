@@ -6796,3 +6796,5 @@
 | 6792 | Lyn | Ayo ngobrol bareng! | Selasa, 17 Nov 2026 18:26:14 | <img src="https://cdn.idn.app/livestream/799dd6280087edf7e2bc8bfaffa07dc7.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6793 | Cynthia | Ayo ngobrol bareng! | Selasa, 17 Nov 2026 18:34:47 | <img src="https://cdn.idn.app/livestream/e501d4e84cb2a3d474e1e34ad8fccdd0.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6794 | Cynthia | Ayo ngobrol bareng! | Selasa, 17 Nov 2026 19:15:03 | <img src="https://cdn.idn.app/livestream/0e5567650876c7ad2ac6cdb72cec748d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6795 | Nayla | N | Selasa, 17 Nov 2026 20:58:59 | <img src="https://cdn.idn.app/livestream/9b58cdfb52591b740aa0653143453b44.webp" alt="N" width="200"/> |
+| 6796 | Gita | Gits | Selasa, 17 Nov 2026 21:05:42 | <img src="https://cdn.idn.app/livestream/d4c9ff13be1c658e94156dc5b500310a.webp" alt="Gits" width="200"/> |
