@@ -6817,3 +6817,4 @@
 | 6813 | Jemima | Ayo ngobrol bareng! | Rabu, 18 Nov 2026 19:11:50 | <img src="https://cdn.idn.app/livestream/f1be8d45d7e176da060f9eb05da89809.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6814 | Ekin | hai | Rabu, 18 Nov 2026 19:25:12 | <img src="https://cdn.idn.app/livestream/803e7871f4ab2aa53ea52c030916d367.webp" alt="hai" width="200"/> |
 | 6815 | Danella | Ayo ngobrol bareng! | Rabu, 18 Nov 2026 19:55:21 | <img src="https://cdn.idn.app/livestream/7e1a3c3c95ab25ac49ccb0045268e68c.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6816 | Kathrina | wazzap | Rabu, 18 Nov 2026 20:25:11 | <img src="https://cdn.idn.app/livestream/483425e7597374e537bab12d5c722c26.webp" alt="wazzap" width="200"/> |
