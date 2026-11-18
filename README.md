@@ -6814,3 +6814,4 @@
 | 6810 | Intan | bubbb | Rabu, 18 Nov 2026 12:19:16 | <img src="https://cdn.idn.app/livestream/9b0ac6f9a2053db85d12893a68934a0a.webp" alt="bubbb" width="200"/> |
 | 6811 | Mikaela | Ayo ngobrol bareng! | Rabu, 18 Nov 2026 18:38:19 | <img src="https://cdn.idn.app/livestream/17136db4d5e6b3a94194d59ecb942baa.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6812 | Virgi | Ayo ngobrol bareng! | Rabu, 18 Nov 2026 19:01:25 | <img src="https://cdn.idn.app/livestream/bd4e78e890a3a4978c1f69dc488a8c75.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6813 | Jemima | Ayo ngobrol bareng! | Rabu, 18 Nov 2026 19:11:50 | <img src="https://cdn.idn.app/livestream/f1be8d45d7e176da060f9eb05da89809.webp" alt="Ayo ngobrol bareng!" width="200"/> |
