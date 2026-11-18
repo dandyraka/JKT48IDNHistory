@@ -6812,3 +6812,4 @@
 | 6808 | Aralie | hi | Rabu, 18 Nov 2026 08:58:11 | <img src="https://cdn.idn.app/livestream/29396ee6b3a5457ea8e0417d08a94fe7.webp" alt="hi" width="200"/> |
 | 6809 | Fritzy | GRWM | Rabu, 18 Nov 2026 11:24:56 | <img src="https://cdn.idn.app/livestream/ae41049aeea767ba056ca188320f0b47.webp" alt="GRWM" width="200"/> |
 | 6810 | Intan | bubbb | Rabu, 18 Nov 2026 12:19:16 | <img src="https://cdn.idn.app/livestream/9b0ac6f9a2053db85d12893a68934a0a.webp" alt="bubbb" width="200"/> |
+| 6811 | Mikaela | Ayo ngobrol bareng! | Rabu, 18 Nov 2026 18:38:19 | <img src="https://cdn.idn.app/livestream/17136db4d5e6b3a94194d59ecb942baa.webp" alt="Ayo ngobrol bareng!" width="200"/> |
