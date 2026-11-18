@@ -6810,3 +6810,4 @@
 | 6806 | Ribka | Ayo ngobrol bareng! | Selasa, 17 Nov 2026 22:58:21 | <img src="https://cdn.idn.app/livestream/8b14b630cdc00fef1a978ae66c68e0b1.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6807 | Erine | erin boss  | Rabu, 18 Nov 2026 08:58:08 | <img src="https://cdn.idn.app/livestream/e7822a505dc40599db820a808e0f36de.webp" alt="erin boss " width="200"/> |
 | 6808 | Aralie | hi | Rabu, 18 Nov 2026 08:58:11 | <img src="https://cdn.idn.app/livestream/29396ee6b3a5457ea8e0417d08a94fe7.webp" alt="hi" width="200"/> |
+| 6809 | Fritzy | GRWM | Rabu, 18 Nov 2026 11:24:56 | <img src="https://cdn.idn.app/livestream/ae41049aeea767ba056ca188320f0b47.webp" alt="GRWM" width="200"/> |
