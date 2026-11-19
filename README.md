@@ -6833,3 +6833,4 @@
 | 6829 | Lyn | Ayo ngobrol bareng! | Kamis, 19 Nov 2026 14:59:46 | <img src="https://cdn.idn.app/livestream/0a67495f122fc9d57379be2aeaf85221.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6830 | Intan | ayo temeninn aku sm bonggg | Kamis, 19 Nov 2026 15:59:12 | <img src="https://cdn.idn.app/livestream/7c85bf5cb11a5ea2e3b8274267cbfe59.webp" alt="ayo temeninn aku sm bonggg" width="200"/> |
 | 6831 | Rilly | Ngobss sma kannuy | Kamis, 19 Nov 2026 15:59:17 | <img src="https://cdn.idn.app/livestream/48a8c85a55d675e69aca9d158f94f9ff.webp" alt="Ngobss sma kannuy" width="200"/> |
+| 6832 | Ella | aloo | Kamis, 19 Nov 2026 17:31:42 | <img src="https://cdn.idn.app/livestream/8b86d46cea5c8539b61ba7089410fa5d.webp" alt="aloo" width="200"/> |
