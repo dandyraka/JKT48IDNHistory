@@ -6839,3 +6839,5 @@
 | 6835 | Marsha | Plisss | Kamis, 19 Nov 2026 17:35:33 | <img src="https://cdn.idn.app/livestream/1a0b80a76562fbf5186372ae75079e57.webp" alt="Plisss" width="200"/> |
 | 6836 | Olla | Ayo ngobrol bareng! | Kamis, 19 Nov 2026 17:36:41 | <img src="https://cdn.idn.app/livestream/fc41a52e61ff9d09079e2e4428454cfc.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6837 | Mikaela | Ayo ngobrol bareng! | Kamis, 19 Nov 2026 19:26:08 | <img src="https://cdn.idn.app/livestream/6b7b204e21d160e4d8d7cf1c10ce2e76.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6838 | Gracie | hiii | Kamis, 19 Nov 2026 19:32:02 | <img src="https://cdn.idn.app/livestream/19847f2bffda51d326e1389d1ac326e5.webp" alt="hiii" width="200"/> |
+| 6839 | Nayla | N | Kamis, 19 Nov 2026 19:32:06 | <img src="https://cdn.idn.app/livestream/4de1a2a557d7ab8cd737ed23ca38ce8a.webp" alt="N" width="200"/> |
