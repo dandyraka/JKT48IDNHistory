@@ -6837,3 +6837,4 @@
 | 6833 | Delynn | hi | Kamis, 19 Nov 2026 17:31:51 | <img src="https://cdn.idn.app/livestream/c157d1eb1a088981d31b5d44ef926483.webp" alt="hi" width="200"/> |
 | 6834 | Greesel | hi | Kamis, 19 Nov 2026 17:32:15 | <img src="https://cdn.idn.app/livestream/da79157e46a01d840a297419ad68b761.webp" alt="hi" width="200"/> |
 | 6835 | Marsha | Plisss | Kamis, 19 Nov 2026 17:35:33 | <img src="https://cdn.idn.app/livestream/1a0b80a76562fbf5186372ae75079e57.webp" alt="Plisss" width="200"/> |
+| 6836 | Olla | Ayo ngobrol bareng! | Kamis, 19 Nov 2026 17:36:41 | <img src="https://cdn.idn.app/livestream/fc41a52e61ff9d09079e2e4428454cfc.webp" alt="Ayo ngobrol bareng!" width="200"/> |
