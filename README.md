@@ -6820,3 +6820,4 @@
 | 6816 | Kathrina | wazzap | Rabu, 18 Nov 2026 20:25:11 | <img src="https://cdn.idn.app/livestream/483425e7597374e537bab12d5c722c26.webp" alt="wazzap" width="200"/> |
 | 6817 | Eli | Ngapain ya ? | Rabu, 18 Nov 2026 20:40:12 | <img src="https://cdn.idn.app/livestream/0840e8fc7f48737f2feba4a0a676dbae.webp" alt="Ngapain ya ?" width="200"/> |
 | 6818 | Michie | live  aja | Rabu, 18 Nov 2026 20:40:47 | <img src="https://cdn.idn.app/livestream/947e5c18c8e23e38d78153415c84c6a7.webp" alt="live  aja" width="200"/> |
+| 6819 | Michie | live  aja | Kamis, 19 Nov 2026 11:28:00 | <img src="https://cdn.idn.app/livestream/acdc9717b2fe57b969bc789f52455fbd.webp" alt="live  aja" width="200"/> |
