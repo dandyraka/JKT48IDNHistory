@@ -6843,3 +6843,4 @@
 | 6839 | Nayla | N | Kamis, 19 Nov 2026 19:32:06 | <img src="https://cdn.idn.app/livestream/4de1a2a557d7ab8cd737ed23ca38ce8a.webp" alt="N" width="200"/> |
 | 6840 | Elin | Hai | Kamis, 19 Nov 2026 19:33:55 | <img src="https://cdn.idn.app/livestream/0b60c5aca8f3b72cdcc4a096988a0d4f.webp" alt="Hai" width="200"/> |
 | 6841 | Indah | Ayo ngobrol bareng! | Kamis, 19 Nov 2026 19:34:31 | <img src="https://cdn.idn.app/livestream/88a50486f9d2b8bd1a3411585452f693.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6842 | Cynthia | Ayo ngobrol bareng! | Kamis, 19 Nov 2026 19:41:39 | <img src="https://cdn.idn.app/livestream/3d88efd9cc45b2b14869ad6bae19249e.webp" alt="Ayo ngobrol bareng!" width="200"/> |
