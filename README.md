@@ -6823,3 +6823,4 @@
 | 6819 | Michie | live  aja | Kamis, 19 Nov 2026 11:28:00 | <img src="https://cdn.idn.app/livestream/acdc9717b2fe57b969bc789f52455fbd.webp" alt="live  aja" width="200"/> |
 | 6820 | Gracie | hiii | Kamis, 19 Nov 2026 12:16:21 | <img src="https://cdn.idn.app/livestream/073c274305e90854bde857a48ba6e241.webp" alt="hiii" width="200"/> |
 | 6821 | Muthe | Hi | Kamis, 19 Nov 2026 12:43:32 | <img src="https://cdn.idn.app/livestream/b366b2393eb2aef0946c8fe5651938fc.webp" alt="Hi" width="200"/> |
+| 6822 | Fritzy | barbang | Kamis, 19 Nov 2026 13:06:44 | <img src="https://cdn.idn.app/livestream/9018919f02c2c26a2c3e593effcc20ce.webp" alt="barbang" width="200"/> |
