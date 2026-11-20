@@ -6852,3 +6852,4 @@
 | 6848 | Rilly | Ngobss sma kannuy | Jumat, 20 Nov 2026 19:30:47 | <img src="https://cdn.idn.app/livestream/4dff7412dc173eb6458e028a67b69486.webp" alt="Ngobss sma kannuy" width="200"/> |
 | 6849 | Danella | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 19:35:54 | <img src="https://cdn.idn.app/livestream/a435f0c22b97112a5aa7840d4950b80d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6850 | Jemima | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 19:42:55 | <img src="https://cdn.idn.app/livestream/27cab0a225d996e5ff1792a4bfcd0e76.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6851 | Fritzy | hi gaiss | Jumat, 20 Nov 2026 21:06:35 | <img src="https://cdn.idn.app/livestream/7c2cd2435320edcd1442f3886d0472d3.webp" alt="hi gaiss" width="200"/> |
