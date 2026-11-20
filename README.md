@@ -6857,3 +6857,4 @@
 | 6853 | Elin | Hai | Jumat, 20 Nov 2026 22:58:53 | <img src="https://cdn.idn.app/livestream/3bd312d6ae8a19d73aeacdb061061df0.webp" alt="Hai" width="200"/> |
 | 6854 | Olla | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 23:01:11 | <img src="https://cdn.idn.app/livestream/8e5cc0226c16da4e3ee51a5f0031c3b9.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6855 | Lia | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 23:09:20 | <img src="https://cdn.idn.app/livestream/b1b683c4ecff7e1f9ca4437bd0d03a0e.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6856 | Nayla | N | Jumat, 20 Nov 2026 23:22:04 | <img src="https://cdn.idn.app/livestream/84087890b2e260d3d30d41aa5f62cccb.webp" alt="N" width="200"/> |
