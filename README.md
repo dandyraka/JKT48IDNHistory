@@ -6853,3 +6853,4 @@
 | 6849 | Danella | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 19:35:54 | <img src="https://cdn.idn.app/livestream/a435f0c22b97112a5aa7840d4950b80d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6850 | Jemima | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 19:42:55 | <img src="https://cdn.idn.app/livestream/27cab0a225d996e5ff1792a4bfcd0e76.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6851 | Fritzy | hi gaiss | Jumat, 20 Nov 2026 21:06:35 | <img src="https://cdn.idn.app/livestream/7c2cd2435320edcd1442f3886d0472d3.webp" alt="hi gaiss" width="200"/> |
+| 6852 | Erine | havefunnnnn | Jumat, 20 Nov 2026 21:50:28 | <img src="https://cdn.idn.app/livestream/d21e3c8836c8a11012fa7d6d0dde0a3f.webp" alt="havefunnnnn" width="200"/> |
