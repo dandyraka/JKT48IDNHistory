@@ -6855,3 +6855,4 @@
 | 6851 | Fritzy | hi gaiss | Jumat, 20 Nov 2026 21:06:35 | <img src="https://cdn.idn.app/livestream/7c2cd2435320edcd1442f3886d0472d3.webp" alt="hi gaiss" width="200"/> |
 | 6852 | Erine | havefunnnnn | Jumat, 20 Nov 2026 21:50:28 | <img src="https://cdn.idn.app/livestream/d21e3c8836c8a11012fa7d6d0dde0a3f.webp" alt="havefunnnnn" width="200"/> |
 | 6853 | Elin | Hai | Jumat, 20 Nov 2026 22:58:53 | <img src="https://cdn.idn.app/livestream/3bd312d6ae8a19d73aeacdb061061df0.webp" alt="Hai" width="200"/> |
+| 6854 | Olla | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 23:01:11 | <img src="https://cdn.idn.app/livestream/8e5cc0226c16da4e3ee51a5f0031c3b9.webp" alt="Ayo ngobrol bareng!" width="200"/> |
