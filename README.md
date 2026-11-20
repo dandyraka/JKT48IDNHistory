@@ -6847,3 +6847,8 @@
 | 6843 | Anindya | HALO!! | Kamis, 19 Nov 2026 20:24:32 | <img src="https://cdn.idn.app/livestream/d950e08410b7dcecd732802c2c4c012b.webp" alt="HALO!!" width="200"/> |
 | 6844 | Daisy | Hi | Kamis, 19 Nov 2026 22:55:35 | <img src="https://cdn.idn.app/livestream/09396180fe62e9da8823c383898d2553.webp" alt="Hi" width="200"/> |
 | 6845 | Danella | Ayo ngobrol bareng! | Kamis, 19 Nov 2026 22:58:56 | <img src="https://cdn.idn.app/livestream/4f7174ddb70298cc731d2c4e7b1cfede.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6846 | Intan | aku sendirian | Jumat, 20 Nov 2026 18:45:25 | <img src="https://cdn.idn.app/livestream/0398113e9d76991257f18a957a671408.webp" alt="aku sendirian" width="200"/> |
+| 6847 | Ribka | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 19:18:47 | <img src="https://cdn.idn.app/livestream/aa12245958fa075a257bb102391be0cf.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6848 | Rilly | Ngobss sma kannuy | Jumat, 20 Nov 2026 19:30:47 | <img src="https://cdn.idn.app/livestream/4dff7412dc173eb6458e028a67b69486.webp" alt="Ngobss sma kannuy" width="200"/> |
+| 6849 | Danella | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 19:35:54 | <img src="https://cdn.idn.app/livestream/a435f0c22b97112a5aa7840d4950b80d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6850 | Jemima | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 19:42:55 | <img src="https://cdn.idn.app/livestream/27cab0a225d996e5ff1792a4bfcd0e76.webp" alt="Ayo ngobrol bareng!" width="200"/> |
