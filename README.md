@@ -6880,3 +6880,4 @@
 | 6876 | Fritzy | Hi | Sabtu, 21 Nov 2026 19:49:01 | <img src="https://cdn.idn.app/livestream/03a7bf4ae07649dd82dd0e8b0192f1a8.webp" alt="Hi" width="200"/> |
 | 6877 | Muthe | Bersama JC n CH | Sabtu, 21 Nov 2026 20:24:00 | <img src="https://cdn.idn.app/livestream/02ed9a748d4f6ee3b375a323895543dc.webp" alt="Bersama JC n CH" width="200"/> |
 | 6878 | Jessi | laper | Sabtu, 21 Nov 2026 20:24:45 | <img src="https://cdn.idn.app/livestream/7889d2bb1d9d185a5c21862328523745.webp" alt="laper" width="200"/> |
+| 6879 | Christy | Ayo ngobrol bareng! | Sabtu, 21 Nov 2026 20:27:12 | <img src="https://cdn.idn.app/livestream/2a1ad4472571af7a442f0f7b2164d37d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
