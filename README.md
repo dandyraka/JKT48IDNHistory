@@ -6873,3 +6873,4 @@
 | 6869 | Mikaela | Ayo ngobrol bareng! | Sabtu, 21 Nov 2026 14:14:46 | <img src="https://cdn.idn.app/livestream/8118b66a8a6b90711bc8b985f4c9b5a1.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6870 | Lyn | Ayo ngobrol bareng! | Sabtu, 21 Nov 2026 16:06:24 | <img src="https://cdn.idn.app/livestream/d9223c444bb346b01162ac6020d9eb38.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6871 | Daisy | Hi | Sabtu, 21 Nov 2026 17:59:53 | <img src="https://cdn.idn.app/livestream/b30297e40e7d8365695ae386c56f1417.webp" alt="Hi" width="200"/> |
+| 6872 | Lia | Ayo ngobrol bareng! | Sabtu, 21 Nov 2026 18:14:28 | <img src="https://cdn.idn.app/livestream/b5464f09194dd953431db4f5874f433b.webp" alt="Ayo ngobrol bareng!" width="200"/> |
