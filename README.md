@@ -6867,3 +6867,4 @@
 | 6863 | Rilly | GEREEEMMM | Sabtu, 21 Nov 2026 12:04:19 | <img src="https://cdn.idn.app/livestream/ee312981943b9860be7880c13a0b3692.webp" alt="GEREEEMMM" width="200"/> |
 | 6864 | Lana | Hii | Sabtu, 21 Nov 2026 12:15:40 | <img src="https://cdn.idn.app/livestream/ebc717f05795c612b4e3f652681e508f.webp" alt="Hii" width="200"/> |
 | 6865 | Michie | live  aja | Sabtu, 21 Nov 2026 12:49:29 | <img src="https://cdn.idn.app/livestream/a80ee01feb8471c82def358f176f1c67.webp" alt="live  aja" width="200"/> |
+| 6866 | Jemima | Ayo ngobrol bareng! | Sabtu, 21 Nov 2026 13:31:41 | <img src="https://cdn.idn.app/livestream/e7241001fa049949607a377ce353beb1.webp" alt="Ayo ngobrol bareng!" width="200"/> |
