@@ -6869,3 +6869,4 @@
 | 6865 | Michie | live  aja | Sabtu, 21 Nov 2026 12:49:29 | <img src="https://cdn.idn.app/livestream/a80ee01feb8471c82def358f176f1c67.webp" alt="live  aja" width="200"/> |
 | 6866 | Jemima | Ayo ngobrol bareng! | Sabtu, 21 Nov 2026 13:31:41 | <img src="https://cdn.idn.app/livestream/e7241001fa049949607a377ce353beb1.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6867 | Giaa | p | Sabtu, 21 Nov 2026 13:39:30 | <img src="https://cdn.idn.app/livestream/731b4c698ca2efb2c4d15914fc572e54.webp" alt="p" width="200"/> |
+| 6868 | Intan | ama jemima giaa | Sabtu, 21 Nov 2026 13:40:47 | <img src="https://cdn.idn.app/livestream/40b6a79939131a9dea152d5a734f0eaf.webp" alt="ama jemima giaa" width="200"/> |
