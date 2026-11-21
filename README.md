@@ -6861,3 +6861,4 @@
 | 6857 | Eli | Ngapain ya ? | Jumat, 20 Nov 2026 23:25:49 | <img src="https://cdn.idn.app/livestream/f555224b0beaae87867caa114c972e77.webp" alt="Ngapain ya ?" width="200"/> |
 | 6858 | Olla | Ayo ngobrol bareng! | Jumat, 20 Nov 2026 23:33:32 | <img src="https://cdn.idn.app/livestream/7425e05ae2d0ba6f4f468b8f5e62e3f3.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6859 | Danella | Ayo ngobrol bareng! | Sabtu, 21 Nov 2026 08:00:22 | <img src="https://cdn.idn.app/livestream/f90e8458621edb5a28498d2417991583.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6860 | Fritzy | grem | Sabtu, 21 Nov 2026 09:04:28 | <img src="https://cdn.idn.app/livestream/20606daf22b14780e792ce839f24b0a2.webp" alt="grem" width="200"/> |
