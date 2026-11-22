@@ -6907,3 +6907,4 @@
 | 6903 | Oniel | saya kembali | Minggu, 22 Nov 2026 22:33:43 | <img src="https://cdn.idn.app/livestream/45bfa5d22420edbc25722ea51f01f21d.webp" alt="saya kembali" width="200"/> |
 | 6904 | Indah | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 22:34:06 | <img src="https://cdn.idn.app/livestream/374c937405bcc86358b7d48ea6a1116c.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6905 | Greesel | hi | Minggu, 22 Nov 2026 22:38:33 | <img src="https://cdn.idn.app/livestream/91bf48f9eaa74877162b41caa30f9f25.webp" alt="hi" width="200"/> |
+| 6906 | Michie | hello | Minggu, 22 Nov 2026 22:40:46 | <img src="https://cdn.idn.app/livestream/add377c3069acc6e175f8c8b69b90dc5.webp" alt="hello" width="200"/> |
