@@ -6891,3 +6891,4 @@
 | 6887 | Fritzy | grem in sunday | Minggu, 22 Nov 2026 09:02:57 | <img src="https://cdn.idn.app/livestream/41709453725abf2da8fbf3848d813491.webp" alt="grem in sunday" width="200"/> |
 | 6888 | Daisy | Hi | Minggu, 22 Nov 2026 10:46:45 | <img src="https://cdn.idn.app/livestream/103cd7be275e7c370f12f4a36f854522.webp" alt="Hi" width="200"/> |
 | 6889 | Danella | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 10:56:21 | <img src="https://cdn.idn.app/livestream/10013d98aa08fdc33ac8857e31894af8.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6890 | Olla | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 12:45:56 | <img src="https://cdn.idn.app/livestream/68e925ee5b0a11b6f8c59691305699fb.webp" alt="Ayo ngobrol bareng!" width="200"/> |
