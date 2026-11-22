@@ -6902,3 +6902,4 @@
 | 6898 | Olla | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 18:57:50 | <img src="https://cdn.idn.app/livestream/e48b95982be4428e67e2bd4185dadc05.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6899 | Gita | Gits | Minggu, 22 Nov 2026 20:23:20 | <img src="https://cdn.idn.app/livestream/e5cc83b9da5081aec482045451dd8b45.webp" alt="Gits" width="200"/> |
 | 6900 | Nayla | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 21:20:23 | <img src="https://cdn.idn.app/livestream/45cf45ade53662a245858de13c3677b4.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6901 | Ribka | P | Minggu, 22 Nov 2026 21:23:07 | <img src="https://cdn.idn.app/livestream/bf2ef8758fc6d425e78ef4c50d10e736.webp" alt="P" width="200"/> |
