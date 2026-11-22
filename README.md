@@ -6895,3 +6895,4 @@
 | 6891 | Olla | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 12:50:09 | <img src="https://cdn.idn.app/livestream/dc778264693d7bff083dbfe910cf13ad.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6892 | Eli | Get ready with ECEU BUDHE | Minggu, 22 Nov 2026 13:19:07 | <img src="https://cdn.idn.app/livestream/ea34ad103718e8f74cda43f4c0367053.webp" alt="Get ready with ECEU BUDHE" width="200"/> |
 | 6893 | Eli | Get ready with ECEU BUDHE | Minggu, 22 Nov 2026 13:23:11 | <img src="https://cdn.idn.app/livestream/40cae9a6dd2e95a800f0056ff719bc41.webp" alt="Get ready with ECEU BUDHE" width="200"/> |
+| 6894 | Lana | Haii | Minggu, 22 Nov 2026 14:00:42 | <img src="https://cdn.idn.app/livestream/c2a4b3b21d5d2bcb49cca0ab5f65ed41.webp" alt="Haii" width="200"/> |
