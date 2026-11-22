@@ -6894,3 +6894,4 @@
 | 6890 | Olla | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 12:45:56 | <img src="https://cdn.idn.app/livestream/68e925ee5b0a11b6f8c59691305699fb.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6891 | Olla | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 12:50:09 | <img src="https://cdn.idn.app/livestream/dc778264693d7bff083dbfe910cf13ad.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6892 | Eli | Get ready with ECEU BUDHE | Minggu, 22 Nov 2026 13:19:07 | <img src="https://cdn.idn.app/livestream/ea34ad103718e8f74cda43f4c0367053.webp" alt="Get ready with ECEU BUDHE" width="200"/> |
+| 6893 | Eli | Get ready with ECEU BUDHE | Minggu, 22 Nov 2026 13:23:11 | <img src="https://cdn.idn.app/livestream/40cae9a6dd2e95a800f0056ff719bc41.webp" alt="Get ready with ECEU BUDHE" width="200"/> |
