@@ -6896,3 +6896,5 @@
 | 6892 | Eli | Get ready with ECEU BUDHE | Minggu, 22 Nov 2026 13:19:07 | <img src="https://cdn.idn.app/livestream/ea34ad103718e8f74cda43f4c0367053.webp" alt="Get ready with ECEU BUDHE" width="200"/> |
 | 6893 | Eli | Get ready with ECEU BUDHE | Minggu, 22 Nov 2026 13:23:11 | <img src="https://cdn.idn.app/livestream/40cae9a6dd2e95a800f0056ff719bc41.webp" alt="Get ready with ECEU BUDHE" width="200"/> |
 | 6894 | Lana | Haii | Minggu, 22 Nov 2026 14:00:42 | <img src="https://cdn.idn.app/livestream/c2a4b3b21d5d2bcb49cca0ab5f65ed41.webp" alt="Haii" width="200"/> |
+| 6895 | Mikaela | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 16:00:00 | <img src="https://cdn.idn.app/livestream/9e0a49c00aeaa736b56e83e9e6df7031.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6896 | Aralie | hai  | Minggu, 22 Nov 2026 16:18:03 | <img src="https://cdn.idn.app/livestream/5e6ec9a7399252715d598b64305525b7.webp" alt="hai " width="200"/> |
