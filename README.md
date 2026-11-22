@@ -6899,3 +6899,4 @@
 | 6895 | Mikaela | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 16:00:00 | <img src="https://cdn.idn.app/livestream/9e0a49c00aeaa736b56e83e9e6df7031.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6896 | Aralie | hai  | Minggu, 22 Nov 2026 16:18:03 | <img src="https://cdn.idn.app/livestream/5e6ec9a7399252715d598b64305525b7.webp" alt="hai " width="200"/> |
 | 6897 | Muthe | Hi | Minggu, 22 Nov 2026 18:29:43 | <img src="https://cdn.idn.app/livestream/93bfc425baf615e49a8e8839fe35d4db.webp" alt="Hi" width="200"/> |
+| 6898 | Olla | Ayo ngobrol bareng! | Minggu, 22 Nov 2026 18:57:50 | <img src="https://cdn.idn.app/livestream/e48b95982be4428e67e2bd4185dadc05.webp" alt="Ayo ngobrol bareng!" width="200"/> |
