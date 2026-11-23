@@ -6944,3 +6944,4 @@
 | 6940 | Intan | aku lg pake batik pekalongan? | Senin, 23 Nov 2026 21:06:25 | <img src="https://cdn.idn.app/livestream/df0292fbb354094ed2594e0a7ea5429e.webp" alt="aku lg pake batik pekalongan?" width="200"/> |
 | 6941 | Gracie | hiii | Senin, 23 Nov 2026 21:18:43 | <img src="https://cdn.idn.app/livestream/e6121069df6a1b8172a59588f738e9c8.webp" alt="hiii" width="200"/> |
 | 6942 | Virgi | iya | Senin, 23 Nov 2026 21:29:56 | <img src="https://cdn.idn.app/livestream/cdc2369f7f0e03675c915a1cd50faacd.webp" alt="iya" width="200"/> |
+| 6943 | Lana | Haii | Senin, 23 Nov 2026 21:41:57 | <img src="https://cdn.idn.app/livestream/6bf5ccd49bc3a66402f12e442b2140d0.webp" alt="Haii" width="200"/> |
