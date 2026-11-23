@@ -6949,3 +6949,4 @@
 | 6945 | Mikaela | Ayo ngobrol bareng! | Senin, 23 Nov 2026 22:03:00 | <img src="https://cdn.idn.app/livestream/dd676c42f83f8027bcc4b55b77e7b6b9.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6946 | Giaa | p  | Senin, 23 Nov 2026 22:46:25 | <img src="https://cdn.idn.app/livestream/d64840219afa1548a7c14c42572b81d9.webp" alt="p " width="200"/> |
 | 6947 | Lyn | Ayo ngobrol bareng! | Senin, 23 Nov 2026 23:05:03 | <img src="https://cdn.idn.app/livestream/d3685cfef69ece5c316e9d0c95c09265.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6948 | Delynn | Malms | Senin, 23 Nov 2026 23:17:24 | <img src="https://cdn.idn.app/livestream/d077f6fae0669e613b2f33dd4c7b91d7.webp" alt="Malms" width="200"/> |
