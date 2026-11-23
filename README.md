@@ -6948,3 +6948,4 @@
 | 6944 | Fritzy | HAI | Senin, 23 Nov 2026 21:51:47 | <img src="https://cdn.idn.app/livestream/9af3c2e39b62b5dffbccd7d33ba49e1e.webp" alt="HAI" width="200"/> |
 | 6945 | Mikaela | Ayo ngobrol bareng! | Senin, 23 Nov 2026 22:03:00 | <img src="https://cdn.idn.app/livestream/dd676c42f83f8027bcc4b55b77e7b6b9.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6946 | Giaa | p  | Senin, 23 Nov 2026 22:46:25 | <img src="https://cdn.idn.app/livestream/d64840219afa1548a7c14c42572b81d9.webp" alt="p " width="200"/> |
+| 6947 | Lyn | Ayo ngobrol bareng! | Senin, 23 Nov 2026 23:05:03 | <img src="https://cdn.idn.app/livestream/d3685cfef69ece5c316e9d0c95c09265.webp" alt="Ayo ngobrol bareng!" width="200"/> |
