@@ -6927,3 +6927,4 @@
 | 6923 | Levi | Ayo ngobrol bareng! | Senin, 23 Nov 2026 16:27:29 | <img src="https://cdn.idn.app/livestream/057d548bf3a03ed0bd29d74687913342.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6924 | Nayla | Hai | Senin, 23 Nov 2026 16:31:24 | <img src="https://cdn.idn.app/livestream/44a5c56a47fa5a7c1c472e2264945d7b.webp" alt="Hai" width="200"/> |
 | 6925 | Cynthia | Ayo ngobrol bareng! | Senin, 23 Nov 2026 16:43:39 | <img src="https://cdn.idn.app/livestream/449cbc8624459f80d6c8591f6f68544a.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6926 | Raisha | Ayo ngobrol bareng! | Senin, 23 Nov 2026 17:03:37 | <img src="https://cdn.idn.app/livestream/d279169ad2e516b4bc1c151ca6604f24.webp" alt="Ayo ngobrol bareng!" width="200"/> |
