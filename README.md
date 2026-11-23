@@ -6921,3 +6921,4 @@
 | 6917 | Greesel | hi | Senin, 23 Nov 2026 16:08:21 | <img src="https://cdn.idn.app/livestream/f6df624fdf3bfcf24614235ed81ad899.webp" alt="hi" width="200"/> |
 | 6918 | Levi | Ayo ngobrol bareng! | Senin, 23 Nov 2026 16:22:27 | <img src="https://cdn.idn.app/livestream/942344d499508d9980db37628aeada68.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6919 | Olla | Ayo ngobrol bareng! | Senin, 23 Nov 2026 16:22:28 | <img src="https://cdn.idn.app/livestream/553df3d632e3fca9ea154e5ae658fcb5.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6920 | Nayla | Ayo ngobrol bareng! | Senin, 23 Nov 2026 16:23:14 | <img src="https://cdn.idn.app/livestream/729e30b2c287371870f6c0c5d48bf79a.webp" alt="Ayo ngobrol bareng!" width="200"/> |
