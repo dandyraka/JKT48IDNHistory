@@ -6919,3 +6919,5 @@
 | 6915 | Jessi | hi | Senin, 23 Nov 2026 16:04:05 | <img src="https://cdn.idn.app/livestream/d8107880fb8af7a21b96259309786f1a.webp" alt="hi" width="200"/> |
 | 6916 | Greesel | hi | Senin, 23 Nov 2026 16:07:05 | <img src="https://cdn.idn.app/livestream/cfce322f01e8f60d1ccfe9ce24d4a65a.webp" alt="hi" width="200"/> |
 | 6917 | Greesel | hi | Senin, 23 Nov 2026 16:08:21 | <img src="https://cdn.idn.app/livestream/f6df624fdf3bfcf24614235ed81ad899.webp" alt="hi" width="200"/> |
+| 6918 | Levi | Ayo ngobrol bareng! | Senin, 23 Nov 2026 16:22:27 | <img src="https://cdn.idn.app/livestream/942344d499508d9980db37628aeada68.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6919 | Olla | Ayo ngobrol bareng! | Senin, 23 Nov 2026 16:22:28 | <img src="https://cdn.idn.app/livestream/553df3d632e3fca9ea154e5ae658fcb5.webp" alt="Ayo ngobrol bareng!" width="200"/> |
