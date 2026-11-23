@@ -6941,3 +6941,4 @@
 | 6937 | Danella | Ayo ngobrol bareng! | Senin, 23 Nov 2026 20:00:15 | <img src="https://cdn.idn.app/livestream/cfe8154363982365adcf42dec1a02e3d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6938 | Michie | hello | Senin, 23 Nov 2026 20:43:38 | <img src="https://cdn.idn.app/livestream/129c3cd0e8f59668b01d341c89fdf511.webp" alt="hello" width="200"/> |
 | 6939 | Ekin | hai | Senin, 23 Nov 2026 20:56:03 | <img src="https://cdn.idn.app/livestream/b439863050542638676f70315f56fcfa.webp" alt="hai" width="200"/> |
+| 6940 | Intan | aku lg pake batik pekalongan? | Senin, 23 Nov 2026 21:06:25 | <img src="https://cdn.idn.app/livestream/df0292fbb354094ed2594e0a7ea5429e.webp" alt="aku lg pake batik pekalongan?" width="200"/> |
