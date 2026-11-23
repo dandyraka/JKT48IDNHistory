@@ -6945,3 +6945,4 @@
 | 6941 | Gracie | hiii | Senin, 23 Nov 2026 21:18:43 | <img src="https://cdn.idn.app/livestream/e6121069df6a1b8172a59588f738e9c8.webp" alt="hiii" width="200"/> |
 | 6942 | Virgi | iya | Senin, 23 Nov 2026 21:29:56 | <img src="https://cdn.idn.app/livestream/cdc2369f7f0e03675c915a1cd50faacd.webp" alt="iya" width="200"/> |
 | 6943 | Lana | Haii | Senin, 23 Nov 2026 21:41:57 | <img src="https://cdn.idn.app/livestream/6bf5ccd49bc3a66402f12e442b2140d0.webp" alt="Haii" width="200"/> |
+| 6944 | Fritzy | HAI | Senin, 23 Nov 2026 21:51:47 | <img src="https://cdn.idn.app/livestream/9af3c2e39b62b5dffbccd7d33ba49e1e.webp" alt="HAI" width="200"/> |
