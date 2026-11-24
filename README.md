@@ -6953,3 +6953,4 @@
 | 6949 | Anindya | hlo | Senin, 23 Nov 2026 23:28:46 | <img src="https://cdn.idn.app/livestream/3194d5707a3a25ca9412bfe100c608a1.webp" alt="hlo" width="200"/> |
 | 6950 | Cynthia | Ayo ngobrol bareng! | Senin, 23 Nov 2026 23:31:15 | <img src="https://cdn.idn.app/livestream/8d225f645c7e787c60484e74b989e1c7.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6951 | Cynthia | Ayo ngobrol bareng! | Selasa, 24 Nov 2026 00:39:59 | <img src="https://cdn.idn.app/livestream/afb618c46d97ac526bdaba040213c3b0.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6952 | Lulu | masakk sarapan | Selasa, 24 Nov 2026 10:55:38 | <img src="https://cdn.idn.app/livestream/29a0eb5110232b1a68f4824f22ddadad.webp" alt="masakk sarapan" width="200"/> |
