@@ -6954,3 +6954,6 @@
 | 6950 | Cynthia | Ayo ngobrol bareng! | Senin, 23 Nov 2026 23:31:15 | <img src="https://cdn.idn.app/livestream/8d225f645c7e787c60484e74b989e1c7.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6951 | Cynthia | Ayo ngobrol bareng! | Selasa, 24 Nov 2026 00:39:59 | <img src="https://cdn.idn.app/livestream/afb618c46d97ac526bdaba040213c3b0.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6952 | Lulu | masakk sarapan | Selasa, 24 Nov 2026 10:55:38 | <img src="https://cdn.idn.app/livestream/29a0eb5110232b1a68f4824f22ddadad.webp" alt="masakk sarapan" width="200"/> |
+| 6953 | Lia | Ayo ngobrol bareng! | Selasa, 24 Nov 2026 16:03:11 | <img src="https://cdn.idn.app/livestream/85d5f0683c47a740c322ed8942f7e6fc.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6954 | Aralie | absen dulu  | Selasa, 24 Nov 2026 16:12:15 | <img src="https://cdn.idn.app/livestream/7318095b0f001176424306f5a21ec11e.webp" alt="absen dulu " width="200"/> |
+| 6955 | Eli | Get ready with ECEU BUDHE | Selasa, 24 Nov 2026 16:29:09 | <img src="https://cdn.idn.app/livestream/072337b20203a0506d1faa7c3c11f20e.webp" alt="Get ready with ECEU BUDHE" width="200"/> |
