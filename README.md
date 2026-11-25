@@ -6969,3 +6969,4 @@
 | 6965 | Virgi | iya | Rabu, 25 Nov 2026 11:12:09 | <img src="https://cdn.idn.app/livestream/4576d6ec45cb3c17d67fb6ece8779c35.webp" alt="iya" width="200"/> |
 | 6966 | Intan | grwm bntar | Rabu, 25 Nov 2026 11:12:23 | <img src="https://cdn.idn.app/livestream/3be0c6dd38817b2175637f052888d496.webp" alt="grwm bntar" width="200"/> |
 | 6967 | Olla | Ayo ngobrol bareng! | Rabu, 25 Nov 2026 11:36:52 | <img src="https://cdn.idn.app/livestream/0ef5db2098f5a25305111f7094987d7e.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6968 | Mikaela | Ayo ngobrol bareng! | Rabu, 25 Nov 2026 12:02:51 | <img src="https://cdn.idn.app/livestream/4576f262416226c6a15efc2d0077f944.webp" alt="Ayo ngobrol bareng!" width="200"/> |
