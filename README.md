@@ -6973,3 +6973,4 @@
 | 6969 | Daisy | Hi | Rabu, 25 Nov 2026 12:27:59 | <img src="https://cdn.idn.app/livestream/f5c949b1ee35c3a14ff6116fe096e819.webp" alt="Hi" width="200"/> |
 | 6970 | Muthe | Hi | Rabu, 25 Nov 2026 13:00:18 | <img src="https://cdn.idn.app/livestream/abd86bcc3b731fac43101ec341f1f997.webp" alt="Hi" width="200"/> |
 | 6971 | Lia | Ayo ngobrol bareng! | Rabu, 25 Nov 2026 13:15:47 | <img src="https://cdn.idn.app/livestream/b14095fdbdd2bcad71ee2be449b23206.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6972 | Lulu | makeupp | Rabu, 25 Nov 2026 13:44:29 | <img src="https://cdn.idn.app/livestream/fc9d089195f1c8702b34a57c67eb6008.webp" alt="makeupp" width="200"/> |
