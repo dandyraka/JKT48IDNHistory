@@ -6981,3 +6981,4 @@
 | 6977 | Indah | Ayo ngobrol bareng! | Rabu, 25 Nov 2026 17:16:11 | <img src="https://cdn.idn.app/livestream/c648cbd6562c46a43af229d496ba7d7d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6978 | Delynn | Hi | Rabu, 25 Nov 2026 17:16:40 | <img src="https://cdn.idn.app/livestream/f944d0faea517b6169cd19e6498ff485.webp" alt="Hi" width="200"/> |
 | 6979 | Raisha | Ayo ngobrol bareng! | Rabu, 25 Nov 2026 17:23:31 | <img src="https://cdn.idn.app/livestream/f1ee5d8bd719553a45518b0d67ee6e6d.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6980 | Raisha | Ayo ngobrol bareng! | Rabu, 25 Nov 2026 17:36:01 | <img src="https://cdn.idn.app/livestream/c6497ecbd855c179c80d6a1507f34087.webp" alt="Ayo ngobrol bareng!" width="200"/> |
