@@ -6966,3 +6966,5 @@
 | 6962 | Muthe | Hi | Selasa, 24 Nov 2026 18:01:51 | <img src="https://cdn.idn.app/livestream/26e7af9692cef6004fe9afebbc70c9b0.webp" alt="Hi" width="200"/> |
 | 6963 | Maira | Ayo ngobrol bareng! | Selasa, 24 Nov 2026 18:06:32 | <img src="https://cdn.idn.app/livestream/840c7b5a49642ee45211fe3dcf48f386.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6964 | Oniel | saya kembali | Rabu, 25 Nov 2026 10:24:00 | <img src="https://cdn.idn.app/livestream/9029612b13dae130963853b3cd1343ce.webp" alt="saya kembali" width="200"/> |
+| 6965 | Virgi | iya | Rabu, 25 Nov 2026 11:12:09 | <img src="https://cdn.idn.app/livestream/4576d6ec45cb3c17d67fb6ece8779c35.webp" alt="iya" width="200"/> |
+| 6966 | Intan | grwm bntar | Rabu, 25 Nov 2026 11:12:23 | <img src="https://cdn.idn.app/livestream/3be0c6dd38817b2175637f052888d496.webp" alt="grwm bntar" width="200"/> |
