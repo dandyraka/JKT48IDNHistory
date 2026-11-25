@@ -6965,3 +6965,4 @@
 | 6961 | Christy | Ayo ngobrol bareng! | Selasa, 24 Nov 2026 17:47:42 | <img src="https://cdn.idn.app/livestream/f97888729c14622c524d641eb5456e99.webp" alt="Ayo ngobrol bareng!" width="200"/> |
 | 6962 | Muthe | Hi | Selasa, 24 Nov 2026 18:01:51 | <img src="https://cdn.idn.app/livestream/26e7af9692cef6004fe9afebbc70c9b0.webp" alt="Hi" width="200"/> |
 | 6963 | Maira | Ayo ngobrol bareng! | Selasa, 24 Nov 2026 18:06:32 | <img src="https://cdn.idn.app/livestream/840c7b5a49642ee45211fe3dcf48f386.webp" alt="Ayo ngobrol bareng!" width="200"/> |
+| 6964 | Oniel | saya kembali | Rabu, 25 Nov 2026 10:24:00 | <img src="https://cdn.idn.app/livestream/9029612b13dae130963853b3cd1343ce.webp" alt="saya kembali" width="200"/> |
